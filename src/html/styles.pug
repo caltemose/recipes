@@ -1,0 +1,103 @@
+extends _layout.pug
+
+block content
+    article.Styleguide
+        h1 All Styles
+
+        p This page shows the default styles for all primary tags.
+
+        section
+            h2.Divider Headers
+
+            h1 This is h1
+            h2 This is h2
+            h3 This is h3
+            h4 This is h4
+            h5 This is h5
+            h6 This is h6
+
+        section
+            h2.Divider Type Basics
+
+            p This is a paragraph.  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro saepe, ad deserunt, ut debitis nulla eveniet cum impedit placeat. Nemo. #[a(href='#') This is an anchor].  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni facere, nostrum ratione modi aliquid, autem! Dolorum tenetur beatae praesentium nemo tempora neque omnis aliquid corrupti error ipsam, quaerat illum quo, impedit vero commodi vitae suscipit asperiores eveniet delectus esse? Ducimus sed quibusdam maxime.
+
+            blockquote This is a blockquote.
+
+            p  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil saepe, hic sequi eius quae, numquam, nostrum, obcaecati quam sapiente modi qui! Iste.
+
+            hr
+
+            p
+                strong This text lives in a strong tag.
+                |
+                | Here is normal text.
+                |
+                |
+                em And this text is emphasized.
+
+        section
+            h2.Divider Lists
+
+            h3 Unordered List
+
+            ul
+                li One brief item.
+                li An item long enough to wrap. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta id, odio ipsum fugiat. Soluta ex non, dignissimos odit recusandae quis et fuga nihil aperiam. Eveniet error maxime, voluptate, unde porro delectus. Quo, suscipit.
+                li A medium item lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            
+            h3 Ordered List
+
+            ol
+                li Steal underpants.
+                li ?
+                li Profit
+            
+            h3 Definition List
+
+            dl
+                dt CSS
+                dd Cascading Style Sheets.  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta mollitia dicta voluptatum praesentium vero, cumque sunt quae.
+                
+                dt JS
+                dd Javascript.  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed minus atque voluptas, enim aut quis consectetur distinctio blanditiis sit omnis sequi, ea animi praesentium aliquid placeat! Exercitationem atque iure perferendis blanditiis, quaerat veritatis alias.
+
+        
+        section
+            h2.Divider Buttons
+
+            button Push Me
+
+        section
+            h2.Divider Forms
+
+            form
+                fieldset
+                    label
+                        | A text input
+                        |
+                        input(type="text" placeholder="Type something")
+                
+                fieldset
+                    label
+                        input(type="checkbox")
+                        | A checkbox
+
+                    label
+                        input(type="radio")
+                        | A radio button
+
+
+        section
+            h2.Divider Tables
+
+            table
+                thead
+                    tr
+                        th Table Header
+                        th Header 2
+                        th Header 3
+                tbody
+                    tr
+                        td Table Cell Content 1
+                        td Table Cell Content 2
+                        td Table Cell Content 3
