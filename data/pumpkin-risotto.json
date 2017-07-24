@@ -1,0 +1,233 @@
+{
+  "_id": "53552cce85da3d10277f569c",
+  "slug": "pumpkin-risotto",
+  "label": "Pumpkin Risotto",
+  "notes": "Put the pumpkin in a large, heavy-bottomed saucepan with the garlic, oil and half the butter. Sauté, stirring, over medium heat for 8-10 minutes.  Add the rice and cook for 2 minutes, stirring continuously. Add the boiling stock gradually, stirring frequently. The pumpkin will start to disintegrate. The rice will cook in about 15-18 minutes. It should be quite creamy when ready. Sir in the remaining butter, the parsley, parmeggiano, salt and pepper and serve immediately.",
+  "difficulty": 2,
+  "__v": 0,
+  "tags": [],
+  "directions": [],
+  "ingredients": [
+    {
+      "_id": "5973350564b52eeae5d1ea9b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673c",
+        "label": "pumpkin",
+        "name": "pumpkin"
+      },
+      "notes": "cleaned and diced",
+      "amount": {
+        "value": 10,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea9c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "finely chopped",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea9d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": "",
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea9e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": "",
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea9f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ef",
+        "label": "arborio rice",
+        "name": "arborio rice"
+      },
+      "notes": "",
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1eaa0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1eaa1",
+      "type": "Recipe",
+      "item": {
+        "_id": "53552cce85da3d10277f567f",
+        "slug": "chicken-broth",
+        "label": "Chicken Broth",
+        "notes": "Put the chicken in a very large pot. Add the celery, carrots, and onion. Cook on medium heat for a little while to lightly brown the ingredients.  Add water, peppercorns and some salt. Cover the pot and simmer for up to 3 hours. If you are only going to cook for an hour or so, bring the water to a boil quickly and then reduce the heat to simmer. To remove the fat let the stock cool then refrigerate for a few hours to solidify the fat. It can then be removed easily.",
+        "difficulty": 2,
+        "__v": 0,
+        "tags": [],
+        "directions": [],
+        "ingredients": [
+          {
+            "_id": "5973350564b52eeae5d1e9c0",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76764",
+            "notes": "cleaned",
+            "amount": {
+              "value": 1,
+              "unit": "596e4ec3b9f4af8616897901"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9c1",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76705",
+            "notes": "broken into 3 pieces",
+            "amount": {
+              "value": 2,
+              "unit": "596e4ec3b9f4af8616897906"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9c2",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76703",
+            "notes": "cut in half",
+            "amount": {
+              "value": 2,
+              "unit": "596e4ec3b9f4af8616897901"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9c3",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76730",
+            "notes": "cut in quarters",
+            "amount": {
+              "value": 1,
+              "unit": "596e4ec3b9f4af8616897901"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9c4",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76738",
+            "notes": "to taste",
+            "amount": {
+              "value": 1,
+              "unit": "596e4ec3b9f4af86168978fc"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9c5",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76760",
+            "notes": "cold",
+            "amount": {
+              "value": 4,
+              "unit": "596e4ec3b9f4af8616897907"
+            }
+          }
+        ],
+        "time": {
+          "prep": 10,
+          "cook": 90,
+          "total": 100
+        },
+        "yield": {
+          "amount": 1,
+          "label": "quart"
+        },
+        "core": true,
+        "active": true
+      },
+      "notes": "or beef stock",
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1eaa2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76733",
+        "label": "parmeggiano",
+        "name": "parmeggiano"
+      },
+      "notes": "",
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      }
+    }
+  ],
+  "time": {
+    "prep": 15,
+    "cook": 30,
+    "total": 45
+  },
+  "core": false,
+  "active": true
+}

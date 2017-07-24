@@ -1,0 +1,245 @@
+{
+  "_id": "53552cce85da3d10277f5681",
+  "slug": "coucous-tomato-basil-salad",
+  "label": "Coucous Tomato Basil Salad",
+  "notes": "Bring broth to boil in medium saucepan. Add couscous. Remove from heat. Cover; let stand 5 minutes. \n\nTransfer to large bowl. Fluff with fork. Cool. \n\nMix all ingredients except cherry tomatoes into couscous. Season with salt and pepper. (Can be made 1 day ahead. Chill.) \n\nGarnish with cherry tomatoes.",
+  "difficulty": 2,
+  "__v": 0,
+  "tags": [],
+  "directions": [],
+  "ingredients": [
+    {
+      "_id": "5973350564b52eeae5d1e9d0",
+      "type": "Recipe",
+      "item": {
+        "_id": "53552cce85da3d10277f567f",
+        "slug": "chicken-broth",
+        "label": "Chicken Broth",
+        "notes": "Put the chicken in a very large pot. Add the celery, carrots, and onion. Cook on medium heat for a little while to lightly brown the ingredients.  Add water, peppercorns and some salt. Cover the pot and simmer for up to 3 hours. If you are only going to cook for an hour or so, bring the water to a boil quickly and then reduce the heat to simmer. To remove the fat let the stock cool then refrigerate for a few hours to solidify the fat. It can then be removed easily.",
+        "difficulty": 2,
+        "__v": 0,
+        "tags": [],
+        "directions": [],
+        "ingredients": [
+          {
+            "_id": "5973350564b52eeae5d1e9c0",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76764",
+            "notes": "cleaned",
+            "amount": {
+              "value": 1,
+              "unit": "596e4ec3b9f4af8616897901"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9c1",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76705",
+            "notes": "broken into 3 pieces",
+            "amount": {
+              "value": 2,
+              "unit": "596e4ec3b9f4af8616897906"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9c2",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76703",
+            "notes": "cut in half",
+            "amount": {
+              "value": 2,
+              "unit": "596e4ec3b9f4af8616897901"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9c3",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76730",
+            "notes": "cut in quarters",
+            "amount": {
+              "value": 1,
+              "unit": "596e4ec3b9f4af8616897901"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9c4",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76738",
+            "notes": "to taste",
+            "amount": {
+              "value": 1,
+              "unit": "596e4ec3b9f4af86168978fc"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9c5",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76760",
+            "notes": "cold",
+            "amount": {
+              "value": 4,
+              "unit": "596e4ec3b9f4af8616897907"
+            }
+          }
+        ],
+        "time": {
+          "prep": 10,
+          "cook": 90,
+          "total": 100
+        },
+        "yield": {
+          "amount": 1,
+          "label": "quart"
+        },
+        "core": true,
+        "active": true
+      },
+      "notes": "",
+      "amount": {
+        "value": 2.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9d1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670f",
+        "label": "couscous",
+        "name": "couscous"
+      },
+      "notes": "",
+      "amount": {
+        "value": 10,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9d2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674a",
+        "label": "scallions",
+        "name": "scallions"
+      },
+      "notes": "chopped",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9d3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76759",
+        "label": "tomato(es)",
+        "name": "tomato(es)"
+      },
+      "notes": "seeded and diced",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9d4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f6",
+        "label": "basil",
+        "name": "basil"
+      },
+      "notes": "sliced thinly",
+      "amount": {
+        "value": 0.333,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9d5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": "",
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9d6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f4",
+        "label": "balsamic vinegar",
+        "name": "balsamic vinegar"
+      },
+      "notes": "",
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9d7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76709",
+        "label": "chili pepper",
+        "name": "chili pepper"
+      },
+      "notes": "crushed",
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9d8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76707",
+        "label": "cherry tomato(es)",
+        "name": "cherry tomato(es)"
+      },
+      "notes": "halved",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790d",
+          "label": "pint(s)"
+        }
+      }
+    }
+  ],
+  "core": false,
+  "active": true
+}

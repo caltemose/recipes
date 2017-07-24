@@ -1,0 +1,133 @@
+{
+  "_id": "53552cce85da3d10277f567e",
+  "slug": "cheddar-bacon-pie-crust",
+  "label": "Cheddar Bacon Pie Crust",
+  "notes": "In a bowl sift together the flour, the baking powder, and the salt, add the butter, and blend the mixture until it resembles meal.  Stir in the Cheddar and the bacon and stir in enough of the milk to form a soft, sticky dough. ",
+  "difficulty": 2,
+  "__v": 0,
+  "tags": [],
+  "directions": [],
+  "ingredients": [
+    {
+      "_id": "5973350564b52eeae5d1e9b9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9ba",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f2",
+        "label": "baking powder",
+        "name": "baking powder"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9bb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "notes": "",
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9bc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": "cold, cut into bits",
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9bd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76706",
+        "label": "cheddar",
+        "name": "cheddar"
+      },
+      "notes": "grated",
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9be",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f1",
+        "label": "bacon",
+        "name": "bacon"
+      },
+      "notes": "cooked crisp and crumbled",
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897909",
+          "label": "slice(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9bf",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    }
+  ],
+  "core": false,
+  "active": true
+}

@@ -1,0 +1,194 @@
+{
+  "_id": "53552cce85da3d10277f567c",
+  "slug": "brined-chicken",
+  "label": "Brined Chicken",
+  "notes": "Combine all the brine ingredients in a pot large enough to hold the chicken. Give the lemons a good squeeze as you add them. Bring to a simmer and dissolve the salt and sugar. Remove from heat and let cool fully. \n\nAdd the chicken to the brine and weigh it down so it remains completely submerged. Place in the refrigerator for 8-12 hours. \n\nRemove the chicken, rinse and pat dry and let rest uncovered in the refrigerator for 3 to 24 hours. \n\nPreheat the oven to 450F. Roast the chicken until it reaches an internal temperature of 160F. Remove from the oven and let it rest for at least 15 minutes before serving.  ",
+  "difficulty": 2,
+  "__v": 0,
+  "tags": [],
+  "directions": [],
+  "ingredients": [
+    {
+      "_id": "5973350564b52eeae5d1e9a8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1,
+        "unit": null
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9a9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9aa",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      },
+      "notes": "",
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9ab",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76758",
+        "label": "tarragon",
+        "name": "tarragon"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1,
+        "unit": null
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9ac",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1,
+        "unit": null
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9ad",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f7",
+        "label": "bay leaf",
+        "name": "bay leaf"
+      },
+      "notes": "",
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9ae",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "halved horizontally",
+      "amount": {
+        "value": 1,
+        "unit": null
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9af",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "sliced",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9b0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76738",
+        "label": "peppercorn(s)",
+        "name": "peppercorn(s)"
+      },
+      "notes": "lightly crushed",
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9b1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      },
+      "notes": "halved",
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9b2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76764",
+        "label": "chicken",
+        "name": "chicken"
+      },
+      "notes": "3-5 pounds",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      }
+    }
+  ],
+  "time": {
+    "prep": 30,
+    "cook": 75,
+    "rest": 1200
+  },
+  "core": true,
+  "active": true
+}

@@ -1,0 +1,99 @@
+{
+  "_id": "53552cce85da3d10277f5685",
+  "slug": "five-spice-powder",
+  "label": "Five-Spice Powder",
+  "notes": "Blend ingredients in grinder until finely ground. Store in airtight container - keeps up to 2 months.",
+  "difficulty": 2,
+  "__v": 0,
+  "tags": [],
+  "directions": [],
+  "ingredients": [
+    {
+      "_id": "5973350564b52eeae5d1e9f1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670b",
+        "label": "cinnamon",
+        "name": "cinnamon"
+      },
+      "notes": "",
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9f2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76751",
+        "label": "star anise",
+        "name": "star anise"
+      },
+      "notes": "",
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9f3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76717",
+        "label": "fennel seeds",
+        "name": "fennel seeds"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9f4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76755",
+        "label": "Szechuan peppercorns",
+        "name": "szechuan peppercorns"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e9f5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670c",
+        "label": "cloves",
+        "name": "cloves"
+      },
+      "notes": "ground",
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      }
+    }
+  ],
+  "core": false,
+  "active": true
+}

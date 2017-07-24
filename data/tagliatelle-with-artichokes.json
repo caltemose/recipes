@@ -1,0 +1,134 @@
+{
+  "_id": "53552cce85da3d10277f5694",
+  "slug": "tagliatelle-with-artichokes",
+  "label": "Tagliatelle with Artichokes",
+  "notes": "Prepare the pasta. Clean the artichokes and slice them thinly lengthwise. Saute the onion in the oil until it is tender but not browned.  Add the artichokes and season with salt and pepper. Stir over medium heat for 2-3 minutes. Pour in the water, cover and cook for about 20 minutes until the artichokes are tender but not mushy. Cook the pasta in a large pot of salted, boiling water until al dente. Break the eggs into a deep, heated serving dish, beat with a fork and add 5 tablespoons of the pecorino. Drain the pasta and mix with the egg mixture, then stir in the artichokes. Sprinkle with remaining cheese and serve hot.",
+  "difficulty": 2,
+  "__v": 0,
+  "tags": [],
+  "directions": [],
+  "ingredients": [
+    {
+      "_id": "5973350564b52eeae5d1ea5f",
+      "type": "Recipe",
+      "item": null,
+      "notes": "cut to tagliatelle form",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea60",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f0",
+        "label": "artichoke(s)",
+        "name": "artichoke(s)"
+      },
+      "notes": "baby, small",
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea61",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "finely chopped",
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea62",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": "",
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea63",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": "",
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea64",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "",
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea65",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76736",
+        "label": "pecorino",
+        "name": "pecorino"
+      },
+      "notes": "grated",
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    }
+  ],
+  "time": {
+    "prep": 10,
+    "cook": 10,
+    "total": 20
+  },
+  "core": false,
+  "active": true
+}

@@ -1,0 +1,129 @@
+{
+  "_id": "53552cce85da3d10277f567a",
+  "__v": 19,
+  "difficulty": 2,
+  "label": "Baba Ghanouj",
+  "notes": "Can be made 1 day ahead. Cover and chill. Bring to room temperature before serving. Serve with pita wedges.",
+  "slug": "baba-ghanouj",
+  "tags": [],
+  "directions": [
+    {
+      "_id": "5974da35db9b1e6dfd36a200",
+      "step": "Preheat oven to 375F."
+    },
+    {
+      "_id": "5974da48db9b1e6dfd36a201",
+      "step": "Generously oil rimmed baking sheet. Place eggplant halves, cut side down, on sheet. Roast until eggplant is very soft, about 45 minutes. Cool slightly."
+    },
+    {
+      "_id": "5974da62db9b1e6dfd36a202",
+      "step": "Using spoon, scoop out pulp from eggplant into strainer set over bowl. Let stand 30 minutes, allowing excess liquid to drain from eggplant."
+    },
+    {
+      "_id": "5974da71db9b1e6dfd36a203",
+      "step": "Transfer eggplant pulp to processor. Add 1/4 cup oil, tahini, lemon juice, and garlic; process until almost smooth. Season to taste with salt and pepper."
+    },
+    {
+      "_id": "5974da7adb9b1e6dfd36a204",
+      "step": "Transfer to small bowl."
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "5973350564b52eeae5d1e99a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76715",
+        "label": "eggplant(s)",
+        "name": "eggplant(s)"
+      },
+      "notes": "halved lengthwise",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e99b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": "",
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e99c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76757",
+        "label": "tahini",
+        "name": "tahini"
+      },
+      "notes": "",
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e99d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76725",
+        "label": "lemon juice",
+        "name": "lemon juice"
+      },
+      "notes": "",
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1e99e",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "chopped",
+      "type": "Ingredient",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      }
+    }
+  ],
+  "time": {
+    "cook": 45,
+    "prep": 15,
+    "total": 60
+  },
+  "yield": {
+    "amount": 1.75,
+    "label": "cups"
+  },
+  "core": false,
+  "active": true
+}

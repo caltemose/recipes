@@ -1,0 +1,155 @@
+{
+  "_id": "53552cce85da3d10277f5699",
+  "slug": "pot-cheese-cookies",
+  "label": "Pot Cheese Cookies",
+  "notes": "Beat first 5 ingredients together in mixer. Combine and mix remaining ingredients then slowly add to mixture in mixer. Drop by 1/2 teaspoon onto greased cookie sheet and bake for 8-10 minutes at 375°F. Optionally ice with basic milk/water/lemon juice/etc plus powdered sugar icing.",
+  "difficulty": 2,
+  "__v": 0,
+  "tags": [],
+  "directions": [],
+  "ingredients": [
+    {
+      "_id": "5973350564b52eeae5d1ea82",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76743",
+        "label": "ricotta",
+        "name": "ricotta"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea83",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": "",
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea84",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675c",
+        "label": "vanilla extract",
+        "name": "vanilla extract"
+      },
+      "notes": "",
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea85",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "",
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea86",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      },
+      "notes": "",
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea87",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": "",
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea88",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea89",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f3",
+        "label": "baking soda",
+        "name": "baking soda"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      }
+    }
+  ],
+  "time": {
+    "prep": 20,
+    "cook": 60,
+    "total": 80
+  },
+  "core": false,
+  "active": true
+}

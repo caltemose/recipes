@@ -1,0 +1,341 @@
+{
+  "_id": "53552cce85da3d10277f56a2",
+  "slug": "turkey-pot-pie",
+  "label": "Turkey Pot Pie",
+  "notes": "Preheat the oven to 425°F. In a saucepan bring the water to a boil, in it cook the squash with salt to taste for 6 to 8 minutes, or until it is just tender, and with a slotted spoon transfer the squash to a bowl of ice and cold water to stop the cooking.  In the boiling water cook the lima beans for 3 minutes, or until they are just tender, with the slotted spoon transfer them to the bowl, and reserve 1 cup of the cooking liquid. In a large saucepan melt the butter over moderate heat, add the flour, and cook the roux, whisking, for 3 minutes. Add the turkey or chicken broth and the reserved cooking liquid in a stream, whisking, add the minced sage and salt and pepper to taste, and simmer the sauce, stirring occasionally, for 10 minutes.  Drain the squash and lima beans, stir them into the sauce with the onions and the turkey, and pour the mixture into a 1 1/2-quart shallow baking dish. The potpie may be prepared up to this point 1 day in advance and kept covered and chilled. Make the crust and drop it in tablespoons into the mixture. Bake the potpie in the lower third of the oven for 20 to 25 minutes, or until the crust is golden, and garnish it with the sage sprig. ",
+  "difficulty": 2,
+  "__v": 0,
+  "tags": [],
+  "directions": [],
+  "ingredients": [
+    {
+      "_id": "5973350564b52eeae5d1ead3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": "",
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ead4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ff",
+        "label": "butternut squash",
+        "name": "butternut squash"
+      },
+      "notes": "cut into 3/4-inch cubes (about 1.5 cups)",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ead5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76727",
+        "label": "lima beans",
+        "name": "lima beans"
+      },
+      "notes": "canned || cooked || frozen",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ead6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": "",
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ead7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": "",
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ead8",
+      "type": "Recipe",
+      "item": {
+        "_id": "53552cce85da3d10277f567f",
+        "slug": "chicken-broth",
+        "label": "Chicken Broth",
+        "notes": "Put the chicken in a very large pot. Add the celery, carrots, and onion. Cook on medium heat for a little while to lightly brown the ingredients.  Add water, peppercorns and some salt. Cover the pot and simmer for up to 3 hours. If you are only going to cook for an hour or so, bring the water to a boil quickly and then reduce the heat to simmer. To remove the fat let the stock cool then refrigerate for a few hours to solidify the fat. It can then be removed easily.",
+        "difficulty": 2,
+        "__v": 0,
+        "tags": [],
+        "directions": [],
+        "ingredients": [
+          {
+            "_id": "5973350564b52eeae5d1e9c0",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76764",
+            "notes": "cleaned",
+            "amount": {
+              "value": 1,
+              "unit": "596e4ec3b9f4af8616897901"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9c1",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76705",
+            "notes": "broken into 3 pieces",
+            "amount": {
+              "value": 2,
+              "unit": "596e4ec3b9f4af8616897906"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9c2",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76703",
+            "notes": "cut in half",
+            "amount": {
+              "value": 2,
+              "unit": "596e4ec3b9f4af8616897901"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9c3",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76730",
+            "notes": "cut in quarters",
+            "amount": {
+              "value": 1,
+              "unit": "596e4ec3b9f4af8616897901"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9c4",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76738",
+            "notes": "to taste",
+            "amount": {
+              "value": 1,
+              "unit": "596e4ec3b9f4af86168978fc"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9c5",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76760",
+            "notes": "cold",
+            "amount": {
+              "value": 4,
+              "unit": "596e4ec3b9f4af8616897907"
+            }
+          }
+        ],
+        "time": {
+          "prep": 10,
+          "cook": 90,
+          "total": 100
+        },
+        "yield": {
+          "amount": 1,
+          "label": "quart"
+        },
+        "core": true,
+        "active": true
+      },
+      "notes": "",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ead9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76746",
+        "label": "sage",
+        "name": "sage"
+      },
+      "notes": "minced",
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1eada",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "chopped",
+      "amount": {
+        "value": 5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1eadb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675a",
+        "label": "turkey",
+        "name": "turkey"
+      },
+      "notes": "chopped",
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1eadc",
+      "type": "Recipe",
+      "item": {
+        "_id": "53552cce85da3d10277f567e",
+        "slug": "cheddar-bacon-pie-crust",
+        "label": "Cheddar Bacon Pie Crust",
+        "notes": "In a bowl sift together the flour, the baking powder, and the salt, add the butter, and blend the mixture until it resembles meal.  Stir in the Cheddar and the bacon and stir in enough of the milk to form a soft, sticky dough. ",
+        "difficulty": 2,
+        "__v": 0,
+        "tags": [],
+        "directions": [],
+        "ingredients": [
+          {
+            "_id": "5973350564b52eeae5d1e9b9",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e766ec",
+            "notes": "",
+            "amount": {
+              "value": 1.25,
+              "unit": "596e4ec3b9f4af86168978f9"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9ba",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e766f2",
+            "notes": "",
+            "amount": {
+              "value": 1.5,
+              "unit": "596e4ec3b9f4af86168978fa"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9bb",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76748",
+            "notes": "",
+            "amount": {
+              "value": 0.5,
+              "unit": "596e4ec3b9f4af86168978fa"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9bc",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e766fd",
+            "notes": "cold, cut into bits",
+            "amount": {
+              "value": 2,
+              "unit": "596e4ec3b9f4af86168978fb"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9bd",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76706",
+            "notes": "grated",
+            "amount": {
+              "value": 1.5,
+              "unit": "596e4ec3b9f4af86168978f9"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9be",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e766f1",
+            "notes": "cooked crisp and crumbled",
+            "amount": {
+              "value": 4,
+              "unit": "596e4ec3b9f4af8616897909"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9bf",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76729",
+            "notes": "",
+            "amount": {
+              "value": 1.5,
+              "unit": "596e4ec3b9f4af86168978f9"
+            }
+          }
+        ],
+        "core": false,
+        "active": true
+      },
+      "notes": "",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      }
+    }
+  ],
+  "core": false,
+  "active": true
+}

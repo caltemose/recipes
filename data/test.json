@@ -1,0 +1,185 @@
+{
+  "_id": "5973dbff35878617f4bc156c",
+  "__v": 31,
+  "label": "Test",
+  "notes": "This is a test recipe.",
+  "slug": "test",
+  "tags": [],
+  "directions": [
+    {
+      "_id": "59749c7bab385a38abef25e8",
+      "step": "Step uno"
+    },
+    {
+      "_id": "59749e16eb69b9401049f560",
+      "step": "Step two"
+    },
+    {
+      "_id": "59749e6ceb69b9401049f561",
+      "step": "Step three"
+    },
+    {
+      "_id": "59749efceb69b9401049f562",
+      "step": "Step four"
+    },
+    {
+      "_id": "59749f03eb69b9401049f563",
+      "step": "Step 5"
+    },
+    {
+      "_id": "59749f09eb69b9401049f564",
+      "step": "Step six"
+    },
+    {
+      "_id": "5974a30d8c36895916348515",
+      "step": "Step seven"
+    },
+    {
+      "_id": "5974a86afaacbc730fd91e2d",
+      "step": "Step eight"
+    }
+  ],
+  "ingredients": [
+    {
+      "_id": "5973dc0535878617f4bc156d",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672d",
+        "label": "nutmeg",
+        "name": "nutmeg"
+      },
+      "type": "Ingredient",
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 1
+      }
+    },
+    {
+      "_id": "5973e33135878617f4bc157d",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76708",
+        "label": "chickpeas",
+        "name": "chickpeas"
+      },
+      "type": "Ingredient",
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897900",
+          "label": "milliliter(s)"
+        },
+        "value": 3.5
+      }
+    },
+    {
+      "_id": "5973e34635878617f4bc157e",
+      "item": {
+        "_id": "53552cce85da3d10277f567e",
+        "slug": "cheddar-bacon-pie-crust",
+        "label": "Cheddar Bacon Pie Crust",
+        "notes": "In a bowl sift together the flour, the baking powder, and the salt, add the butter, and blend the mixture until it resembles meal.  Stir in the Cheddar and the bacon and stir in enough of the milk to form a soft, sticky dough. ",
+        "difficulty": 2,
+        "__v": 0,
+        "tags": [],
+        "directions": [],
+        "ingredients": [
+          {
+            "_id": "5973350564b52eeae5d1e9b9",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e766ec",
+            "notes": "",
+            "amount": {
+              "value": 1.25,
+              "unit": "596e4ec3b9f4af86168978f9"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9ba",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e766f2",
+            "notes": "",
+            "amount": {
+              "value": 1.5,
+              "unit": "596e4ec3b9f4af86168978fa"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9bb",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76748",
+            "notes": "",
+            "amount": {
+              "value": 0.5,
+              "unit": "596e4ec3b9f4af86168978fa"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9bc",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e766fd",
+            "notes": "cold, cut into bits",
+            "amount": {
+              "value": 2,
+              "unit": "596e4ec3b9f4af86168978fb"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9bd",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76706",
+            "notes": "grated",
+            "amount": {
+              "value": 1.5,
+              "unit": "596e4ec3b9f4af86168978f9"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9be",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e766f1",
+            "notes": "cooked crisp and crumbled",
+            "amount": {
+              "value": 4,
+              "unit": "596e4ec3b9f4af8616897909"
+            }
+          },
+          {
+            "_id": "5973350564b52eeae5d1e9bf",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76729",
+            "notes": "",
+            "amount": {
+              "value": 1.5,
+              "unit": "596e4ec3b9f4af86168978f9"
+            }
+          }
+        ],
+        "core": false,
+        "active": true
+      },
+      "notes": "recipe",
+      "type": "Recipe",
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 1
+      }
+    }
+  ],
+  "time": {
+    "cook": 10,
+    "prep": 10,
+    "rest": 10,
+    "total": 30
+  },
+  "source": {
+    "author": "Chad Altemose",
+    "name": "",
+    "url": "http://go-no-where.com"
+  },
+  "core": false,
+  "active": true
+}

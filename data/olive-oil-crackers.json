@@ -1,0 +1,109 @@
+{
+  "_id": "53552cce85da3d10277f5692",
+  "slug": "olive-oil-crackers",
+  "label": "Olive Oil Crackers",
+  "notes": "Whisk together the flours and salt. Add the water and olive oil. Using a mixer with a dough hook attachment mix the dough at medium speed for about 5 - 7 minutes. Alternately, feel free to mix and then knead by hand on a floured counter-top. The dough should be just a bit tacky - not too dry, not too sticky to work with. If you need to add a bit more water (or flour) do so. When you are done mixing, shape the dough into a large ball. Now cut into twelve equal-sized pieces. Gently rub each piece with a bit of olive oil, shape into a small ball and place on a plate. Cover with a clean dishtowel or plastic wrap and let rest at room temperature for 30 - 60 minutes. While the dough is resting, preheat your oven to 450F degrees. Insert a pizza stone if you have one. When the dough is done resting, flatten one dough ball. Using a rolling pin or a pasta machine, shape into a flat strip of dough - I can usually get down to the 4 setting on my pasta machine w/o trouble. Pull the dough out a bit thinner by hand (the way you might pull pizza dough). You can also cut the dough into whatever shape you like at this point.  Set dough on a floured (or cornmeal dusted) baking sheet, poke each cracker with the tines of a fork to prevent puffing, add any extra toppings, and slide into the oven (onto the pizza stone).  Repeat the process for the remaining dough balls, baking in small batches. If you don't have a pizza stone, bake crackers a few at a time on baking sheets. Bake until deeply golden, and let cool before eating - you will get more crackery snap. Feel free to substitute types of flours or add toppings such as freshly grated cheese, artisan salts, cornmeal, a dusting of your favorite spice blend, seeds, or a wash of your favorite flavored or infused oil.",
+  "difficulty": 2,
+  "__v": 0,
+  "tags": [],
+  "directions": [],
+  "ingredients": [
+    {
+      "_id": "5973350564b52eeae5d1ea57",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674c",
+        "label": "semolina",
+        "name": "semolina"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea58",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76765",
+        "label": "whole wheat flour",
+        "name": "whole wheat flour"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea59",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "notes": "",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea5a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": "lukewarm",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea5b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": "",
+      "amount": {
+        "value": 0.333,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    }
+  ],
+  "time": {
+    "prep": 20,
+    "cook": 20,
+    "rest": 60,
+    "total": 100
+  },
+  "yield": {
+    "amount": 12,
+    "label": "large"
+  },
+  "core": false,
+  "active": true
+}

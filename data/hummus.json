@@ -1,0 +1,137 @@
+{
+  "_id": "53552cce85da3d10277f568a",
+  "slug": "hummus",
+  "label": "Hummus",
+  "notes": "Put everything except the parsley in a food processor and begin to process; add the chickpea liquid or water as needed to allow the machine to produce a smooth puree. You can also substitute chicken broth for the water. Taste and adjust the seasoning. Serve, drizzled with the olive oil and sprinkled with a bit more cumin or paprika and some parsley.",
+  "difficulty": 2,
+  "__v": 0,
+  "tags": [],
+  "directions": [],
+  "ingredients": [
+    {
+      "_id": "5973350564b52eeae5d1ea16",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76708",
+        "label": "chickpeas",
+        "name": "chickpeas"
+      },
+      "notes": "canned",
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea17",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76757",
+        "label": "tahini",
+        "name": "tahini"
+      },
+      "notes": "",
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea18",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": "",
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea19",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "peeled",
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea1a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76711",
+        "label": "cumin seeds",
+        "name": "cumin seeds"
+      },
+      "notes": "roasted and ground to powder",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea1b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      },
+      "notes": "juice only",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea1c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "for garnish",
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      }
+    }
+  ],
+  "time": {
+    "prep": 10,
+    "total": 10
+  },
+  "core": false,
+  "active": true
+}

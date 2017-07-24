@@ -1,0 +1,70 @@
+{
+  "_id": "53552cce85da3d10277f5693",
+  "slug": "pasta-dough",
+  "label": "Pasta Dough",
+  "notes": "Pour a mound of the mixed flours onto a wood surface and make a well in the mound where you will mix in the eggs. Add the eggs into the well and slowly mix the eggs together, adding flour slowly from the edges of the well. Keep stirring and adding more flour as you go until you have a more solid dough.  \n\nStart rolling the dough with your hands once it starts getting drier and knead the dough, adding more flour as necessary, for about 10 minutes. You will be done kneading once your dough has formed a smooth ball that is no longer sticky. Put the dough ball into a plastic sandwich bag and let the dough rest for 2 hours. \n\nAfter the resting time your pasta is ready to be rolled out and cut with a pasta machine or by hand if you are that adventurous.",
+  "difficulty": 2,
+  "__v": 0,
+  "tags": [],
+  "directions": [],
+  "ingredients": [
+    {
+      "_id": "5973350564b52eeae5d1ea5c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "",
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea5d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674c",
+        "label": "semolina",
+        "name": "semolina"
+      },
+      "notes": "",
+      "amount": {
+        "value": 300,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        }
+      }
+    },
+    {
+      "_id": "5973350564b52eeae5d1ea5e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": "sifted",
+      "amount": {
+        "value": 200,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        }
+      }
+    }
+  ],
+  "time": {
+    "prep": 10,
+    "rest": 120,
+    "total": 130
+  },
+  "core": true,
+  "active": true
+}
