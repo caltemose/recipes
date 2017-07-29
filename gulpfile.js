@@ -11,6 +11,12 @@ const browsersync = require('browser-sync').create()
 const sasslint = require('gulp-sass-lint')
 const cleancss = require('gulp-clean-css')
 const rename = require('gulp-rename')
+const ghPages = require('gulp-gh-pages')
+const environments = require('gulp-environments')
+
+const production = environments.production
+const development = environments.development
+
 
 /* Helper functions
 ---------------------------------------------------------------- */
@@ -23,6 +29,9 @@ function getJsonData (file) {
     return require(file.path)
 }
 
+function getRoot () {
+    return production() ? '/recipes/' : '/'
+}
 
 /* Supporting tasks
 ---------------------------------------------------------------- */
@@ -36,7 +45,7 @@ gulp.task('html', () => {
         // .pipe(pug({ data: getData() }))
         .pipe(pug({
             data: {
-                root: '/'
+                root: getRoot()
             }
         }))
         .pipe(gulp.dest('dist'))
@@ -75,7 +84,7 @@ gulp.task('templates-recipes', function() {
                 .pipe(gulpData(getJsonData(jsonFile)))
                 .pipe(pug({
                     data: {
-                        root: '/'
+                        root: getRoot()
                     }
                 }))
                 .pipe(rename(function(htmlFile) {
@@ -95,7 +104,7 @@ gulp.task('templates-tags', function() {
                 .pipe(gulpData(getJsonData(jsonFile)))
                 .pipe(pug({
                     data: {
-                        root: '/'
+                        root: getRoot()
                     }
                 }))
                 .pipe(rename(function(htmlFile) {
@@ -111,7 +120,7 @@ gulp.task('index-recipes', () => {
         .pipe(gulpData(getJsonFile('data/recipes/index.json')))
         .pipe(pug({
             data: {
-                root: '/'
+                root: getRoot()
             }
         }))
         .pipe(rename(function(htmlFile) {
@@ -125,7 +134,7 @@ gulp.task('index-tags', () => {
         .pipe(gulpData(getJsonFile('data/tags/index.json')))
         .pipe(pug({
             data: {
-                root: '/'
+                root: getRoot()
             }
         }))
         .pipe(rename(function(htmlFile) {
@@ -135,6 +144,11 @@ gulp.task('index-tags', () => {
 })
 
 gulp.task('indices', gulp.parallel('index-tags', 'index-recipes'))
+
+gulp.task('deploy:ghpages', () => {
+    return gulp.src('./dist/**/*')
+        .pipe(ghPages());
+});
 
 /* Watch tasks
 ---------------------------------------------------------------- */
@@ -175,7 +189,6 @@ gulp.task('minify:css', () => {
         .pipe(gulp.dest('dist/styles'))
 })
 
-
 /* Lint tasks
 ---------------------------------------------------------------- */
 
@@ -198,3 +211,5 @@ gulp.task('build', gulp.series('clean', gulp.parallel('html', 'templates-recipes
 gulp.task('default', gulp.series('build', gulp.parallel('serve', 'watch')))
 
 gulp.task('minify', gulp.series('css', 'minify:css'))
+
+gulp.task('deploy', gulp.series('build', 'minify', 'deploy:ghpages'))

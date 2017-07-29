@@ -10,4 +10,4 @@ block content
         ul.RecipeList
             each recipe in recipes
                 li
-                    a(href=`/recipes/${recipe.slug}.html`)= recipe.label
+                    a(href=`${root}recipes/${recipe.slug}.html`)= recipe.label
