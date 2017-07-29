@@ -1,0 +1,13 @@
+extends ../_layout.pug
+
+block title
+    title Tag List
+
+block content
+    article
+        h1 Tags
+
+        ul.TagsList
+            each tag in tags
+                li
+                    a(href=`/tags/${tag.slug}.html`)= tag.label

@@ -15,9 +15,9 @@ const rename = require('gulp-rename')
 /* Helper functions
 ---------------------------------------------------------------- */
 
-// function getData () {
-//     return JSON.parse(fs.readFileSync('src/data/recipes.json', 'utf-8'))
-// }
+function getJsonFile (file) {
+    return JSON.parse(fs.readFileSync(file, 'utf-8'))
+}
 
 function getJsonData (file) {
     return require(file.path)
@@ -66,22 +66,75 @@ gulp.task('reload', (done) => {
     done()
 })
 
-gulp.task('templates', function() {
-    return gulp.src('data/*.json')
+gulp.task('templates-recipes', function() {
+    return gulp.src(['data/recipes/*.json', '!data/recipes/index.json'])
         .pipe(foreach(function (stream, file) {
             var jsonFile = file
             var jsonBasename = path.basename(jsonFile.path, path.extname(jsonFile.path))
-            return gulp.src('src/html/test/*.pug')
+            return gulp.src('src/html/recipes/_recipe.pug')
                 .pipe(gulpData(getJsonData(jsonFile)))
-                .pipe(pug())
+                .pipe(pug({
+                    data: {
+                        root: '/'
+                    }
+                }))
                 .pipe(rename(function(htmlFile) {
                     htmlFile.basename = jsonBasename
                 }))
-            .pipe(gulp.dest('test'))
+            .pipe(gulp.dest('dist/recipes'))
         })
     )
 })
 
+gulp.task('templates-tags', function() {
+    return gulp.src(['data/tags/*.json', '!data/tags/index.json'])
+        .pipe(foreach(function (stream, file) {
+            var jsonFile = file
+            var jsonBasename = path.basename(jsonFile.path, path.extname(jsonFile.path))
+            return gulp.src('src/html/tags/_tag.pug')
+                .pipe(gulpData(getJsonData(jsonFile)))
+                .pipe(pug({
+                    data: {
+                        root: '/'
+                    }
+                }))
+                .pipe(rename(function(htmlFile) {
+                    htmlFile.basename = jsonBasename
+                }))
+            .pipe(gulp.dest('dist/tags'))
+        })
+    )
+})
+
+gulp.task('index-recipes', () => {
+    return gulp.src('src/html/recipes/_index.pug')
+        .pipe(gulpData(getJsonFile('data/recipes/index.json')))
+        .pipe(pug({
+            data: {
+                root: '/'
+            }
+        }))
+        .pipe(rename(function(htmlFile) {
+            htmlFile.basename = 'index'
+        }))
+        .pipe(gulp.dest('dist/recipes/'))
+})
+
+gulp.task('index-tags', () => {
+    return gulp.src('src/html/tags/_index.pug')
+        .pipe(gulpData(getJsonFile('data/tags/index.json')))
+        .pipe(pug({
+            data: {
+                root: '/'
+            }
+        }))
+        .pipe(rename(function(htmlFile) {
+            htmlFile.basename = 'index'
+        }))
+        .pipe(gulp.dest('dist/tags/'))
+})
+
+gulp.task('indices', gulp.parallel('index-tags', 'index-recipes'))
 
 /* Watch tasks
 ---------------------------------------------------------------- */
@@ -94,7 +147,23 @@ gulp.task('watch:styles', () => {
     gulp.watch('src/styles/**/*', gulp.series('css'))
 })
 
-gulp.task('watch', gulp.parallel('watch:html', 'watch:styles'))
+gulp.task('watch:templates-recipes', () => {
+    gulp.watch('src/html/recipes/_recipe.pug', gulp.series('templates-recipes'))
+})
+
+gulp.task('watch:templates-tags', () => {
+    gulp.watch('src/html/tags/_tag.pug', gulp.series('templates-tags'))
+})
+
+gulp.task('watch:index:tags', () => {
+    gulp.watch('src/html/tags/_index.pug', gulp.series('index-tags'))
+})
+
+gulp.task('watch:index:recipes', () => {
+    gulp.watch('src/html/recipes/_index.pug', gulp.series('index-recipes'))
+})
+
+gulp.task('watch', gulp.parallel('watch:html', 'watch:styles', 'watch:templates-tags', 'watch:templates-recipes', 'watch:index:tags', 'watch:index:recipes'))
 
 
 /* Minify/production tasks
@@ -124,7 +193,7 @@ gulp.task('lint:sass', () => {
 /* Primary tasks
 ---------------------------------------------------------------- */
 
-gulp.task('build', gulp.series('clean', gulp.parallel('html', 'css')))
+gulp.task('build', gulp.series('clean', gulp.parallel('html', 'templates-recipes', 'templates-tags', 'indices', 'css')))
 
 gulp.task('default', gulp.series('build', gulp.parallel('serve', 'watch')))
 

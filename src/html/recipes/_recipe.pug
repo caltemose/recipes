@@ -1,0 +1,69 @@
+extends ../_layout.pug
+
+block title
+    title Recipes | #{label}
+
+block content
+    article.Recipe
+        h1 #{label}
+
+        if source && source.name
+            cite.Source= source.name
+
+        h2 Ingredients
+
+        ul.Ingredients
+            each ingredient in ingredients
+                li
+                    if ingredient.amount.value
+                        span.IngredientAmount-Value= ingredient.amount.value
+                        | 
+                        | 
+                    if ingredient.amount.unit && ingredient.amount.unit.label
+                        span.IngredientAmount-Unit= ingredient.amount.unit.label
+                        | 
+                        | 
+                    if ingredient.item && ingredient.item.label
+                        span.IngredientItem= ingredient.item.label
+                        | 
+                        | 
+                    if ingredient.notes
+                        span.IngredientNotes= ingredient.notes
+                        | 
+                        | 
+
+
+        h2 Directions
+
+        ol.Directions
+            each direction in directions
+                li= direction.step
+
+        h2 Notes
+
+        if notes
+            .Notes= notes
+
+        h2 Tags
+
+        ul.TagsList
+            each tag in tags
+                li= tag.label
+        
+        h2 Time
+
+        if time
+            ul.RecipeTimes
+                if time.cook
+                    li Cook: #{time.cook}
+                if time.prep
+                    li Prep: #{time.prep}
+                if time.rest
+                    li Rest: #{time.rest}
+                if time.total
+                    li Total: #{time.total}
+
+        h2 Yield
+
+        if yield && yield.amount && yield.label
+            p #{yield.amount} #{yield.label}
