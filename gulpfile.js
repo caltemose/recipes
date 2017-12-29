@@ -25,6 +25,32 @@ function getJsonFile (file) {
     return JSON.parse(fs.readFileSync(file, 'utf-8'))
 }
 
+function getJsonFileAlphabetical (file) {
+    const data = JSON.parse(fs.readFileSync(file, 'utf-8'))
+    // data.recipes[ {id, label, slug, core} ]
+    const updated = { recipes: {} }
+    const letterString = 'abcdefghijklmnopqrstuvwxyz'
+    const letters = letterString.split('')
+    for(let i=0; i<letters.length; i++) {
+        updated.recipes[letters[i]] = []
+    }
+    for(let i=0; i<data.recipes.length; i++) {
+        const initial = data.recipes[i].label[0]
+        updated.recipes[initial.toLowerCase()].push(data.recipes[i])
+    }
+    for(let i=0; i<letters.length; i++) {
+        if (updated.recipes[letters[i]].length < 1) {
+            delete updated.recipes[letters[i]]
+        }
+    }
+    // console.log(updated)
+    return updated
+}
+gulp.task('alpha', () => {
+    getJsonFileAlphabetical('data/recipes/index.json')
+    return gulp.src('src/html/recipes/')
+})
+
 function getJsonData (file) {
     return require(file.path)
 }
@@ -129,6 +155,20 @@ gulp.task('index-recipes', () => {
         .pipe(gulp.dest('dist/recipes/'))
 })
 
+gulp.task('index-recipes-alpha', () => {
+    return gulp.src('src/html/recipes/_indexalpha.pug')
+        .pipe(gulpData(getJsonFileAlphabetical('data/recipes/index.json')))
+        .pipe(pug({
+            data: {
+                root: getRoot()
+            }
+        }))
+        .pipe(rename(function(htmlFile) {
+            htmlFile.basename = 'index-alpha'
+        }))
+        .pipe(gulp.dest('dist/recipes/'))
+})
+
 gulp.task('index-tags', () => {
     return gulp.src('src/html/tags/_index.pug')
         .pipe(gulpData(getJsonFile('data/tags/index.json')))
@@ -143,7 +183,7 @@ gulp.task('index-tags', () => {
         .pipe(gulp.dest('dist/tags/'))
 })
 
-gulp.task('indices', gulp.parallel('index-tags', 'index-recipes'))
+gulp.task('indices', gulp.parallel('index-tags', 'index-recipes', 'index-recipes-alpha'))
 
 gulp.task('deploy:ghpages', () => {
     return gulp.src('./dist/**/*')
@@ -177,7 +217,11 @@ gulp.task('watch:index:recipes', () => {
     gulp.watch('src/html/recipes/_index.pug', gulp.series('index-recipes'))
 })
 
-gulp.task('watch', gulp.parallel('watch:html', 'watch:styles', 'watch:templates-tags', 'watch:templates-recipes', 'watch:index:tags', 'watch:index:recipes'))
+gulp.task('watch:index:recipes:alpha', () => {
+    gulp.watch('src/html/recipes/_indexalpha.pug', gulp.series('index-recipes-alpha'))
+})
+
+gulp.task('watch', gulp.parallel('watch:html', 'watch:styles', 'watch:templates-tags', 'watch:templates-recipes', 'watch:index:tags', 'watch:index:recipes', 'watch:index:recipes:alpha'))
 
 
 /* Minify/production tasks
