@@ -13,3 +13,7 @@ This repository uses a gulp-based build system that depends on data exported fro
 `npm run preview` will fire up a local server to preview files in the `dist` folder. It will *not* run the build task first. To do that use `npm run build`
 
 `npm run deploy` uses the ghpages gulp task to build, compress and push static files to github at [https://caltemose.github.io/recipes](https://caltemose.github.io/recipes)
+
+## Ideas/Notes
+
+- recipe details page uses Google recipe format
