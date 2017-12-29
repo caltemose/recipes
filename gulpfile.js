@@ -43,13 +43,8 @@ function getJsonFileAlphabetical (file) {
             delete updated.recipes[letters[i]]
         }
     }
-    // console.log(updated)
     return updated
 }
-gulp.task('alpha', () => {
-    getJsonFileAlphabetical('data/recipes/index.json')
-    return gulp.src('src/html/recipes/')
-})
 
 function getJsonData (file) {
     return require(file.path)
@@ -143,20 +138,6 @@ gulp.task('templates-tags', function() {
 
 gulp.task('index-recipes', () => {
     return gulp.src('src/html/recipes/_index.pug')
-        .pipe(gulpData(getJsonFile('data/recipes/index.json')))
-        .pipe(pug({
-            data: {
-                root: getRoot()
-            }
-        }))
-        .pipe(rename(function(htmlFile) {
-            htmlFile.basename = 'index'
-        }))
-        .pipe(gulp.dest('dist/recipes/'))
-})
-
-gulp.task('index-recipes-alpha', () => {
-    return gulp.src('src/html/recipes/_indexalpha.pug')
         .pipe(gulpData(getJsonFileAlphabetical('data/recipes/index.json')))
         .pipe(pug({
             data: {
@@ -164,7 +145,7 @@ gulp.task('index-recipes-alpha', () => {
             }
         }))
         .pipe(rename(function(htmlFile) {
-            htmlFile.basename = 'index-alpha'
+            htmlFile.basename = 'index'
         }))
         .pipe(gulp.dest('dist/recipes/'))
 })
@@ -183,7 +164,7 @@ gulp.task('index-tags', () => {
         .pipe(gulp.dest('dist/tags/'))
 })
 
-gulp.task('indices', gulp.parallel('index-tags', 'index-recipes', 'index-recipes-alpha'))
+gulp.task('indices', gulp.parallel('index-tags', 'index-recipes'))
 
 gulp.task('deploy:ghpages', () => {
     return gulp.src('./dist/**/*')
@@ -217,11 +198,7 @@ gulp.task('watch:index:recipes', () => {
     gulp.watch('src/html/recipes/_index.pug', gulp.series('index-recipes'))
 })
 
-gulp.task('watch:index:recipes:alpha', () => {
-    gulp.watch('src/html/recipes/_indexalpha.pug', gulp.series('index-recipes-alpha'))
-})
-
-gulp.task('watch', gulp.parallel('watch:html', 'watch:styles', 'watch:templates-tags', 'watch:templates-recipes', 'watch:index:tags', 'watch:index:recipes', 'watch:index:recipes:alpha'))
+gulp.task('watch', gulp.parallel('watch:html', 'watch:styles', 'watch:templates-tags', 'watch:templates-recipes', 'watch:index:tags', 'watch:index:recipes'))
 
 
 /* Minify/production tasks

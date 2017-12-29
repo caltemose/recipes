@@ -7,7 +7,9 @@ block content
     article
         h1 Recipes
 
-        ul.RecipeList
-            each recipe in recipes
-                li
-                    a(href=`${root}recipes/${recipe.slug}.html`)= recipe.label
+        each letterRecipes, letter in recipes
+            h2= letter
+            ul.RecipeList
+                each recipe in letterRecipes
+                    li
+                        a(href=`${root}recipes/${recipe.slug}.html`)= recipe.label
