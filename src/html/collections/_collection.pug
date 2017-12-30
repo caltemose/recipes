@@ -1,0 +1,16 @@
+extends ../_layout.pug
+
+block title
+    title Collection | #{label}
+
+block content
+    article.Collection
+        h1 #{label}
+        
+        if description
+            div= description
+        
+        ul.RecipeList
+            each recipe in recipes
+                li
+                    a(href=`/recipes/${recipe.item.slug}.html`)= recipe.item.label
