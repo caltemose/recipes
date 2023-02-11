@@ -1,0 +1,282 @@
+{
+  "source": {
+    "author": "Alton Brown",
+    "name": "Everyday Cook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a3d3f160836b893a9a14c8c",
+      "label": "salad",
+      "slug": "salad",
+      "__v": 0
+    }
+  ],
+  "_id": "5a49739b277bd9fe34f72bab",
+  "__v": 14,
+  "directions": [
+    {
+      "_id": "5a49746a277bd9fe34f72bb6",
+      "step": "Toss the kale, parsley and shallot with 2 tablespoons of the olive oil and let sit for 10 minutes."
+    },
+    {
+      "_id": "5a4975e6277bd9fe34f72bb7",
+      "step": "Puree the remaining 2 tablespoons of olive oil, the lemon juice, garlic, anchovies and 1 ounce of the feta in a food processor."
+    },
+    {
+      "_id": "5a497604277bd9fe34f72bb8",
+      "step": "Pour the dressing over the kale, toss in the preserved lemon, chickpeas and remaining feta."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790b",
+          "label": "bunch"
+        },
+        "value": 1
+      },
+      "_id": "5a49739d277bd9fe34f72bac",
+      "item": {
+        "_id": "538874f72bd7f0c2cd000004",
+        "label": "kale",
+        "name": "kale",
+        "__v": 0
+      },
+      "notes": "lacinato/dinosaur, cut into ribbons",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790b",
+          "label": "bunch"
+        },
+        "value": 1
+      },
+      "_id": "5a4973b6277bd9fe34f72bad",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "fresh, roughly chopped",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a4973c3277bd9fe34f72bae",
+      "item": {
+        "_id": "5a49735c277bd9fe34f72baa",
+        "label": "shallot(s)",
+        "slug": "shallot-s",
+        "__v": 0
+      },
+      "notes": "frenched",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 4
+      },
+      "_id": "5a4973cf277bd9fe34f72baf",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a497404277bd9fe34f72bb0",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76725",
+        "label": "lemon juice",
+        "name": "lemon juice"
+      },
+      "notes": "fresh",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a497414277bd9fe34f72bb1",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "minced",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a497429277bd9fe34f72bb2",
+      "item": {
+        "_id": "5a497351277bd9fe34f72ba8",
+        "label": "anchovies",
+        "slug": "anchovies",
+        "__v": 0
+      },
+      "notes": "finely chopped",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        },
+        "value": 3
+      },
+      "_id": "5a497439277bd9fe34f72bb3",
+      "item": {
+        "_id": "5a497356277bd9fe34f72ba9",
+        "label": "feta cheese",
+        "slug": "feta-cheese",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a497445277bd9fe34f72bb4",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      },
+      "notes": "quick preserved",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a497455277bd9fe34f72bb5",
+      "item": {
+        "active": true,
+        "core": false,
+        "tags": [],
+        "_id": "5a497241277bd9fe34f72b9d",
+        "__v": 10,
+        "directions": [
+          {
+            "_id": "5a497284277bd9fe34f72ba3",
+            "step": "Rinse the chickpeas under cold water. Dry well (salad spinner + paper towels, etc)."
+          },
+          {
+            "_id": "5a4972ab277bd9fe34f72ba4",
+            "step": "Toss the chickpeas with oil and salt. Place on a sheet pan."
+          },
+          {
+            "_id": "5a4972c2277bd9fe34f72ba5",
+            "step": "Put the pan in a cold oven and turn the oven to 350F."
+          },
+          {
+            "_id": "5a4972da277bd9fe34f72ba6",
+            "step": "Turn the oven off after 30 minutes and leave the chickpeas in the oven for another hour."
+          },
+          {
+            "_id": "5a497305277bd9fe34f72ba7",
+            "step": "Toss the chickpeas with sumac and cayenne. Cool completely before storing."
+          }
+        ],
+        "ingredients": [
+          {
+            "amount": {
+              "unit": "596e4ec3b9f4af86168978f7",
+              "value": 30
+            },
+            "_id": "5a497244277bd9fe34f72b9e",
+            "item": "5375ec34471e3f9e45e76708",
+            "notes": "two 15-ounce cans (cooked)",
+            "type": "Ingredient"
+          },
+          {
+            "amount": {
+              "unit": "596e4ec3b9f4af86168978fb",
+              "value": 2
+            },
+            "_id": "5a49725d277bd9fe34f72b9f",
+            "item": "5375ec34471e3f9e45e7672e",
+            "type": "Ingredient"
+          },
+          {
+            "amount": {
+              "unit": "596e4ec3b9f4af86168978fa",
+              "value": 1
+            },
+            "_id": "5a497265277bd9fe34f72ba0",
+            "item": "5375ec34471e3f9e45e76748",
+            "type": "Ingredient"
+          },
+          {
+            "amount": {
+              "unit": "596e4ec3b9f4af86168978fa",
+              "value": 1
+            },
+            "_id": "5a497273277bd9fe34f72ba1",
+            "item": "5a497237277bd9fe34f72b9c",
+            "type": "Ingredient"
+          },
+          {
+            "amount": {
+              "unit": "596e4ec3b9f4af86168978fa",
+              "value": 0.25
+            },
+            "_id": "5a49727b277bd9fe34f72ba2",
+            "item": "5375ec34471e3f9e45e76704",
+            "type": "Ingredient"
+          }
+        ],
+        "label": "Crispy Chickpeas",
+        "slug": "crispy-chickpeas"
+      },
+      "type": "Recipe"
+    }
+  ],
+  "label": "Not Just Another Kale Salad",
+  "notes": "The ingredient listed as 2 tablespoons of lemon should follow the Quick Preserved Lemons recipe from the same book which I have been too lazy to reproduce here.",
+  "slug": "not-just-another-kale-salad"
+}

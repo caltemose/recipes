@@ -1,0 +1,298 @@
+{
+  "recipes": [
+    {
+      "core": false,
+      "_id": "5c43b0e60529ebe092bea0b4",
+      "label": "Amaretti",
+      "slug": "amaretti"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f567a",
+      "label": "Baba Ghanouj",
+      "slug": "baba-ghanouj"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f567b",
+      "label": "Banana Walnut Bread",
+      "slug": "banana-walnut-bread"
+    },
+    {
+      "core": false,
+      "_id": "5a3fe30e44229bfe637b73d0",
+      "label": "Bibimbap",
+      "slug": "bibimbap"
+    },
+    {
+      "core": false,
+      "_id": "5a36df0cb1cb7881b05b0082",
+      "label": "Biscotti",
+      "slug": "biscotti"
+    },
+    {
+      "core": false,
+      "_id": "5a402b679c5f02065d03f1af",
+      "label": "Black Beans and Brown Rice",
+      "slug": "black-beans-and-brown-rice"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f567c",
+      "label": "Brined Chicken",
+      "slug": "brined-chicken"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f567d",
+      "label": "Buttermilk Biscuits",
+      "slug": "buttermilk-biscuits"
+    },
+    {
+      "core": false,
+      "_id": "63e00fc96ec18c0944a6ab47",
+      "label": "Butternut Squash-Carrot Soup",
+      "slug": "butternut-squash-carrot-soup"
+    },
+    {
+      "core": false,
+      "_id": "5a47b6e0277bd9fe34f72b8e",
+      "label": "Ciabatta",
+      "slug": "ciabatta"
+    },
+    {
+      "core": false,
+      "_id": "5a40345d8ab0e729e2e01ac8",
+      "label": "Corn Bread",
+      "slug": "corn-bread"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5680",
+      "label": "Corn Soup",
+      "slug": "corn-soup"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5681",
+      "label": "Coucous Tomato Basil Salad",
+      "slug": "coucous-tomato-basil-salad"
+    },
+    {
+      "core": false,
+      "_id": "5a497241277bd9fe34f72b9d",
+      "label": "Crispy Chickpeas",
+      "slug": "crispy-chickpeas"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5683",
+      "label": "Cucumber and Onion Salad",
+      "slug": "cucumber-and-onion-salad"
+    },
+    {
+      "core": false,
+      "_id": "5a246d2e2c912bb7ffba8351",
+      "label": "Doro Wat (Ethiopian Chicken Stew)",
+      "slug": "doro-wat-ethiopian-chicken-stew"
+    },
+    {
+      "core": false,
+      "_id": "5a246f852c912bb7ffba836d",
+      "label": "Ethiopian Potato Carrot Cabbage",
+      "slug": "ethiopian-potato-carrot-cabbage"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5684",
+      "label": "Falafel",
+      "slug": "falafel"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5686",
+      "label": "French Cheese Soufflé",
+      "slug": "french-cheese-souffle"
+    },
+    {
+      "core": false,
+      "_id": "5a246987bb101c58d6968085",
+      "label": "Frittata Muffins",
+      "slug": "frittata-muffins"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5687",
+      "label": "Fusilli with Tomatoes, Garlic and Mozzarella",
+      "slug": "fusilli-with-tomatoes-garlic-and-mozzarella"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5688",
+      "label": "Gazpacho",
+      "slug": "gazpacho"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5689",
+      "label": "Gorgonzola Salad",
+      "slug": "gorgonzola-salad"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f568a",
+      "label": "Hummus",
+      "slug": "hummus"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f568b",
+      "label": "Italian Meatball Soup",
+      "slug": "italian-meatball-soup"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f568c",
+      "label": "Jerk Seasoning",
+      "slug": "jerk-seasoning"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f568d",
+      "label": "Lima Bean Burgers",
+      "slug": "lima-bean-burgers"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f568e",
+      "slug": "maple-glazed-pork-chops-with-pumpkin-polenta",
+      "label": "Maple-Glazed Pork Chops with Pumpkin Polenta"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f568f",
+      "slug": "meatballs",
+      "label": "Meatballs"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5690",
+      "slug": "mushroom-risotto",
+      "label": "Mushroom Risotto"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5691",
+      "label": "No-Knead Bread",
+      "slug": "no-knead-bread"
+    },
+    {
+      "core": false,
+      "_id": "5a49739b277bd9fe34f72bab",
+      "label": "Not Just Another Kale Salad",
+      "slug": "not-just-another-kale-salad"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5692",
+      "slug": "olive-oil-crackers",
+      "label": "Olive Oil Crackers"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5695",
+      "label": "Peanut Butter Cookies",
+      "slug": "peanut-butter-cookies"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5696",
+      "label": "Pesto Genovese",
+      "slug": "pesto-genovese"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5697",
+      "label": "Pita Bread",
+      "slug": "pita-bread"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5698",
+      "label": "Pizzelles",
+      "slug": "pizzelles"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5699",
+      "label": "Pot Cheese Cookies",
+      "slug": "pot-cheese-cookies"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f569c",
+      "label": "Pumpkin Risotto",
+      "slug": "pumpkin-risotto"
+    },
+    {
+      "core": false,
+      "_id": "53887f232bd7f0c2cd000005",
+      "label": "Red Pea Soup",
+      "slug": "red-pea-soup"
+    },
+    {
+      "core": false,
+      "_id": "5a47b2ef277bd9fe34f72b6e",
+      "label": "Ricotta Pie",
+      "slug": "ricotta-pie"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f569e",
+      "label": "Rum-Raisin Rice Pudding",
+      "slug": "rum-raisin-rice-pudding"
+    },
+    {
+      "core": false,
+      "_id": "5a47b50a277bd9fe34f72b80",
+      "label": "Simple Rice Salad",
+      "slug": "simple-rice-salad"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f56a0",
+      "label": "Spiced Olives",
+      "slug": "spiced-olives"
+    },
+    {
+      "core": false,
+      "_id": "5a425642d254dd0a6a6930d8",
+      "label": "Spinach Egg Ham Pancakes",
+      "slug": "spinach-egg-ham-pancakes"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f56a1",
+      "label": "Steel Cut Oatmeal",
+      "slug": "steel-cut-oatmeal"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f5694",
+      "slug": "tagliatelle-with-artichokes",
+      "label": "Tagliatelle with Artichokes"
+    },
+    {
+      "core": false,
+      "_id": "5a4977c4277bd9fe34f72bba",
+      "label": "Thai Ginger Chicken Soup",
+      "slug": "thai-ginger-chicken-soup"
+    },
+    {
+      "core": false,
+      "_id": "53552cce85da3d10277f56a2",
+      "label": "Turkey Pot Pie",
+      "slug": "turkey-pot-pie"
+    }
+  ]
+}

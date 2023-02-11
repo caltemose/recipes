@@ -1,0 +1,220 @@
+{
+  "source": {
+    "author": "Alton Brown",
+    "name": "Everyday Cook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [],
+  "_id": "5a402b679c5f02065d03f1af",
+  "__v": 18,
+  "directions": [
+    {
+      "_id": "5a402bfd9c5f02065d03f1bc",
+      "step": "Heat oven to 375F."
+    },
+    {
+      "_id": "5a402c059c5f02065d03f1bd",
+      "step": "Spread rice into an 8-inch square glass baking dish. Stir in 1 TBS olive oil and 1 ts salt."
+    },
+    {
+      "_id": "5a402c1b9c5f02065d03f1be",
+      "step": "Bring 2.5 cups water to boil and pour over the rice. Cover tightly with aluminum foil and back for 1 hour."
+    },
+    {
+      "_id": "5a402c369c5f02065d03f1bf",
+      "step": "Place a 12-inch sauté pan over medium heat. Add remaining 3 TBS olive oil and garlic and pepper flakes. Cook slightly, add onion and 1/2 ts salt and cook for 1-2 minutes, until the onion starts to color."
+    },
+    {
+      "_id": "5a402c779c5f02065d03f1c0",
+      "step": "Add black beans, oregano and black pepper. Cook, stirring frequently, for 6-8 minutes."
+    },
+    {
+      "_id": "5a402c8a9c5f02065d03f1c1",
+      "step": "Remove the cover from the rice and fluff with a fork."
+    },
+    {
+      "_id": "5a402c989c5f02065d03f1c2",
+      "step": "Serve the beans over the rice and garnish with avocado."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 1.5
+      },
+      "_id": "5a402b799c5f02065d03f1b0",
+      "item": {
+        "_id": "5a402b8e9c5f02065d03f1b1",
+        "label": "brown rice",
+        "slug": "brown-rice",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 0.25
+      },
+      "_id": "5a402b959c5f02065d03f1b2",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 1.5
+      },
+      "_id": "5a402b9f9c5f02065d03f1b3",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        },
+        "value": 4
+      },
+      "_id": "5a402ba89c5f02065d03f1b4",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "smashed",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 0.25
+      },
+      "_id": "5a402bb19c5f02065d03f1b5",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76709",
+        "label": "chili pepper",
+        "name": "chili pepper"
+      },
+      "notes": "flakes",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a402bc09c5f02065d03f1b6",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "chopped",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        },
+        "value": 15
+      },
+      "_id": "5a402bd19c5f02065d03f1b7",
+      "item": {
+        "_id": "5a402b2a9c5f02065d03f1ad",
+        "label": "black beans",
+        "slug": "black-beans",
+        "__v": 0
+      },
+      "notes": "1 can",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a402bdb9c5f02065d03f1b8",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76731",
+        "label": "oregano",
+        "name": "oregano"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 0.25
+      },
+      "_id": "5a402be49c5f02065d03f1b9",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a402bee9c5f02065d03f1ba",
+      "item": {
+        "_id": "5a402b3c9c5f02065d03f1ae",
+        "label": "avocado",
+        "slug": "avocado",
+        "__v": 0
+      },
+      "notes": "diced",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "value": 1
+      },
+      "type": "Ingredient",
+      "_id": "5a402bfb9c5f02065d03f1bb"
+    }
+  ],
+  "label": "Black Beans and Brown Rice",
+  "slug": "black-beans-and-brown-rice"
+}

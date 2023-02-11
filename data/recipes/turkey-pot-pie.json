@@ -1,0 +1,376 @@
+{
+  "source": {
+    "url": ""
+  },
+  "active": true,
+  "core": false,
+  "tags": [],
+  "_id": "53552cce85da3d10277f56a2",
+  "__v": 0,
+  "difficulty": 2,
+  "directions": [],
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ead3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ead4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ff",
+        "label": "butternut squash",
+        "name": "butternut squash"
+      },
+      "notes": "cut into 3/4-inch cubes (about 1.5 cups)"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ead5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76727",
+        "label": "lima beans",
+        "name": "lima beans"
+      },
+      "notes": "canned || cooked || frozen"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ead6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ead7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ead8",
+      "type": "Recipe",
+      "item": {
+        "yield": {
+          "amount": 1,
+          "label": "quart"
+        },
+        "time": {
+          "prep": 10,
+          "cook": 90,
+          "total": 100
+        },
+        "active": true,
+        "core": true,
+        "tags": [
+          "5a47b2d7277bd9fe34f72b6d"
+        ],
+        "_id": "53552cce85da3d10277f567f",
+        "__v": 7,
+        "difficulty": 2,
+        "directions": [
+          {
+            "_id": "597ceba8655df2e35144a026",
+            "step": "Put the chicken in a stock pot. Add the celery, carrots, and onion."
+          },
+          {
+            "_id": "597cebb5655df2e35144a027",
+            "step": "Cook on medium heat for a little while to lightly brown the ingredients."
+          },
+          {
+            "_id": "597cebde655df2e35144a028",
+            "step": "Add water and whatever seasonings you like - at a minimum I'll add peppercorns and bay leaves."
+          },
+          {
+            "_id": "597cebe5655df2e35144a029",
+            "step": "Cover the pot and simmer for at least an hour."
+          },
+          {
+            "_id": "597deaad655df2e35144a032",
+            "step": "When done, cool and store in the fridge or freeze it."
+          }
+        ],
+        "ingredients": [
+          {
+            "amount": {
+              "value": 1,
+              "unit": "596e4ec3b9f4af8616897901"
+            },
+            "_id": "5973350564b52eeae5d1e9c0",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76764",
+            "notes": "cleaned"
+          },
+          {
+            "amount": {
+              "value": 2,
+              "unit": "596e4ec3b9f4af8616897906"
+            },
+            "_id": "5973350564b52eeae5d1e9c1",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76705",
+            "notes": "broken into 3 pieces"
+          },
+          {
+            "amount": {
+              "value": 2,
+              "unit": "596e4ec3b9f4af8616897901"
+            },
+            "_id": "5973350564b52eeae5d1e9c2",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76703",
+            "notes": "cut in half"
+          },
+          {
+            "amount": {
+              "value": 1,
+              "unit": "596e4ec3b9f4af8616897901"
+            },
+            "_id": "5973350564b52eeae5d1e9c3",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76730",
+            "notes": "cut in quarters"
+          },
+          {
+            "amount": {
+              "value": 1,
+              "unit": "596e4ec3b9f4af86168978fc"
+            },
+            "_id": "5973350564b52eeae5d1e9c4",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76738",
+            "notes": "to taste"
+          },
+          {
+            "amount": {
+              "value": 4,
+              "unit": "596e4ec3b9f4af8616897907"
+            },
+            "_id": "5973350564b52eeae5d1e9c5",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76760",
+            "notes": "cold"
+          }
+        ],
+        "label": "Chicken Broth",
+        "notes": "Mason jars are ideal for storage when not freezing the broth. When freezing use ziplocks. / The yield on this recipe varies based on how long you reduce your broth. / If you want to remove the fat, let the stock cool then refrigerate for a few hours to solidify the fat. It can then be removed easily. / If you buy chicken specifically for broth, make sure the parts vary. If you try to make broth solely out of the cheaper unpopular bits (necks, backs, etc) then you're likely to end up with a very fatty broth that may not have as much flavor as you want (if you were to use those parts, you're best off roasting them for a while before making the stock).",
+        "slug": "chicken-broth"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ead9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76746",
+        "label": "sage",
+        "name": "sage"
+      },
+      "notes": "minced"
+    },
+    {
+      "amount": {
+        "value": 5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eada",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eadb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675a",
+        "label": "turkey",
+        "name": "turkey"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eadc",
+      "type": "Recipe",
+      "item": {
+        "active": true,
+        "core": true,
+        "tags": [],
+        "_id": "53552cce85da3d10277f567e",
+        "__v": 2,
+        "difficulty": 2,
+        "directions": [
+          {
+            "_id": "597ceb85655df2e35144a024",
+            "step": "In a bowl sift together the flour, the baking powder, and the salt, add the butter, and blend the mixture until it resembles meal."
+          },
+          {
+            "_id": "597ceb8b655df2e35144a025",
+            "step": "Stir in the Cheddar and the bacon and stir in enough of the milk to form a soft, sticky dough."
+          }
+        ],
+        "ingredients": [
+          {
+            "amount": {
+              "value": 1.25,
+              "unit": "596e4ec3b9f4af86168978f9"
+            },
+            "_id": "5973350564b52eeae5d1e9b9",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e766ec",
+            "notes": ""
+          },
+          {
+            "amount": {
+              "value": 1.5,
+              "unit": "596e4ec3b9f4af86168978fa"
+            },
+            "_id": "5973350564b52eeae5d1e9ba",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e766f2",
+            "notes": ""
+          },
+          {
+            "amount": {
+              "value": 0.5,
+              "unit": "596e4ec3b9f4af86168978fa"
+            },
+            "_id": "5973350564b52eeae5d1e9bb",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76748",
+            "notes": ""
+          },
+          {
+            "amount": {
+              "value": 2,
+              "unit": "596e4ec3b9f4af86168978fb"
+            },
+            "_id": "5973350564b52eeae5d1e9bc",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e766fd",
+            "notes": "cold, cut into bits"
+          },
+          {
+            "amount": {
+              "value": 1.5,
+              "unit": "596e4ec3b9f4af86168978f9"
+            },
+            "_id": "5973350564b52eeae5d1e9bd",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76706",
+            "notes": "grated"
+          },
+          {
+            "amount": {
+              "value": 4,
+              "unit": "596e4ec3b9f4af8616897909"
+            },
+            "_id": "5973350564b52eeae5d1e9be",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e766f1",
+            "notes": "cooked crisp and crumbled"
+          },
+          {
+            "amount": {
+              "value": 1.5,
+              "unit": "596e4ec3b9f4af86168978f9"
+            },
+            "_id": "5973350564b52eeae5d1e9bf",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76729",
+            "notes": ""
+          }
+        ],
+        "label": "Cheddar Bacon Pie Crust",
+        "notes": "",
+        "slug": "cheddar-bacon-pie-crust"
+      },
+      "notes": ""
+    }
+  ],
+  "label": "Turkey Pot Pie",
+  "notes": "Preheat the oven to 425°F. In a saucepan bring the water to a boil, in it cook the squash with salt to taste for 6 to 8 minutes, or until it is just tender, and with a slotted spoon transfer the squash to a bowl of ice and cold water to stop the cooking.  In the boiling water cook the lima beans for 3 minutes, or until they are just tender, with the slotted spoon transfer them to the bowl, and reserve 1 cup of the cooking liquid. In a large saucepan melt the butter over moderate heat, add the flour, and cook the roux, whisking, for 3 minutes. Add the turkey or chicken broth and the reserved cooking liquid in a stream, whisking, add the minced sage and salt and pepper to taste, and simmer the sauce, stirring occasionally, for 10 minutes.  Drain the squash and lima beans, stir them into the sauce with the onions and the turkey, and pour the mixture into a 1 1/2-quart shallow baking dish. The potpie may be prepared up to this point 1 day in advance and kept covered and chilled. Make the crust and drop it in tablespoons into the mixture. Bake the potpie in the lower third of the oven for 20 to 25 minutes, or until the crust is golden, and garnish it with the sage sprig. ",
+  "slug": "turkey-pot-pie"
+}

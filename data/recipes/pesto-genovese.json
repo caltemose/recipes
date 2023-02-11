@@ -1,0 +1,166 @@
+{
+  "time": {
+    "prep": 10,
+    "total": 10
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5a47b2d7277bd9fe34f72b6d",
+      "label": "support",
+      "slug": "support",
+      "__v": 0
+    }
+  ],
+  "_id": "53552cce85da3d10277f5696",
+  "__v": 2,
+  "difficulty": 2,
+  "directions": [],
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea6f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f6",
+        "label": "basil",
+        "name": "basil"
+      },
+      "notes": "genovese small basil is best"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea70",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76739",
+        "label": "pine nuts",
+        "name": "pine nuts"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea71",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea72",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea73",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76733",
+        "label": "parmeggiano",
+        "name": "parmeggiano"
+      },
+      "notes": "grated"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea74",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76736",
+        "label": "pecorino",
+        "name": "pecorino"
+      },
+      "notes": "grated"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea75",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": "from the pasta pot"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea76",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": ""
+    }
+  ],
+  "label": "Pesto Genovese",
+  "notes": "Combine the basil, pine nuts, garlic, oil and salt in a food processor and chop until smooth. Place the mixture in a large bowl and stir in the cheeses. Add the water and butter and stir well.",
+  "slug": "pesto-genovese"
+}

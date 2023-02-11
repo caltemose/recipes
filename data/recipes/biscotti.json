@@ -1,0 +1,213 @@
+{
+  "source": {
+    "url": "https://www.epicurious.com/recipes/food/views/nonnas-biscotti-351136"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01eb1cb7881b05b0096",
+      "label": "cookies",
+      "slug": "cookies",
+      "__v": 0
+    }
+  ],
+  "_id": "5a36df0cb1cb7881b05b0082",
+  "__v": 20,
+  "directions": [
+    {
+      "_id": "5a36df77b1cb7881b05b008c",
+      "step": "Stir together sugar, butter, and extracts in a large bowl."
+    },
+    {
+      "_id": "5a36df95b1cb7881b05b008d",
+      "step": "Add almonds and eggs and stir."
+    },
+    {
+      "_id": "5a36df9eb1cb7881b05b008e",
+      "step": "Add flour, baking powder, and salt. Stir until just combined."
+    },
+    {
+      "_id": "5a36dfb9b1cb7881b05b008f",
+      "step": "Chill dough, covered, 30 minutes."
+    },
+    {
+      "_id": "5a36dfc1b1cb7881b05b0090",
+      "step": "Preheat oven to 350F with rack in middle."
+    },
+    {
+      "_id": "5a36dfcdb1cb7881b05b0091",
+      "step": "Using moistened hands, halve dough and form 2 (16-by 2-inch) loaves on an ungreased large baking sheet."
+    },
+    {
+      "_id": "5a36dfd8b1cb7881b05b0092",
+      "step": "Bake until pale golden, about 30 minutes. Carefully transfer loaves to a rack and cool 15 minutes."
+    },
+    {
+      "_id": "5a36dfddb1cb7881b05b0093",
+      "step": "Cut loaves into 3/4-inch slices with a serrated knife."
+    },
+    {
+      "_id": "5a36dfe2b1cb7881b05b0094",
+      "step": "Arrange biscotti, with a cut side down, on a clean baking sheet and bake until golden, 20 to 25 minutes. Transfer to rack to cool completely."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a36df10b1cb7881b05b0083",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 0.5
+      },
+      "_id": "5a36df18b1cb7881b05b0084",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a36df25b1cb7881b05b0085",
+      "item": {
+        "_id": "5a36def7b1cb7881b05b0080",
+        "label": "almond extract",
+        "slug": "almond-extract",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a36df33b1cb7881b05b0086",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675c",
+        "label": "vanilla extract",
+        "name": "vanilla extract"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a36df3cb1cb7881b05b0087",
+      "item": {
+        "_id": "5a36deffb1cb7881b05b0081",
+        "label": "almonds",
+        "slug": "almonds",
+        "__v": 0
+      },
+      "notes": "whole, roasted, coarsely chopped",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 3
+      },
+      "_id": "5a36df52b1cb7881b05b0088",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 2.75
+      },
+      "_id": "5a36df5ab1cb7881b05b0089",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 1.5
+      },
+      "_id": "5a36df64b1cb7881b05b008a",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f2",
+        "label": "baking powder",
+        "name": "baking powder"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 0.25
+      },
+      "_id": "5a36df6db1cb7881b05b008b",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "type": "Ingredient"
+    }
+  ],
+  "label": "Biscotti",
+  "notes": "Original recipes adds 3 tablespoons of brandy. I usually don't have that and substitute some other liquor or orange extract or something similar.",
+  "slug": "biscotti"
+}

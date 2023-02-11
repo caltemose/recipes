@@ -1,0 +1,14 @@
+{
+  "recipes": [
+    {
+      "label": "Thai Ginger Chicken Soup",
+      "_id": "5a4977c4277bd9fe34f72bba"
+    }
+  ],
+  "tag": {
+    "_id": "5a49792e277bd9fe34f72bc7",
+    "label": "thai",
+    "slug": "thai",
+    "__v": 0
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "source": {
+    "name": "Italia in Cucina"
+  },
+  "time": {
+    "prep": 15,
+    "rest": 30,
+    "total": 45
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "53552cce85da3d10277f5683",
+  "__v": 7,
+  "difficulty": 2,
+  "directions": [
+    {
+      "_id": "597dec67655df2e35144a03e",
+      "step": "Peel the onions and slice in thin wheels."
+    },
+    {
+      "_id": "597dec70655df2e35144a03f",
+      "step": "Put the onions in a salad bowl, sprinkle with salt, pepper, the olive oil and vinegar. Toss well and set aside for 30 minutes."
+    },
+    {
+      "_id": "597dec7e655df2e35144a040",
+      "step": "Peel the cucumbers and slice thinly."
+    },
+    {
+      "_id": "597dec88655df2e35144a041",
+      "step": "&nbsp;Add the cucumbers and capers to the onions and toss well."
+    },
+    {
+      "_id": "597dec8e655df2e35144a042",
+      "step": "Garnish with basil and serve."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "value": 5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9e1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76740",
+        "label": "red onion(s)",
+        "name": "red onion(s)"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9e2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9e3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76763",
+        "label": "white wine vinegar",
+        "name": "white wine vinegar"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9e4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76710",
+        "label": "cucumber(s)",
+        "name": "cucumber(s)"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9e5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76702",
+        "label": "capers",
+        "name": "capers"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897908",
+          "label": "leave(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9e6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f6",
+        "label": "basil",
+        "name": "basil"
+      },
+      "notes": "torn"
+    }
+  ],
+  "label": "Cucumber and Onion Salad",
+  "notes": "",
+  "slug": "cucumber-and-onion-salad"
+}

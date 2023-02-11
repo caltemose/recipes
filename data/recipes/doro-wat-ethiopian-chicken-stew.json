@@ -1,0 +1,240 @@
+{
+  "source": {
+    "name": "Nom Nom Paleo",
+    "url": "http://nomnompaleo.com/post/55432334180/doro-wat-spicy-ethiopian-chicken-stew"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    },
+    {
+      "_id": "5a3d3eb20836b893a9a14c8b",
+      "label": "ethiopian",
+      "slug": "ethiopian",
+      "__v": 0
+    }
+  ],
+  "_id": "5a246d2e2c912bb7ffba8351",
+  "__v": 27,
+  "directions": [
+    {
+      "_id": "5a246e0e2c912bb7ffba835f",
+      "step": "Season chicken with salt and set aside."
+    },
+    {
+      "_id": "5a246e162c912bb7ffba8360",
+      "step": "Melt the ghee in a large Dutch over medium heat."
+    },
+    {
+      "_id": "5a246e2d2c912bb7ffba8361",
+      "step": "Add the sliced onions and cook undisturbed for 1-2 minutes."
+    },
+    {
+      "_id": "5a246e3c2c912bb7ffba8362",
+      "step": "Season liberally with salt and gently turn over the pile of onions every 3 to 4 minutes to ensure even cooking."
+    },
+    {
+      "_id": "5a246e572c912bb7ffba8363",
+      "step": "Once the onions have softened and reduced in volume, after about 15 minutes, turn the heat to medium low."
+    },
+    {
+      "_id": "5a246e6d2c912bb7ffba8364",
+      "step": "Continue cooking for 30 to 40 more minutes, turning the onion pile every 10 minutes or so until they are nicely caramelized."
+    },
+    {
+      "_id": "5a246e822c912bb7ffba8365",
+      "step": "Stir the ginger into the onions and cook for 30 seconds."
+    },
+    {
+      "_id": "5a246e952c912bb7ffba8366",
+      "step": "Add the berbere, cardamom and black pepper then pour in the chicken broth and stir to mix well."
+    },
+    {
+      "_id": "5a246ebc2c912bb7ffba8367",
+      "step": "Nestle the drumsticks into the liquid, and bring the contents of the pot to a low simmer."
+    },
+    {
+      "_id": "5a246ec92c912bb7ffba8368",
+      "step": "Cover and cook, turning the drumsticks occasionally, for 45 minutes or until the meat is tender and cooked through."
+    },
+    {
+      "_id": "5a246ece2c912bb7ffba8369",
+      "step": "In the meantime, make and peel the hard-boiled eggs."
+    },
+    {
+      "_id": "5a246ee62c912bb7ffba836a",
+      "step": "When the chicken is done, remove the lid and turn the heat to medium-high and cook for 5-10 minutes to reduce the liquid."
+    },
+    {
+      "_id": "5a246f042c912bb7ffba836b",
+      "step": "Add optional juice of a lime."
+    },
+    {
+      "_id": "5a246f142c912bb7ffba836c",
+      "step": "Transfer the chicken to a serving dish, garnish with egg wedges and ladle sauce on top to serve."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        },
+        "value": 3
+      },
+      "_id": "5a246d342c912bb7ffba8352",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76764",
+        "label": "chicken",
+        "name": "chicken"
+      },
+      "notes": "drumsticks/thighs",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 0.25
+      },
+      "_id": "5a246d412c912bb7ffba8353",
+      "item": {
+        "_id": "5a2469e92c912bb7ffba833c",
+        "label": "ghee",
+        "slug": "ghee",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a246d4a2c912bb7ffba8354",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76740",
+        "label": "red onion(s)",
+        "name": "red onion(s)"
+      },
+      "notes": "sliced thinly",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a246d582c912bb7ffba8355",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671d",
+        "label": "ginger",
+        "name": "ginger"
+      },
+      "notes": "fresh, about 1 inch grated finely",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a246d732c912bb7ffba8356",
+      "item": {
+        "_id": "5a246da42c912bb7ffba8357",
+        "label": "berbere spices",
+        "slug": "berbere-spices",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 0.25
+      },
+      "_id": "5a246dac2c912bb7ffba8358",
+      "item": {
+        "_id": "5a246dbf2c912bb7ffba8359",
+        "label": "cardamom",
+        "slug": "cardamom",
+        "__v": 0
+      },
+      "notes": "grounded",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 0.25
+      },
+      "_id": "5a246dc92c912bb7ffba835a",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      },
+      "notes": "grounded",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a246dd82c912bb7ffba835b",
+      "item": {
+        "_id": "5a246ded2c912bb7ffba835c",
+        "label": "chicken broth",
+        "slug": "chicken-broth",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 4
+      },
+      "_id": "5a246df62c912bb7ffba835d",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "hard boiled",
+      "type": "Ingredient"
+    }
+  ],
+  "label": "Doro Wat (Ethiopian Chicken Stew)",
+  "notes": "The original recipe adds 3 minced garlic cloves with the ginger.",
+  "slug": "doro-wat-ethiopian-chicken-stew"
+}

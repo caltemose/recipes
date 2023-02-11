@@ -1,0 +1,117 @@
+{
+  "time": {
+    "prep": 10,
+    "cook": 60,
+    "total": 70
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01eb1cb7881b05b0096",
+      "label": "cookies",
+      "slug": "cookies",
+      "__v": 0
+    }
+  ],
+  "_id": "53552cce85da3d10277f5698",
+  "__v": 2,
+  "difficulty": 1,
+  "directions": [],
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea7d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea7e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea7f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675d",
+        "label": "vegetable oil",
+        "name": "vegetable oil"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea80",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ee",
+        "label": "anise seeds",
+        "name": "anise seeds"
+      },
+      "notes": "vary amount to taste"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 0.5
+      },
+      "_id": "5973350564b52eeae5d1ea81",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": "vary amount to make runny dough",
+      "type": "Ingredient"
+    }
+  ],
+  "label": "Pizzelles",
+  "notes": "Beat eggs lightly with vegetable oil. Mix in sugar and anise seeds. Then mix in flour until you have a runny dough about the same consistency as pancake batter. Rub oil into a pizzelle iron, heat it up and then cook about a teaspoon of dough at a time. Cook time per pizzelle will decrease once the iron is at full temperature. Longer cooking makes crunchier pizzelles.",
+  "slug": "pizzelles"
+}

@@ -1,0 +1,67 @@
+{
+  "collections": [
+    {
+      "_id": "5a43a16f3616680adb777a9d",
+      "__v": 11,
+      "description": "this is the description for this collection of recipes. it is optional.",
+      "label": "abacus",
+      "recipes": [
+        {
+          "item": "53887f232bd7f0c2cd000005",
+          "order": 1,
+          "_id": "5c72a6fda12040e3f5745ecd"
+        },
+        {
+          "item": "5a425642d254dd0a6a6930d8",
+          "order": 2,
+          "_id": "5c72a6fda12040e3f5745ecc"
+        },
+        {
+          "item": "5384adfcca2ce0638a000002",
+          "order": 3,
+          "_id": "5c72a6fda12040e3f5745ecb"
+        },
+        {
+          "item": "53552cce85da3d10277f568d",
+          "order": 4,
+          "_id": "5c72a6fda12040e3f5745eca"
+        },
+        {
+          "item": "53552cce85da3d10277f56a2",
+          "order": 5,
+          "_id": "5c7a7adbc98cb7edc6396d5d"
+        }
+      ],
+      "slug": "abacus"
+    },
+    {
+      "_id": "5a440d6ba260608f681e6392",
+      "label": "junk",
+      "slug": "junk",
+      "recipes": [],
+      "__v": 0
+    },
+    {
+      "_id": "5a439dac18ee207cabe85bab",
+      "__v": 0,
+      "label": "test",
+      "recipes": [],
+      "slug": "test"
+    },
+    {
+      "_id": "5a439e3918ee207cabe85bac",
+      "__v": 0,
+      "description": "hello description\n\nline 2!",
+      "label": "test two",
+      "recipes": [],
+      "slug": "test-two"
+    },
+    {
+      "_id": "5a439e6156286b807e9cc155",
+      "label": "test3",
+      "slug": "test3",
+      "recipes": [],
+      "__v": 0
+    }
+  ]
+}

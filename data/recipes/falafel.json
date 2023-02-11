@@ -1,0 +1,231 @@
+{
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "53552cce85da3d10277f5684",
+  "__v": 11,
+  "difficulty": 2,
+  "directions": [
+    {
+      "_id": "597decbd655df2e35144a043",
+      "step": "Put the chickpeas in a large bowl and add enough cold water to cover them by at least 2 inches. Let soak overnight, then drain. Or use canned chickpeas, drained."
+    },
+    {
+      "_id": "597decc7655df2e35144a044",
+      "step": "Place the drained, uncooked chickpeas and the onions in the bowl of a food processor fitted with a steel blade. Add the parsley, cilantro, salt, hot pepper, garlic, and cumin."
+    },
+    {
+      "_id": "597deccd655df2e35144a045",
+      "step": "Process until blended but not pureed."
+    },
+    {
+      "_id": "597decd6655df2e35144a046",
+      "step": "Sprinkle in the baking powder and 4 tablespoons of the flour, and pulse. You want to add enough bulgur or flour so that the dough forms a small ball and no longer sticks to your hands."
+    },
+    {
+      "_id": "597decdb655df2e35144a047",
+      "step": "Turn into a bowl and refrigerate, covered, for several hours."
+    },
+    {
+      "_id": "597dece6655df2e35144a048",
+      "step": "Form the chickpea mixture into balls about the size of walnuts."
+    },
+    {
+      "_id": "597decf4655df2e35144a049",
+      "step": "Heat 3 inches of oil to 375F in a deep pot or wok and fry 1 ball to test. If it falls apart, add a little flour to the falafel mixture."
+    },
+    {
+      "_id": "597ded0a655df2e35144a04a",
+      "step": "Fry about 6 balls at once for a few minutes on each side, or until golden brown."
+    },
+    {
+      "_id": "597ded14655df2e35144a04b",
+      "step": "Drain on paper towels."
+    },
+    {
+      "_id": "597ded1f655df2e35144a04c",
+      "step": "To serve: stuff half a pita with falafel balls, chopped tomatoes, onion, green pepper, and pickled turnips. Drizzle with tahini sauce."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9e7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76708",
+        "label": "chickpeas",
+        "name": "chickpeas"
+      },
+      "notes": "canned or rehydrated"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9e8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "chopped roughly"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9e9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9ea",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670a",
+        "label": "cilantro",
+        "name": "cilantro"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9eb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9ec",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76709",
+        "label": "chili pepper",
+        "name": "chili pepper"
+      },
+      "notes": "dried"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9ed",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9ee",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76711",
+        "label": "cumin seeds",
+        "name": "cumin seeds"
+      },
+      "notes": "pulverized"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9ef",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f2",
+        "label": "baking powder",
+        "name": "baking powder"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9f0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": ""
+    }
+  ],
+  "label": "Falafel",
+  "notes": "Egyptians omit the cilantro and substitute fava beans for the chickpeas.",
+  "slug": "falafel"
+}

@@ -1,0 +1,246 @@
+{
+  "source": {
+    "author": "Michael Ruhlman",
+    "name": "Charcuterie"
+  },
+  "time": {
+    "prep": 30,
+    "cook": 75,
+    "rest": 1200
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "53552cce85da3d10277f567c",
+  "__v": 8,
+  "difficulty": 2,
+  "directions": [
+    {
+      "_id": "597de923655df2e35144a02b",
+      "step": "Combine all the brine ingredients in a pot large enough to hold the chicken. Give the lemons a good squeeze as you add them. Bring to a simmer and dissolve the salt and sugar."
+    },
+    {
+      "_id": "597de92b655df2e35144a02c",
+      "step": "Remove from heat and let cool fully."
+    },
+    {
+      "_id": "597de935655df2e35144a02d",
+      "step": "Add the chicken to the brine and weigh it down so it remains completely submerged. Place in the refrigerator for 8-12 hours."
+    },
+    {
+      "_id": "597de93b655df2e35144a02e",
+      "step": "Remove the chicken, rinse and pat dry and let rest uncovered in the refrigerator for 3 to 24 hours."
+    },
+    {
+      "_id": "597de942655df2e35144a02f",
+      "step": "Preheat the oven to 450F."
+    },
+    {
+      "_id": "597de94b655df2e35144a030",
+      "step": "Roast the chicken until it reaches an internal temperature of 160F."
+    },
+    {
+      "_id": "597de94e655df2e35144a031",
+      "step": "Remove from the oven and let it rest for at least 15 minutes before serving."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978ff",
+          "label": "liter(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9a8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9a9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9aa",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790b",
+          "label": "bunch"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9ab",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76758",
+        "label": "tarragon",
+        "name": "tarragon"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790b",
+          "label": "bunch"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9ac",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9ad",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f7",
+        "label": "bay leaf",
+        "name": "bay leaf"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5974d99735c6436ac4d5cedc",
+          "label": "head(s)",
+          "__v": 0
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9ae",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "halved horizontally"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9af",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "sliced"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9b0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76738",
+        "label": "peppercorn(s)",
+        "name": "peppercorn(s)"
+      },
+      "notes": "lightly crushed"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9b1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      },
+      "notes": "halved"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9b2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76764",
+        "label": "chicken",
+        "name": "chicken"
+      },
+      "notes": "3-5 pounds"
+    }
+  ],
+  "label": "Brined Chicken",
+  "notes": "Do not shortcut the brining and resting times. I always omit the sugar and vary the ingredients here based on what's available. If you're going to get creative with the ingredients to flavor the chicken, be heavy-handed. I've substituted some of the water for beer and wine (not together obviously) and not seen a perceivable difference in the flavor of the chicken. In fact, the thing that seems to influence the flavor of the chicken the most is the quality of your chicken.",
+  "slug": "brined-chicken"
+}

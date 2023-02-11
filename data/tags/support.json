@@ -1,0 +1,26 @@
+{
+  "recipes": [
+    {
+      "label": "Chicken Broth",
+      "_id": "53552cce85da3d10277f567f"
+    },
+    {
+      "label": "Pasta Dough",
+      "_id": "53552cce85da3d10277f5693"
+    },
+    {
+      "label": "Pesto Genovese",
+      "_id": "53552cce85da3d10277f5696"
+    },
+    {
+      "label": "Plain Pastry",
+      "_id": "5a47b1e8277bd9fe34f72b62"
+    }
+  ],
+  "tag": {
+    "_id": "5a47b2d7277bd9fe34f72b6d",
+    "label": "support",
+    "slug": "support",
+    "__v": 0
+  }
+}

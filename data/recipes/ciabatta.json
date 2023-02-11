@@ -1,0 +1,131 @@
+{
+  "source": {
+    "author": "Paul Hollywood",
+    "name": "Great British Baking Show"
+  },
+  "time": {
+    "cook": 25,
+    "prep": 20,
+    "rest": 180,
+    "total": 225
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a3d3f5e0836b893a9a14c8e",
+      "label": "bread",
+      "slug": "bread",
+      "__v": 0
+    }
+  ],
+  "_id": "5a47b6e0277bd9fe34f72b8e",
+  "__v": 14,
+  "directions": [
+    {
+      "_id": "5a47b728277bd9fe34f72b93",
+      "step": "Put flour into mixing bowl. Put yeast on one side and salt on the other."
+    },
+    {
+      "_id": "5a47b737277bd9fe34f72b94",
+      "step": "Add 70-80% of the water and mix using the dough hook. (Kitchenaid speed 1 then 2)"
+    },
+    {
+      "_id": "5a47b75d277bd9fe34f72b95",
+      "step": "Add remaining water as the dough forms. Knead in the mixer for about 15 minutes."
+    },
+    {
+      "_id": "5a47b76c277bd9fe34f72b96",
+      "step": "Oil a 3-liter plastic tub (rectangle/square) and put the dough in it."
+    },
+    {
+      "_id": "5a47b782277bd9fe34f72b97",
+      "step": "Cover the dough and let it proof until it has doubled in size (1.5-2 hours)."
+    },
+    {
+      "_id": "5a47b796277bd9fe34f72b98",
+      "step": "Add flour and corn meal to your work surface and gently pour the dough out of the container."
+    },
+    {
+      "_id": "5a47b7be277bd9fe34f72b99",
+      "step": "Cover the dough with semolina and shape it into a square. Cut the dough in half and using the cutting instrument (knife or dough scraper) fold one of the loaves over and away from the other half."
+    },
+    {
+      "_id": "5a47b7c6277bd9fe34f72b9a",
+      "step": "Add flour and semolina to a baking tray and put both loaves on the tray. Let the dough rest for 30-45 minutes. Preheat the oven to 430F convection/fan (or 460F without fan)."
+    },
+    {
+      "_id": "5a47b7d1277bd9fe34f72b9b",
+      "step": "Bake the loaves for 25 minutes - check after 20."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        },
+        "value": 500
+      },
+      "_id": "5a47b6f3277bd9fe34f72b8f",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": "or bread flour, high gluten is best",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        },
+        "value": 10
+      },
+      "_id": "5a47b701277bd9fe34f72b90",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76767",
+        "label": "yeast",
+        "name": "yeast"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        },
+        "value": 10
+      },
+      "_id": "5a47b719277bd9fe34f72b91",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897900",
+          "label": "milliliter(s)"
+        },
+        "value": 440
+      },
+      "_id": "5a47b720277bd9fe34f72b92",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "type": "Ingredient"
+    }
+  ],
+  "label": "Ciabatta",
+  "slug": "ciabatta"
+}

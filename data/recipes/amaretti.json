@@ -1,0 +1,160 @@
+{
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01eb1cb7881b05b0096",
+      "label": "cookies",
+      "slug": "cookies",
+      "__v": 0
+    }
+  ],
+  "_id": "5c43b0e60529ebe092bea0b4",
+  "__v": 21,
+  "directions": [
+    {
+      "_id": "5c43b13a0529ebe092bea0bb",
+      "step": "Preheat oven to 325° F. Position rack in the center."
+    },
+    {
+      "_id": "5c43b13e0529ebe092bea0bc",
+      "step": "Line large baking sheet with parchment paper."
+    },
+    {
+      "_id": "5c43b1450529ebe092bea0bd",
+      "step": "In a large bowl, whisk almond flour and sugar together."
+    },
+    {
+      "_id": "5c43b14e0529ebe092bea0be",
+      "step": "Add grated lemon zest and whisk a few more times. Set aside."
+    },
+    {
+      "_id": "5c43b1530529ebe092bea0bf",
+      "step": "In a separate bowl, whisk egg whites to a soft peak stage."
+    },
+    {
+      "_id": "5c43b1590529ebe092bea0c0",
+      "step": "Whisk in the bitter almond extract."
+    },
+    {
+      "_id": "5c43b15d0529ebe092bea0c1",
+      "step": "Gently incorporate the egg whites to the dry ingredients. Once the dough is completely moist, you are done. Refrigerate for 30-60 minutes."
+    },
+    {
+      "_id": "5c43b1620529ebe092bea0c2",
+      "step": "Use the smallest ice cream scooper to portion the dough (about 1 tablespoon)."
+    },
+    {
+      "_id": "5c43b1660529ebe092bea0c3",
+      "step": "With slightly damp hands, press your palms into the plate of sugar."
+    },
+    {
+      "_id": "5c43b16b0529ebe092bea0c4",
+      "step": "Roll each ball of dough with your sugar coated palms and then again in the sugar found on the plate."
+    },
+    {
+      "_id": "5c43b1a60529ebe092bea0c5",
+      "step": "Place on baking sheet and bake for about 25 minutes or until bottoms are golden brown in color."
+    },
+    {
+      "_id": "5c43b1b10529ebe092bea0c6",
+      "step": "Cool before storing."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        },
+        "value": 250
+      },
+      "_id": "5c43b0eb0529ebe092bea0b5",
+      "item": {
+        "_id": "5c43b0950529ebe092bea0b3",
+        "label": "almond flour",
+        "slug": "almond-flour",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        },
+        "value": 200
+      },
+      "_id": "5c43b0f60529ebe092bea0b6",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 1
+      },
+      "_id": "5c43b1020529ebe092bea0b7",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      },
+      "notes": "just the zest",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 3
+      },
+      "_id": "5c43b1110529ebe092bea0b8",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "just the whites",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 1
+      },
+      "_id": "5c43b11e0529ebe092bea0b9",
+      "item": {
+        "_id": "5a36def7b1cb7881b05b0080",
+        "label": "almond extract",
+        "slug": "almond-extract",
+        "__v": 0
+      },
+      "notes": "the bitter kind",
+      "type": "Ingredient"
+    }
+  ],
+  "label": "Amaretti",
+  "notes": "Some recipes include some powdered sugar in the dough. The original recipe I used was the King Arthur flour recipe but I'm trying this one out to see how it differs. Note: bitter almonds and bitter almond extract are difficult/impossible to find in the U.S.",
+  "slug": "amaretti"
+}

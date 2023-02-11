@@ -1,0 +1,215 @@
+{
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    },
+    {
+      "_id": "5a3d409c0836b893a9a14c93",
+      "label": "breakfast",
+      "slug": "breakfast",
+      "__v": 0
+    }
+  ],
+  "_id": "5a425642d254dd0a6a6930d8",
+  "__v": 17,
+  "directions": [
+    {
+      "_id": "5a42570cd254dd0a6a6930e5",
+      "step": "In a large bowl, whisk together the eggs, coconut flour, fish sauce, and apple cider vinegar until smooth."
+    },
+    {
+      "_id": "5a425718d254dd0a6a6930e6",
+      "step": "<div>Mix in the ham, spinach, scallions, cilantro, and baking soda, and some freshly ground black pepper.</div>"
+    },
+    {
+      "_id": "5a425730d254dd0a6a6930e7",
+      "step": "Melt ghee/oil in a skillet over medium heat."
+    },
+    {
+      "_id": "5a425748d254dd0a6a6930e8",
+      "step": "Drop the batter into the pan to form pancakes about 1/2 inch thick."
+    },
+    {
+      "_id": "5a425775d254dd0a6a6930e9",
+      "step": "Fry 2 minutes then flip and cook 1-2 minutes more. Pancakes are cooked when the center bounces back when you press down on them with your finger."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 6
+      },
+      "_id": "5a425648d254dd0a6a6930d9",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 0.25
+      },
+      "_id": "5a425651d254dd0a6a6930da",
+      "item": {
+        "_id": "5a246a1d2c912bb7ffba833f",
+        "label": "coconut flour",
+        "slug": "coconut-flour",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a425658d254dd0a6a6930db",
+      "item": {
+        "_id": "5a425687d254dd0a6a6930dc",
+        "label": "fish sauce",
+        "slug": "fish-sauce",
+        "__v": 0
+      },
+      "notes": "or salt to taste",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 0.25
+      },
+      "_id": "5a4256a2d254dd0a6a6930de",
+      "item": {
+        "_id": "5a42568ed254dd0a6a6930dd",
+        "label": "apple cider vinegar",
+        "slug": "apple-cider-vinegar",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a4256b8d254dd0a6a6930df",
+      "item": {
+        "_id": "5a246a152c912bb7ffba833e",
+        "label": "ham",
+        "slug": "ham",
+        "__v": 0
+      },
+      "notes": "diced",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        },
+        "value": 10
+      },
+      "_id": "5a4256c3d254dd0a6a6930e0",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674f",
+        "label": "spinach",
+        "name": "spinach"
+      },
+      "notes": "or whatever greens",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a4256ced254dd0a6a6930e1",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674a",
+        "label": "scallions",
+        "name": "scallions"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a4256dbd254dd0a6a6930e2",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670a",
+        "label": "cilantro",
+        "name": "cilantro"
+      },
+      "notes": "minced",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 0.5
+      },
+      "_id": "5a4256ecd254dd0a6a6930e3",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f3",
+        "label": "baking soda",
+        "name": "baking soda"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        },
+        "value": 1
+      },
+      "_id": "5a4256f4d254dd0a6a6930e4",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      },
+      "type": "Ingredient"
+    }
+  ],
+  "label": "Spinach Egg Ham Pancakes",
+  "slug": "spinach-egg-ham-pancakes"
+}

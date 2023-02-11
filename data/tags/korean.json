@@ -1,0 +1,14 @@
+{
+  "recipes": [
+    {
+      "label": "Bibimbap",
+      "_id": "5a3fe30e44229bfe637b73d0"
+    }
+  ],
+  "tag": {
+    "_id": "5a3fe8f59c5f02065d03f1ab",
+    "label": "korean",
+    "slug": "korean",
+    "__v": 0
+  }
+}

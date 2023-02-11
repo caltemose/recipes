@@ -1,0 +1,179 @@
+{
+  "source": {
+    "author": "Keo Sananikone",
+    "name": "Keo's Thai Cusine"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    },
+    {
+      "_id": "5a49792e277bd9fe34f72bc7",
+      "label": "thai",
+      "slug": "thai",
+      "__v": 0
+    }
+  ],
+  "_id": "5a4977c4277bd9fe34f72bba",
+  "__v": 15,
+  "directions": [
+    {
+      "_id": "5a49784f277bd9fe34f72bc4",
+      "step": "Bring coconut milk and water to a light boil and reduce to medium low."
+    },
+    {
+      "_id": "5a497876277bd9fe34f72bc5",
+      "step": "Add chicken and cook 3 minutes."
+    },
+    {
+      "_id": "5a49787c277bd9fe34f72bc6",
+      "step": "Stir in ginger, fish sauce and lime juice. Sprinkle with scallion and parsley and serve hot."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        },
+        "value": 0.5
+      },
+      "_id": "5a4977c6277bd9fe34f72bbb",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76764",
+        "label": "chicken",
+        "name": "chicken"
+      },
+      "notes": "whatever boneless, skinless, cut into strips",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 3
+      },
+      "_id": "5a4977d5277bd9fe34f72bbc",
+      "item": {
+        "_id": "5a246a042c912bb7ffba833d",
+        "label": "coconut milk",
+        "slug": "coconut-milk",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a4977ea277bd9fe34f72bbe",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897902",
+          "label": "piece(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a4977f0277bd9fe34f72bbf",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671d",
+        "label": "ginger",
+        "name": "ginger"
+      },
+      "notes": "about an inch, sliced thinly",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a497815277bd9fe34f72bc0",
+      "item": {
+        "_id": "5a425687d254dd0a6a6930dc",
+        "label": "fish sauce",
+        "slug": "fish-sauce",
+        "__v": 0
+      },
+      "notes": "to taste",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 3
+      },
+      "_id": "5a497824277bd9fe34f72bc1",
+      "item": {
+        "_id": "5a4977b9277bd9fe34f72bb9",
+        "label": "lime(s)",
+        "slug": "lime-s",
+        "__v": 0
+      },
+      "notes": "juiced",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a497830277bd9fe34f72bc2",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674a",
+        "label": "scallions",
+        "name": "scallions"
+      },
+      "notes": "sliced",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a49783b277bd9fe34f72bc3",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "Chinese parsley or similar",
+      "type": "Ingredient"
+    }
+  ],
+  "label": "Thai Ginger Chicken Soup",
+  "notes": "Add hot stuff to taste if desired. I'll add some slices of thai chili if I have them.\n\nThe amount of fish sauce you add is up to your taste. If you haven't used it before, go light, it's potent. Or just omit - whatever.\n\nI don't follow this recipe exactly - I adjust it for 1 can of coconut milk which is almost 2 cups. I may also substitute shrimp for chicken and add some thin slices of carrot or other vegetables depending on what I have. I might even add noodles. This soup with just chicken is not super exciting but with modifications is pretty nice.",
+  "slug": "thai-ginger-chicken-soup"
+}

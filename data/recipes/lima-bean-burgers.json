@@ -1,0 +1,173 @@
+{
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "53552cce85da3d10277f568d",
+  "__v": 1,
+  "difficulty": 2,
+  "directions": [],
+  "ingredients": [
+    {
+      "amount": {
+        "value": 15,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea35",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76727",
+        "label": "lima beans",
+        "name": "lima beans"
+      },
+      "notes": "drained"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea36",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76768",
+        "label": "yellow onion(s)",
+        "name": "yellow onion(s)"
+      },
+      "notes": "small, chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea37",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76723",
+        "label": "jalapeño pepper(s)",
+        "name": "jalapeño pepper(s)"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea38",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76749",
+        "label": "Saltine crackers",
+        "name": "saltine crackers"
+      },
+      "notes": "crushed"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea39",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "beaten"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea3a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76706",
+        "label": "cheddar",
+        "name": "cheddar"
+      },
+      "notes": "shredded"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea3b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671b",
+        "label": "garlic powder",
+        "name": "garlic powder"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea3c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "notes": "to taste"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea3d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675d",
+        "label": "vegetable oil",
+        "name": "vegetable oil"
+      },
+      "notes": "for frying"
+    }
+  ],
+  "label": "Lima Bean Burgers",
+  "notes": "In a medium bowl, mash butter beans. Mix in onion, jalapeno pepper, crushed crackers, egg, cheese, garlic powder, salt, and pepper. Divide into 4 equal parts, and shape into patties. Heat oil in a large skillet over medium-high heat; use more or less oil to reach 1/4 inch in depth. Fry patties until golden, about 5 minutes on each side.",
+  "slug": "lima-bean-burgers"
+}

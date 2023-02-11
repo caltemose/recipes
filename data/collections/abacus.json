@@ -1,0 +1,54 @@
+{
+  "_id": "5a43a16f3616680adb777a9d",
+  "__v": 11,
+  "description": "this is the description for this collection of recipes. it is optional.",
+  "label": "abacus",
+  "recipes": [
+    {
+      "item": {
+        "_id": "53887f232bd7f0c2cd000005",
+        "label": "Red Pea Soup",
+        "slug": "red-pea-soup"
+      },
+      "order": 1,
+      "_id": "5c72a6fda12040e3f5745ecd"
+    },
+    {
+      "item": {
+        "_id": "5a425642d254dd0a6a6930d8",
+        "label": "Spinach Egg Ham Pancakes",
+        "slug": "spinach-egg-ham-pancakes"
+      },
+      "order": 2,
+      "_id": "5c72a6fda12040e3f5745ecc"
+    },
+    {
+      "item": {
+        "_id": "5384adfcca2ce0638a000002",
+        "label": "Polenta",
+        "slug": "polenta"
+      },
+      "order": 3,
+      "_id": "5c72a6fda12040e3f5745ecb"
+    },
+    {
+      "item": {
+        "_id": "53552cce85da3d10277f568d",
+        "label": "Lima Bean Burgers",
+        "slug": "lima-bean-burgers"
+      },
+      "order": 4,
+      "_id": "5c72a6fda12040e3f5745eca"
+    },
+    {
+      "item": {
+        "_id": "53552cce85da3d10277f56a2",
+        "label": "Turkey Pot Pie",
+        "slug": "turkey-pot-pie"
+      },
+      "order": 5,
+      "_id": "5c7a7adbc98cb7edc6396d5d"
+    }
+  ],
+  "slug": "abacus"
+}

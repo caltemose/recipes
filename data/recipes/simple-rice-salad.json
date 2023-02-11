@@ -1,0 +1,185 @@
+{
+  "source": {
+    "name": "Italia in Cucina"
+  },
+  "time": {
+    "cook": 15,
+    "prep": 30,
+    "total": 45
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    }
+  ],
+  "_id": "5a47b50a277bd9fe34f72b80",
+  "__v": 14,
+  "directions": [
+    {
+      "_id": "5a47b5a0277bd9fe34f72b89",
+      "step": "Bring 2.5 quarts of salted water to a boil."
+    },
+    {
+      "_id": "5a47b5b4277bd9fe34f72b8a",
+      "step": "Add the rice and stir a few times. Allow 13-15 minutes cooking time from when the water comes to the boil again. The rice should be al dente but not too firm."
+    },
+    {
+      "_id": "5a47b5c6277bd9fe34f72b8b",
+      "step": "Drain the rice and pass it under cool water to stop the cooking. Drain again very thoroughly."
+    },
+    {
+      "_id": "5a47b5e7277bd9fe34f72b8c",
+      "step": "Add the rice and olive oil to a large bowl. Toss."
+    },
+    {
+      "_id": "5a47b60d277bd9fe34f72b8d",
+      "step": "Just before serving add the remaining ingredients and pepper to taste. Add salt if needed (olives and capers may be enough for you)."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 1.25
+      },
+      "_id": "5a47b50c277bd9fe34f72b81",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ef",
+        "label": "arborio rice",
+        "name": "arborio rice"
+      },
+      "notes": "or other rice is fine",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 4
+      },
+      "_id": "5a47b521277bd9fe34f72b82",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": "higher quality",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a47b52e277bd9fe34f72b83",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76759",
+        "label": "tomato(es)",
+        "name": "tomato(es)"
+      },
+      "notes": "chopped bite-sized",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a47b562277bd9fe34f72b84",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76710",
+        "label": "cucumber(s)",
+        "name": "cucumber(s)"
+      },
+      "notes": "chopped bite-sized",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a47b56e277bd9fe34f72b85",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76702",
+        "label": "capers",
+        "name": "capers"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 10
+      },
+      "_id": "5a47b576277bd9fe34f72b86",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672f",
+        "label": "olive(s)",
+        "name": "olive(s)"
+      },
+      "notes": "pitted",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        },
+        "value": 4
+      },
+      "_id": "5a47b583277bd9fe34f72b87",
+      "item": {
+        "_id": "5a47b4f8277bd9fe34f72b7f",
+        "label": "Emmenthal cheese",
+        "slug": "emmenthal-cheese",
+        "__v": 0
+      },
+      "notes": "diced",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897908",
+          "label": "leave(s)"
+        },
+        "value": 6
+      },
+      "_id": "5a47b591277bd9fe34f72b88",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f6",
+        "label": "basil",
+        "name": "basil"
+      },
+      "notes": "torn",
+      "type": "Ingredient"
+    }
+  ],
+  "label": "Simple Rice Salad",
+  "notes": "You can get pretty creative with the ingredient mixture using whatever is in season or fits your tastes. You can also cook the rice however you like if you prefer (such as with a rice cooker).",
+  "slug": "simple-rice-salad"
+}

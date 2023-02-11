@@ -1,0 +1,18 @@
+{
+  "recipes": [
+    {
+      "label": "Five-Spice Powder",
+      "_id": "53552cce85da3d10277f5685"
+    },
+    {
+      "label": "Jerk Seasoning",
+      "_id": "53552cce85da3d10277f568c"
+    }
+  ],
+  "tag": {
+    "_id": "5a3d3f3e0836b893a9a14c8d",
+    "label": "seasoning",
+    "slug": "seasoning",
+    "__v": 0
+  }
+}

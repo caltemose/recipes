@@ -1,0 +1,177 @@
+{
+  "source": {
+    "url": "http://allrecipes.com/recipe/76594/grandmothers-buttermilk-cornbread/"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a3d3f5e0836b893a9a14c8e",
+      "label": "bread",
+      "slug": "bread",
+      "__v": 0
+    }
+  ],
+  "_id": "5a40345d8ab0e729e2e01ac8",
+  "__v": 17,
+  "directions": [
+    {
+      "_id": "5a4034a28ab0e729e2e01ad2",
+      "step": "Preheat oven to 375F. Grease an 8-inch square pan."
+    },
+    {
+      "_id": "5a4034ad8ab0e729e2e01ad3",
+      "step": "Melt butter in sauce pan. Remove from heat and stir in sugar. Add eggs and beat until well blended."
+    },
+    {
+      "_id": "5a4034c48ab0e729e2e01ad4",
+      "step": "Combine buttermilk with baking soda and stir mixture into pan."
+    },
+    {
+      "_id": "5a4034d48ab0e729e2e01ad5",
+      "step": "Combine remaining dry ingredients in bowl and mix."
+    },
+    {
+      "_id": "5a4034f88ab0e729e2e01ad6",
+      "step": "Combine wet and dry mixtures and mix."
+    },
+    {
+      "_id": "5a4035058ab0e729e2e01ad7",
+      "step": "Pour batter into the greased pan and bake for 30-40 minutes."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 0.5
+      },
+      "_id": "5a40345f8ab0e729e2e01ac9",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 0.667
+      },
+      "_id": "5a4034678ab0e729e2e01aca",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a4034718ab0e729e2e01acb",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a4034798ab0e729e2e01acc",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fe",
+        "label": "buttermilk",
+        "name": "buttermilk"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 0.5
+      },
+      "_id": "5a4034808ab0e729e2e01acd",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f3",
+        "label": "baking soda",
+        "name": "baking soda"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a4034878ab0e729e2e01ace",
+      "item": {
+        "_id": "5a4034568ab0e729e2e01ac7",
+        "label": "corn meal",
+        "slug": "corn-meal",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a40348e8ab0e729e2e01acf",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 0.5
+      },
+      "_id": "5a4034968ab0e729e2e01ad0",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "type": "Ingredient"
+    }
+  ],
+  "label": "Corn Bread",
+  "notes": "You can also do this the old-fashioned way in a cast iron pan by starting it on the stove and finishing it in the oven.",
+  "slug": "corn-bread"
+}

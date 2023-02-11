@@ -1,0 +1,200 @@
+{
+  "source": {
+    "author": "André Surmain"
+  },
+  "time": {
+    "cook": 40,
+    "prep": 20,
+    "total": 60
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "53552cce85da3d10277f5686",
+  "__v": 14,
+  "difficulty": 2,
+  "directions": [
+    {
+      "_id": "597deece655df2e35144a059",
+      "step": "Preheat an oven to 160C/350F."
+    },
+    {
+      "_id": "597ded54655df2e35144a04d",
+      "step": "Melt the butter in a pot over medium heat (cut up in small squares - it blends in faster)."
+    },
+    {
+      "_id": "597ded77655df2e35144a04e",
+      "step": "Add the cream and the starch. Keep stirring until the mixture thickens then remove from heat."
+    },
+    {
+      "_id": "597ded88655df2e35144a04f",
+      "step": "Quickly add the egg yolks and stir then add the cheeses and continue stirring."
+    },
+    {
+      "_id": "597ded93655df2e35144a050",
+      "step": "Add the nutmeg. If you used salted butter you do not need to add salt - otherwise, add some salt and then pepper."
+    },
+    {
+      "_id": "597ded9f655df2e35144a051",
+      "step": "In a Bol à Blanc (any large round bowl will do) start beating the egg whites with a large wisk."
+    },
+    {
+      "_id": "597dedb7655df2e35144a052",
+      "step": "Check once in a while - the whites should peak on the end of your whisk and stand up straight."
+    },
+    {
+      "_id": "597dedd2655df2e35144a053",
+      "step": "Add the basic mixture which you have set aside. This is the delicate side of a successful soufflé."
+    },
+    {
+      "_id": "597dedf8655df2e35144a054",
+      "step": "Pour the mixture directly into the whites and stir in a circular movement - using a flat spatula to do this. Be gentle and do not worry if the mixture has not blended completely."
+    },
+    {
+      "_id": "597dee0c655df2e35144a055",
+      "step": "Pour into a well-buttered soufflé bowl."
+    },
+    {
+      "_id": "597dee1e655df2e35144a056",
+      "step": "Fill to the top and place in a pre-heated medium oven (160C/350F) for 40 minutes more or less."
+    },
+    {
+      "_id": "597dee3b655df2e35144a057",
+      "step": "Check (through the oven window) once in a while to see how the soufflé is doing. Do not open the oven to do this."
+    },
+    {
+      "_id": "597dee5f655df2e35144a058",
+      "step": "When ready, serve immediately remembering: \"On doit attendre un soufflé...mais, un soufflé ne doit jamais attendre!\" (One must wait for a soufflé but a soufflé must never wait!)"
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "value": 375,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9f6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76722",
+        "label": "heavy cream",
+        "name": "heavy cream"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 45,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9f7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 40,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9f8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670e",
+        "label": "cornstarch",
+        "name": "cornstarch"
+      },
+      "notes": "or potato starch"
+    },
+    {
+      "amount": {
+        "value": 9,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9f9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "separated"
+    },
+    {
+      "amount": {
+        "value": 40,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9fa",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76733",
+        "label": "parmeggiano",
+        "name": "parmeggiano"
+      },
+      "notes": "grated"
+    },
+    {
+      "amount": {
+        "value": 185,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9fb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76754",
+        "label": "swiss cheese",
+        "name": "swiss cheese"
+      },
+      "notes": "grated"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9fc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672d",
+        "label": "nutmeg",
+        "name": "nutmeg"
+      },
+      "notes": "grated"
+    }
+  ],
+  "label": "French Cheese Soufflé",
+  "notes": "",
+  "slug": "french-cheese-souffle"
+}

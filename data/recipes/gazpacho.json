@@ -1,0 +1,190 @@
+{
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "53552cce85da3d10277f5688",
+  "__v": 1,
+  "difficulty": 1,
+  "directions": [],
+  "ingredients": [
+    {
+      "amount": {
+        "value": 10,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea04",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fb",
+        "label": "bread",
+        "name": "bread"
+      },
+      "notes": "stale is best"
+    },
+    {
+      "amount": {
+        "value": 21,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea05",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76759",
+        "label": "tomato(es)",
+        "name": "tomato(es)"
+      },
+      "notes": "fresh and good quality, chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea06",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea07",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea08",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f9",
+        "label": "bell pepper(s)",
+        "name": "bell pepper(s)"
+      },
+      "notes": "2 different colors"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea09",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76710",
+        "label": "cucumber(s)",
+        "name": "cucumber(s)"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 7,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea0a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea0b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76741",
+        "label": "red wine vinegar",
+        "name": "red wine vinegar"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea0c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea0d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76711",
+        "label": "cumin seeds",
+        "name": "cumin seeds"
+      },
+      "notes": "roasted and pulverized"
+    }
+  ],
+  "label": "Gazpacho",
+  "notes": "Soak the bread for 5-10 minutes in water to soften it up. Roast and pulverize the cumin seeds while the water soaks. Mash the garlic with a mortar and pestle and mix with the soaked bread and cumin powder. In a bowl, mix the chopped onion, the chopped tomato, the oil, the vinegar, the salt with the contents of the mortar. Mash the mixture with a mixer or blender and add very cold water to mix everything. Add salt and cumin to taste. Strain it if you like. Keep it in the fridge until served. Serve with the tomato, the cucumber, the pepper and the toasted bread cut to dices. You can mix the ingredients without the olive oil and then when blending add in the oil so you can vary the amount and final texture of the soup to your liking.",
+  "slug": "gazpacho"
+}

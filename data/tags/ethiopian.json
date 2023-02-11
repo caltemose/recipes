@@ -1,0 +1,18 @@
+{
+  "recipes": [
+    {
+      "label": "Doro Wat (Ethiopian Chicken Stew)",
+      "_id": "5a246d2e2c912bb7ffba8351"
+    },
+    {
+      "label": "Ethiopian Potato Carrot Cabbage",
+      "_id": "5a246f852c912bb7ffba836d"
+    }
+  ],
+  "tag": {
+    "_id": "5a3d3eb20836b893a9a14c8b",
+    "label": "ethiopian",
+    "slug": "ethiopian",
+    "__v": 0
+  }
+}

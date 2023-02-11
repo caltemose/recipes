@@ -1,0 +1,18 @@
+{
+  "recipes": [
+    {
+      "label": "Ricotta Pie",
+      "_id": "5a47b2ef277bd9fe34f72b6e"
+    },
+    {
+      "label": "Simple Rice Salad",
+      "_id": "5a47b50a277bd9fe34f72b80"
+    }
+  ],
+  "tag": {
+    "_id": "5a47b43b277bd9fe34f72b7d",
+    "label": "italian",
+    "slug": "italian",
+    "__v": 0
+  }
+}

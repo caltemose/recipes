@@ -1,0 +1,179 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "63e00fc96ec18c0944a6ab47",
+  "label": "Butternut Squash-Carrot Soup",
+  "slug": "butternut-squash-carrot-soup",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "63e00fcb6ec18c0944a6ab48",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "63e00fd96ec18c0944a6ab49",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76768",
+        "label": "yellow onion(s)",
+        "name": "yellow onion(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "63e00fe76ec18c0944a6ab4a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ff",
+        "label": "butternut squash",
+        "name": "butternut squash"
+      },
+      "notes": "about 1.25 lb, coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "63e0100a6ec18c0944a6ab4b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      },
+      "notes": "coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 1.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "63e010166ec18c0944a6ab4c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76711",
+        "label": "cumin seeds",
+        "name": "cumin seeds"
+      },
+      "notes": "ground"
+    },
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "63e010256ec18c0944a6ab4d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675b",
+        "label": "turmeric",
+        "name": "turmeric"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "63e010c26ec18c0944a6ab59",
+      "type": "Ingredient",
+      "item": {
+        "_id": "63e010a96ec18c0944a6ab55",
+        "label": "coriander seeds",
+        "slug": "coriander-seeds",
+        "__v": 0
+      },
+      "notes": "ground"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "63e010cc6ec18c0944a6ab5a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "63e010b26ec18c0944a6ab56",
+        "label": "vegetable stock",
+        "slug": "vegetable-stock",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "63e0105a6ec18c0944a6ab50",
+      "step": "In a 4-qt pot over medium-low head, warm olive oil.&nbsp; Add the onion and sauté, stirring occasionally, until soft, about 10 minutes.&nbsp; Add squash, carrots and sauce, stirring, for 10 minutes.&nbsp; Add the spices and continue to sauce, stirring occasionally, about 10 minutes longer.&nbsp; Add stock and bring to a boil over high heat.&nbsp; Reduce heat to low and simmer, uncovered, until squash and carrots are soft, 30-40 minutes.&nbsp; Remove from heat and let cool slightly."
+    },
+    {
+      "_id": "63e0105d6ec18c0944a6ab51",
+      "step": "Working with 2 C of soup at a time, blend on high speed until very smooth and light.&nbsp; If soup is too thick, thin with a little water."
+    },
+    {
+      "_id": "63e010656ec18c0944a6ab52",
+      "step": "Place soup over medium-high heat and warm to serving temperature.&nbsp; Season to taste with salt and pepper."
+    },
+    {
+      "_id": "63e0106a6ec18c0944a6ab53",
+      "step": "Ladle into soup bowls and garnish."
+    }
+  ],
+  "__v": 18
+}

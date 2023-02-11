@@ -1,0 +1,115 @@
+{
+  "active": true,
+  "core": false,
+  "tags": [],
+  "_id": "5a497241277bd9fe34f72b9d",
+  "__v": 10,
+  "directions": [
+    {
+      "_id": "5a497284277bd9fe34f72ba3",
+      "step": "Rinse the chickpeas under cold water. Dry well (salad spinner + paper towels, etc)."
+    },
+    {
+      "_id": "5a4972ab277bd9fe34f72ba4",
+      "step": "Toss the chickpeas with oil and salt. Place on a sheet pan."
+    },
+    {
+      "_id": "5a4972c2277bd9fe34f72ba5",
+      "step": "Put the pan in a cold oven and turn the oven to 350F."
+    },
+    {
+      "_id": "5a4972da277bd9fe34f72ba6",
+      "step": "Turn the oven off after 30 minutes and leave the chickpeas in the oven for another hour."
+    },
+    {
+      "_id": "5a497305277bd9fe34f72ba7",
+      "step": "Toss the chickpeas with sumac and cayenne. Cool completely before storing."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        },
+        "value": 30
+      },
+      "_id": "5a497244277bd9fe34f72b9e",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76708",
+        "label": "chickpeas",
+        "name": "chickpeas"
+      },
+      "notes": "two 15-ounce cans (cooked)",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a49725d277bd9fe34f72b9f",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a497265277bd9fe34f72ba0",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a497273277bd9fe34f72ba1",
+      "item": {
+        "_id": "5a497237277bd9fe34f72b9c",
+        "label": "sumac",
+        "slug": "sumac",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 0.25
+      },
+      "_id": "5a49727b277bd9fe34f72ba2",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76704",
+        "label": "cayenne pepper",
+        "name": "cayenne pepper"
+      },
+      "type": "Ingredient"
+    }
+  ],
+  "label": "Crispy Chickpeas",
+  "slug": "crispy-chickpeas"
+}

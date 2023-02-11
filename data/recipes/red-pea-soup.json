@@ -1,0 +1,142 @@
+{
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    }
+  ],
+  "_id": "53887f232bd7f0c2cd000005",
+  "__v": 1,
+  "difficulty": 1,
+  "directions": [],
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790d",
+          "label": "pint(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eaea",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b26f041b2f68404000002",
+        "label": "kidney beans",
+        "name": "kidney beans",
+        "__v": 0
+      },
+      "notes": "canned"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790d",
+          "label": "pint(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eaeb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": "or broth"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897909",
+          "label": "slice(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eaec",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f1",
+        "label": "bacon",
+        "name": "bacon"
+      },
+      "notes": "or so"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eaed",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674b",
+        "label": "scotch bonnet pepper(s)",
+        "name": "scotch bonnet pepper(s)"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897906",
+          "label": "stalk(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eaee",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674a",
+        "label": "scallions",
+        "name": "scallions"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eaef",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27c341b2f68404000004",
+        "label": "potato",
+        "name": "potato",
+        "__v": 0
+      },
+      "notes": "chopped coarsely"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790c",
+          "label": "sprig(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eaf0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27be41b2f68404000003",
+        "label": "thyme",
+        "name": "thyme",
+        "__v": 0
+      },
+      "notes": ""
+    }
+  ],
+  "label": "Red Pea Soup",
+  "notes": "Chop the bacon into a few pieces and fry it in a soup pot. Or just drop the raw bacon into the soup in the next step. Your call. Feel free to substitute pancetta, ham hock or other soup meat for the bacon.\n\nAdd the remaining ingredients to the stock pot, bring to a low boil and reduce the heat to low. Simmer the soup for 45 minutes or so.\n\nIf you have an immersion blender, blend the soup for just a bit to puree some of the soup. \n\nIf you have a stand blender, remove half the soup and let it cool enough to blend it. Return the blended soup to the soup pot and heat it back up.\n\nAdd salt and pepper to taste.\n\n",
+  "slug": "red-pea-soup"
+}

@@ -1,0 +1,242 @@
+{
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    }
+  ],
+  "_id": "53552cce85da3d10277f569e",
+  "__v": 1,
+  "difficulty": 2,
+  "directions": [],
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eaad",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673e",
+        "label": "raisins",
+        "name": "raisins"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eaae",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76745",
+        "label": "rum",
+        "name": "rum"
+      },
+      "notes": "dark"
+    },
+    {
+      "amount": {
+        "value": 2.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eaaf",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      },
+      "notes": "whole"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eab0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76761",
+        "label": "white rice",
+        "name": "white rice"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eab1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fc",
+        "label": "brown sugar",
+        "name": "brown sugar"
+      },
+      "notes": "packed firmly"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eab2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eab3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": "unsalted"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eab4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eab5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670b",
+        "label": "cinnamon",
+        "name": "cinnamon"
+      },
+      "notes": "ground"
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eab6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76722",
+        "label": "heavy cream",
+        "name": "heavy cream"
+      },
+      "notes": "or half-and-half"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eab7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670e",
+        "label": "cornstarch",
+        "name": "cornstarch"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eab8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "lightly beaten"
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1eab9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675c",
+        "label": "vanilla extract",
+        "name": "vanilla extract"
+      },
+      "notes": ""
+    }
+  ],
+  "label": "Rum-Raisin Rice Pudding",
+  "notes": "In small non-stick saucepan, combine the raisins and rum and bring to a boil over medium-high heat. Remove the pan from the heat and let steep while you make the pudding. In a medium, heavy saucepan, combine the milk, rice, brown sugar, granulated sugar, butter, salt, cinnamon, 1 cup of the heavy cream. Cook over medium heat until the milk mixture comes to a gentle boil. Stir the mixture, cover the pan, and reduce the heat to low. Cook for 40 to 45 minutes, or until the rice is cooked through and much of the liquid is absorbed. In a small bowl, place the cornstarch. Gradually whisk in the remaining 1/2 cup heavy cream until smooth. Whisk in the egg yolks. Whisk about 1/2 cup of the hot rice mixture into the yolk mixture. Return this mixture to the pudding in the saucepan. Cook over medium heat, stirring constantly, until the mixture just starts to bubble. Continue to cook, stirring, for 1 minute, or until the mixture thickens slightly. Remove the pan from the heat. Add the vanilla to the rum-raisin mixture, and stir the mixture into the rice pudding. Divide the pudding among 6 sundae glasses, cover with plastic wrap (unless you want a skin to form), pressing it directly onto the surface of the pudding, and refrigerate for about 2 hours, or until well chilled.",
+  "slug": "rum-raisin-rice-pudding"
+}

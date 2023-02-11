@@ -1,0 +1,18 @@
+{
+  "recipes": [
+    {
+      "label": "Ale bread",
+      "_id": "53552cce85da3d10277f5679"
+    },
+    {
+      "label": "Test",
+      "_id": "5973dbff35878617f4bc156c"
+    }
+  ],
+  "tag": {
+    "_id": "5a246901bb101c58d6968084",
+    "label": "delete",
+    "slug": "delete",
+    "__v": 0
+  }
+}

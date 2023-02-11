@@ -1,0 +1,103 @@
+{
+  "tags": [
+    {
+      "_id": "5a3d40940836b893a9a14c92",
+      "label": "appetizer",
+      "slug": "appetizer",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d3f5e0836b893a9a14c8e",
+      "label": "bread",
+      "slug": "bread",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d409c0836b893a9a14c93",
+      "label": "breakfast",
+      "slug": "breakfast",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01eb1cb7881b05b0096",
+      "label": "cookies",
+      "slug": "cookies",
+      "__v": 0
+    },
+    {
+      "_id": "5a246901bb101c58d6968084",
+      "label": "delete",
+      "slug": "delete",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d3eb20836b893a9a14c8b",
+      "label": "ethiopian",
+      "slug": "ethiopian",
+      "__v": 0
+    },
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5a3fe8f59c5f02065d03f1ab",
+      "label": "korean",
+      "slug": "korean",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d3f160836b893a9a14c8c",
+      "label": "salad",
+      "slug": "salad",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d3f3e0836b893a9a14c8d",
+      "label": "seasoning",
+      "slug": "seasoning",
+      "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    },
+    {
+      "_id": "5a47b2d7277bd9fe34f72b6d",
+      "label": "support",
+      "slug": "support",
+      "__v": 0
+    },
+    {
+      "_id": "5a49792e277bd9fe34f72bc7",
+      "label": "thai",
+      "slug": "thai",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "recipes": [
+    {
+      "label": "Spiced Olives",
+      "_id": "53552cce85da3d10277f56a0"
+    }
+  ],
+  "tag": {
+    "_id": "5a3d40940836b893a9a14c92",
+    "label": "appetizer",
+    "slug": "appetizer",
+    "__v": 0
+  }
+}

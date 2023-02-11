@@ -1,0 +1,243 @@
+{
+  "source": {
+    "name": "Italia in Cucina"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    }
+  ],
+  "_id": "5a47b2ef277bd9fe34f72b6e",
+  "__v": 13,
+  "directions": [
+    {
+      "_id": "5a47b36c277bd9fe34f72b78",
+      "step": "Prepare the pastry base, roll it into a pie pan, cover it in plastic and chill it."
+    },
+    {
+      "_id": "5a47b387277bd9fe34f72b79",
+      "step": "Combine the remaining ingredients in a bowl and add salt and pepper to taste."
+    },
+    {
+      "_id": "5a47b3ab277bd9fe34f72b7a",
+      "step": "Remove the plastic from the pastry and spread the filling into the crust."
+    },
+    {
+      "_id": "5a47b3e0277bd9fe34f72b7b",
+      "step": "Bake in a preheated oven at 375F for about 40 minutes or until the top is golden brown."
+    },
+    {
+      "_id": "5a47b3f6277bd9fe34f72b7c",
+      "step": "Leave to cool and serve at room temperature."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a47b2f1277bd9fe34f72b6f",
+      "item": {
+        "source": {
+          "name": "Italia in Cucina"
+        },
+        "active": true,
+        "core": true,
+        "tags": [
+          "5a47b2d7277bd9fe34f72b6d"
+        ],
+        "_id": "5a47b1e8277bd9fe34f72b62",
+        "__v": 11,
+        "directions": [
+          {
+            "_id": "5a47b22e277bd9fe34f72b68",
+            "step": "Combine the flour and salt in a large bowl."
+          },
+          {
+            "_id": "5a47b239277bd9fe34f72b69",
+            "step": "Make a hollow in the center and fill with egg, butter and water."
+          },
+          {
+            "_id": "5a47b249277bd9fe34f72b6a",
+            "step": "Mix ingredients, mashing with a fork as you work."
+          },
+          {
+            "_id": "5a47b258277bd9fe34f72b6b",
+            "step": "Transfer crumbly dough to a floured work surface and shape into a compact ball, kneading as little as possible."
+          },
+          {
+            "_id": "5a47b280277bd9fe34f72b6c",
+            "step": "Chill or use as needed."
+          }
+        ],
+        "ingredients": [
+          {
+            "amount": {
+              "unit": "596e4ec3b9f4af86168978f9",
+              "value": 2.5
+            },
+            "_id": "5a47b1ef277bd9fe34f72b63",
+            "item": "5375ec34471e3f9e45e766ec",
+            "type": "Ingredient"
+          },
+          {
+            "amount": {
+              "value": 2
+            },
+            "_id": "5a47b1fb277bd9fe34f72b64",
+            "item": "5375ec34471e3f9e45e76748",
+            "type": "Ingredient"
+          },
+          {
+            "amount": {
+              "unit": "596e4ec3b9f4af8616897901",
+              "value": 1
+            },
+            "_id": "5a47b208277bd9fe34f72b65",
+            "item": "5375ec34471e3f9e45e76714",
+            "notes": "just the yolk",
+            "type": "Ingredient"
+          },
+          {
+            "amount": {
+              "unit": "596e4ec3b9f4af86168978f9",
+              "value": 0.5
+            },
+            "_id": "5a47b213277bd9fe34f72b66",
+            "item": "5375ec34471e3f9e45e766fd",
+            "notes": "sliced thinly",
+            "type": "Ingredient"
+          },
+          {
+            "amount": {
+              "unit": "596e4ec3b9f4af86168978fb",
+              "value": 2
+            },
+            "_id": "5a47b226277bd9fe34f72b67",
+            "item": "5375ec34471e3f9e45e76760",
+            "type": "Ingredient"
+          }
+        ],
+        "label": "Plain Pastry",
+        "notes": "I find it easier to mix the wet ingredients and add flour as you go to keep from over-flouring the dough. You can chill this dough in plastic before using or, as the original recipe suggests, form it in a pie pan (or whatever you're using) and then chill it.",
+        "slug": "plain-pastry"
+      },
+      "type": "Recipe"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 1.25
+      },
+      "_id": "5a47b301277bd9fe34f72b70",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76743",
+        "label": "ricotta",
+        "name": "ricotta"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a47b30b277bd9fe34f72b71",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "beaten",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 0.25
+      },
+      "_id": "5a47b314277bd9fe34f72b72",
+      "item": {
+        "_id": "5a246a152c912bb7ffba833e",
+        "label": "ham",
+        "slug": "ham",
+        "__v": 0
+      },
+      "notes": "chopped",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 0.33
+      },
+      "_id": "5a47b322277bd9fe34f72b73",
+      "item": {
+        "_id": "5a47b334277bd9fe34f72b74",
+        "label": "mortadella",
+        "slug": "mortadella",
+        "__v": 0
+      },
+      "notes": "chopped",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 0.5
+      },
+      "_id": "5a47b33d277bd9fe34f72b75",
+      "item": {
+        "_id": "5a47b354277bd9fe34f72b76",
+        "label": "provolone",
+        "slug": "provolone",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a47b359277bd9fe34f72b77",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76722",
+        "label": "heavy cream",
+        "name": "heavy cream"
+      },
+      "notes": "or light, feel free to omit this",
+      "type": "Ingredient"
+    }
+  ],
+  "label": "Ricotta Pie",
+  "notes": "I frequently change up the meat and cheese types and usually add greens of some sort (whatever is in season). You can also make this vegetarian by substituting the meat for greens and/or other light vegetables.",
+  "slug": "ricotta-pie"
+}

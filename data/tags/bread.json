@@ -1,0 +1,30 @@
+{
+  "recipes": [
+    {
+      "label": "Banana Walnut Bread",
+      "_id": "53552cce85da3d10277f567b"
+    },
+    {
+      "label": "No-Knead Bread",
+      "_id": "53552cce85da3d10277f5691"
+    },
+    {
+      "label": "Pita Bread",
+      "_id": "53552cce85da3d10277f5697"
+    },
+    {
+      "label": "Corn Bread",
+      "_id": "5a40345d8ab0e729e2e01ac8"
+    },
+    {
+      "label": "Ciabatta",
+      "_id": "5a47b6e0277bd9fe34f72b8e"
+    }
+  ],
+  "tag": {
+    "_id": "5a3d3f5e0836b893a9a14c8e",
+    "label": "bread",
+    "slug": "bread",
+    "__v": 0
+  }
+}

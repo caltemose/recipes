@@ -1,0 +1,99 @@
+{
+  "yield": {
+    "amount": 1,
+    "label": "loaf"
+  },
+  "time": {
+    "prep": 5,
+    "cook": 45,
+    "rest": 1440,
+    "total": 1490
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a3d3f5e0836b893a9a14c8e",
+      "label": "bread",
+      "slug": "bread",
+      "__v": 0
+    }
+  ],
+  "_id": "53552cce85da3d10277f5691",
+  "__v": 1,
+  "difficulty": 1,
+  "directions": [],
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1.625,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea53",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": "1 1/2 to 1 5/8 roughly"
+    },
+    {
+      "amount": {
+        "value": 1.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea54",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea55",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76767",
+        "label": "yeast",
+        "name": "yeast"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea56",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": ""
+    }
+  ],
+  "label": "No-Knead Bread",
+  "notes": "In a large bowl combine flour, yeast and salt. Add water, and stir until blended; dough will be shaggy and sticky. Cover bowl with plastic wrap. \n\nLet dough rest at least 12 hours, preferably about 18, at warm room temperature, about 70 degrees. Dough is ready when its surface is dotted with bubbles. \n\nLightly flour a work surface and place dough on it; sprinkle it with a little more flour and fold it over on itself once or twice. Cover loosely with plastic wrap and let rest about 15 minutes. \n\nUsing just enough flour to keep dough from sticking to work surface or to your fingers, gently and quickly shape dough into a ball. Generously coat a cotton towel (not terry cloth, one that's easy to clean sticky dough off of) with flour, wheat bran or cornmeal; put dough seam side down on towel and dust with more flour, bran or cornmeal. Cover with another cotton towel and let rise for about 2 hours. When it is ready, dough will be more than double in size and will not readily spring back when poked with a finger. \n\nAt least a half-hour before dough is ready, heat oven to 450°F. Put a 6- to 8-quart heavy covered pot (cast iron, enamel, Pyrex or ceramic) in the oven as it heats. When dough is ready, carefully remove pot from oven. Slide your hand under towel and turn dough over into pot, seam side up. Shake pan once or twice if dough is unevenly distributed; it will straighten out as it bakes. Cover with lid and bake 30 minutes, then remove lid and bake another 15 to 30 minutes, until loaf is beautifully browned. Cool on a rack.",
+  "slug": "no-knead-bread"
+}

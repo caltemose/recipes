@@ -1,0 +1,30 @@
+{
+  "recipes": [
+    {
+      "label": "Buttermilk Biscuits",
+      "_id": "53552cce85da3d10277f567d"
+    },
+    {
+      "label": "Banana Walnut Bread",
+      "_id": "53552cce85da3d10277f567b"
+    },
+    {
+      "label": "Steel Cut Oatmeal",
+      "_id": "53552cce85da3d10277f56a1"
+    },
+    {
+      "label": "Frittata Muffins",
+      "_id": "5a246987bb101c58d6968085"
+    },
+    {
+      "label": "Spinach Egg Ham Pancakes",
+      "_id": "5a425642d254dd0a6a6930d8"
+    }
+  ],
+  "tag": {
+    "_id": "5a3d409c0836b893a9a14c93",
+    "label": "breakfast",
+    "slug": "breakfast",
+    "__v": 0
+  }
+}

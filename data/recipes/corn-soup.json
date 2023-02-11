@@ -1,0 +1,316 @@
+{
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    }
+  ],
+  "_id": "53552cce85da3d10277f5680",
+  "__v": 7,
+  "difficulty": 2,
+  "directions": [
+    {
+      "_id": "597deb6f655df2e35144a033",
+      "step": "Melt butter in heavy large saucepan over medium heat."
+    },
+    {
+      "_id": "597deb75655df2e35144a034",
+      "step": "Add onion, red and green bell peppers, cumin and cayenne and sauté until vegetables are tender, about 8 minutes."
+    },
+    {
+      "_id": "597deb7e655df2e35144a035",
+      "step": "Add flour and stir 1 minute."
+    },
+    {
+      "_id": "597deb89655df2e35144a036",
+      "step": "Gradually mix in broth, milk and reserved corn liquid. Bring mixture to boil, whisking until smooth."
+    },
+    {
+      "_id": "597deb8e655df2e35144a037",
+      "step": "Mix in corn and stir until corn is just heated through."
+    },
+    {
+      "_id": "597deb94655df2e35144a038",
+      "step": "Ladle soup into bowls. Garnish with cilantro if desired and serve."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9c6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9c7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9c8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f9",
+        "label": "bell pepper(s)",
+        "name": "bell pepper(s)"
+      },
+      "notes": "diced"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9c9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673f",
+        "label": "red bell pepper(s)",
+        "name": "red bell pepper(s)"
+      },
+      "notes": "diced"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9ca",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76711",
+        "label": "cumin seeds",
+        "name": "cumin seeds"
+      },
+      "notes": "ground"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9cb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76704",
+        "label": "cayenne pepper",
+        "name": "cayenne pepper"
+      },
+      "notes": "ground"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9cc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9cd",
+      "type": "Recipe",
+      "item": {
+        "yield": {
+          "amount": 1,
+          "label": "quart"
+        },
+        "time": {
+          "prep": 10,
+          "cook": 90,
+          "total": 100
+        },
+        "active": true,
+        "core": true,
+        "tags": [
+          "5a47b2d7277bd9fe34f72b6d"
+        ],
+        "_id": "53552cce85da3d10277f567f",
+        "__v": 7,
+        "difficulty": 2,
+        "directions": [
+          {
+            "_id": "597ceba8655df2e35144a026",
+            "step": "Put the chicken in a stock pot. Add the celery, carrots, and onion."
+          },
+          {
+            "_id": "597cebb5655df2e35144a027",
+            "step": "Cook on medium heat for a little while to lightly brown the ingredients."
+          },
+          {
+            "_id": "597cebde655df2e35144a028",
+            "step": "Add water and whatever seasonings you like - at a minimum I'll add peppercorns and bay leaves."
+          },
+          {
+            "_id": "597cebe5655df2e35144a029",
+            "step": "Cover the pot and simmer for at least an hour."
+          },
+          {
+            "_id": "597deaad655df2e35144a032",
+            "step": "When done, cool and store in the fridge or freeze it."
+          }
+        ],
+        "ingredients": [
+          {
+            "amount": {
+              "value": 1,
+              "unit": "596e4ec3b9f4af8616897901"
+            },
+            "_id": "5973350564b52eeae5d1e9c0",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76764",
+            "notes": "cleaned"
+          },
+          {
+            "amount": {
+              "value": 2,
+              "unit": "596e4ec3b9f4af8616897906"
+            },
+            "_id": "5973350564b52eeae5d1e9c1",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76705",
+            "notes": "broken into 3 pieces"
+          },
+          {
+            "amount": {
+              "value": 2,
+              "unit": "596e4ec3b9f4af8616897901"
+            },
+            "_id": "5973350564b52eeae5d1e9c2",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76703",
+            "notes": "cut in half"
+          },
+          {
+            "amount": {
+              "value": 1,
+              "unit": "596e4ec3b9f4af8616897901"
+            },
+            "_id": "5973350564b52eeae5d1e9c3",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76730",
+            "notes": "cut in quarters"
+          },
+          {
+            "amount": {
+              "value": 1,
+              "unit": "596e4ec3b9f4af86168978fc"
+            },
+            "_id": "5973350564b52eeae5d1e9c4",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76738",
+            "notes": "to taste"
+          },
+          {
+            "amount": {
+              "value": 4,
+              "unit": "596e4ec3b9f4af8616897907"
+            },
+            "_id": "5973350564b52eeae5d1e9c5",
+            "type": "Ingredient",
+            "item": "5375ec34471e3f9e45e76760",
+            "notes": "cold"
+          }
+        ],
+        "label": "Chicken Broth",
+        "notes": "Mason jars are ideal for storage when not freezing the broth. When freezing use ziplocks. / The yield on this recipe varies based on how long you reduce your broth. / If you want to remove the fat, let the stock cool then refrigerate for a few hours to solidify the fat. It can then be removed easily. / If you buy chicken specifically for broth, make sure the parts vary. If you try to make broth solely out of the cheaper unpopular bits (necks, backs, etc) then you're likely to end up with a very fatty broth that may not have as much flavor as you want (if you were to use those parts, you're best off roasting them for a while before making the stock).",
+        "slug": "chicken-broth"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9ce",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9cf",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670d",
+        "label": "corn",
+        "name": "corn"
+      },
+      "notes": "kernels"
+    }
+  ],
+  "label": "Corn Soup",
+  "notes": "asdf",
+  "slug": "corn-soup"
+}

@@ -1,0 +1,166 @@
+{
+  "yield": {
+    "amount": 12,
+    "label": "biscuits"
+  },
+  "source": {
+    "author": "Alton Brown",
+    "url": "http://www.foodnetwork.com/recipes/alton-brown/southern-biscuits-recipe/index.html"
+  },
+  "time": {
+    "prep": 15,
+    "cook": 20,
+    "total": 35
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5a3d409c0836b893a9a14c93",
+      "label": "breakfast",
+      "slug": "breakfast",
+      "__v": 0
+    }
+  ],
+  "_id": "53552cce85da3d10277f567d",
+  "__v": 8,
+  "difficulty": 1,
+  "directions": [
+    {
+      "_id": "597ce8e9655df2e35144a010",
+      "step": "Preheat oven to 400F."
+    },
+    {
+      "_id": "597ce8f3655df2e35144a011",
+      "step": "In a large mixing bowl, combine flour, baking powder, baking soda and salt. Using your fingertips, rub butter and shortening into dry ingredients until mixture looks like crumbs. (The faster the better, you don't want the fats to melt.)"
+    },
+    {
+      "_id": "597ce8fd655df2e35144a012",
+      "step": "Make a well in the center and pour in the chilled buttermilk. Stir just until the dough comes together. The dough will be very sticky."
+    },
+    {
+      "_id": "597ce908655df2e35144a013",
+      "step": "Turn dough onto floured surface, dust top with flour and gently fold dough over on itself 5 or 6 times. Press into a 1-inch thick round. Cut out biscuits with a 2-inch cutter, being sure to push straight down through the dough."
+    },
+    {
+      "_id": "597ce90f655df2e35144a014",
+      "step": "Place biscuits on baking sheet so that they just touch. Reform scrap dough, working it as little as possible and continue cutting. (Biscuits from the second pass will not be quite as light as those from the first, but hey, that's life.)"
+    },
+    {
+      "_id": "597ce915655df2e35144a015",
+      "step": "Bake until biscuits are tall and light gold on top, 15 to 20 minutes."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9b3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": "sifted"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9b4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f2",
+        "label": "baking powder",
+        "name": "baking powder"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9b5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f3",
+        "label": "baking soda",
+        "name": "baking soda"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9b6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897903",
+          "label": "stick(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9b7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": "cold, cut in small pieces"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9b8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fe",
+        "label": "buttermilk",
+        "name": "buttermilk"
+      },
+      "notes": ""
+    }
+  ],
+  "label": "Buttermilk Biscuits",
+  "notes": "For two of us, I usually make half this recipe. I also use a mixture of corn meal and flour (30-40% corn meal) to give the biscuits a little bite and more flavor.",
+  "slug": "buttermilk-biscuits"
+}

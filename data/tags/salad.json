@@ -1,0 +1,22 @@
+{
+  "recipes": [
+    {
+      "label": "Gorgonzola Salad",
+      "_id": "53552cce85da3d10277f5689"
+    },
+    {
+      "label": "Seared Ahi Tuna Salad",
+      "_id": "53552cce85da3d10277f569f"
+    },
+    {
+      "label": "Not Just Another Kale Salad",
+      "_id": "5a49739b277bd9fe34f72bab"
+    }
+  ],
+  "tag": {
+    "_id": "5a3d3f160836b893a9a14c8c",
+    "label": "salad",
+    "slug": "salad",
+    "__v": 0
+  }
+}

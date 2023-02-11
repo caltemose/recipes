@@ -1,0 +1,225 @@
+{
+  "source": {
+    "name": "Nom Nom Paleo",
+    "url": "http://nomnompaleo.com/post/97731264703/paleo-by-seasons-atkilt-spiced-ethiopian"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    },
+    {
+      "_id": "5a3d3eb20836b893a9a14c8b",
+      "label": "ethiopian",
+      "slug": "ethiopian",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "5a246f852c912bb7ffba836d",
+  "__v": 20,
+  "directions": [
+    {
+      "_id": "5a2470252c912bb7ffba837a",
+      "step": "Heat the ghee and olive oil in a large saucepan over medium-high heat."
+    },
+    {
+      "_id": "5a2470332c912bb7ffba837b",
+      "step": "Add the onions, cabbage and carrots and 2 teaspoons salt."
+    },
+    {
+      "_id": "5a2470502c912bb7ffba837c",
+      "step": "Stir and cover the pot. Cook for 10 minutes."
+    },
+    {
+      "_id": "5a24705e2c912bb7ffba837d",
+      "step": "Add the potatoes, remaining salt, turmeric, cumin and pepper and stir well."
+    },
+    {
+      "_id": "5a24707f2c912bb7ffba837e",
+      "step": "Cover and reduce heat to medium low. Cook for 30 minutes or until all vegetables are tender."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a246f902c912bb7ffba836e",
+      "item": {
+        "_id": "5a2469e92c912bb7ffba833c",
+        "label": "ghee",
+        "slug": "ghee",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a246f982c912bb7ffba836f",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a246fa02c912bb7ffba8370",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "diced",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a246fa92c912bb7ffba8371",
+      "item": {
+        "_id": "5a246fb92c912bb7ffba8372",
+        "label": "cabbage",
+        "slug": "cabbage",
+        "__v": 0
+      },
+      "notes": "green, cored and cut into 1-inch cubes",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 4
+      },
+      "_id": "5a246fcc2c912bb7ffba8373",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      },
+      "notes": "cut into 1-inch rounds",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 3
+      },
+      "_id": "5a246fdc2c912bb7ffba8374",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "notes": "divided",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        },
+        "value": 1.75
+      },
+      "_id": "5a246fe72c912bb7ffba8375",
+      "item": {
+        "_id": "538b27c341b2f68404000004",
+        "label": "potato",
+        "name": "potato",
+        "__v": 0
+      },
+      "notes": "cut into 1-inch cubes",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a246ff62c912bb7ffba8376",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675b",
+        "label": "turmeric",
+        "name": "turmeric"
+      },
+      "notes": "ground",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a2470062c912bb7ffba8377",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76711",
+        "label": "cumin seeds",
+        "name": "cumin seeds"
+      },
+      "notes": "ground",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a2470192c912bb7ffba8378",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      },
+      "notes": "ground",
+      "type": "Ingredient"
+    }
+  ],
+  "label": "Ethiopian Potato Carrot Cabbage",
+  "slug": "ethiopian-potato-carrot-cabbage"
+}

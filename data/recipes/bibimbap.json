@@ -1,0 +1,479 @@
+{
+  "source": {
+    "url": "https://www.maangchi.com/recipe/bibimbap"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a3fe8f59c5f02065d03f1ab",
+      "label": "korean",
+      "slug": "korean",
+      "__v": 0
+    }
+  ],
+  "_id": "5a3fe30e44229bfe637b73d0",
+  "__v": 47,
+  "directions": [
+    {
+      "_id": "5a3fe52f9c5f02065d03f196",
+      "step": "See the source link for how to prepare fernbrake and bellflower roots."
+    },
+    {
+      "_id": "5a3fe5709c5f02065d03f197",
+      "step": "Make the rice."
+    },
+    {
+      "_id": "5a3fe58a9c5f02065d03f198",
+      "step": "Cut the beef into matchsticks. Mix with 1 TBS minced garlic, 1 TBS soy sauce, 1 TBS honey, 2 TBS sesame oil and 1 ts sesame seeds. Stick in the fridge to marinate."
+    },
+    {
+      "_id": "5a3fe5dc9c5f02065d03f199",
+      "step": "Cut all the vegetables."
+    },
+    {
+      "_id": "5a3fe5ee9c5f02065d03f19a",
+      "step": "Put carrots in a bowl with a pinch of salt and sweat them for 5-10 minutes."
+    },
+    {
+      "_id": "5a3fe6049c5f02065d03f19b",
+      "step": "Add 1/2 ts salt to the zucchini and let sweat."
+    },
+    {
+      "_id": "5a3fe6199c5f02065d03f19c",
+      "step": "Add 1/4 ts salt to the cucumber and let sweat."
+    },
+    {
+      "_id": "5a3fe62d9c5f02065d03f19d",
+      "step": "Cut fernbrake into bite-sized pieces and set aside."
+    },
+    {
+      "_id": "5a3fe63f9c5f02065d03f19e",
+      "step": "Put bellflower roots into a bowl and add 1-2 ts salt. Rub the salt into the roots. Rinse in cold water."
+    },
+    {
+      "_id": "5a3fe65f9c5f02065d03f19f",
+      "step": "Blanch the spinach if you haven't done so. Cool it when done and squeeze out the water. Set on a platter where you'll be storing the vegetables once you've cooked them."
+    },
+    {
+      "_id": "5a3fe66d9c5f02065d03f1a0",
+      "step": "Heat a pan over medium high heat."
+    },
+    {
+      "_id": "5a3fe6a79c5f02065d03f1a1",
+      "step": "Squeeze excess water from the carrots. Add a few drops of cooking oil to the pan and sauté the carrots for 1 minute. Put on the shared platter and wipe out the pan."
+    },
+    {
+      "_id": "5a3fe6f49c5f02065d03f1a2",
+      "step": "Squeeze excess water from the cucumbers. Add a few drops of cooking oil to the pan. Sauté with 1/2 ts minced garlic and a few drops of sesame oil for 30 seconds. Put on the shared platter and wipe out the pan."
+    },
+    {
+      "_id": "5a3fe7389c5f02065d03f1a3",
+      "step": "Add cooking oil and red bell pepper to the pan. Add a pinch of salt and cook for 30 seconds. Put on the shared platter and wipe out the pan."
+    },
+    {
+      "_id": "5a3fe7639c5f02065d03f1a4",
+      "step": "Squeeze excess water from zucchini and sauté with 1 ts minced garlic, 1 ts chopped scallions and a drop of sesame oil for 1 minute. Put on the shared platter and wipe out the pan."
+    },
+    {
+      "_id": "5a3fe78b9c5f02065d03f1a5",
+      "step": "Add cooking oil and cook the bellflower root for 2-3 minutes. Lower the heat to keep from browning the roots. Add 1 ts minced garlic and a drop of sesame oil. Cook for another minute. Put on the shared platter and wipe out the pan."
+    },
+    {
+      "_id": "5a3fe7c39c5f02065d03f1a6",
+      "step": "Return the pan to medium high heat, add cooking oil and cook the fernbrake for 2 minutes. Add 1/2 ts of minced garlic, 2 ts soy sauce, 2 ts sugar and stir for another minute. Put on the shared platter and wipe out the pan."
+    },
+    {
+      "_id": "5a3fe8639c5f02065d03f1a8",
+      "step": "Cook the beef to your preferred temperature in some cooking oil."
+    },
+    {
+      "_id": "5a3fe87c9c5f02065d03f1a9",
+      "step": "Fry eggs so the yolk is still runny."
+    },
+    {
+      "_id": "5a3fe8859c5f02065d03f1aa",
+      "step": "In a bowl, add rice. Arrange vegetables and beef around/atop the rice and finally add the fried egg and gochujang. Sprinkle sesame seeds over the egg."
+    },
+    {
+      "_id": "5a3fe9149c5f02065d03f1ac",
+      "step": "At the table, break the yolk and mix elements to your liking."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 5
+      },
+      "_id": "5a3fe32044229bfe637b73d1",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76761",
+        "label": "white rice",
+        "name": "white rice"
+      },
+      "notes": "short-grain, cooked",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        },
+        "value": 12
+      },
+      "_id": "5a3fe33444229bfe637b73d2",
+      "item": {
+        "_id": "5a3fe23444229bfe637b73ca",
+        "label": "mung bean sprouts",
+        "slug": "mung-bean-sprouts",
+        "__v": 0
+      },
+      "notes": "or soy",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        },
+        "value": 8
+      },
+      "_id": "5a3fe372e46871052229815f",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674f",
+        "label": "spinach",
+        "name": "spinach"
+      },
+      "notes": "blanched, excess water squeezed out",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a3fe39e9c5f02065d03f17f",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      },
+      "notes": "chopped into matchsticks",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a3fe3a99c5f02065d03f180",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673f",
+        "label": "red bell pepper(s)",
+        "name": "red bell pepper(s)"
+      },
+      "notes": "chopped into matchsticks",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a3fe3b59c5f02065d03f181",
+      "item": {
+        "_id": "5a3fe26544229bfe637b73cb",
+        "label": "zucchini",
+        "slug": "zucchini",
+        "__v": 0
+      },
+      "notes": "chopped into matchsticks",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a3fe3bd9c5f02065d03f182",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76710",
+        "label": "cucumber(s)",
+        "name": "cucumber(s)"
+      },
+      "notes": "sliced into rings",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 4
+      },
+      "_id": "5a3fe3c69c5f02065d03f183",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674a",
+        "label": "scallions",
+        "name": "scallions"
+      },
+      "notes": "chopped",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        },
+        "value": 0.5
+      },
+      "_id": "5a3fe3d69c5f02065d03f184",
+      "item": {
+        "_id": "5a3fe2e644229bfe637b73cd",
+        "label": "beef",
+        "slug": "beef",
+        "__v": 0
+      },
+      "notes": "lean cut, fillet, flank, etc",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        },
+        "value": 4
+      },
+      "_id": "5a3fe40c9c5f02065d03f185",
+      "item": {
+        "_id": "5a3fe4259c5f02065d03f186",
+        "label": "fernbrake",
+        "slug": "fernbrake",
+        "__v": 0
+      },
+      "notes": "fresh or soaked",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a3fe4469c5f02065d03f188",
+      "item": {
+        "_id": "5a3fe4319c5f02065d03f187",
+        "label": "bellflower roots",
+        "slug": "bellflower-roots",
+        "__v": 0
+      },
+      "notes": "soaked 18-24 hours",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 4
+      },
+      "_id": "5a3fe4549c5f02065d03f189",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        },
+        "value": 1
+      },
+      "_id": "5a3fe4619c5f02065d03f18a",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        },
+        "value": 1
+      },
+      "_id": "5a3fe4a39c5f02065d03f18c",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675d",
+        "label": "vegetable oil",
+        "name": "vegetable oil"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        },
+        "value": 1
+      },
+      "_id": "5a3fe4aa9c5f02065d03f18d",
+      "item": {
+        "_id": "5a3fe2cf44229bfe637b73cc",
+        "label": "sesame oil",
+        "slug": "sesame-oil",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        },
+        "value": 1
+      },
+      "_id": "5a3fe4bd9c5f02065d03f18f",
+      "item": {
+        "_id": "5a3fe2f544229bfe637b73ce",
+        "label": "sesame seeds",
+        "slug": "sesame-seeds",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a3fe4c69c5f02065d03f190",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "more or less depending on taste",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        },
+        "value": 1
+      },
+      "_id": "5a3fe4ce9c5f02065d03f191",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674e",
+        "label": "soy sauce",
+        "name": "soy sauce"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        },
+        "value": 1
+      },
+      "_id": "5a3fe4d49c5f02065d03f192",
+      "item": {
+        "_id": "5a3fe30344229bfe637b73cf",
+        "label": "gochujang",
+        "slug": "gochujang",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        },
+        "value": 1
+      },
+      "_id": "5a3fe4df9c5f02065d03f193",
+      "item": {
+        "_id": "5a3fe4e69c5f02065d03f194",
+        "label": "honey",
+        "slug": "honey",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a3fe8109c5f02065d03f1a7",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      },
+      "type": "Ingredient"
+    }
+  ],
+  "label": "Bibimbap",
+  "notes": "This recipe serves four and I usually split it (except for the beef) in half.\n\nI rarely use the fernbrake and bellflower as I can't get them at the stores/markets closest to me. The original recipe suggests cooking the beef is optional so feel free to omit that step. Feel free to make vegetable substitutions as you like.\n\nGetting the timing proper at the end with the beef and eggs can be tricky (you can solve this by not cooking the beef). I usually have a few pans out to cook the eggs all at once and at the same time as the beef.",
+  "slug": "bibimbap"
+}

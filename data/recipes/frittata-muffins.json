@@ -1,0 +1,219 @@
+{
+  "source": {
+    "name": "Nom Nom Paleo",
+    "url": "http://nomnompaleo.com/post/7486819479/prosciutto-wrapped-mini-frittata-muffins"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    },
+    {
+      "_id": "5a3d409c0836b893a9a14c93",
+      "label": "breakfast",
+      "slug": "breakfast",
+      "__v": 0
+    }
+  ],
+  "_id": "5a246987bb101c58d6968085",
+  "__v": 22,
+  "directions": [
+    {
+      "_id": "5a246993bb101c58d6968086",
+      "step": "Preheat oven to 375F."
+    },
+    {
+      "_id": "5a246b6f2c912bb7ffba8349",
+      "step": "Heat the ghee and sauté onions until translucent."
+    },
+    {
+      "_id": "5a246b962c912bb7ffba834a",
+      "step": "Add mushrooms and cook until moisture evaporates."
+    },
+    {
+      "_id": "5a246bb02c912bb7ffba834b",
+      "step": "Season with salt and pepper to taste and cool to room temperature."
+    },
+    {
+      "_id": "5a246bcb2c912bb7ffba834c",
+      "step": "Beat the eggs with the coconut milk, coconut flour and salt and pepper to taste until mixed."
+    },
+    {
+      "_id": "5a246be82c912bb7ffba834d",
+      "step": "Grease two muffin tins and line each cup with ham, taking care to cover the bottom and sides completely."
+    },
+    {
+      "_id": "5a246c152c912bb7ffba834e",
+      "step": "Fill each cup about 3/4 full and top each muffin with the halved cherry tomatoes."
+    },
+    {
+      "_id": "5a246c322c912bb7ffba834f",
+      "step": "Bake for about 20 minutes, flipping the tray after 10."
+    },
+    {
+      "_id": "5a246c442c912bb7ffba8350",
+      "step": "Cool the muffins in the pan for a few minutes before transferring to a wire rack."
+    }
+  ],
+  "ingredients": [
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 4
+      },
+      "_id": "5a2469aebb101c58d6968087",
+      "item": {
+        "_id": "5a2469e92c912bb7ffba833c",
+        "label": "ghee",
+        "slug": "ghee",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 0.5
+      },
+      "_id": "5a246ad62c912bb7ffba8340",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "finely diced",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        },
+        "value": 0.5
+      },
+      "_id": "5a246aeb2c912bb7ffba8341",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672c",
+        "label": "mushrooms",
+        "name": "mushrooms"
+      },
+      "notes": "thinly sliced",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        },
+        "value": 0.5
+      },
+      "_id": "5a246afc2c912bb7ffba8342",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674f",
+        "label": "spinach",
+        "name": "spinach"
+      },
+      "notes": "frozen (or other greens)",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        },
+        "value": 8
+      },
+      "_id": "5a246b172c912bb7ffba8343",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 0.25
+      },
+      "_id": "5a246b222c912bb7ffba8344",
+      "item": {
+        "_id": "5a246a042c912bb7ffba833d",
+        "label": "coconut milk",
+        "slug": "coconut-milk",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        },
+        "value": 2
+      },
+      "_id": "5a246b2e2c912bb7ffba8345",
+      "item": {
+        "_id": "5a246a1d2c912bb7ffba833f",
+        "label": "coconut flour",
+        "slug": "coconut-flour",
+        "__v": 0
+      },
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        },
+        "value": 1
+      },
+      "_id": "5a246b372c912bb7ffba8346",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76707",
+        "label": "cherry tomato(es)",
+        "name": "cherry tomato(es)"
+      },
+      "notes": "halved",
+      "type": "Ingredient"
+    },
+    {
+      "amount": {
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        },
+        "value": 5
+      },
+      "_id": "5a246b452c912bb7ffba8347",
+      "item": {
+        "_id": "5a246a152c912bb7ffba833e",
+        "label": "ham",
+        "slug": "ham",
+        "__v": 0
+      },
+      "notes": "or prosciutto, etc",
+      "type": "Ingredient"
+    }
+  ],
+  "label": "Frittata Muffins",
+  "notes": "The original recipe adds 3 minced garlic cloves and suggests prosciutto over ham. I use ham as it's usually easier to cover my muffin tins.",
+  "slug": "frittata-muffins"
+}

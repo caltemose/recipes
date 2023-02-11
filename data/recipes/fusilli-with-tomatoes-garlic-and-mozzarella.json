@@ -1,0 +1,142 @@
+{
+  "time": {
+    "prep": 20
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "53552cce85da3d10277f5687",
+  "__v": 1,
+  "difficulty": 2,
+  "directions": [],
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9fd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76719",
+        "label": "fusilli",
+        "name": "fusilli"
+      },
+      "notes": "or similar"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9fe",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1e9ff",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76759",
+        "label": "tomato(es)",
+        "name": "tomato(es)"
+      },
+      "notes": "or a pint of cherry tomatoes"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea00",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "minced"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea01",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 12,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea02",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672b",
+        "label": "mozzarella",
+        "name": "mozzarella"
+      },
+      "notes": "fresh"
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897908",
+          "label": "leave(s)"
+        }
+      },
+      "_id": "5973350564b52eeae5d1ea03",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f6",
+        "label": "basil",
+        "name": "basil"
+      },
+      "notes": ""
+    }
+  ],
+  "label": "Fusilli with Tomatoes, Garlic and Mozzarella",
+  "notes": "Cook the fusilli in a large pot of salted, boiling water until al dente. Drain well. Transfer to a large salad bowl and toss vigorously with half the oil. Set aside to cool. Add the tomatoes to the pasta. Combine the garlic and parsley with the remainder of the oil and salt and add to the salad bowl. Leave to cool completely. Just before serving dice the mozzarella into 1/2 inch cubes. Sprinkle over the top of the salad with the torn basil leaves and freshly ground black pepper.  Serve cool.",
+  "slug": "fusilli-with-tomatoes-garlic-and-mozzarella"
+}
