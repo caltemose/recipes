@@ -24,9 +24,10 @@
   "homepage": "https://github.com/caltemose/recipes#readme",
   "devDependencies": {
     "browser-sync": "^2.27.11",
-    "del": "^3.0.0",
+    "del": "^7.0.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean": "^0.4.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-data": "^1.3.1",
     "gulp-environments": "^1.0.1",
@@ -38,7 +39,7 @@
     "gulp-sass-lint": "^1.4.0",
     "http-server": "^14.1.1",
     "mongodb": "^2.2.36",
-    "normalize-scss": "^7.0.1",
+    "normalize-css": "^2.3.1",
     "sass": "^1.58.0"
   }
 }

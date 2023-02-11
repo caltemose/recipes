@@ -1,7 +1,8 @@
 const gulp = require('gulp')
 const fs = require('fs')
 const path = require('path')
-const del = require('del')
+// const del = require('del')
+const clean = require('gulp-clean')
 const gulpData = require('gulp-data')
 const foreach = require('gulp-foreach')
 const pug = require('gulp-pug')
@@ -58,7 +59,10 @@ function getRoot () {
 ---------------------------------------------------------------- */
 
 gulp.task('clean', (done) => {
-    return del('dist', done)
+    // return del('dist', done)
+    return gulp.src('dist', {read: false, allowEmpty: true})
+        .pipe(clean());
+
 })
 
 gulp.task('html', () => {
