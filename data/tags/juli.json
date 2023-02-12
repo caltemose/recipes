@@ -2,7 +2,8 @@
   "recipes": [
     {
       "label": "Butternut Squash-Carrot Soup",
-      "_id": "63e00fc96ec18c0944a6ab47"
+      "_id": "63e00fc96ec18c0944a6ab47",
+      "slug": "butternut-squash-carrot-soup"
     }
   ],
   "tag": {

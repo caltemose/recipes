@@ -2,23 +2,28 @@
   "recipes": [
     {
       "label": "Corn Soup",
-      "_id": "53552cce85da3d10277f5680"
+      "_id": "53552cce85da3d10277f5680",
+      "slug": "corn-soup"
     },
     {
       "label": "Italian Meatball Soup",
-      "_id": "53552cce85da3d10277f568b"
+      "_id": "53552cce85da3d10277f568b",
+      "slug": "italian-meatball-soup"
     },
     {
       "label": "Red Pea Soup",
-      "_id": "53887f232bd7f0c2cd000005"
+      "_id": "53887f232bd7f0c2cd000005",
+      "slug": "red-pea-soup"
     },
     {
       "label": "Thai Ginger Chicken Soup",
-      "_id": "5a4977c4277bd9fe34f72bba"
+      "_id": "5a4977c4277bd9fe34f72bba",
+      "slug": "thai-ginger-chicken-soup"
     },
     {
       "label": "Butternut Squash-Carrot Soup",
-      "_id": "63e00fc96ec18c0944a6ab47"
+      "_id": "63e00fc96ec18c0944a6ab47",
+      "slug": "butternut-squash-carrot-soup"
     }
   ],
   "tag": {

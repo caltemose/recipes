@@ -2,27 +2,33 @@
   "recipes": [
     {
       "label": "Peanut Butter Cookies",
-      "_id": "53552cce85da3d10277f5695"
+      "_id": "53552cce85da3d10277f5695",
+      "slug": "peanut-butter-cookies"
     },
     {
       "label": "Pizzelles",
-      "_id": "53552cce85da3d10277f5698"
+      "_id": "53552cce85da3d10277f5698",
+      "slug": "pizzelles"
     },
     {
       "label": "Pot Cheese Cookies",
-      "_id": "53552cce85da3d10277f5699"
+      "_id": "53552cce85da3d10277f5699",
+      "slug": "pot-cheese-cookies"
     },
     {
       "label": "Rum-Raisin Rice Pudding",
-      "_id": "53552cce85da3d10277f569e"
+      "_id": "53552cce85da3d10277f569e",
+      "slug": "rum-raisin-rice-pudding"
     },
     {
       "label": "Biscotti",
-      "_id": "5a36df0cb1cb7881b05b0082"
+      "_id": "5a36df0cb1cb7881b05b0082",
+      "slug": "biscotti"
     },
     {
       "label": "Amaretti",
-      "_id": "5c43b0e60529ebe092bea0b4"
+      "_id": "5c43b0e60529ebe092bea0b4",
+      "slug": "amaretti"
     }
   ],
   "tag": {

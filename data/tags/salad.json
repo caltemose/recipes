@@ -2,15 +2,18 @@
   "recipes": [
     {
       "label": "Gorgonzola Salad",
-      "_id": "53552cce85da3d10277f5689"
+      "_id": "53552cce85da3d10277f5689",
+      "slug": "gorgonzola-salad"
     },
     {
       "label": "Seared Ahi Tuna Salad",
-      "_id": "53552cce85da3d10277f569f"
+      "_id": "53552cce85da3d10277f569f",
+      "slug": "seared-ahi-tuna-salad"
     },
     {
       "label": "Not Just Another Kale Salad",
-      "_id": "5a49739b277bd9fe34f72bab"
+      "_id": "5a49739b277bd9fe34f72bab",
+      "slug": "not-just-another-kale-salad"
     }
   ],
   "tag": {

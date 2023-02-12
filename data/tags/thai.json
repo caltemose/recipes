@@ -2,7 +2,8 @@
   "recipes": [
     {
       "label": "Thai Ginger Chicken Soup",
-      "_id": "5a4977c4277bd9fe34f72bba"
+      "_id": "5a4977c4277bd9fe34f72bba",
+      "slug": "thai-ginger-chicken-soup"
     }
   ],
   "tag": {

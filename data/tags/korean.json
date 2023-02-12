@@ -2,7 +2,8 @@
   "recipes": [
     {
       "label": "Bibimbap",
-      "_id": "5a3fe30e44229bfe637b73d0"
+      "_id": "5a3fe30e44229bfe637b73d0",
+      "slug": "bibimbap"
     }
   ],
   "tag": {

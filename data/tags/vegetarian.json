@@ -2,71 +2,88 @@
   "recipes": [
     {
       "label": "Baba Ghanouj",
-      "_id": "53552cce85da3d10277f567a"
+      "_id": "53552cce85da3d10277f567a",
+      "slug": "baba-ghanouj"
     },
     {
       "label": "Buttermilk Biscuits",
-      "_id": "53552cce85da3d10277f567d"
+      "_id": "53552cce85da3d10277f567d",
+      "slug": "buttermilk-biscuits"
     },
     {
       "label": "Banana Walnut Bread",
-      "_id": "53552cce85da3d10277f567b"
+      "_id": "53552cce85da3d10277f567b",
+      "slug": "banana-walnut-bread"
     },
     {
       "label": "Coucous Tomato Basil Salad",
-      "_id": "53552cce85da3d10277f5681"
+      "_id": "53552cce85da3d10277f5681",
+      "slug": "coucous-tomato-basil-salad"
     },
     {
       "label": "Cucumber and Onion Salad",
-      "_id": "53552cce85da3d10277f5683"
+      "_id": "53552cce85da3d10277f5683",
+      "slug": "cucumber-and-onion-salad"
     },
     {
       "label": "Falafel",
-      "_id": "53552cce85da3d10277f5684"
+      "_id": "53552cce85da3d10277f5684",
+      "slug": "falafel"
     },
     {
       "label": "French Cheese Soufflé",
-      "_id": "53552cce85da3d10277f5686"
+      "_id": "53552cce85da3d10277f5686",
+      "slug": "french-cheese-souffle"
     },
     {
       "label": "Fusilli with Tomatoes, Garlic and Mozzarella",
-      "_id": "53552cce85da3d10277f5687"
+      "_id": "53552cce85da3d10277f5687",
+      "slug": "fusilli-with-tomatoes-garlic-and-mozzarella"
     },
     {
       "label": "Gazpacho",
-      "_id": "53552cce85da3d10277f5688"
+      "_id": "53552cce85da3d10277f5688",
+      "slug": "gazpacho"
     },
     {
       "label": "Gorgonzola Salad",
-      "_id": "53552cce85da3d10277f5689"
+      "_id": "53552cce85da3d10277f5689",
+      "slug": "gorgonzola-salad"
     },
     {
       "label": "Hummus",
-      "_id": "53552cce85da3d10277f568a"
+      "_id": "53552cce85da3d10277f568a",
+      "slug": "hummus"
     },
     {
       "label": "Lima Bean Burgers",
-      "_id": "53552cce85da3d10277f568d"
+      "_id": "53552cce85da3d10277f568d",
+      "slug": "lima-bean-burgers"
     },
     {
       "label": "Pesto Genovese",
-      "_id": "53552cce85da3d10277f5696"
+      "_id": "53552cce85da3d10277f5696",
+      "slug": "pesto-genovese"
     },
     {
       "label": "Steel Cut Oatmeal",
-      "_id": "53552cce85da3d10277f56a1"
+      "_id": "53552cce85da3d10277f56a1",
+      "slug": "steel-cut-oatmeal"
     },
     {
       "label": "Simple Tomato Sauce",
-      "_id": "53886f0532824f8a9d000002"
+      "_id": "53886f0532824f8a9d000002",
+      "slug": "simple-tomato-sauce"
     },
     {
       "label": "Cannelloni with Greens",
-      "_id": "538873972bd7f0c2cd000003"
+      "_id": "538873972bd7f0c2cd000003",
+      "slug": "cannelloni-with-greens"
     },
     {
       "label": "Ethiopian Potato Carrot Cabbage",
-      "_id": "5a246f852c912bb7ffba836d"
+      "_id": "5a246f852c912bb7ffba836d",
+      "slug": "ethiopian-potato-carrot-cabbage"
     }
   ],
   "tag": {

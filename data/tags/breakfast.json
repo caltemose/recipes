@@ -2,23 +2,28 @@
   "recipes": [
     {
       "label": "Buttermilk Biscuits",
-      "_id": "53552cce85da3d10277f567d"
+      "_id": "53552cce85da3d10277f567d",
+      "slug": "buttermilk-biscuits"
     },
     {
       "label": "Banana Walnut Bread",
-      "_id": "53552cce85da3d10277f567b"
+      "_id": "53552cce85da3d10277f567b",
+      "slug": "banana-walnut-bread"
     },
     {
       "label": "Steel Cut Oatmeal",
-      "_id": "53552cce85da3d10277f56a1"
+      "_id": "53552cce85da3d10277f56a1",
+      "slug": "steel-cut-oatmeal"
     },
     {
       "label": "Frittata Muffins",
-      "_id": "5a246987bb101c58d6968085"
+      "_id": "5a246987bb101c58d6968085",
+      "slug": "frittata-muffins"
     },
     {
       "label": "Spinach Egg Ham Pancakes",
-      "_id": "5a425642d254dd0a6a6930d8"
+      "_id": "5a425642d254dd0a6a6930d8",
+      "slug": "spinach-egg-ham-pancakes"
     }
   ],
   "tag": {

@@ -2,11 +2,13 @@
   "recipes": [
     {
       "label": "Ale bread",
-      "_id": "53552cce85da3d10277f5679"
+      "_id": "53552cce85da3d10277f5679",
+      "slug": "ale-bread"
     },
     {
       "label": "Test",
-      "_id": "5973dbff35878617f4bc156c"
+      "_id": "5973dbff35878617f4bc156c",
+      "slug": "test"
     }
   ],
   "tag": {

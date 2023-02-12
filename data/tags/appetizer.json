@@ -2,7 +2,8 @@
   "recipes": [
     {
       "label": "Spiced Olives",
-      "_id": "53552cce85da3d10277f56a0"
+      "_id": "53552cce85da3d10277f56a0",
+      "slug": "spiced-olives"
     }
   ],
   "tag": {

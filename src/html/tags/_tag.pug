@@ -12,6 +12,6 @@ block content
                 ul
                     each recipe in recipes
                         li
-                            a(href='/recipes/' + recipe._id)= recipe.label
+                            a(href=`${root}recipes/${recipe.slug}.html`)= recipe.label
             else
                 p No recipes exist for this tag.

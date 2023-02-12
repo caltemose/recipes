@@ -2,31 +2,38 @@
   "recipes": [
     {
       "label": "Baba Ghanouj",
-      "_id": "53552cce85da3d10277f567a"
+      "_id": "53552cce85da3d10277f567a",
+      "slug": "baba-ghanouj"
     },
     {
       "label": "Brined Chicken",
-      "_id": "53552cce85da3d10277f567c"
+      "_id": "53552cce85da3d10277f567c",
+      "slug": "brined-chicken"
     },
     {
       "label": "Cucumber and Onion Salad",
-      "_id": "53552cce85da3d10277f5683"
+      "_id": "53552cce85da3d10277f5683",
+      "slug": "cucumber-and-onion-salad"
     },
     {
       "label": "Frittata Muffins",
-      "_id": "5a246987bb101c58d6968085"
+      "_id": "5a246987bb101c58d6968085",
+      "slug": "frittata-muffins"
     },
     {
       "label": "Doro Wat (Ethiopian Chicken Stew)",
-      "_id": "5a246d2e2c912bb7ffba8351"
+      "_id": "5a246d2e2c912bb7ffba8351",
+      "slug": "doro-wat-ethiopian-chicken-stew"
     },
     {
       "label": "Ethiopian Potato Carrot Cabbage",
-      "_id": "5a246f852c912bb7ffba836d"
+      "_id": "5a246f852c912bb7ffba836d",
+      "slug": "ethiopian-potato-carrot-cabbage"
     },
     {
       "label": "Spinach Egg Ham Pancakes",
-      "_id": "5a425642d254dd0a6a6930d8"
+      "_id": "5a425642d254dd0a6a6930d8",
+      "slug": "spinach-egg-ham-pancakes"
     }
   ],
   "tag": {

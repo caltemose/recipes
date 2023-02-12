@@ -2,11 +2,13 @@
   "recipes": [
     {
       "label": "Ricotta Pie",
-      "_id": "5a47b2ef277bd9fe34f72b6e"
+      "_id": "5a47b2ef277bd9fe34f72b6e",
+      "slug": "ricotta-pie"
     },
     {
       "label": "Simple Rice Salad",
-      "_id": "5a47b50a277bd9fe34f72b80"
+      "_id": "5a47b50a277bd9fe34f72b80",
+      "slug": "simple-rice-salad"
     }
   ],
   "tag": {
