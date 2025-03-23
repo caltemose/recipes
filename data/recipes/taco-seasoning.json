@@ -1,0 +1,180 @@
+{
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d3f3e0836b893a9a14c8d",
+      "label": "seasoning",
+      "slug": "seasoning",
+      "__v": 0
+    }
+  ],
+  "_id": "67ba4f8e41d119070e7d89d0",
+  "label": "Taco Seasoning",
+  "slug": "taco-seasoning",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba4f9041d119070e7d89d1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677727fb41d119070e7d85e6",
+        "label": "chili powder",
+        "slug": "chili-powder",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba4fa241d119070e7d89d2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770754a41d119070e7d8537",
+        "label": "ground cumin",
+        "slug": "ground-cumin",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba4faf41d119070e7d89d3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76732",
+        "label": "paprika",
+        "name": "paprika"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba4fbc41d119070e7d89d4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67798bc241d119070e7d8686",
+        "label": "red pepper flakes",
+        "slug": "red-pepper-flakes",
+        "__v": 0
+      },
+      "notes": "crushed"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba4fd441d119070e7d89d5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba4fdf41d119070e7d89d6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671b",
+        "label": "garlic powder",
+        "name": "garlic powder"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba504241d119070e7d89d7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ba505c41d119070e7d89d8",
+        "label": "onion powder",
+        "slug": "onion-powder",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba506a41d119070e7d89d9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76731",
+        "label": "oregano",
+        "name": "oregano"
+      },
+      "notes": "dried"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba507641d119070e7d89da",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ba508941d119070e7d89db",
+      "step": "Mix ingredients; Makes enough for 1 pound ground meat; 5 teaspoons, 2 tablespoons."
+    }
+  ],
+  "__v": 12
+}

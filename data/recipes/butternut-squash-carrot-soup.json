@@ -2,6 +2,9 @@
   "serves": {
     "amount": 6
   },
+  "source": {
+    "name": "Williams-Sonoma Vegetarian"
+  },
   "active": true,
   "core": false,
   "tags": [
@@ -15,6 +18,16 @@
       "label": "juli",
       "slug": "juli",
       "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
     }
   ],
   "_id": "63e00fc96ec18c0944a6ab47",
@@ -160,20 +173,20 @@
   "directions": [
     {
       "_id": "63e0105a6ec18c0944a6ab50",
-      "step": "In a 4-qt pot over medium-low head, warm olive oil.&nbsp; Add the onion and sauté, stirring occasionally, until soft, about 10 minutes.&nbsp; Add squash, carrots and sauce, stirring, for 10 minutes.&nbsp; Add the spices and continue to sauce, stirring occasionally, about 10 minutes longer.&nbsp; Add stock and bring to a boil over high heat.&nbsp; Reduce heat to low and simmer, uncovered, until squash and carrots are soft, 30-40 minutes.&nbsp; Remove from heat and let cool slightly."
+      "step": "In a 4-qt pot over medium-low head, warm olive oil. Add the onion and sauté, stirring occasionally, until soft, about 10 minutes. Add squash, carrots and sauce, stirring, for 10 minutes. Add the spices and continue to sauce, stirring occasionally, about 10 minutes longer. Add stock and bring to a boil over high heat. Reduce heat to low and simmer, uncovered, until squash and carrots are soft, 30-40 minutes. Remove from heat and let cool slightly."
     },
     {
       "_id": "63e0105d6ec18c0944a6ab51",
-      "step": "Working with 2 C of soup at a time, blend on high speed until very smooth and light.&nbsp; If soup is too thick, thin with a little water."
+      "step": "Working with 2 C of soup at a time, blend on high speed until very smooth and light. If soup is too thick, thin with a little water."
     },
     {
       "_id": "63e010656ec18c0944a6ab52",
-      "step": "Place soup over medium-high heat and warm to serving temperature.&nbsp; Season to taste with salt and pepper."
+      "step": "Place soup over medium-high heat and warm to serving temperature. Season to taste with salt and pepper."
     },
     {
       "_id": "63e0106a6ec18c0944a6ab53",
       "step": "Ladle into soup bowls and garnish."
     }
   ],
-  "__v": 18
+  "__v": 20
 }

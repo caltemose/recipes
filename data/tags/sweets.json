@@ -1,0 +1,70 @@
+{
+  "recipes": [
+    {
+      "label": "Peanut Butter Cookies",
+      "_id": "53552cce85da3d10277f5695",
+      "slug": "peanut-butter-cookies"
+    },
+    {
+      "label": "Biscotti",
+      "_id": "5a36df0cb1cb7881b05b0082",
+      "slug": "biscotti"
+    },
+    {
+      "label": "Chocolate Chip Cookies",
+      "_id": "6778666e41d119070e7d8612",
+      "slug": "chocolate-chip-cookies"
+    },
+    {
+      "label": "Gingersnaps",
+      "_id": "6778676741d119070e7d861f",
+      "slug": "gingersnaps"
+    },
+    {
+      "label": "Date Bars",
+      "_id": "677987f841d119070e7d864d",
+      "slug": "date-bars"
+    },
+    {
+      "label": "Amaranth Wafers",
+      "_id": "677989b141d119070e7d8666",
+      "slug": "amaranth-wafers"
+    },
+    {
+      "label": "Candied Orange Peel",
+      "_id": "67798a7941d119070e7d8673",
+      "slug": "candied-orange-peel"
+    },
+    {
+      "label": "Peanut Butter Cookie",
+      "_id": "67798c3e41d119070e7d868e",
+      "slug": "peanut-butter-cookie"
+    },
+    {
+      "label": "Gingerbread",
+      "_id": "67898c1341d119070e7d8717",
+      "slug": "gingerbread"
+    },
+    {
+      "label": "Oatmeal Cookies",
+      "_id": "67898d5e41d119070e7d8726",
+      "slug": "oatmeal-cookies"
+    },
+    {
+      "label": "Carrot Cake",
+      "_id": "67898eca41d119070e7d8735",
+      "slug": "carrot-cake"
+    },
+    {
+      "label": "Stewed Fruit",
+      "_id": "678990ae41d119070e7d874c",
+      "slug": "stewed-fruit"
+    }
+  ],
+  "tag": {
+    "_id": "6778686c41d119070e7d862d",
+    "label": "sweets",
+    "slug": "sweets",
+    "__v": 0
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "yield": {
+    "amount": 1,
+    "label": "quart"
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "678058ec41d119070e7d8699",
+  "label": "Savory Greek Yogurt Dip",
+  "slug": "savory-greek-yogurt-dip",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897907",
+          "label": "quart(s)"
+        }
+      },
+      "_id": "678058ef41d119070e7d869a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6780594641d119070e7d869d",
+        "label": "greek yogurt",
+        "slug": "greek-yogurt",
+        "__v": 0
+      },
+      "notes": "plain"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678058fe41d119070e7d869b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "flat leaf, chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6780591a41d119070e7d869c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672a",
+        "label": "mint",
+        "name": "mint"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6780595141d119070e7d869e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770754a41d119070e7d8537",
+        "label": "ground cumin",
+        "slug": "ground-cumin",
+        "__v": 0
+      },
+      "notes": "ground"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6780596541d119070e7d869f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6780597d41d119070e7d86a0",
+        "label": "lemon zest",
+        "slug": "lemon-zest",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6780598d41d119070e7d86a1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6780599441d119070e7d86a2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "678059b741d119070e7d86a3",
+      "step": "Combine all ingredients. Transfer to an airtight container, cover and refrigerate for up to 10 days."
+    }
+  ],
+  "__v": 10
+}

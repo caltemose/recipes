@@ -1,0 +1,156 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "Soup cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "678bcd3041d119070e7d8815",
+  "label": "Potato Soup with Broccoli, Shallots, and Cheddar",
+  "slug": "potato-soup-with-broccoli-shallots-and-cheddar",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bcd3341d119070e7d8816",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bcd3941d119070e7d8817",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bcd4341d119070e7d8818",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a49735c277bd9fe34f72baa",
+        "label": "shallot(s)",
+        "slug": "shallot-s",
+        "__v": 0
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 12,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "678bcd4e41d119070e7d8819",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27c341b2f68404000004",
+        "label": "potato",
+        "name": "potato",
+        "__v": 0
+      },
+      "notes": "floury potato, chopped into one-inch chunks"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5974d99735c6436ac4d5cedc",
+          "label": "head(s)",
+          "__v": 0
+        }
+      },
+      "_id": "678bcd6841d119070e7d881a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bcd8141d119070e7d881b",
+        "label": "broccoli",
+        "slug": "broccoli",
+        "__v": 0
+      },
+      "notes": "large head, cut into florets"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678bcd8e41d119070e7d881c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76706",
+        "label": "cheddar",
+        "name": "cheddar"
+      },
+      "notes": "sharp, white, grated"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "678bcd9f41d119070e7d881d",
+      "step": "Heat the oil and butter in a sauce pan over medium heat, add the shallots and potatoes, and cook for 5 minutes, stirring often. Meanwhile, boil 1-1/2 quarts water."
+    },
+    {
+      "_id": "678bcda741d119070e7d881e",
+      "step": "Pour 1-1/4 quarts boiling water into the pan and stir well. Season lightly with salt and pepper and bring to a simmer. Lower the heat, cover with a lid, and simmer for 10 minutes. Add the two-thirds of the broccoli, stir, cover again, and continue cooking for 10-15 minutes or until the vegetables are tender."
+    },
+    {
+      "_id": "678bcdb041d119070e7d881f",
+      "step": "Let cool for several minutes, then transfer the contents of the pant to a blender and process until smooth."
+    },
+    {
+      "_id": "678bcdb941d119070e7d8820",
+      "step": "Transfer the soup back into the pan. Add the rest of the broccoli and simmer for 10 minutes. Add the cheese and stir until it has melted into the soup. Season with salt and pepper as needed."
+    }
+  ],
+  "__v": 13
+}

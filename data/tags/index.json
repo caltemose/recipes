@@ -61,6 +61,12 @@
       "__v": 0
     },
     {
+      "_id": "67bb212841d119070e7d8a0d",
+      "label": "pescatarian",
+      "slug": "pescatarian",
+      "__v": 0
+    },
+    {
       "_id": "5a3d3f160836b893a9a14c8c",
       "label": "salad",
       "slug": "salad",
@@ -81,6 +87,18 @@
       "_id": "5a47b2d7277bd9fe34f72b6d",
       "label": "support",
       "slug": "support",
+      "__v": 0
+    },
+    {
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
       "__v": 0
     },
     {

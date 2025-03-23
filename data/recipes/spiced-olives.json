@@ -12,10 +12,16 @@
       "label": "appetizer",
       "slug": "appetizer",
       "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
     }
   ],
   "_id": "53552cce85da3d10277f56a0",
-  "__v": 1,
+  "__v": 2,
   "difficulty": 2,
   "directions": [],
   "ingredients": [

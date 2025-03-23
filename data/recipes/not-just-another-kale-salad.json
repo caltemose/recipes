@@ -11,10 +11,15 @@
       "label": "salad",
       "slug": "salad",
       "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
     }
   ],
   "_id": "5a49739b277bd9fe34f72bab",
-  "__v": 14,
+  "__v": 15,
   "directions": [
     {
       "_id": "5a49746a277bd9fe34f72bb6",
@@ -195,11 +200,13 @@
       },
       "_id": "5a497455277bd9fe34f72bb5",
       "item": {
-        "active": true,
+        "active": false,
         "core": false,
-        "tags": [],
+        "tags": [
+          "597784abe3f0716170504982"
+        ],
         "_id": "5a497241277bd9fe34f72b9d",
-        "__v": 10,
+        "__v": 11,
         "directions": [
           {
             "_id": "5a497284277bd9fe34f72ba3",

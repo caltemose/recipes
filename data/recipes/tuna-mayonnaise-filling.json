@@ -1,0 +1,128 @@
+{
+  "yield": {
+    "amount": 1,
+    "label": "unit"
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "67bb212841d119070e7d8a0d",
+      "label": "pescatarian",
+      "slug": "pescatarian",
+      "__v": 0
+    }
+  ],
+  "_id": "67ae7fdd41d119070e7d88eb",
+  "label": "Tuna Mayonnaise Filling",
+  "slug": "tuna-mayonnaise-filling",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 7,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67ae7fe241d119070e7d88ec",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778640b41d119070e7d85f5",
+        "label": "tuna",
+        "slug": "tuna",
+        "__v": 0
+      },
+      "notes": "canned, drained"
+    },
+    {
+      "amount": {
+        "value": 5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae7ff241d119070e7d88ed",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778642b41d119070e7d85f7",
+        "label": "mayonnaise",
+        "slug": "mayonnaise",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ae7ffe41d119070e7d88ee",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76725",
+        "label": "lemon juice",
+        "name": "lemon juice"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae800841d119070e7d88ef",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": "from the pimiento jara"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae801941d119070e7d88f0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "chopped"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ae802e41d119070e7d88f1",
+      "step": "Mix and stuffed into pimientos."
+    }
+  ],
+  "__v": 9
+}

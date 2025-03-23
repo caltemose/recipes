@@ -1,0 +1,211 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "source": {
+    "name": "The Kitchen Survival Guide"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "6782901341d119070e7d86df",
+  "label": "Potato Salad",
+  "slug": "potato-salad",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6782901541d119070e7d86e0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27c341b2f68404000004",
+        "label": "potato",
+        "name": "potato",
+        "__v": 0
+      },
+      "notes": "cut into pieces"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6782902941d119070e7d86e1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897906",
+          "label": "stalk(s)"
+        }
+      },
+      "_id": "6782903341d119070e7d86e2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76705",
+        "label": "celery",
+        "name": "celery"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6782905341d119070e7d86e3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6782906841d119070e7d86e4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76713",
+        "label": "dill",
+        "name": "dill"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6782907641d119070e7d86e5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76741",
+        "label": "red wine vinegar",
+        "name": "red wine vinegar"
+      },
+      "notes": "or white wine vinegar or lemon juice"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "678290a141d119070e7d86e6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "678290a941d119070e7d86e7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76737",
+        "label": "pepper",
+        "name": "pepper"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678290ba41d119070e7d86e8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76712",
+        "label": "Dijon mustard",
+        "name": "dijon mustard"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678290cd41d119070e7d86e9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778642b41d119070e7d85f7",
+        "label": "mayonnaise",
+        "slug": "mayonnaise",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "678290dd41d119070e7d86ea",
+      "step": "Boil potatoes in enough salted water to cover for about 20 minutes, or until they are tender. Drain and let cool."
+    },
+    {
+      "_id": "678290e941d119070e7d86eb",
+      "step": "Combine all ingredients in a large bowl. Toss to mix well and chill before serving."
+    }
+  ],
+  "__v": 15
+}

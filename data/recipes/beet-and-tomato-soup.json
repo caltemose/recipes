@@ -1,0 +1,270 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "source": {
+    "name": "Soup cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "67ba4ae941d119070e7d89bd",
+  "label": "Beet and Tomato Soup",
+  "slug": "beet-and-tomato-soup",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ba4aeb41d119070e7d89be",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": "plus extra to garnish"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "5974d99735c6436ac4d5cedc",
+          "label": "head(s)",
+          "__v": 0
+        }
+      },
+      "_id": "67ba4afe41d119070e7d89bf",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba4bdd41d119070e7d89c0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "large, coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897906",
+          "label": "stalk(s)"
+        }
+      },
+      "_id": "67ba4bed41d119070e7d89c1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76705",
+        "label": "celery",
+        "name": "celery"
+      },
+      "notes": "thinly sliced (not coarsely chopped or it will leave strings)"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "67ba4c2741d119070e7d89c3",
+          "label": "bulb",
+          "slug": "bulb",
+          "__v": 0
+        }
+      },
+      "_id": "67ba4c1b41d119070e7d89c2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67b9122141d119070e7d8964",
+        "label": "fennel",
+        "slug": "fennel",
+        "__v": 0
+      },
+      "notes": "coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 2.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "67ba4c6141d119070e7d89c4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76759",
+        "label": "tomato(es)",
+        "name": "tomato(es)"
+      },
+      "notes": "peeled, seeded, coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 9,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67ba4dff41d119070e7d89c5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ba4e5841d119070e7d89c6",
+        "label": "beet(s)",
+        "slug": "beet-s",
+        "__v": 0
+      },
+      "notes": "roasted, peeled, coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ba4e7041d119070e7d89c7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f6",
+        "label": "basil",
+        "name": "basil"
+      },
+      "notes": "chopped, (stems reserved), plus 6 sprigs for garnish"
+    },
+    {
+      "amount": {
+        "value": 1.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67ba4e9a41d119070e7d89c8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ba4e5841d119070e7d89c6",
+        "label": "beet(s)",
+        "slug": "beet-s",
+        "__v": 0
+      },
+      "notes": "red, yellow or pink baby beets, for garnish"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ba4ec241d119070e7d89c9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770727741d119070e7d852b",
+        "label": "chive(s)",
+        "slug": "chive-s",
+        "__v": 0
+      },
+      "notes": "chopped, for garnish"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67ba4ed041d119070e7d89ca",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67b90dac41d119070e7d8940",
+        "label": "cherry tomatoes",
+        "slug": "cherry-tomatoes",
+        "__v": 0
+      },
+      "notes": "for garnish"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba4ee641d119070e7d89cb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bccf141d119070e7d8811",
+        "label": "creme fraiche",
+        "slug": "creme-fraiche",
+        "__v": 0
+      },
+      "notes": "for garnish"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ba4efd41d119070e7d89cc",
+      "step": "Preheat oven to 400 degrees F. In a large, heavy saucepan over low heat, cook the garlic, onion, celery, and fennel in the oil, stirring, for 6-8 minutes. Add the tomatoes, roasted beets, and basil stems. Barely cover with water, bring to a boil, then place, uncovered, in the oven for 40 minutes."
+    },
+    {
+      "_id": "67ba4f0641d119070e7d89cd",
+      "step": "Transfer to a blender and process until smooth, adding a little water if necessary. (Optional: pass through a strainer, pushing as much as you can through with the back of a ladle. However, since the celery was finely sliced and the tomato skins and seeds removed, this straining should not be necessary.) Season with salt and pepper, then chill in the fridge for at least 3 hours."
+    },
+    {
+      "_id": "67ba4f1041d119070e7d89ce",
+      "step": "Cook the baby beets in boiling salted water for 20-25 minutes or until tender, then drain, cool, and peel. Trim the edges, then halve or quarter, depending on the size. Season and stir in half the chopped basil, half the chives, and a drizzle of oil. Halve and season the cherry tomatoes."
+    },
+    {
+      "_id": "67ba4f1941d119070e7d89cf",
+      "step": "Stir the soup well, check the seasoning, and half-fill six chilled bowls. Spoon the baby beets and cherry tomatoes into the center of each bowl, then garnish with a drizzle of olive oil or a generous scoop of creme fraiche, the basil sprigs, and the rest of the chives."
+    }
+  ],
+  "__v": 20
+}

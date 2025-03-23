@@ -10,10 +10,15 @@
       "label": "korean",
       "slug": "korean",
       "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
     }
   ],
   "_id": "5a3fe30e44229bfe637b73d0",
-  "__v": 47,
+  "__v": 48,
   "directions": [
     {
       "_id": "5a3fe52f9c5f02065d03f196",

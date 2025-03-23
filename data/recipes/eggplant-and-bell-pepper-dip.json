@@ -1,0 +1,179 @@
+{
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "67afd9ad41d119070e7d8930",
+  "label": "Eggplant and Bell Pepper Dip",
+  "slug": "eggplant-and-bell-pepper-dip",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67afd9af41d119070e7d8931",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76715",
+        "label": "eggplant(s)",
+        "name": "eggplant(s)"
+      },
+      "notes": "large"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67afd9bb41d119070e7d8932",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673f",
+        "label": "red bell pepper(s)",
+        "name": "red bell pepper(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67afd9c841d119070e7d8933",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "67afd9d241d119070e7d8934",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67afd9e241d119070e7d8935",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      },
+      "notes": "zest and juice"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67afd9fe41d119070e7d8936",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670a",
+        "label": "cilantro",
+        "name": "cilantro"
+      },
+      "notes": "chopped, plus extra to garnish"
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67afda1041d119070e7d8937",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76732",
+        "label": "paprika",
+        "name": "paprika"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67afda2141d119070e7d8938",
+      "step": "Preheat the oven to 375 degrees F. Prick the skins of the eggplants and bell peppers all over with a fork and brush with 1 T of olive oil. Put on a baking sheet in the oven for 45 minutes, or until the skins are starting to turn black, the flesh of the eggplant is very soft, and the bell peppers are deflated."
+    },
+    {
+      "_id": "67afda2941d119070e7d8939",
+      "step": "When the vegetables are cooked, put them in a bowl and immediately cover with a damp kitchen towel. Let stand for 15 minutes."
+    },
+    {
+      "_id": "67afda3341d119070e7d893a",
+      "step": "Cut the eggplants in half lengthwise, carefully scoop out the flesh, and discard the skin. Cut the eggplant flesh into large chunks. Remove the discard the stem, core and seeds from the peppers and cut the flesh into large pieces."
+    },
+    {
+      "_id": "67afda3c41d119070e7d893b",
+      "step": "Heat the remaining olive oil in a large heavy-bottom skillet, add the eggplant and peppers and cook for 5 minutes. Add the garlic and cook for an additional 30 seconds."
+    },
+    {
+      "_id": "67afda4441d119070e7d893c",
+      "step": "Turn all the contents of the skillet onto paper towels to drain, then transfer to a food processor. Add the lemon rind and juice, cilantro, paprika and salt and pepper, and blend until a speckled puree is formed.&nbsp;"
+    },
+    {
+      "_id": "67afda4e41d119070e7d893d",
+      "step": "Serve warm, at room temperature, or late cool for 30 minutes, then let chill in the fridge for at least 1 hour and serve cold. Garnish with cilantro sprigs and accompany with crusty bread."
+    }
+  ],
+  "__v": 17
+}

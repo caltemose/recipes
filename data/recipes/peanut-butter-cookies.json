@@ -13,10 +13,16 @@
       "label": "cookies",
       "slug": "cookies",
       "__v": 0
+    },
+    {
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
+      "__v": 0
     }
   ],
   "_id": "53552cce85da3d10277f5695",
-  "__v": 2,
+  "__v": 3,
   "difficulty": 2,
   "directions": [],
   "ingredients": [

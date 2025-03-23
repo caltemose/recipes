@@ -24,6 +24,26 @@
       "label": "Ciabatta",
       "_id": "5a47b6e0277bd9fe34f72b8e",
       "slug": "ciabatta"
+    },
+    {
+      "label": "Gingerbread",
+      "_id": "67898c1341d119070e7d8717",
+      "slug": "gingerbread"
+    },
+    {
+      "label": "Wholemeal Rolls",
+      "_id": "678bd15641d119070e7d8833",
+      "slug": "wholemeal-rolls"
+    },
+    {
+      "label": "Corn Bread",
+      "_id": "67b912cb41d119070e7d896b",
+      "slug": "corn-bread"
+    },
+    {
+      "label": "No-Knead Bread",
+      "_id": "67b9147241d119070e7d8983",
+      "slug": "no-knead-bread"
     }
   ],
   "tag": {

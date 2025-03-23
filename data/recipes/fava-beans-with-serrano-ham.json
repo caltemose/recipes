@@ -1,0 +1,185 @@
+{
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    }
+  ],
+  "_id": "67ae80e841d119070e7d88f8",
+  "label": "Fava Beans with Serrano Ham",
+  "slug": "fava-beans-with-serrano-ham",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67ae80eb41d119070e7d88f9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae810741d119070e7d88fa",
+        "label": "serrano",
+        "slug": "serrano",
+        "__v": 0
+      },
+      "notes": "or prosciutto or pancetta"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67ae812b41d119070e7d88fd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799714241d119070e7d8869",
+        "label": "chorizo",
+        "slug": "chorizo",
+        "__v": 0
+      },
+      "notes": "outer casing removed"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae813c41d119070e7d88fe",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ae814741d119070e7d88ff",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "67ae815141d119070e7d8900",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "679972ad41d119070e7d887c",
+          "label": "splash(es)",
+          "slug": "splash-es",
+          "__v": 0
+        }
+      },
+      "_id": "67ae816741d119070e7d8901",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae817541d119070e7d8902",
+        "label": "dry white wine",
+        "slug": "dry-white-wine",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "67ae818041d119070e7d8903",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae81a041d119070e7d8904",
+        "label": "fava beans",
+        "slug": "fava-beans",
+        "__v": 0
+      },
+      "notes": "fresh and skins removed, or 1 lb frozen"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae81bb41d119070e7d8905",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672a",
+        "label": "mint",
+        "name": "mint"
+      },
+      "notes": "or dill, chopped, plus extra to garnish"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ae81dc41d119070e7d8906",
+      "step": "Cut the ham or pancetta into small strips. Cut the chorizo into 3/4-inch cubes. Heat the olive oil in a large heavy-bottom skillet that has a lid. Add the onion and cook for 5 minutes, or until softened and starting to brown. If you are using pancetta, add it with the onion. Add the garlic and cook for 30 seconds."
+    },
+    {
+      "_id": "67ae81e541d119070e7d8907",
+      "step": "Pour the wine into the skillet, increase the heat, and let it bubble to evaporate the alcohol, then lower the heat. Add the fava beams, ham, if using, and the chorizo and cook for 1-2 minutes, stirring all the time to coat in the oil."
+    },
+    {
+      "_id": "67ae81ed41d119070e7d8908",
+      "step": "Cover the skillet and let the beans simmer very gently in the oil, stirring from time to time, for 10-15 minutes or until the beans are tender. It may be necessary to add a little water to the skillet during cooking, so keep an eye on it and add a splash if the beans appear to become too dry. Stir in the mint or dill. Season with salt and pepper, but taste first as you may find that it does not need any salt."
+    },
+    {
+      "_id": "67ae81f641d119070e7d8909",
+      "step": "Serve hot, garnished with chopped mint or dill."
+    }
+  ],
+  "__v": 14
+}

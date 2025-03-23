@@ -1,0 +1,106 @@
+{
+  "serves": {
+    "amount": 8
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "67bb212841d119070e7d8a0d",
+      "label": "pescatarian",
+      "slug": "pescatarian",
+      "__v": 0
+    }
+  ],
+  "_id": "67b90d9941d119070e7d893e",
+  "label": "Stuffed Cherry Tomatoes",
+  "slug": "stuffed-cherry-tomatoes",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 24,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67b90d9c41d119070e7d893f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67b90dac41d119070e7d8940",
+        "label": "cherry tomatoes",
+        "slug": "cherry-tomatoes",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67b90ddc41d119070e7d8943",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67b90dcb41d119070e7d8941",
+        "label": "anchovy and olive filling",
+        "slug": "anchovy-and-olive-filling",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67b90dea41d119070e7d8944",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67b90dd641d119070e7d8942",
+        "label": "black olive and caper filling",
+        "slug": "black-olive-and-caper-filling",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67b90df841d119070e7d8945",
+      "step": "If necessary, cut and discard a very thin slice from the stalk end of each tomato to make the base flat and stable. Cut a thin slice from the smooth end of each tomato and discard. Using a serrated knife or teaspoon, loosen the pulp and seeds of each and scoop out, discarding the flesh. Turn the scooped-out tomatoes upside down on paper towels and let drain for 5 minutes."
+    },
+    {
+      "_id": "67b90e0641d119070e7d8946",
+      "step": "Prepare the preferred filling."
+    },
+    {
+      "_id": "67b90e0f41d119070e7d8947",
+      "step": "Fill a pastry bag with a 3/4-inch plain tip with the filling and use to pack the filling into hollow tomato shells. Store the tomatoes in the fridge until ready to serve."
+    }
+  ],
+  "__v": 10
+}

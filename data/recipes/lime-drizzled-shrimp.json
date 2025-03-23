@@ -1,0 +1,158 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67bb212841d119070e7d8a0d",
+      "label": "pescatarian",
+      "slug": "pescatarian",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    }
+  ],
+  "_id": "6799722941d119070e7d8874",
+  "label": "Lime-Drizzled Shrimp",
+  "slug": "lime-drizzled-shrimp",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6799722c41d119070e7d8875",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a4977b9277bd9fe34f72bb9",
+        "label": "lime(s)",
+        "slug": "lime-s",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 12,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6799723641d119070e7d8876",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799724d41d119070e7d8877",
+        "label": "jumbo shrimp",
+        "slug": "jumbo-shrimp",
+        "__v": 0
+      },
+      "notes": "raw, in shells"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6799726541d119070e7d8878",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "6799727041d119070e7d8879",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "679972ad41d119070e7d887c",
+          "label": "splash(es)",
+          "slug": "splash-es",
+          "__v": 0
+        }
+      },
+      "_id": "6799727d41d119070e7d887a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799728a41d119070e7d887b",
+        "label": "fino sherry",
+        "slug": "fino-sherry",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790c",
+          "label": "sprig(s)"
+        }
+      },
+      "_id": "679972bb41d119070e7d887d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "to garnish"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "679972d741d119070e7d887f",
+      "step": "Grate the rind and squeeze the juice from 2 of the limes. Cut the remaining limes into wedges and set them aside for later."
+    },
+    {
+      "_id": "679972e441d119070e7d8880",
+      "step": "To prepare the shrimp, remove the head and legs, leaving the shells and tails intact. Using a short knife, make a shallow slit along the underside of each shrimp, then pull out the dark being and discard. Rinse the shrimp under cold water and dry well on paper towels."
+    },
+    {
+      "_id": "679972ed41d119070e7d8881",
+      "step": "Heat the olive oil in a large-heavy-bottom skillet, then add the garlic and cook for 30 seconds. Add the shrimp and cook for 5 minutes, stirring from time to time, or until they turn pink and start to curl. Mix in the lime rind, juice, and a splash of sherry to moisten, then stir well together."
+    },
+    {
+      "_id": "679972ed41d119070e7d8882",
+      "step": "Transfer the cooked shrimp to a serving dish, season with salt and pepper, and sprinkle on the parsley. Serve piping hot, accompanied by the reserved lime wedges for squeezing over the shrimp."
+    }
+  ],
+  "__v": 15
+}

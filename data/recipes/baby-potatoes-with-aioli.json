@@ -1,0 +1,174 @@
+{
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "67ae7ae541d119070e7d88b9",
+  "label": "Baby Potatoes with Aioli",
+  "slug": "baby-potatoes-with-aioli",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "67ae7af041d119070e7d88ba",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27c341b2f68404000004",
+        "label": "potato",
+        "name": "potato",
+        "__v": 0
+      },
+      "notes": "baby new"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae7aff41d119070e7d88bb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ae7b0941d119070e7d88bc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707cc541d119070e7d858c",
+        "label": "egg yolks",
+        "slug": "egg-yolks",
+        "__v": 0
+      },
+      "notes": "at room temperature"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae7b1641d119070e7d88bd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76763",
+        "label": "white wine vinegar",
+        "name": "white wine vinegar"
+      },
+      "notes": "or lemon juice"
+    },
+    {
+      "amount": {
+        "value": 2
+      },
+      "_id": "67ae7b2441d119070e7d88be",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "peeled"
+    },
+    {
+      "amount": {
+        "value": 5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae7b3f41d119070e7d88bf",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae7b4b41d119070e7d88c0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae7b6541d119070e7d88c1",
+        "label": "corn oil",
+        "slug": "corn-oil",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ae7b7541d119070e7d88c2",
+      "step": "To make the aioli, put the egg yolk, vinegar, garlic and salt and pepper into a food processor and blend well together.&nbsp; ith the motor still running, very slowly add the olive oil, then the corn oil, drop by drop at first, then, when it starts to thicken, in a slow steady stream until the sauce is thick and smooth. Alternatively, mix in a bowl with a whisk."
+    },
+    {
+      "_id": "67ae7b7e41d119070e7d88c3",
+      "step": "For this recipe, the aioli should be a little thin so that it coats the potatoes. To ensure this, quickly blend in 1 T water so that it forms the consistency of sauce."
+    },
+    {
+      "_id": "67ae7b8941d119070e7d88c4",
+      "step": "To prepare the potatoes, cut them in half or quarters to make bite-size pieces. Put the potatoes in a large pan of cold, salted water and bring to a boil. Lower the heat and let simmer for 7 minutes, or until just tender. Drain well, then turn out into a large bowl."
+    },
+    {
+      "_id": "67ae7b9141d119070e7d88c5",
+      "step": "While the potatoes are still warm, pour over the aioli and gently toss the potatoes. Adding the sauce to the potatoes while they are still warm will help them absorb the garlic flavor. Let stand for about 20 minutes."
+    },
+    {
+      "_id": "67ae7b9941d119070e7d88c6",
+      "step": "Transfer the potatoes to a warmed serving dish, sprinkle on the parsley and salt to taste, and serve warm. Alternatively, the aioli can be served separately, allowing diners to dip the potatoes themselves."
+    }
+  ],
+  "__v": 16
+}

@@ -1,0 +1,110 @@
+{
+  "recipes": [
+    {
+      "label": "Spiced Olives",
+      "_id": "53552cce85da3d10277f56a0",
+      "slug": "spiced-olives"
+    },
+    {
+      "label": "Salted Almonds",
+      "_id": "67996f2b41d119070e7d8851",
+      "slug": "salted-almonds"
+    },
+    {
+      "label": "Lime-Drizzled Shrimp",
+      "_id": "6799722941d119070e7d8874",
+      "slug": "lime-drizzled-shrimp"
+    },
+    {
+      "label": "Russian Salad",
+      "_id": "67ae796f41d119070e7d88a3",
+      "slug": "russian-salad"
+    },
+    {
+      "label": "Baby Potatoes with Aioli",
+      "_id": "67ae7ae541d119070e7d88b9",
+      "slug": "baby-potatoes-with-aioli"
+    },
+    {
+      "label": "Pan-Fried Potatoes with Paprika",
+      "_id": "67ae7bcd41d119070e7d88c7",
+      "slug": "pan-fried-potatoes-with-paprika"
+    },
+    {
+      "label": "Stuffed Pimientos",
+      "_id": "67ae7cf241d119070e7d88d5",
+      "slug": "stuffed-pimientos"
+    },
+    {
+      "label": "Curd Cheese and Herb Filling",
+      "_id": "67ae7f1b41d119070e7d88e2",
+      "slug": "curd-cheese-and-herb-filling"
+    },
+    {
+      "label": "Tuna Mayonnaise Filling",
+      "_id": "67ae7fdd41d119070e7d88eb",
+      "slug": "tuna-mayonnaise-filling"
+    },
+    {
+      "label": "Goat Cheese and Olive Filling",
+      "_id": "67ae806441d119070e7d88f2",
+      "slug": "goat-cheese-and-olive-filling"
+    },
+    {
+      "label": "Fava Beans with Serrano Ham",
+      "_id": "67ae80e841d119070e7d88f8",
+      "slug": "fava-beans-with-serrano-ham"
+    },
+    {
+      "label": "Chorizo Empanadillas",
+      "_id": "67afd68541d119070e7d890a",
+      "slug": "chorizo-empanadillas"
+    },
+    {
+      "label": "Cheese and Olive Empanadillas",
+      "_id": "67afd75e41d119070e7d8914",
+      "slug": "cheese-and-olive-empanadillas"
+    },
+    {
+      "label": "Sizzling Chili Shrimp",
+      "_id": "67afd8a241d119070e7d8924",
+      "slug": "sizzling-chili-shrimp"
+    },
+    {
+      "label": "Eggplant and Bell Pepper Dip",
+      "_id": "67afd9ad41d119070e7d8930",
+      "slug": "eggplant-and-bell-pepper-dip"
+    },
+    {
+      "label": "Stuffed Cherry Tomatoes",
+      "_id": "67b90d9941d119070e7d893e",
+      "slug": "stuffed-cherry-tomatoes"
+    },
+    {
+      "label": "Anchovy and Olive Filling",
+      "_id": "67b90e6241d119070e7d8948",
+      "slug": "anchovy-and-olive-filling"
+    },
+    {
+      "label": "Black Olive and Caper Filling",
+      "_id": "67b9106941d119070e7d894f",
+      "slug": "black-olive-and-caper-filling"
+    },
+    {
+      "label": "Sauteed Garlic Mushrooms",
+      "_id": "67b9112041d119070e7d8954",
+      "slug": "sauteed-garlic-mushrooms"
+    },
+    {
+      "label": "Cracked Marinated Olives",
+      "_id": "67b911b841d119070e7d895d",
+      "slug": "cracked-marinated-olives"
+    }
+  ],
+  "tag": {
+    "_id": "67ae7aca41d119070e7d88b8",
+    "label": "tapas",
+    "slug": "tapas",
+    "__v": 0
+  }
+}

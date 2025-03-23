@@ -1,0 +1,114 @@
+{
+  "serves": {
+    "amount": 1
+  },
+  "source": {
+    "name": "Great Courses"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "67ba478041d119070e7d898e",
+  "label": "Perfect French Omelette",
+  "slug": "perfect-french-omelette",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba478141d119070e7d898f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ba478a41d119070e7d8990",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba479441d119070e7d8991",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770727741d119070e7d852b",
+        "label": "chive(s)",
+        "slug": "chive-s",
+        "__v": 0
+      },
+      "notes": "fresh, chopped"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ba47ad41d119070e7d8992",
+      "step": "Beat eggs in a small cup/bowl."
+    },
+    {
+      "_id": "67ba47b441d119070e7d8993",
+      "step": "Melt butter in a small saucepan."
+    },
+    {
+      "_id": "67ba47be41d119070e7d8994",
+      "step": "Add egg mixture to saucepan. Let sit for 1-2 minutes, then use a heat-proof spatula to pull the edges of the eggs away from the sides of the pan to let the runny part of the eggs run under the cooked edges.&nbsp;"
+    },
+    {
+      "_id": "67ba47c741d119070e7d8995",
+      "step": "Let cook for a few minutes. You want the egg mixture on top to firm up (not be liquid) but you don’t want the bottom to become too brown.&nbsp;"
+    },
+    {
+      "_id": "67ba47d541d119070e7d8996",
+      "step": "When the top is almost firmed up, season with salt and pepper. If you want to add ham, cheese, etc, do it now!&nbsp; (Although a traditional French omelette does not have these extra ingredients.)"
+    },
+    {
+      "_id": "67ba47dc41d119070e7d8997",
+      "step": "Knock the side of the pan a couple of times with the palm of your hand to loosen the omelette from the bottom of the pan and keep it from sticking."
+    },
+    {
+      "_id": "67ba47e641d119070e7d8998",
+      "step": "When the omelette is fully cooked, fold 1/3 over the middle. Then roll the omelette onto the plate by folding the middle over the remaining third and onto the plate. Garnish with chopped chives. Serve with a green salad and some crusty bread."
+    }
+  ],
+  "__v": 13
+}

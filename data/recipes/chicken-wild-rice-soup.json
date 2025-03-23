@@ -1,0 +1,322 @@
+{
+  "serves": {
+    "amount": 8
+  },
+  "source": {
+    "name": "family recipe"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "6789918441d119070e7d8757",
+  "label": "Chicken Wild Rice Soup",
+  "slug": "chicken-wild-rice-soup",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6789918941d119070e7d8758",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6789919641d119070e7d8759",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678991a341d119070e7d875a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76705",
+        "label": "celery",
+        "name": "celery"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678991bb41d119070e7d875b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      },
+      "notes": "sliced"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "678991c841d119070e7d875c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672c",
+        "label": "mushrooms",
+        "name": "mushrooms"
+      },
+      "notes": "sliced"
+    },
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678991d941d119070e7d875d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678991e841d119070e7d875e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6789920441d119070e7d875f",
+        "label": "wild rice",
+        "slug": "wild-rice",
+        "__v": 0
+      },
+      "notes": "cooked"
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6789920e41d119070e7d8760",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a246ded2c912bb7ffba835c",
+        "label": "chicken broth",
+        "slug": "chicken-broth",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6789921d41d119070e7d8761",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76764",
+        "label": "chicken",
+        "name": "chicken"
+      },
+      "notes": "cooked"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6789922941d119070e7d8762",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6789923a41d119070e7d8763",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677071e841d119070e7d8524",
+        "label": "curry powder",
+        "slug": "curry-powder",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6789924741d119070e7d8764",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67805d4c41d119070e7d86cc",
+        "label": "mustard powder",
+        "slug": "mustard-powder",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6789927741d119070e7d8765",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "dried"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6789928a41d119070e7d8766",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678992a741d119070e7d8767",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a36deffb1cb7881b05b0081",
+        "label": "almonds",
+        "slug": "almonds",
+        "__v": 0
+      },
+      "notes": "slivered"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678992b341d119070e7d8768",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678992c641d119070e7d8769",
+        "label": "sherry",
+        "slug": "sherry",
+        "__v": 0
+      },
+      "notes": "dry"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678992d441d119070e7d876a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6777242c41d119070e7d85b3",
+        "label": "half and half",
+        "slug": "half-and-half",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "678992e441d119070e7d876b",
+      "step": "Melt butter in a large saucepan over medium heat. Stir in onion, celery and carrots and saute for 5 minutes. Add mushrooms and saute for 2 more minutes. Then add flour and stir well. Gradually pour in chicken broth, stirring constantly, until all has been added. Bring just to a boil, reduce heat to low and simmer."
+    },
+    {
+      "_id": "678992ec41d119070e7d876c",
+      "step": "Next, add rice, chicken, salt, curry powder, mustard powder, parsley, black pepper, almonds and sherry. Allow to heat through, then pour in half-and-half. Let simmer for 1-2 hours. (Note: do not boil or your roux will break.)"
+    }
+  ],
+  "__v": 20
+}

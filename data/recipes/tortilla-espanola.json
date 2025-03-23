@@ -1,0 +1,134 @@
+{
+  "serves": {
+    "amount": 8
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "67996fb241d119070e7d885b",
+  "label": "Tortilla Espanola",
+  "slug": "tortilla-espanola",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "67996ff341d119070e7d885c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27c341b2f68404000004",
+        "label": "potato",
+        "name": "potato",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67996fff41d119070e7d885d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6799700941d119070e7d885e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6799701941d119070e7d885f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "large"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790c",
+          "label": "sprig(s)"
+        }
+      },
+      "_id": "6799702541d119070e7d8860",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "to garnish"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6799704941d119070e7d8861",
+      "step": "Peel the potatoes, cut into small cubes or wedges, then put on a clean dish towel and dry well. Heat the olive oil in a large, heavy-bottom or nonstick skillet.&nbsp; Add the potato pieces and onions, then lower the heat and cook the potatoes, stirring frequently so they do not clump together, for 20 minutes, or until they are tender but not browned. The secret of success is to cook the potatoes for a long time so that they absorb the flavor of the oil and are cooked but not browned or crisp and do not fall apart. They are in fact almost boiled rather than pan-fried."
+    },
+    {
+      "_id": "6799705341d119070e7d8862",
+      "step": "Meanwhile, beat the eggs lightly in a large bowl and season well with salt and pepper. Place a strainer over a large bowl."
+    },
+    {
+      "_id": "6799705d41d119070e7d8863",
+      "step": "When the potatoes and onions are cooked, drain them into the strainer so that the bowl catches the oil. Set the oil aside. When the potatoes and onions are well drained, gently stir them into the eggs."
+    },
+    {
+      "_id": "6799706941d119070e7d8864",
+      "step": "Wipe the skillet clean to prevent the tortilla sticking. Heat 2 T of the reserved oil in the skillet. When hot, add the potato and egg mixture, lower the heat and cook for 3-5 minutes, or until the underside is just set. Use a spatula to push the potatoes down into the egg so that they are completely submerged and keep loosening the tortilla from the bottom of the skillet to stop it sticking."
+    },
+    {
+      "_id": "6799706941d119070e7d8865",
+      "step": "To cook the second side of the tortilla, cover it with a plate, and hold the plate in place with the other hand. Drain off the oil in the skillet, then quickly turn the skillet upside down so that the tortilla falls onto the plate. Return the skillet to the heat and add a little more of the reserved oil if necessary. Slide the tortilla, cooked side uppermost, back into the skillet and cook for an additional 3-5 minutes, or until set underneath. The tortilla is cooked when it is firm and crisp on the outside but slightly runny in the center."
+    },
+    {
+      "_id": "6799708041d119070e7d8866",
+      "step": "Slide the tortilla onto a serving plate and let stand for 15 minutes. Serve it warm or cold, and garnish with parsley sprigs."
+    }
+  ],
+  "__v": 12
+}

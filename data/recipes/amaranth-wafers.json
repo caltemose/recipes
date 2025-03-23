@@ -1,0 +1,230 @@
+{
+  "yield": {
+    "amount": 36,
+    "label": "cookies"
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01eb1cb7881b05b0096",
+      "label": "cookies",
+      "slug": "cookies",
+      "__v": 0
+    },
+    {
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
+      "__v": 0
+    }
+  ],
+  "_id": "677989b141d119070e7d8666",
+  "label": "Amaranth Wafers",
+  "slug": "amaranth-wafers",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 100,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        }
+      },
+      "_id": "677989b541d119070e7d8667",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677989cc41d119070e7d8668",
+        "label": "amaranth",
+        "slug": "amaranth",
+        "__v": 0
+      },
+      "notes": "whole"
+    },
+    {
+      "amount": {
+        "value": 195,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        }
+      },
+      "_id": "677989d941d119070e7d8669",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fc",
+        "label": "brown sugar",
+        "name": "brown sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 55,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        }
+      },
+      "_id": "677989e441d119070e7d866a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": "room temp"
+    },
+    {
+      "amount": {
+        "value": 75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        }
+      },
+      "_id": "677989f141d119070e7d866b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677989fc41d119070e7d866c",
+        "label": "amaranth flour",
+        "slug": "amaranth-flour",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        }
+      },
+      "_id": "67798a1841d119070e7d866e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67798a1341d119070e7d866d",
+        "label": "orange peel",
+        "slug": "orange-peel",
+        "__v": 0
+      },
+      "notes": "dried"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67798a2341d119070e7d866f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.12,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67798a2f41d119070e7d8670",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f2",
+        "label": "baking powder",
+        "name": "baking powder"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67798a3c41d119070e7d8671",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67798a4441d119070e7d8672",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675c",
+        "label": "vanilla extract",
+        "name": "vanilla extract"
+      }
+    },
+    {
+      "amount": {
+        "value": 30,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        }
+      },
+      "_id": "67798ae841d119070e7d867a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67798b0c41d119070e7d867b",
+        "label": "orange peel, candied",
+        "slug": "orange-peel-candied",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67798b3a41d119070e7d867c",
+      "step": "Heat an 8-inch nonstick skillet over medium-high heat for 2 minutes.&nbsp; Add 1 T of whole amaranth and shake into an even layer.&nbsp; Cover the pan and let the amaranth pop for 1 minute or until popping slows.&nbsp; Immediately remove to a bowl and continue popping the remaining amaranth 1 T at a time.&nbsp; When finished, allow to cool."
+    },
+    {
+      "_id": "67798b4441d119070e7d867d",
+      "step": "Place brown sugar and butter in a stand mixer fitted with the paddle attachment and cream on medium speed for 2 minutes."
+    },
+    {
+      "_id": "67798b5241d119070e7d867e",
+      "step": "Whisk the amaranth flour, dried orange peel, salt and baking powder together and set aside."
+    },
+    {
+      "_id": "67798b5b41d119070e7d867f",
+      "step": "Slow the mixer and beat in the egg and vanilla.&nbsp; Slowly add the flour mixture, followed by the popped amaranth and candied orange peel.&nbsp; Chill the batter for 30 minutes."
+    },
+    {
+      "_id": "67798b6341d119070e7d8680",
+      "step": "Heat even to 325 degrees F."
+    },
+    {
+      "_id": "67798b7041d119070e7d8681",
+      "step": "Drop the batter by the tablespoonful onto parchment paper-lined half sheet pans, 12 to a pan.&nbsp; Bake for 10-12 minutes.&nbsp; Cool for 1 minute on the pans before moving to racks to cool completely.&nbsp; Store in airtight container for up to 2 weeks.&nbsp; Can also freeze."
+    }
+  ],
+  "__v": 23
+}

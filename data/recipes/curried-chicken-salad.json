@@ -1,0 +1,150 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "source": {
+    "name": "The Kitchen Survival Guide"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "678292bf41d119070e7d86fb",
+  "label": "Curried Chicken Salad",
+  "slug": "curried-chicken-salad",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678292c241d119070e7d86fc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778642b41d119070e7d85f7",
+        "label": "mayonnaise",
+        "slug": "mayonnaise",
+        "__v": 0
+      },
+      "notes": "or plain yogurt"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "678292d641d119070e7d86fd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677071e841d119070e7d8524",
+        "label": "curry powder",
+        "slug": "curry-powder",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678292e241d119070e7d86fe",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76764",
+        "label": "chicken",
+        "name": "chicken"
+      },
+      "notes": "cubed"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678292ed41d119070e7d86ff",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671f",
+        "label": "granny smith apple(s)",
+        "name": "granny smith apple(s)"
+      },
+      "notes": "cubed"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678292f941d119070e7d8700",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673e",
+        "label": "raisins",
+        "name": "raisins"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897906",
+          "label": "stalk(s)"
+        }
+      },
+      "_id": "6782930441d119070e7d8701",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76705",
+        "label": "celery",
+        "name": "celery"
+      },
+      "notes": "thinly sliced"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6782931141d119070e7d8702",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6782932941d119070e7d8703",
+        "label": "pecans",
+        "slug": "pecans",
+        "__v": 0
+      },
+      "notes": "or slivered almonds"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6782933b41d119070e7d8704",
+      "step": "ingredients and toss gently. Refrigerate until ready to serve."
+    }
+  ],
+  "__v": 9
+}

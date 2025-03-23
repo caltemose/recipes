@@ -1,0 +1,304 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "Soup cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    }
+  ],
+  "_id": "678bca3541d119070e7d87d9",
+  "label": "Mexican Chili Bean Soup",
+  "slug": "mexican-chili-bean-soup",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bca3b41d119070e7d87da",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc46d41d119070e7d8787",
+        "label": "sunflower oil",
+        "slug": "sunflower-oil",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bca4441d119070e7d87db",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bca4b41d119070e7d87dc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673f",
+        "label": "red bell pepper(s)",
+        "name": "red bell pepper(s)"
+      },
+      "notes": "seeded, finely chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "678bca5741d119070e7d87dd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 14,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "678bca6341d119070e7d87de",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bca7941d119070e7d87df",
+        "label": "ground turkey",
+        "slug": "ground-turkey",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "678bca8241d119070e7d87e0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770754a41d119070e7d8537",
+        "label": "ground cumin",
+        "slug": "ground-cumin",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "678bca8c41d119070e7d87e1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677727fb41d119070e7d85e6",
+        "label": "chili powder",
+        "slug": "chili-powder",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "678bca9541d119070e7d87e2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76731",
+        "label": "oregano",
+        "name": "oregano"
+      },
+      "notes": "dried"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "677727a041d119070e7d85e1",
+          "label": "can(s)",
+          "slug": "can-s",
+          "__v": 0
+        }
+      },
+      "_id": "678bcaab41d119070e7d87e3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bcabd41d119070e7d87e4",
+        "label": "chopped tomatoes",
+        "slug": "chopped-tomatoes",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bcac841d119070e7d87e5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc71f41d119070e7d87b1",
+        "label": "tomato puree",
+        "slug": "tomato-puree",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 3.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678bcad041d119070e7d87e6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "63e010b26ec18c0944a6ab56",
+        "label": "vegetable stock",
+        "slug": "vegetable-stock",
+        "__v": 0
+      },
+      "notes": "hot"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "677727a041d119070e7d85e1",
+          "label": "can(s)",
+          "slug": "can-s",
+          "__v": 0
+        }
+      },
+      "_id": "678bcad941d119070e7d87e7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b26f041b2f68404000002",
+        "label": "kidney beans",
+        "name": "kidney beans",
+        "__v": 0
+      },
+      "notes": "drained and rinsed"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bcaf441d119070e7d87e8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "chopped, to serve"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bcb0041d119070e7d87e9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674d",
+        "label": "sour cream",
+        "name": "sour cream"
+      },
+      "notes": "to serve"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bcb0841d119070e7d87ea",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76706",
+        "label": "cheddar",
+        "name": "cheddar"
+      },
+      "notes": "grated, to serve"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "678bcb1c41d119070e7d87eb",
+      "step": "Heat the oil in a large saucepan, add the onion, and cook for 5 minutes. Add the pepper and garlic and stir-fry for 2 minutes. Add the turkey and stir-fry for 5 minutes or until it has broken up and browned. Stir in cumin, chili powder and oregano and cook for another minute or so."
+    },
+    {
+      "_id": "678bcb2341d119070e7d87ec",
+      "step": "Stir in tomatoes, tomato puree and stock, then simmer for 20-25 minutes until reduced slightly and a good soupy consistency. Add beans and simmer for another 5 minutes. Stir in half the parsley and season with salt and pepper."
+    },
+    {
+      "_id": "678bcb2b41d119070e7d87ed",
+      "step": "Ladle into bowl and serve topped with sour cream, cheddar, and parsley."
+    }
+  ],
+  "__v": 20
+}

@@ -1,0 +1,121 @@
+{
+  "yield": {
+    "amount": 1,
+    "label": "unit for 24 tomatoes"
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    },
+    {
+      "_id": "67bb212841d119070e7d8a0d",
+      "label": "pescatarian",
+      "slug": "pescatarian",
+      "__v": 0
+    }
+  ],
+  "_id": "67b90e6241d119070e7d8948",
+  "label": "Anchovy and Olive Filling",
+  "slug": "anchovy-and-olive-filling",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67b90e6741d119070e7d8949",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a497351277bd9fe34f72ba8",
+        "label": "anchovies",
+        "slug": "anchovies",
+        "__v": 0
+      },
+      "notes": "in olive oil, drained and finely chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "679972ad41d119070e7d887c",
+          "label": "splash(es)",
+          "slug": "splash-es",
+          "__v": 0
+        }
+      },
+      "_id": "67b90e8341d119070e7d894a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67b90e9d41d119070e7d894b",
+        "label": "anchovy oil",
+        "slug": "anchovy-oil",
+        "__v": 0
+      },
+      "notes": "from the can, to moisten the filling"
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67b90eb241d119070e7d894c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678291e741d119070e7d86f8",
+        "label": "green olive(s)",
+        "slug": "green-olive-s",
+        "__v": 0
+      },
+      "notes": "pimiento stuffed, finely chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67b90ed741d119070e7d894d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "large, hardboiled, finely chopped"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67b90efb41d119070e7d894e",
+      "step": "Mix all ingredients together as a filling for stuffed cherry tomatoes."
+    }
+  ],
+  "__v": 9
+}

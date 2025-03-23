@@ -1,0 +1,89 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "The Kitchen Survival Guide"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "678293d641d119070e7d870c",
+  "label": "Brown Rice",
+  "slug": "brown-rice",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678293d941d119070e7d870d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": "or broth"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678293e541d119070e7d870e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678293ee41d119070e7d870f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a402b8e9c5f02065d03f1b1",
+        "label": "brown rice",
+        "slug": "brown-rice",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6782940641d119070e7d8710",
+      "step": "Bring water or broth and butter to a boil in a medium saucepan. Stir in the rice and lower the heat to simmer. Cover the pan and cook for 45-50 minutes, stirring once or twice, toward the end. Season to taste."
+    },
+    {
+      "_id": "6782940f41d119070e7d8711",
+      "step": "Try adding 1 medium onion, diced and sautéed in 2 T oil."
+    }
+  ],
+  "__v": 7
+}

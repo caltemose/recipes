@@ -1,0 +1,172 @@
+{
+  "serves": {
+    "amount": 8
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "6799736c41d119070e7d8883",
+  "label": "Green Beans with Pine Nuts",
+  "slug": "green-beans-with-pine-nuts",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6799736e41d119070e7d8884",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6799737841d119070e7d8885",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76739",
+        "label": "pine nuts",
+        "name": "pine nuts"
+      },
+      "notes": "or blanched and slivered almonds"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6799738f41d119070e7d8886",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76732",
+        "label": "paprika",
+        "name": "paprika"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6799739d41d119070e7d8887",
+      "type": "Ingredient",
+      "item": {
+        "_id": "679973b541d119070e7d8888",
+        "label": "green beans",
+        "slug": "green-beans",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "679973c641d119070e7d8889",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "679973d041d119070e7d888a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "679973e441d119070e7d888b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      },
+      "notes": "juiced"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "679973fb41d119070e7d888c",
+      "step": "Heat the oil in a large heavy-bottom skillet, add the pine nuts and cook for about 1 minute, stirring all the time and shaking the skillet, until light golden brown. Using a slotted spoon, remove the pine nuts from the skillet, drain well on paper towels, then transfer to a bowl. Set aside the skillet for later. Add the paprika to the pine nuts, stir together until coated, and then set aside."
+    },
+    {
+      "_id": "6799740541d119070e7d888d",
+      "step": "Trim the green beans. Put the beans in a pan, pour over boiling water, return to a boil, and cook for 5 minutes, until tender but still firm. Drain well in a strainer."
+    },
+    {
+      "_id": "6799741141d119070e7d888e",
+      "step": "Reheat the oil in the skillet, add the onion and cook for 5-10 minutes, or until softened and starting to brown. Add the garlic and cook for an additional 30 seconds."
+    },
+    {
+      "_id": "6799741b41d119070e7d888f",
+      "step": "Add the beans to the skillet and cook for 2-3 minutes, tossing together with the onion until heated through. Season with salt and pepper."
+    },
+    {
+      "_id": "6799742541d119070e7d8890",
+      "step": "Turn the contents of the skillet into a warmed serving dish, sprinkle over the lemon juice and toss together. Sprinkle over the pine nuts and serve hot."
+    }
+  ],
+  "__v": 15
+}

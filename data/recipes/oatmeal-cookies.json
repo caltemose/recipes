@@ -1,0 +1,223 @@
+{
+  "yield": {
+    "amount": 4,
+    "label": "dozen"
+  },
+  "source": {
+    "name": "family recipe"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01eb1cb7881b05b0096",
+      "label": "cookies",
+      "slug": "cookies",
+      "__v": 0
+    }
+  ],
+  "_id": "67898d5e41d119070e7d8726",
+  "label": "Oatmeal Cookies",
+  "slug": "oatmeal-cookies",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898d8a41d119070e7d8727",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67898d9341d119070e7d8728",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f3",
+        "label": "baking soda",
+        "name": "baking soda"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67898da241d119070e7d8729",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67898de541d119070e7d872a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a1c41d119070e7d856b",
+        "label": "ground cinnamon",
+        "slug": "ground-cinnamon",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898dee41d119070e7d872b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67786bba41d119070e7d863e",
+        "label": "rolled oats",
+        "slug": "rolled-oats",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898e4f41d119070e7d872c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898e5b41d119070e7d872d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fc",
+        "label": "brown sugar",
+        "name": "brown sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898e6441d119070e7d872e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673e",
+        "label": "raisins",
+        "name": "raisins"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898e6a41d119070e7d872f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675d",
+        "label": "vegetable oil",
+        "name": "vegetable oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67898e7441d119070e7d8730",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898e7c41d119070e7d8731",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67898e8641d119070e7d8732",
+      "step": "Preheat oven to 375 degrees F with the rack in the center position."
+    },
+    {
+      "_id": "67898e9441d119070e7d8733",
+      "step": "Sift flour, baking soda, salt and cinnamon into a very large mixing bowl. Mix in the oatmeal, sugars, raisins, oil, eggs and milk. Mix very well until the ingredients are combined."
+    },
+    {
+      "_id": "67898ea041d119070e7d8734",
+      "step": "Drop the batter in rounded tablespoons onto the cooking sheets. Bake for 15-20 minutes, reversing the cookies sheets once halfway through the cooking time. Remove cookies to a rack to cool."
+    }
+  ],
+  "__v": 16
+}

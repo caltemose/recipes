@@ -1,0 +1,189 @@
+{
+  "serves": {
+    "amount": 8
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "67b911b841d119070e7d895d",
+  "label": "Cracked Marinated Olives",
+  "slug": "cracked-marinated-olives",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "67b911bb41d119070e7d895e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678291e741d119070e7d86f8",
+        "label": "green olive(s)",
+        "slug": "green-olive-s",
+        "__v": 0
+      },
+      "notes": "jar, drained"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "67b911d241d119070e7d895f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "peeled"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67b911e041d119070e7d8960",
+      "type": "Ingredient",
+      "item": {
+        "_id": "63e010a96ec18c0944a6ab55",
+        "label": "coriander seeds",
+        "slug": "coriander-seeds",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67b911f041d119070e7d8961",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      },
+      "notes": "small"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790c",
+          "label": "sprig(s)"
+        }
+      },
+      "_id": "67b911f841d119070e7d8962",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27be41b2f68404000003",
+        "label": "thyme",
+        "name": "thyme",
+        "__v": 0
+      },
+      "notes": "fresh"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897906",
+          "label": "stalk(s)"
+        }
+      },
+      "_id": "67b9120a41d119070e7d8963",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67b9122141d119070e7d8964",
+        "label": "fennel",
+        "slug": "fennel",
+        "__v": 0
+      },
+      "notes": "with feathers"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67b9123041d119070e7d8965",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bcb9141d119070e7d87f5",
+        "label": "red chiles",
+        "slug": "red-chiles",
+        "__v": 0
+      },
+      "notes": "small, fresh"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67b9126241d119070e7d8967",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": "to cover"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67b9127841d119070e7d8968",
+      "step": "To allow the flavors of the marinade to penetrate the olives, place on a cutting board and, using a rolling pin, bash them lightly so that they crack slightly. Alternative, use a sharp knife to cut a lengthwise slit in each olive as far as the pit.&nbsp; Using the flat side of a broad knife, lightly crush each garlic clove. Using a mortar and pestle, crack the coriander seeds. Cut the lemon, with its rind, into small chunks."
+    },
+    {
+      "_id": "67b9128141d119070e7d8969",
+      "step": "Put the olives, garlic, coriander, lemon, thyme sprigs, fennel and chilies in a large bowl and toss together. Season with pepper. Pack the ingredients into a glass jar with a lid. Pour in enough olive oil to cover the olives, then seal the jar tightly."
+    },
+    {
+      "_id": "67b9128e41d119070e7d896a",
+      "step": "Let the olives stand at room temperature for 24 hours, then marinate in the fridge for at least 1 week but preferably 2 weeks before serving. From time to time, gently give the jar a shake to remix the ingredients. Return the olives to room temperature and remove from the oil to serve."
+    }
+  ],
+  "__v": 14
+}

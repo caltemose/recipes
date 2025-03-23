@@ -6,10 +6,15 @@
       "_id": "597784d0e3f0716170504990",
       "label": "soup",
       "slug": "soup"
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
     }
   ],
   "_id": "53552cce85da3d10277f5680",
-  "__v": 7,
+  "__v": 8,
   "difficulty": 2,
   "directions": [
     {
@@ -311,6 +316,6 @@
     }
   ],
   "label": "Corn Soup",
-  "notes": "asdf",
+  "notes": "",
   "slug": "corn-soup"
 }

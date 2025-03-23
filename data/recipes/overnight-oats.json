@@ -1,0 +1,231 @@
+{
+  "serves": {
+    "amount": 1
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d409c0836b893a9a14c93",
+      "label": "breakfast",
+      "slug": "breakfast",
+      "__v": 0
+    }
+  ],
+  "_id": "67786b5941d119070e7d8638",
+  "label": "Overnight Oats",
+  "slug": "overnight-oats",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67786b5c41d119070e7d8639",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a246a042c912bb7ffba833d",
+        "label": "coconut milk",
+        "slug": "coconut-milk",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67786b7041d119070e7d863a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67786b8441d119070e7d863b",
+        "label": "almond milk",
+        "slug": "almond-milk",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67786b9141d119070e7d863c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675c",
+        "label": "vanilla extract",
+        "name": "vanilla extract"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67786ba441d119070e7d863d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67786bba41d119070e7d863e",
+        "label": "rolled oats",
+        "slug": "rolled-oats",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67786bc641d119070e7d863f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67786bda41d119070e7d8640",
+        "label": "dried fruit",
+        "slug": "dried-fruit",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67786be541d119070e7d8641",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67786bf741d119070e7d8642",
+        "label": "chia seeds",
+        "slug": "chia-seeds",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67786c0141d119070e7d8643",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67786c1741d119070e7d8644",
+        "label": "flaxseed meal",
+        "slug": "flaxseed-meal",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "67786c1f41d119070e7d8645",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "67786c2941d119070e7d8646",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a1c41d119070e7d856b",
+        "label": "ground cinnamon",
+        "slug": "ground-cinnamon",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67786c3341d119070e7d8647",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67786c4a41d119070e7d8648",
+        "label": "coconut flakes",
+        "slug": "coconut-flakes",
+        "__v": 0
+      },
+      "notes": "toasted"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67786c5641d119070e7d8649",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a36deffb1cb7881b05b0081",
+        "label": "almonds",
+        "slug": "almonds",
+        "__v": 0
+      },
+      "notes": "slivered and toasted"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67786c6e41d119070e7d864a",
+      "step": "In a 16-oz jar, add oats, fruit, chia seeds, flax meal, salt and cinnamon."
+    },
+    {
+      "_id": "67786c7741d119070e7d864b",
+      "step": "Add coconut milk, almond milk and vanilla. Shake jar to combine. Refrigerate overnight."
+    },
+    {
+      "_id": "67786c7f41d119070e7d864c",
+      "step": "Serve in the jar, topped with coconut and/or almonds."
+    }
+  ],
+  "__v": 16
+}

@@ -1,0 +1,189 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "67ae7bcd41d119070e7d88c7",
+  "label": "Pan-Fried Potatoes with Paprika",
+  "slug": "pan-fried-potatoes-with-paprika",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ae7be541d119070e7d88c8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76732",
+        "label": "paprika",
+        "name": "paprika"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ae7bf141d119070e7d88c9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770754a41d119070e7d8537",
+        "label": "ground cumin",
+        "slug": "ground-cumin",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ae7bfb41d119070e7d88ca",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76704",
+        "label": "cayenne pepper",
+        "name": "cayenne pepper"
+      },
+      "notes": "or 1/2 teaspoon"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ae7c1241d119070e7d88cb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "67ae7c1d41d119070e7d88cc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27c341b2f68404000004",
+        "label": "potato",
+        "name": "potato",
+        "__v": 0
+      },
+      "notes": "small, old, peeled"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ae7c3141d119070e7d88cd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae7b6541d119070e7d88c1",
+        "label": "corn oil",
+        "slug": "corn-oil",
+        "__v": 0
+      },
+      "notes": "for pan-frying"
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790c",
+          "label": "sprig(s)"
+        }
+      },
+      "_id": "67ae7c4f41d119070e7d88ce",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "to garnish"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ae7c6c41d119070e7d88cf",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae7c8441d119070e7d88d0",
+        "label": "aioli",
+        "slug": "aioli",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ae7cad41d119070e7d88d1",
+      "step": "Put the paprika, cumin, cayenne pepper and salt in a small bowl and mix well together. Set aside."
+    },
+    {
+      "_id": "67ae7cb541d119070e7d88d2",
+      "step": "Cut each potato into 8 thick wedges. Pour corn oil into a large-heavy-bottom skillet to a depth of about 1 inch. Heat the oil, then add the potatoes wedges in a single layer and cook gently for 10 minutes, or until golden brown, turning from time to time. Remove from the skillet with a slotted spoon and let drain on paper towels."
+    },
+    {
+      "_id": "67ae7cbd41d119070e7d88d3",
+      "step": "Transfer the potato wedges to a large bowl and, while they are still hot, sprinkle with the paprika mixture, then gently toss them to coat."
+    },
+    {
+      "_id": "67ae7cc541d119070e7d88d4",
+      "step": "Serve hot, garnished with parsley sprigs."
+    }
+  ],
+  "__v": 15
+}

@@ -1,0 +1,143 @@
+{
+  "source": {
+    "name": "personal recipe"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "678bc3a441d119070e7d877c",
+  "label": "Gazpacho - Juli",
+  "slug": "gazpacho-juli",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc3a941d119070e7d877d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76759",
+        "label": "tomato(es)",
+        "name": "tomato(es)"
+      },
+      "notes": "medium size, blanched and peeled, seeds removed, coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc3c141d119070e7d877e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76710",
+        "label": "cucumber(s)",
+        "name": "cucumber(s)"
+      },
+      "notes": "peeled, seeds removed, coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc3cf41d119070e7d877f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673f",
+        "label": "red bell pepper(s)",
+        "name": "red bell pepper(s)"
+      },
+      "notes": "roasted, peeled, ribs and seeds removed, coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bc3f241d119070e7d8780",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": "plus more to taste"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bc40441d119070e7d8781",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76741",
+        "label": "red wine vinegar",
+        "name": "red wine vinegar"
+      },
+      "notes": "plus more to taste"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc41041d119070e7d8782",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "notes": "to taste"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "678bc42441d119070e7d8783",
+      "step": "Add veggies to a blender and process until smooth. Add 4 T of olive oil and blend. Taste to see if you like the flavor or if you want to add more olive oil. Add 2 T of vinegar. Taste to see if you want to add more. (Remember that tomatoes and vinegar are both acidic, so too much vinegar can make the soup too acidic. This is why I taste as I go and don’t just dump all of the vinegar in at once.) Add salt which will really open up the flavors."
+    },
+    {
+      "_id": "678bc42f41d119070e7d8784",
+      "step": "Let the soup sit in the fridge for a couple of days so the flavors can blend. Serve chilled or at room temperature. This can be a light main course served with some crusty bread on the side or it can be a cup of soup to accompany other dishes."
+    }
+  ],
+  "__v": 11
+}

@@ -1,0 +1,155 @@
+{
+  "yield": {
+    "amount": 2,
+    "label": "cups"
+  },
+  "source": {
+    "name": "Culinary Institute of America"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "67707bc241d119070e7d857f",
+  "label": "Tzaziki Sauce",
+  "slug": "tzaziki-sauce",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67707bc341d119070e7d8580",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76710",
+        "label": "cucumber(s)",
+        "name": "cucumber(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67707bd041d119070e7d8581",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67707bd841d119070e7d8582",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707b6641d119070e7d857d",
+        "label": "yogurt",
+        "slug": "yogurt",
+        "__v": 0
+      },
+      "notes": "plain"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67707bea41d119070e7d8583",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707b6641d119070e7d857d",
+        "label": "yogurt",
+        "slug": "yogurt",
+        "__v": 0
+      },
+      "notes": "yogurt cheese"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67707c0d41d119070e7d8584",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "minced, then pureed in a mortar"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67707c2641d119070e7d8585",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672a",
+        "label": "mint",
+        "name": "mint"
+      },
+      "notes": "fresh, chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67707c4741d119070e7d8586",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76725",
+        "label": "lemon juice",
+        "name": "lemon juice"
+      },
+      "notes": "to taste"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67707c5e41d119070e7d8587",
+      "step": "Combine cucumber and salt in a colander and let it drain for 15 minutes. Squeeze out the excess moisture. Put cucumber in a medium bowl and combine with yogurt, yogurt cheese, garlic, mint and lemon juice. Adjust the seasoning with salt if necessary."
+    }
+  ],
+  "__v": 10
+}

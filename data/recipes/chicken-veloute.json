@@ -1,0 +1,65 @@
+{
+  "yield": {
+    "amount": 3,
+    "label": "cups"
+  },
+  "source": {
+    "name": "Culinary Institute of America"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "67707e2841d119070e7d859b",
+  "label": "Chicken Veloute",
+  "slug": "chicken-veloute",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67707e2d41d119070e7d859c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67707e3d41d119070e7d859d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a246ded2c912bb7ffba835c",
+        "label": "chicken broth",
+        "slug": "chicken-broth",
+        "__v": 0
+      },
+      "notes": "heated (or veggie broth)"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67707e6641d119070e7d859e",
+      "step": "Put flour in a small dry saute pan. Toast, stirring over low heat, until it is light brown. Transfer flour to a food processor/blender. With the machine running, pour in the broth. Pour the broth mixture into a small saucepan. Bring to a simmer over low heat, stirring frequently. Simmer the velour for 10 minutes or until thickened and smooth. Season with salt. To store, let cool, cover and refrigerate for up to 4 days."
+    }
+  ],
+  "__v": 4
+}

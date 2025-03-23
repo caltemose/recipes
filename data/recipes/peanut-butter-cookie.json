@@ -1,0 +1,169 @@
+{
+  "yield": {
+    "amount": 16,
+    "label": "cookies"
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01eb1cb7881b05b0096",
+      "label": "cookies",
+      "slug": "cookies",
+      "__v": 0
+    }
+  ],
+  "_id": "67798c3e41d119070e7d868e",
+  "label": "Peanut Butter Cookie",
+  "slug": "peanut-butter-cookie",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67798c3f41d119070e7d868f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76735",
+        "label": "peanut butter",
+        "name": "peanut butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67798c4841d119070e7d8690",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fc",
+        "label": "brown sugar",
+        "name": "brown sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67798c5041d119070e7d8691",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67798c5941d119070e7d8692",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67798c5f41d119070e7d8693",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f3",
+        "label": "baking soda",
+        "name": "baking soda"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67798c6c41d119070e7d8694",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675c",
+        "label": "vanilla extract",
+        "name": "vanilla extract"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67798c7341d119070e7d8695",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67798c8041d119070e7d8696",
+      "step": "Heat oven to 350 degrees F. Line two half sheet pans with parchment paper and set aside."
+    },
+    {
+      "_id": "67798c9041d119070e7d8697",
+      "step": "Beat together peanut butter, brown sugar and granulated sugar until well combined with a wooden spoon in a large bowl. Add egg, baking soda, vanilla and salt and beat until well combined."
+    },
+    {
+      "_id": "67798c9a41d119070e7d8698",
+      "step": "Roll dough into 1-oz balls, place 8 per prepared sheet plan, then flatten with tines of a fork. Bake 10 minutes or until cookies look dry and are just lightly browned. Cool for 2 minutes on sheet pans."
+    }
+  ],
+  "__v": 14
+}

@@ -1,0 +1,228 @@
+{
+  "serves": {
+    "amount": 10
+  },
+  "source": {
+    "name": "family recipe"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    }
+  ],
+  "_id": "6777261641d119070e7d85cd",
+  "label": "Linsensuppe",
+  "slug": "linsensuppe",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6777261941d119070e7d85ce",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f1",
+        "label": "bacon",
+        "name": "bacon"
+      },
+      "notes": "cut into 1-inch strips"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6777262c41d119070e7d85cf",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "sliced"
+    },
+    {
+      "amount": {
+        "value": 16,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6777263b41d119070e7d85d0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677076f141d119070e7d8549",
+        "label": "lentil(s)",
+        "slug": "lentil-s",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6777264d41d119070e7d85d1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76705",
+        "label": "celery",
+        "name": "celery"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6777265e41d119070e7d85d2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76737",
+        "label": "pepper",
+        "name": "pepper"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6777266d41d119070e7d85d3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27be41b2f68404000003",
+        "label": "thyme",
+        "name": "thyme",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6777267d41d119070e7d85d4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f7",
+        "label": "bay leaf",
+        "name": "bay leaf"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6777268641d119070e7d85d5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27c341b2f68404000004",
+        "label": "potato",
+        "name": "potato",
+        "__v": 0
+      },
+      "notes": "grated"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897907",
+          "label": "quart(s)"
+        }
+      },
+      "_id": "6777269941d119070e7d85d6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677726b141d119070e7d85d7",
+        "label": "broth",
+        "slug": "broth",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "677726bf41d119070e7d85d8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76725",
+        "label": "lemon juice",
+        "name": "lemon juice"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "677726cc41d119070e7d85d9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76723",
+        "label": "jalapeño pepper(s)",
+        "name": "jalapeño pepper(s)"
+      },
+      "notes": "seeded and quartered"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "677726ed41d119070e7d85dc",
+      "step": "In large dutch oven, fry bacon until golden brown. Add celery, onions, carrots; saute until onions are tender."
+    },
+    {
+      "_id": "6777270441d119070e7d85dd",
+      "step": "Add lentils, pepper, thyme, bay leaves, potato, jalapeno and broth to vegetables. Bring to a boil. Reduce and simmer, covered, 25 minutes."
+    },
+    {
+      "_id": "6777271241d119070e7d85de",
+      "step": "Remove bay leaves and jalapeño. Stir in lemon juice."
+    }
+  ],
+  "__v": 18
+}

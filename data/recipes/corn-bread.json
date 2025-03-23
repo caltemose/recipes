@@ -10,10 +10,15 @@
       "label": "bread",
       "slug": "bread",
       "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
     }
   ],
   "_id": "5a40345d8ab0e729e2e01ac8",
-  "__v": 17,
+  "__v": 18,
   "directions": [
     {
       "_id": "5a4034a28ab0e729e2e01ad2",

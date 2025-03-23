@@ -1,0 +1,195 @@
+{
+  "yield": {
+    "amount": 26
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "67bb212841d119070e7d8a0d",
+      "label": "pescatarian",
+      "slug": "pescatarian",
+      "__v": 0
+    }
+  ],
+  "_id": "67afd75e41d119070e7d8914",
+  "label": "Cheese and Olive Empanadillas",
+  "slug": "cheese-and-olive-empanadillas",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67afd76141d119070e7d8915",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67afd77b41d119070e7d8916",
+        "label": "firm or soft cheese",
+        "slug": "firm-or-soft-cheese",
+        "__v": 0
+      },
+      "notes": "manchego, cheddar, gruyere, gouda, mozzarella, firm goat cheese"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67afd79841d119070e7d8917",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678291e741d119070e7d86f8",
+        "label": "green olive(s)",
+        "slug": "green-olive-s",
+        "__v": 0
+      },
+      "notes": "pitted"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67afd7b641d119070e7d8918",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67afd7d441d119070e7d8919",
+        "label": "sun-dried tomatoes",
+        "slug": "sun-dried-tomatoes",
+        "__v": 0
+      },
+      "notes": "in oil, drained"
+    },
+    {
+      "amount": {
+        "value": 1.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67afd7e641d119070e7d891a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a497351277bd9fe34f72ba8",
+        "label": "anchovies",
+        "slug": "anchovies",
+        "__v": 0
+      },
+      "notes": "canned, drained"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67afd7f641d119070e7d891b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67afd80741d119070e7d891c",
+        "label": "sun-dried tomato paste",
+        "slug": "sun-dried-tomato-paste",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67afd81441d119070e7d891d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": "for dusting"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "67afd82741d119070e7d891e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67afd6c941d119070e7d890e",
+        "label": "puff pastry",
+        "slug": "puff-pastry",
+        "__v": 0
+      },
+      "notes": "thawed if frozen"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67afd83741d119070e7d891f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "beaten, to glaze"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67afd85141d119070e7d8920",
+      "step": "Preheat oven to 400 degrees F. Cut cheese into small dice measuring 1/4 inch square. Chop olives, tomatoes and anchovies into pieces the same size as the cheese. Put all chopped ingredients in a bowl, season with pepper, and gently mix together. Stir in the sun-dried tomato paste."
+    },
+    {
+      "_id": "67afd85941d119070e7d8921",
+      "step": "On a lightly floured counter, thinly roll out the puff pastry. Using a plain, round 3-1/4-inch cutter, cut into 18 circles. Gently pile the trimmings together, roll out again, then cut out 8 additional circles. Put about a teaspoonful of the prepared filling onto each of the circles."
+    },
+    {
+      "_id": "67afd86341d119070e7d8922",
+      "step": "Dampen the edges of the pastry with a little water, then fold one half over the other half to completely cover the chorizo. Seal the edges with your fingers. Using the prongs of a fork, press against the edges to give a decorative finish and seal them further. With the tip of a sharp knife, make a small slit in the side of each pastry. You can store the pastries in the fridge at this point until you are ready to bake them."
+    },
+    {
+      "_id": "67afd86c41d119070e7d8923",
+      "step": "Place the pastries onto dampened baking sheets and brush each with a little beaten egg to glaze. Bake for 10-15 minutes or until golden brown and puffed.&nbsp; Using a small strainer, lightly dust the top of each empanadilla with paprika to garnish. Serve hot or warm or cold."
+    }
+  ],
+  "__v": 17
+}

@@ -16,11 +16,6 @@
   "core": false,
   "tags": [
     {
-      "_id": "597784abe3f0716170504982",
-      "label": "vegetarian",
-      "slug": "vegetarian"
-    },
-    {
       "_id": "5a3d409c0836b893a9a14c93",
       "label": "breakfast",
       "slug": "breakfast",
@@ -28,7 +23,7 @@
     }
   ],
   "_id": "53552cce85da3d10277f567d",
-  "__v": 8,
+  "__v": 9,
   "difficulty": 1,
   "directions": [
     {

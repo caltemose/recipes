@@ -24,6 +24,86 @@
       "label": "Butternut Squash-Carrot Soup",
       "_id": "63e00fc96ec18c0944a6ab47",
       "slug": "butternut-squash-carrot-soup"
+    },
+    {
+      "label": "Corn, Bell Pepper and Potato Chowder",
+      "_id": "6754cf48a572f7fd9ca06504",
+      "slug": "corn-bell-pepper-and-potato-chowder"
+    },
+    {
+      "label": "Chilled Curried Potato-Leek Soup",
+      "_id": "67706f5241d119070e7d8518",
+      "slug": "chilled-curried-potato-leek-soup"
+    },
+    {
+      "label": "Cream of Mushroom Soup",
+      "_id": "6777253f41d119070e7d85c2",
+      "slug": "cream-of-mushroom-soup"
+    },
+    {
+      "label": "Linsensuppe",
+      "_id": "6777261641d119070e7d85cd",
+      "slug": "linsensuppe"
+    },
+    {
+      "label": "Sopa de Tortilla",
+      "_id": "678bc45041d119070e7d8785",
+      "slug": "sopa-de-tortilla"
+    },
+    {
+      "label": "Sunchoke Soup with Saffron and Thyme",
+      "_id": "678bc59c41d119070e7d8799",
+      "slug": "sunchoke-soup-with-saffron-and-thyme"
+    },
+    {
+      "label": "Spicy Turnip Soup with Noodles",
+      "_id": "678bc68241d119070e7d87a7",
+      "slug": "spicy-turnip-soup-with-noodles"
+    },
+    {
+      "label": "Moroccan Roasted Sweet Potato Soup",
+      "_id": "678bc7be41d119070e7d87b9",
+      "slug": "moroccan-roasted-sweet-potato-soup"
+    },
+    {
+      "label": "Cauliflower Soup with Toasted Coriander",
+      "_id": "678bc8a241d119070e7d87c9",
+      "slug": "cauliflower-soup-with-toasted-coriander"
+    },
+    {
+      "label": "Mexican Chili Bean Soup",
+      "_id": "678bca3541d119070e7d87d9",
+      "slug": "mexican-chili-bean-soup"
+    },
+    {
+      "label": "Meat Chili",
+      "_id": "678bcb4041d119070e7d87ee",
+      "slug": "meat-chili"
+    },
+    {
+      "label": "Cheddar and Chive Soup",
+      "_id": "678bcc3341d119070e7d8802",
+      "slug": "cheddar-and-chive-soup"
+    },
+    {
+      "label": "Potato Soup with Broccoli, Shallots, and Cheddar",
+      "_id": "678bcd3041d119070e7d8815",
+      "slug": "potato-soup-with-broccoli-shallots-and-cheddar"
+    },
+    {
+      "label": "Cauliflower and Cheddar Cheese Soup",
+      "_id": "678bd01b41d119070e7d8821",
+      "slug": "cauliflower-and-cheddar-cheese-soup"
+    },
+    {
+      "label": "Parsnip and Apple Soup",
+      "_id": "67996e0b41d119070e7d8842",
+      "slug": "parsnip-and-apple-soup"
+    },
+    {
+      "label": "Beet and Tomato Soup",
+      "_id": "67ba4ae941d119070e7d89bd",
+      "slug": "beet-and-tomato-soup"
     }
   ],
   "tag": {

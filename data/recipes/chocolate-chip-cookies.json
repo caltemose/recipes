@@ -1,0 +1,214 @@
+{
+  "yield": {
+    "amount": 2,
+    "label": "dozen"
+  },
+  "source": {
+    "name": "family reciple"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01eb1cb7881b05b0096",
+      "label": "cookies",
+      "slug": "cookies",
+      "__v": 0
+    },
+    {
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
+      "__v": 0
+    }
+  ],
+  "_id": "6778666e41d119070e7d8612",
+  "label": "Chocolate Chip Cookies",
+  "slug": "chocolate-chip-cookies",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6778667341d119070e7d8613",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707d6241d119070e7d8594",
+        "label": "vegetable shortening",
+        "slug": "vegetable-shortening",
+        "__v": 0
+      },
+      "notes": "half butter"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6778668941d119070e7d8614",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6778669741d119070e7d8615",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fc",
+        "label": "brown sugar",
+        "name": "brown sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "677866a341d119070e7d8616",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "677866a941d119070e7d8617",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675c",
+        "label": "vanilla extract",
+        "name": "vanilla extract"
+      }
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "677866b541d119070e7d8618",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": "for softer cookies, add 1/4 C more flour"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "677866e541d119070e7d8619",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f3",
+        "label": "baking soda",
+        "name": "baking soda"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "677866f141d119070e7d861a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "677866fc41d119070e7d861b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675e",
+        "label": "walnuts",
+        "name": "walnuts"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6778670e41d119070e7d861c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778672b41d119070e7d861d",
+        "label": "chocolate chips",
+        "slug": "chocolate-chips",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6778673541d119070e7d861e",
+      "step": "Heat oven to 375 degrees. Mix shortening, sugars, egg and vanilla thoroughly. Blend dry ingredients in a separate bowl; stir into shortening mixture. Mix in nuts and chocolate chips. Drop rounded teaspoonfuls 2” apart on ungreased baking sheet. Bake 8-10 minutes."
+    }
+  ],
+  "__v": 21
+}

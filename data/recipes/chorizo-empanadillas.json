@@ -1,0 +1,131 @@
+{
+  "yield": {
+    "amount": 12
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    }
+  ],
+  "_id": "67afd68541d119070e7d890a",
+  "label": "Chorizo Empanadillas",
+  "slug": "chorizo-empanadillas",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 4.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67afd68941d119070e7d890b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799714241d119070e7d8869",
+        "label": "chorizo",
+        "slug": "chorizo",
+        "__v": 0
+      },
+      "notes": "outer casing removed"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67afd69e41d119070e7d890c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": "for dusting"
+    },
+    {
+      "amount": {
+        "value": 9,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67afd6b241d119070e7d890d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67afd6c941d119070e7d890e",
+        "label": "puff pastry",
+        "slug": "puff-pastry",
+        "__v": 0
+      },
+      "notes": "thawed if frozen"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67afd6dc41d119070e7d890f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "beaten, to glaze"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67afd6ea41d119070e7d8910",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76732",
+        "label": "paprika",
+        "name": "paprika"
+      },
+      "notes": "to garnish"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67afd70841d119070e7d8911",
+      "step": "Preheat oven to 400 degrees F. Cut chorizo into small dice measuring 1/2 inch square. On a lightly floured counter, thinly roll out the puff pastry. Using a plain, round 3-1/4-inch cutter, cut into circles. Gently pile the trimmings together, roll out again, then cut out additional circles to produce 12 in total. Put about a teaspoonful of chorizo onto each of the circles."
+    },
+    {
+      "_id": "67afd71141d119070e7d8912",
+      "step": "Dampen the edges of the pastry with a little water, then fold one half over the other half to completely cover the chorizo. Seal the edges with your fingers.&nbsp; Using the prongs of a fork, press against the edges to give a decorative finish and seal them further. With the tip of a sharp knife, make a small slit in the side of each pastry. You can store the pastries in the fridge at this point until you are ready to bake them."
+    },
+    {
+      "_id": "67afd72241d119070e7d8913",
+      "step": "Place the pastries onto dampened baking sheets and brush each with a little beaten egg to glaze. Bake for 10-15 minutes or until golden brown and puffed. Using a small strainer, lightly dust the top of each empanadilla with paprika to garnish. Serve hot or warm."
+    }
+  ],
+  "__v": 10
+}

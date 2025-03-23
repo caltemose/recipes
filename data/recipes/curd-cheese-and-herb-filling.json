@@ -1,0 +1,143 @@
+{
+  "yield": {
+    "amount": 1,
+    "label": "unit"
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "67ae7f1b41d119070e7d88e2",
+  "label": "Curd Cheese and Herb Filling",
+  "slug": "curd-cheese-and-herb-filling",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67ae7f2041d119070e7d88e3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae7f3041d119070e7d88e4",
+        "label": "curd cheese",
+        "slug": "curd-cheese",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ae7f3d41d119070e7d88e5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76725",
+        "label": "lemon juice",
+        "name": "lemon juice"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "67ae7f4841d119070e7d88e6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "crushed"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae7f5c41d119070e7d88e7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae7f6d41d119070e7d88e8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672a",
+        "label": "mint",
+        "name": "mint"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae7f7841d119070e7d88e9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76731",
+        "label": "oregano",
+        "name": "oregano"
+      },
+      "notes": "fresh, chopped"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ae7f9141d119070e7d88ea",
+      "step": "Mix and use as a filling for stuffed pimientos."
+    }
+  ],
+  "__v": 10
+}

@@ -1,0 +1,143 @@
+{
+  "serves": {
+    "amount": 2
+  },
+  "source": {
+    "name": "The Kitchen Survival Guide"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "6782919a41d119070e7d86f2",
+  "label": "Egg Salad",
+  "slug": "egg-salad",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6782919c41d119070e7d86f3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "hard-boiled"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678291a841d119070e7d86f4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778642b41d119070e7d85f7",
+        "label": "mayonnaise",
+        "slug": "mayonnaise",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678291c341d119070e7d86f5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76712",
+        "label": "Dijon mustard",
+        "name": "dijon mustard"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897906",
+          "label": "stalk(s)"
+        }
+      },
+      "_id": "678291ca41d119070e7d86f6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76705",
+        "label": "celery",
+        "name": "celery"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678291d541d119070e7d86f7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678291e741d119070e7d86f8",
+        "label": "green olive(s)",
+        "slug": "green-olive-s",
+        "__v": 0
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "678291f341d119070e7d86f9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677071e841d119070e7d8524",
+        "label": "curry powder",
+        "slug": "curry-powder",
+        "__v": 0
+      },
+      "notes": "optional"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6782920541d119070e7d86fa",
+      "step": "Place eggs in medium-sized bowl and use two knives in a crisscross motion to break them into small pieces. Stir in the other ingredients and mix to blend."
+    }
+  ],
+  "__v": 10
+}

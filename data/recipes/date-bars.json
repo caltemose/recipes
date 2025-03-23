@@ -1,0 +1,262 @@
+{
+  "yield": {
+    "amount": 12,
+    "label": "bars"
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "677987f841d119070e7d864d",
+  "label": "Date Bars",
+  "slug": "date-bars",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "677987fb41d119070e7d864e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6779881041d119070e7d864f",
+        "label": "medjool dates",
+        "slug": "medjool-dates",
+        "__v": 0
+      },
+      "notes": "pitted"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6779883241d119070e7d8650",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6779884c41d119070e7d8651",
+        "label": "apricots",
+        "slug": "apricots",
+        "__v": 0
+      },
+      "notes": "dried"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6779885541d119070e7d8652",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671d",
+        "label": "ginger",
+        "name": "ginger"
+      },
+      "notes": "crystallized"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6779886f41d119070e7d8653",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6779888141d119070e7d8654",
+        "label": "orange zest",
+        "slug": "orange-zest",
+        "__v": 0
+      },
+      "notes": "from 1/2 orange"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6779889741d119070e7d8655",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "677988a241d119070e7d8656",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677988b441d119070e7d8657",
+        "label": "pumpkin seeds",
+        "slug": "pumpkin-seeds",
+        "__v": 0
+      },
+      "notes": "green (pepitas)"
+    },
+    {
+      "amount": {
+        "value": 2.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "677988c241d119070e7d8658",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677988d741d119070e7d8659",
+        "label": "sunflower seeds",
+        "slug": "sunflower-seeds",
+        "__v": 0
+      },
+      "notes": "raw"
+    },
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "677988e941d119070e7d865a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67786c4a41d119070e7d8648",
+        "label": "coconut flakes",
+        "slug": "coconut-flakes",
+        "__v": 0
+      },
+      "notes": "unsweetened"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "677988fb41d119070e7d865b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67786bf741d119070e7d8642",
+        "label": "chia seeds",
+        "slug": "chia-seeds",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6779892341d119070e7d865e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6779893241d119070e7d865f",
+        "label": "flaxseeds",
+        "slug": "flaxseeds",
+        "__v": 0
+      },
+      "notes": "whole"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6779894441d119070e7d8660",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a3fe2f544229bfe637b73ce",
+        "label": "sesame seeds",
+        "slug": "sesame-seeds",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6779895541d119070e7d8661",
+      "step": "Line an 8x8 pan with parchment paper."
+    },
+    {
+      "_id": "6779896c41d119070e7d8662",
+      "step": "Spray a food processor bowl and bald with nonstick cooking spray. Combine dates, apricots, ginger, orange zest and salt and process for 1 minute or until mixtures forms a thick paste."
+    },
+    {
+      "_id": "6779897441d119070e7d8663",
+      "step": "Heat a 12-inch skillet and cook the pipits over medium-low heat, tossing occasionally, for 1-1/2 minutes, then add sunflower seeds and continue toasting for another 5 minutes. Finally, add coconut, chia seeds, flaxseeds and sesame seeds and toast for 3 minutes or until mixture is fragrant and sunflower seeds and coconut are lightly browned."
+    },
+    {
+      "_id": "6779897c41d119070e7d8664",
+      "step": "Add toasted seed mixture to date mixture in food processor and pulse 8 times, 3 seconds a pulse."
+    },
+    {
+      "_id": "6779898441d119070e7d8665",
+      "step": "Scrape the mixture into the prepared pan and press into an even layer with a rubber spatula. Refrigerate for 2 hours then cut into 12 bars with a pizza cutter. Store, separated with parchment, in an airtight container for up to 1 week."
+    }
+  ],
+  "__v": 23
+}

@@ -1,0 +1,196 @@
+{
+  "serves": {
+    "amount": 8
+  },
+  "source": {
+    "name": "Culinary Institute of America"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "67707c8d41d119070e7d8588",
+  "label": "Fried Chicken with Herbed Cream Sauce",
+  "slug": "fried-chicken-with-herbed-cream-sauce",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67707c8f41d119070e7d8589",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a9a41d119070e7d8573",
+        "label": "chicken breasts",
+        "slug": "chicken-breasts",
+        "__v": 0
+      },
+      "notes": "boneless, skinless"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67707ca341d119070e7d858a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fe",
+        "label": "buttermilk",
+        "name": "buttermilk"
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67707cb141d119070e7d858b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707cc541d119070e7d858c",
+        "label": "egg yolks",
+        "slug": "egg-yolks",
+        "__v": 0
+      },
+      "notes": "beaten"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67707ccf41d119070e7d858d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707ce241d119070e7d858e",
+        "label": "poultry seasoning",
+        "slug": "poultry-seasoning",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67707cea41d119070e7d858f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67707cf741d119070e7d8590",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27be41b2f68404000003",
+        "label": "thyme",
+        "name": "thyme",
+        "__v": 0
+      },
+      "notes": "dried"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67707d0641d119070e7d8591",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76746",
+        "label": "sage",
+        "name": "sage"
+      },
+      "notes": "dried"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67707d1141d119070e7d8592",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f6",
+        "label": "basil",
+        "name": "basil"
+      },
+      "notes": "dried"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67707d2441d119070e7d8593",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707d6241d119070e7d8594",
+        "label": "vegetable shortening",
+        "slug": "vegetable-shortening",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67707ddd41d119070e7d8597",
+      "step": "Trim the chicken breasts, cut in half, and place them in a shallow baking dish. In a medium bowl, whisk the buttermilk, egg yolks and poultry seasoning together. Pour this mixture over the chicken. Cover and refrigerate for 4 hours."
+    },
+    {
+      "_id": "67707de441d119070e7d8598",
+      "step": "In a shallow bowl, stir together the flour, thyme, sage, and basil."
+    },
+    {
+      "_id": "67707de441d119070e7d8599",
+      "step": "Drain the chicken pieces and dredge them in the seasoned flour. Set aside."
+    },
+    {
+      "_id": "67707df341d119070e7d859a",
+      "step": "In a large cast-iron skillet over medium-high heat, melt shortening to a depth of 1/2 inch until the fat shimmers. Add the chicken in a single layer. Cook on the first side for 3-5 minutes, or until golden brown. Turn and cook on the other side until firm to the touch and opaque throughout. Drain on paper towels. Serve at once with the warm sauce."
+    }
+  ],
+  "__v": 16
+}

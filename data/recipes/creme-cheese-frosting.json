@@ -1,0 +1,105 @@
+{
+  "yield": {
+    "amount": 1,
+    "label": "cake"
+  },
+  "source": {
+    "name": "family recipe"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    }
+  ],
+  "_id": "67898f9841d119070e7d8745",
+  "label": "Creme Cheese Frosting",
+  "slug": "creme-cheese-frosting",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67898f9e41d119070e7d8746",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677723d141d119070e7d85af",
+        "label": "cream cheese",
+        "slug": "cream-cheese",
+        "__v": 0
+      },
+      "notes": "room temperature"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898faf41d119070e7d8747",
+      "type": "Ingredient",
+      "notes": "room temperature",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898fc941d119070e7d8748",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67898fdf41d119070e7d8749",
+        "label": "powdered sugar",
+        "slug": "powdered-sugar",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67898ffb41d119070e7d874a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675c",
+        "label": "vanilla extract",
+        "name": "vanilla extract"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6789900f41d119070e7d874b",
+      "step": "Place cream cheese and butter in a mixing bowl and beat until very smooth. Place sugar in a fine-mesh strainer and sift over the cream cheese mixture.&nbsp; Beat by hand until light and fluffy. Mix in the vanilla."
+    }
+  ],
+  "__v": 7
+}

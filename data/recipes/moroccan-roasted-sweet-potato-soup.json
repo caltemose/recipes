@@ -1,0 +1,226 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "Soup cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "678bc7be41d119070e7d87b9",
+  "label": "Moroccan Roasted Sweet Potato Soup",
+  "slug": "moroccan-roasted-sweet-potato-soup",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "678bc7c141d119070e7d87ba",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc7d941d119070e7d87bb",
+        "label": "sweet potato(es)",
+        "slug": "sweet-potato-es",
+        "__v": 0
+      },
+      "notes": "cut into big chunks"
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc7e441d119070e7d87bc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a49735c277bd9fe34f72baa",
+        "label": "shallot(s)",
+        "slug": "shallot-s",
+        "__v": 0
+      },
+      "notes": "quartered"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "678bc7ef41d119070e7d87bd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "unpeeled"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc7f941d119070e7d87be",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      },
+      "notes": "cut into large chunks"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bc80b41d119070e7d87bf",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc81a41d119070e7d87c0",
+        "label": "harissa",
+        "slug": "harissa",
+        "__v": 0
+      },
+      "notes": "plus extra to serve"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bc82641d119070e7d87c1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897907",
+          "label": "quart(s)"
+        }
+      },
+      "_id": "678bc82e41d119070e7d87c2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "63e010b26ec18c0944a6ab56",
+        "label": "vegetable stock",
+        "slug": "vegetable-stock",
+        "__v": 0
+      },
+      "notes": "hot"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "678bc83841d119070e7d87c3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a3fe4e69c5f02065d03f194",
+        "label": "honey",
+        "slug": "honey",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc83e41d119070e7d87c4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76725",
+        "label": "lemon juice",
+        "name": "lemon juice"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc85041d119070e7d87c5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707b6641d119070e7d857d",
+        "label": "yogurt",
+        "slug": "yogurt",
+        "__v": 0
+      },
+      "notes": "or sour cream, to serve"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "678bc86b41d119070e7d87c6",
+      "step": "Preheat oven to 400 degrees F (200 degrees C). Place sweet potatoes, shallots, garlic and carrot in a roasting pan. Mix the harissa with the oil, then pour over the vegetables and toss together so they are all well coated. Season with black pepper, then roast, turning occasionally, for 40 minutes or until tender and turning golden. Remove from oven."
+    },
+    {
+      "_id": "678bc87441d119070e7d87c7",
+      "step": "<div>Squeeze the garlic out of their skins into the roasting pan. Stir in the stock and honey, then scrape up all the bits from the bottom of the pan. Carefully transfer to a blender and process until smooth. Pour into a saucepan and reheat gently.</div>"
+    },
+    {
+      "_id": "678bc87f41d119070e7d87c8",
+      "step": "Add a good squeeze of lemon juice and season to taste with salt and pepper. Swirl the yogurt or sour cream with a little harissa and top each bowl with a spoonful."
+    }
+  ],
+  "__v": 17
+}

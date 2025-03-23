@@ -1,0 +1,226 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "source": {
+    "name": "Williams-Sonoma Vegetarian"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "678bd01b41d119070e7d8821",
+  "label": "Cauliflower and Cheddar Cheese Soup",
+  "slug": "cauliflower-and-cheddar-cheese-soup",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "5974d99735c6436ac4d5cedc",
+          "label": "head(s)",
+          "__v": 0
+        }
+      },
+      "_id": "678bd02441d119070e7d8822",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc8d741d119070e7d87cf",
+        "label": "cauliflower",
+        "slug": "cauliflower",
+        "__v": 0
+      },
+      "notes": "small heads, 2-1/2 pounds total weight"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bd04341d119070e7d8823",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bd04e41d119070e7d8824",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76768",
+        "label": "yellow onion(s)",
+        "name": "yellow onion(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "678bd05941d119070e7d8825",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "minced"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678bd06341d119070e7d8826",
+      "type": "Ingredient",
+      "item": {
+        "_id": "63e010b26ec18c0944a6ab56",
+        "label": "vegetable stock",
+        "slug": "vegetable-stock",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "678bd06b41d119070e7d8827",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bd07941d119070e7d8828",
+        "label": "dry mustard",
+        "slug": "dry-mustard",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "678bd08f41d119070e7d8829",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672d",
+        "label": "nutmeg",
+        "name": "nutmeg"
+      }
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678bd09a41d119070e7d882a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678bd0a241d119070e7d882b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76706",
+        "label": "cheddar",
+        "name": "cheddar"
+      },
+      "notes": "sharp, white, grated"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bd0b641d119070e7d882c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bd0c941d119070e7d882d",
+        "label": "green onion",
+        "slug": "green-onion",
+        "__v": 0
+      },
+      "notes": "sliced"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "678bd0f941d119070e7d882e",
+      "step": "Trim the cauliflower. Cut one of the heads into 1/2-inch florets. Fill a saucepan three-fourths full with water, salt it lightly and bring to a boil over high heat. Add the florets, reduce the heat to medium-low and simmer until tender when pierced with a fork, 10-12 minutes. Drain well; set aside. Cut the remaining cauliflower head into 2-inch pieces; set aside."
+    },
+    {
+      "_id": "678bd10a41d119070e7d882f",
+      "step": "In a 4-quart soup pot over medium-low heat, melt the butter. Add the onion and sate, stirring, until soft, about 10 minutes. Add the garlic and sauce, stirring, for 2 minutes longer."
+    },
+    {
+      "_id": "678bd11b41d119070e7d8830",
+      "step": "Add the stock or water, reserved raw cauliflower pieces, dry mustard and nutmeg and bring to a boil over high heat. Reduce the heat to low and simmer, uncovered, until the cauliflower is soft, about 30 minutes. Remove from the heat and cool slightly."
+    },
+    {
+      "_id": "678bd12241d119070e7d8831",
+      "step": "Working with 2 cups of soup at a time, place in a blender and blend at high speed until very smooth and light, about 3 minutes. As each batch is pureed, transfer it to a clean, large saucepan. Place the soup over medium-low heat, pour in the milk and stir well. Bring the soup to a simmer and add the reserved cooked florets and 1-1/2 cups of the cheese. Stir well until the cheese melts and the soup ois hot, about 5 minutes. Season to taste with salt and pepper."
+    },
+    {
+      "_id": "678bd12841d119070e7d8832",
+      "step": "Ladle the soup into warmed bowls. Sprinkle evenly with the remaining 1/2 cup cheese and the green onions. Serve immediately."
+    }
+  ],
+  "__v": 18
+}

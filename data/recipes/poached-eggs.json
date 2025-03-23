@@ -1,0 +1,97 @@
+{
+  "serves": {
+    "amount": 1
+  },
+  "source": {
+    "name": "The Kitchen Survival Guide"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "6782935c41d119070e7d8705",
+  "label": "Poached Eggs",
+  "slug": "poached-eggs",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6782935f41d119070e7d8706",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6782936d41d119070e7d8707",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76763",
+        "label": "white wine vinegar",
+        "name": "white wine vinegar"
+      },
+      "notes": "or lemon juice"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6782937c41d119070e7d8708",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6782939241d119070e7d8709",
+      "step": "Fold a paper towel into thirds the long way and lay it on the work surface near the stove."
+    },
+    {
+      "_id": "6782939b41d119070e7d870a",
+      "step": "Fill a small saucepan two thirds full of cold water. Add the salt and vinegar or lemon juice and bring the water to a rolling boil. Lower the heat to a simmer."
+    },
+    {
+      "_id": "678293a341d119070e7d870b",
+      "step": "Carefully break the eggs, 1 at a time, to a small spouted measuring cup. Use a spoon to stir the water vigorously around in the pan to create a minor whirlpool. Stop stirring. Quickly drop the eggs in and let them simmer until the white becomes firm, about 2 minutes for very soft and closer to 4 minutes for medium.&nbsp; se a slotted spoon to lift the eggs out and place them on the paper towel to drain."
+    }
+  ],
+  "__v": 9
+}

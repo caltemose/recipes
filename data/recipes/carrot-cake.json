@@ -1,0 +1,229 @@
+{
+  "serves": {
+    "amount": 10
+  },
+  "source": {
+    "name": "family recipe"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
+      "__v": 0
+    }
+  ],
+  "_id": "67898eca41d119070e7d8735",
+  "label": "Carrot Cake",
+  "slug": "carrot-cake",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898ece41d119070e7d8736",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898ed941d119070e7d8737",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67898ee241d119070e7d8738",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f2",
+        "label": "baking powder",
+        "name": "baking powder"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67898eeb41d119070e7d8739",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f3",
+        "label": "baking soda",
+        "name": "baking soda"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67898ef441d119070e7d873a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67898eff41d119070e7d873b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a1c41d119070e7d856b",
+        "label": "ground cinnamon",
+        "slug": "ground-cinnamon",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898f0a41d119070e7d873c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675d",
+        "label": "vegetable oil",
+        "name": "vegetable oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898f1741d119070e7d873d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      },
+      "notes": "grated"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67898f2741d119070e7d873e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898f3341d119070e7d873f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675e",
+        "label": "walnuts",
+        "name": "walnuts"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898f3b41d119070e7d8740",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673e",
+        "label": "raisins",
+        "name": "raisins"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67898f6d41d119070e7d8743",
+      "step": "Preheat oven to 350 degrees F with the rack in the center position. Lightly butter a 13x9 baking pan."
+    },
+    {
+      "_id": "67898f7441d119070e7d8744",
+      "step": "Sift flour, sugar, baking powder, baking soda, salt and cinnamon into a very large mixing bowl. Stir to blend well. Add remaining ingredients and mix well. Pour into the prepared pan, smoothing the top if necessary. Bake for 45 minutes or until a cake tester inserted in the center comes out clean and dry. Cool completely in the pan before frosting."
+    }
+  ],
+  "__v": 19
+}

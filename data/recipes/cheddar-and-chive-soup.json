@@ -1,0 +1,273 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "Soup cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "678bcc3341d119070e7d8802",
+  "label": "Cheddar and Chive Soup",
+  "slug": "cheddar-and-chive-soup",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bcc3741d119070e7d8803",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": "2-3 T"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bcc4141d119070e7d8804",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bcc5041d119070e7d8805",
+        "label": "celeriac",
+        "slug": "celeriac",
+        "__v": 0
+      },
+      "notes": "small, chopped"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "5974d99735c6436ac4d5cedc",
+          "label": "head(s)",
+          "__v": 0
+        }
+      },
+      "_id": "678bcc6141d119070e7d8806",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc8d741d119070e7d87cf",
+        "label": "cauliflower",
+        "slug": "cauliflower",
+        "__v": 0
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bcc7041d119070e7d8807",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bcc7741d119070e7d8808",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bcc7e41d119070e7d8809",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27c341b2f68404000004",
+        "label": "potato",
+        "name": "potato",
+        "__v": 0
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 2.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678bcc8841d119070e7d880a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "63e010b26ec18c0944a6ab56",
+        "label": "vegetable stock",
+        "slug": "vegetable-stock",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "678bcc9241d119070e7d880b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76732",
+        "label": "paprika",
+        "name": "paprika"
+      },
+      "notes": "hot"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bcc9f41d119070e7d880c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f7",
+        "label": "bay leaf",
+        "name": "bay leaf"
+      }
+    },
+    {
+      "amount": {
+        "value": 10,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897906",
+          "label": "stalk(s)"
+        }
+      },
+      "_id": "678bccac41d119070e7d880d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770727741d119070e7d852b",
+        "label": "chive(s)",
+        "slug": "chive-s",
+        "__v": 0
+      },
+      "notes": "small handful"
+    },
+    {
+      "amount": {
+        "value": 0.6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678bcccb41d119070e7d880e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      }
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "678bccd541d119070e7d880f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76706",
+        "label": "cheddar",
+        "name": "cheddar"
+      },
+      "notes": "sharp, grated"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bcce341d119070e7d8810",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bccf141d119070e7d8811",
+        "label": "creme fraiche",
+        "slug": "creme-fraiche",
+        "__v": 0
+      },
+      "notes": "plus extra to serve"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "678bcd0041d119070e7d8812",
+      "step": "Melt the butter in a large saucepan. Add celeriac, cauliflower, onion, carrot, and potato, and cook gently, stirring, for 2 minutes or until softened but not browned. Add the stock, hot paprika and bay leaf and season with salt and pepper. Bring to a boil, reduce the heat, cover, and simmer gently for 30 minutes. Remove the bay leaf, puree the soup in a blender, then return to the rinsed-out pan."
+    },
+    {
+      "_id": "678bcd0841d119070e7d8813",
+      "step": "Reserving 4 chive stalks for garnish, chop the remainder finely. Add to the soup with milk, cheese, and creme fraiche. Heat through gently, stirring, until the cheese melts and the soup is piping hot. Do not allow to boil."
+    },
+    {
+      "_id": "678bcd1041d119070e7d8814",
+      "step": "Taste and adjust the seasoning, then ladle into bowls and add a dollop of creme fraiche to each. Cut the reserved chive stalks in half and gently lay them, slightly crossed, on top."
+    }
+  ],
+  "__v": 19
+}

@@ -1,0 +1,202 @@
+{
+  "yield": {
+    "amount": 30,
+    "label": "rolls"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "67ba50d641d119070e7d89dc",
+  "label": "Pao de Queijo",
+  "slug": "pao-de-queijo",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67ba50df41d119070e7d89dd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ba50f541d119070e7d89de",
+        "label": "tapioca flour",
+        "slug": "tapioca-flour",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67ba50ff41d119070e7d89df",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67ba510c41d119070e7d89e0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ba511641d119070e7d89e1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675d",
+        "label": "vegetable oil",
+        "name": "vegetable oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67ba512641d119070e7d89e2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76733",
+        "label": "parmeggiano",
+        "name": "parmeggiano"
+      },
+      "notes": "grated"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67ba513f41d119070e7d89e3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672b",
+        "label": "mozzarella",
+        "name": "mozzarella"
+      },
+      "notes": "shredded"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba514d41d119070e7d89e4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "large"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba515b41d119070e7d89e5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "notes": "plus more to taste, this recipe generally doesn't have enough salt"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ba518d41d119070e7d89e6",
+      "step": "Preheat over to 400F degrees with a rack in the middle."
+    },
+    {
+      "_id": "67ba519741d119070e7d89e7",
+      "step": "Combine the milk, water, oil and salt in a saucepan and bring to a boil over medium high heat."
+    },
+    {
+      "_id": "67ba51a141d119070e7d89e8",
+      "step": "Add the tapioca flour to the bowl of a stand mixer and, once the milk mixture boils, pour it over the flour. Turn the mixer on and mix well. The texture will be fondant-like, really white and sticky."
+    },
+    {
+      "_id": "67ba51b241d119070e7d89e9",
+      "step": "With the mixer still on, add the eggs one at a time. You will think they won’t mix because the tapioca mixture is so sticky, but hang in there because they will."
+    },
+    {
+      "_id": "67ba51bb41d119070e7d89ea",
+      "step": "Once the eggs are incorporated, add the cheese, a little at a time, until fully incorporated."
+    },
+    {
+      "_id": "67ba51c441d119070e7d89eb",
+      "step": "The dough is supposed to be soft and sticky. However, if you’re worried it’s too liquid, add some more tapioca flour. Just don’t overdo it or your cheese bread will be tough and not too gooey."
+    },
+    {
+      "_id": "67ba51d041d119070e7d89ec",
+      "step": "To shape the balls, wet your hands with cold water and, using a spoon, scoop some of the dough to shape balls that are a little smaller than golf-sized."
+    },
+    {
+      "_id": "67ba51dc41d119070e7d89ed",
+      "step": "Place the balls on a baking sheet covered with parchment paper and bring it to the preheated oven."
+    },
+    {
+      "_id": "67ba51e641d119070e7d89ee",
+      "step": "Bake for 15-20 minutes or until they are golden and puffed."
+    },
+    {
+      "_id": "67ba51ef41d119070e7d89ef",
+      "step": "Serve warm."
+    }
+  ],
+  "__v": 20
+}

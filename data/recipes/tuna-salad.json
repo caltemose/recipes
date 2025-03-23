@@ -1,0 +1,124 @@
+{
+  "yield": {
+    "amount": 1.5,
+    "label": "cups"
+  },
+  "source": {
+    "name": "The Kitchen Survival Guide"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67bb212841d119070e7d8a0d",
+      "label": "pescatarian",
+      "slug": "pescatarian",
+      "__v": 0
+    }
+  ],
+  "_id": "6782913641d119070e7d86ec",
+  "label": "Tuna Salad",
+  "slug": "tuna-salad",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "677727a041d119070e7d85e1",
+          "label": "can(s)",
+          "slug": "can-s",
+          "__v": 0
+        }
+      },
+      "_id": "6782913741d119070e7d86ed",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778640b41d119070e7d85f5",
+        "label": "tuna",
+        "slug": "tuna",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6782914341d119070e7d86ee",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778642b41d119070e7d85f7",
+        "label": "mayonnaise",
+        "slug": "mayonnaise",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897906",
+          "label": "stalk(s)"
+        }
+      },
+      "_id": "6782915741d119070e7d86ef",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76705",
+        "label": "celery",
+        "name": "celery"
+      },
+      "notes": "finely minced"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6782916641d119070e7d86f0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "sweet, small, finely chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67bb2e6741d119070e7d8a0f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76702",
+        "label": "capers",
+        "name": "capers"
+      },
+      "notes": "or more to taste"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6782917d41d119070e7d86f1",
+      "step": "Drain tuna. Place tuna in a medium-size mixing bowl and mash it with a fork. Stir in mayonnaise and then the celery, onion, and capers."
+    }
+  ],
+  "__v": 8
+}

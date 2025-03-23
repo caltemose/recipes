@@ -1,0 +1,298 @@
+{
+  "serves": {
+    "amount": 8
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "67ae796f41d119070e7d88a3",
+  "label": "Russian Salad",
+  "slug": "russian-salad",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ae797441d119070e7d88a4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "hardboiled"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "67ae798241d119070e7d88a5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27c341b2f68404000004",
+        "label": "potato",
+        "name": "potato",
+        "__v": 0
+      },
+      "notes": "baby new, halved or quartered"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67ae799f41d119070e7d88a6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "679973b541d119070e7d8888",
+        "label": "green beans",
+        "slug": "green-beans",
+        "__v": 0
+      },
+      "notes": "cut into 1-inch lengths"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67ae79b541d119070e7d88a7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae79ca41d119070e7d88a8",
+        "label": "peas",
+        "slug": "peas",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67ae79d841d119070e7d88a9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 7,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67ae79e341d119070e7d88aa",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778640b41d119070e7d85f5",
+        "label": "tuna",
+        "slug": "tuna",
+        "__v": 0
+      },
+      "notes": "canned, drained"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae79f941d119070e7d88ab",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76725",
+        "label": "lemon juice",
+        "name": "lemon juice"
+      }
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae7a0d41d119070e7d88ac",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778642b41d119070e7d85f7",
+        "label": "mayonnaise",
+        "slug": "mayonnaise",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "67ae7a1a41d119070e7d88ad",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "crushed"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ae7a2541d119070e7d88ae",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae7a3a41d119070e7d88af",
+        "label": "gherkin(s)",
+        "slug": "gherkin-s",
+        "__v": 0
+      },
+      "notes": "sliced"
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ae7a4a41d119070e7d88b0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799751041d119070e7d889b",
+        "label": "black olives",
+        "slug": "black-olives",
+        "__v": 0
+      },
+      "notes": "halved"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae7a5a41d119070e7d88b1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76702",
+        "label": "capers",
+        "name": "capers"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae7a6341d119070e7d88b2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ae7a7341d119070e7d88b3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76713",
+        "label": "dill",
+        "name": "dill"
+      },
+      "notes": "freshed, chopped, plus sprigs for garnish"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ae7a9341d119070e7d88b4",
+      "step": "Put the potatoes in a large pan of cold, salted water and bring to a boil. Lower the heat and let simmer for 7 minutes or until just tender. Add the beans and peas for the last 2 minutes of cooking. Drain well, splash under cold running water, then let the vegetables cool completely."
+    },
+    {
+      "_id": "67ae7a9b41d119070e7d88b5",
+      "step": "<div>Cut the carrots into julienne strips about 1 inch in length. Flake the tuna into large chunks. When the potatoes are cold, put them in a large bowl. Add the carrot strips and tuna and very gently toss the ingredients together.&nbsp;&nbsp;</div>"
+    },
+    {
+      "_id": "67ae7aaa41d119070e7d88b6",
+      "step": "In a measuring cup with a spout, stir the lemon juice into the mayonnaise to thin it slightly, then stir in the garlic and season with salt and pepper. Drizzle the dressing over the vegetables and tuna."
+    },
+    {
+      "_id": "67ae7ab141d119070e7d88b7",
+      "step": "Sprinkle the gherkins, olives and capers into the salad and finally sprinkle over the parsley and dill. Just before serving, peel the eggs and slice them into wedges. Add them to the salad and garnish with dill sprigs."
+    }
+  ],
+  "__v": 22
+}

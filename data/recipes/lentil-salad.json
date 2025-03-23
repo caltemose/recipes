@@ -1,0 +1,198 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "source": {
+    "name": "Williams-Sonoma Vegetarian"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "677076cd41d119070e7d8547",
+  "label": "Lentil Salad",
+  "slug": "lentil-salad",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "677076d041d119070e7d8548",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677076f141d119070e7d8549",
+        "label": "lentil(s)",
+        "slug": "lentil-s",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6770770041d119070e7d854a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6770770d41d119070e7d854b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76741",
+        "label": "red wine vinegar",
+        "name": "red wine vinegar"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "6770771741d119070e7d854c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6770772241d119070e7d854d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770754a41d119070e7d8537",
+        "label": "ground cumin",
+        "slug": "ground-cumin",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6770773741d119070e7d854e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673f",
+        "label": "red bell pepper(s)",
+        "name": "red bell pepper(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 10,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6770774341d119070e7d854f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a497356277bd9fe34f72ba9",
+        "label": "feta cheese",
+        "slug": "feta-cheese",
+        "__v": 0
+      },
+      "notes": "1/2-inch cubes"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6770775c41d119070e7d8550",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76710",
+        "label": "cucumber(s)",
+        "name": "cucumber(s)"
+      },
+      "notes": "peeled, seeded, and chopped"
+    },
+    {
+      "amount": {
+        "value": 10,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6770776c41d119070e7d8551",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770778a41d119070e7d8552",
+        "label": "kalamata olive(s)",
+        "slug": "kalamata-olive-s",
+        "__v": 0
+      },
+      "notes": "quartered"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6770779c41d119070e7d8553",
+      "step": "In a saucepan, cover lentils with 2 inches water. Bring to a boil over high heat. Reduce head to medium-low and simmer, uncovered, until lentils are tender, 15-20 minutes. Remove from heat and drain."
+    },
+    {
+      "_id": "677077ad41d119070e7d8554",
+      "step": "Whisk together olive oil, red wine vinegar, cumin, and garlic."
+    },
+    {
+      "_id": "677077b941d119070e7d8555",
+      "step": "In a bowl, mix lentils and veggies. Spoon on dressing and mix. Add olives and feta."
+    },
+    {
+      "_id": "677077b941d119070e7d8556",
+      "step": ""
+    }
+  ],
+  "__v": 15
+}

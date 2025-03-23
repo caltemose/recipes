@@ -1,0 +1,248 @@
+{
+  "serves": {
+    "amount": 2
+  },
+  "source": {
+    "name": "Great Courses"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "67ba484d41d119070e7d8999",
+  "label": "Chicken Marsala",
+  "slug": "chicken-marsala",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba485041d119070e7d899a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a9a41d119070e7d8573",
+        "label": "chicken breasts",
+        "slug": "chicken-breasts",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba486341d119070e7d899b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba486e41d119070e7d899c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a49735c277bd9fe34f72baa",
+        "label": "shallot(s)",
+        "slug": "shallot-s",
+        "__v": 0
+      },
+      "notes": "minced"
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67ba487f41d119070e7d899d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672c",
+        "label": "mushrooms",
+        "name": "mushrooms"
+      },
+      "notes": "sliced"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "679972ad41d119070e7d887c",
+          "label": "splash(es)",
+          "slug": "splash-es",
+          "__v": 0
+        }
+      },
+      "_id": "67ba489641d119070e7d899e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae817541d119070e7d8902",
+        "label": "dry white wine",
+        "slug": "dry-white-wine",
+        "__v": 0
+      },
+      "notes": "sauv blanc, pinot grigio"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "679972ad41d119070e7d887c",
+          "label": "splash(es)",
+          "slug": "splash-es",
+          "__v": 0
+        }
+      },
+      "_id": "67ba48b141d119070e7d899f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ba48cb41d119070e7d89a0",
+        "label": "marsala wine",
+        "slug": "marsala-wine",
+        "__v": 0
+      },
+      "notes": "or dry sherry"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba48dd41d119070e7d89a1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a246ded2c912bb7ffba835c",
+        "label": "chicken broth",
+        "slug": "chicken-broth",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba48f341d119070e7d89a2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f7",
+        "label": "bay leaf",
+        "name": "bay leaf"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "67ba48fa41d119070e7d89a3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27be41b2f68404000003",
+        "label": "thyme",
+        "name": "thyme",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "679972ad41d119070e7d887c",
+          "label": "splash(es)",
+          "slug": "splash-es",
+          "__v": 0
+        }
+      },
+      "_id": "67ba490d41d119070e7d89a4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6777242c41d119070e7d85b3",
+        "label": "half and half",
+        "slug": "half-and-half",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba491641d119070e7d89a5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "chopped"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ba492a41d119070e7d89a6",
+      "step": "Place the chicken breast on a cutting board. Use a knife to cut the chicken parallel to the board so that the breast is half as thick as it was. Set one half of the breast aside, and then put a piece of plastic wrap over the remaining half. Use a kitchen meat hammer (or the bottom of a sauce pan) and smash the chicken over and over to flatten it even more. It should be about 1/4 inch thick."
+    },
+    {
+      "_id": "67ba493341d119070e7d89a7",
+      "step": "Heat the oil in a pan. When it gets shimmery, add the chicken. (Using tongs, lay the bottom of the piece of chicken on the side of the pan closest to you, and then gently lay the rest of the chicken into the pan away from you. This technique means that, as you place the chicken, any splatters from the oil will go away from you toward the back of the stove.)"
+    },
+    {
+      "_id": "67ba493b41d119070e7d89a8",
+      "step": "When the chicken starts to brown, flip it over. Turn down the heat if necessary so the oil doesn’t burn. Check the chicken for doneness and then remove it from the pan."
+    },
+    {
+      "_id": "67ba494941d119070e7d89a9",
+      "step": "Add the shallots and mushrooms and sauté. Don’t let the liquid get too dark and burn."
+    },
+    {
+      "_id": "67ba495241d119070e7d89aa",
+      "step": "Deglaze the pan with a couple splashes of white wine and marsala. (Add the wine and let the liquid mostly burn off while scraping the brown bits leftover from the chicken into the liquid.)&nbsp;"
+    },
+    {
+      "_id": "67ba495b41d119070e7d89ab",
+      "step": "When the pan is almost dry, add the cream. You need enough sauce for the chicken breasts, but don’t add too much cream or it will dilute the flavor of the sauce."
+    },
+    {
+      "_id": "67ba496341d119070e7d89ac",
+      "step": "Once the sauce is done, add the chicken back to the pan so it will warm up. Serve with rice, salad, crusty bread, or veggies."
+    }
+  ],
+  "__v": 19
+}

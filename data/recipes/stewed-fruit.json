@@ -1,0 +1,149 @@
+{
+  "yield": {
+    "amount": 10,
+    "label": "cups"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    }
+  ],
+  "_id": "678990ae41d119070e7d874c",
+  "label": "Stewed Fruit",
+  "slug": "stewed-fruit",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "678990b141d119070e7d874d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678990c141d119070e7d874e",
+        "label": "prune(s)",
+        "slug": "prune-s",
+        "__v": 0
+      },
+      "notes": "pitted"
+    },
+    {
+      "amount": {
+        "value": 10,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "678990d041d119070e7d874f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6779884c41d119070e7d8651",
+        "label": "apricots",
+        "slug": "apricots",
+        "__v": 0
+      },
+      "notes": "dried"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "678990ef41d119070e7d8750",
+      "type": "Ingredient",
+      "notes": "additional dried fruit"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6789910941d119070e7d8751",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673e",
+        "label": "raisins",
+        "name": "raisins"
+      },
+      "notes": "golden"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6789911541d119070e7d8752",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      },
+      "notes": "cut into quarters, seeds removed"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897907",
+          "label": "quart(s)"
+        }
+      },
+      "_id": "6789912641d119070e7d8753",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6789913741d119070e7d8754",
+        "label": "orange juice",
+        "slug": "orange-juice",
+        "__v": 0
+      },
+      "notes": "or water"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6789915341d119070e7d8755",
+      "step": "Place all ingredients in a large saucepan. Cover and set over moderate heat until orange juice starts to simmer. Lower heat so liquid barely simmers and cook for 20-30 minutes, stirring occasionally, until the fruit is soft and most of the liquid is absorbed. Add a little more juice or water to keep the fruit moist."
+    },
+    {
+      "_id": "6789915d41d119070e7d8756",
+      "step": "Store in a sealed container in the refrigerator for up to 2 months."
+    }
+  ],
+  "__v": 12
+}

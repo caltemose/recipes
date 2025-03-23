@@ -1,0 +1,219 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "source": {
+    "name": "Williams-Sonoma Vegetarian"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "67706f5241d119070e7d8518",
+  "label": "Chilled Curried Potato-Leek Soup",
+  "slug": "chilled-curried-potato-leek-soup",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67706f5c41d119070e7d8519",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": "unsalted"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67706f8d41d119070e7d851a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76768",
+        "label": "yellow onion(s)",
+        "name": "yellow onion(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6770703641d119070e7d851e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770702241d119070e7d851d",
+        "label": "leek(s)",
+        "slug": "leek-s",
+        "__v": 0
+      },
+      "notes": "white part and 1 inch of green, halved lengthwise, carefully washed and sliced crosswise"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "6770705d41d119070e7d851f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "minced"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "677071af41d119070e7d8523",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677071e841d119070e7d8524",
+        "label": "curry powder",
+        "slug": "curry-powder",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "677071f841d119070e7d8525",
+      "type": "Ingredient",
+      "item": {
+        "_id": "63e010b26ec18c0944a6ab56",
+        "label": "vegetable stock",
+        "slug": "vegetable-stock",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6770720f41d119070e7d8526",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770723541d119070e7d8527",
+        "label": "red potato(es)",
+        "slug": "red-potato-es",
+        "__v": 0
+      },
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6770724741d119070e7d8528",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6770725141d119070e7d8529",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6770725e41d119070e7d852a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770727741d119070e7d852b",
+        "label": "chive(s)",
+        "slug": "chive-s",
+        "__v": 0
+      },
+      "notes": "fresh, chopped for garnish"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6770707f41d119070e7d8520",
+      "step": "In a 4-qt pot over medium-low heat, melt butter. Add onions and leeks and saute, stirring, until vegetables begin to soften, about 5 minutes. Add garlic and curry powder and sauce, stirring occasionally, until vegetables are soft, about 10 minutes. Add stock, potatoes and 1 t salt. Cover and cook until potatoes are soft when pierced with a fork, about 20 minutes."
+    },
+    {
+      "_id": "677070af41d119070e7d8521",
+      "step": "Pour in milk and stir. Working with 2 C soup at a time, blend until very smooth. If soup is too thick, add more milk. Cover and chill for 2 hours."
+    },
+    {
+      "_id": "677070b841d119070e7d8522",
+      "step": "Season to taste with salt and pepper. Ladle into bowls and garnish."
+    }
+  ],
+  "__v": 18
+}

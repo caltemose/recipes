@@ -1,0 +1,105 @@
+{
+  "source": {
+    "name": "Chad's Italian cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "6770764541d119070e7d853e",
+  "label": "Couscous",
+  "slug": "couscous",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6770764941d119070e7d853f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670f",
+        "label": "couscous",
+        "name": "couscous"
+      }
+    },
+    {
+      "amount": {
+        "value": 2.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6770765341d119070e7d8540",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": "boiling"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6770766041d119070e7d8541",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": "unsalted"
+    },
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6770767241d119070e7d8542",
+      "type": "Ingredient"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6770767f41d119070e7d8543",
+      "step": "Preheat oven to 200 degrees."
+    },
+    {
+      "_id": "6770768f41d119070e7d8544",
+      "step": "In a 9x12 baking dish (pyrex), pour in the couscous in an even layer."
+    },
+    {
+      "_id": "6770769841d119070e7d8545",
+      "step": ""
+    },
+    {
+      "_id": "6770769f41d119070e7d8546",
+      "step": "Cover tightly with aluminum foil and place in oven for 10 minutes."
+    }
+  ],
+  "__v": 10
+}

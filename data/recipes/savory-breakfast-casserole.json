@@ -1,0 +1,210 @@
+{
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d409c0836b893a9a14c93",
+      "label": "breakfast",
+      "slug": "breakfast",
+      "__v": 0
+    }
+  ],
+  "_id": "67ba530b41d119070e7d89ff",
+  "label": "Savory Breakfast Casserole",
+  "slug": "savory-breakfast-casserole",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67ba531441d119070e7d8a00",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fb",
+        "label": "bread",
+        "name": "bread"
+      },
+      "notes": "stale, cubed"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67ba532a41d119070e7d8a01",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a246a152c912bb7ffba833e",
+        "label": "ham",
+        "slug": "ham",
+        "__v": 0
+      },
+      "notes": "cubed"
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67ba533a41d119070e7d8a02",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76706",
+        "label": "cheddar",
+        "name": "cheddar"
+      },
+      "notes": "cubed"
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67ba535441d119070e7d8a03",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672c",
+        "label": "mushrooms",
+        "name": "mushrooms"
+      },
+      "notes": "sliced and sauteed"
+    },
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67ba536a41d119070e7d8a04",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674f",
+        "label": "spinach",
+        "name": "spinach"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba538241d119070e7d8a05",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bcd8141d119070e7d881b",
+        "label": "broccoli",
+        "slug": "broccoli",
+        "__v": 0
+      },
+      "notes": "heads, roasted"
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba53a141d119070e7d8a06",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67ba53ac41d119070e7d8a07",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "6778662441d119070e7d860f",
+          "label": "dash",
+          "slug": "dash",
+          "__v": 0
+        }
+      },
+      "_id": "67ba53b641d119070e7d8a08",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67805d3041d119070e7d86ca",
+        "label": "hot sauce",
+        "slug": "hot-sauce",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67ba53c141d119070e7d8a09",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76733",
+        "label": "parmeggiano",
+        "name": "parmeggiano"
+      },
+      "notes": "grated"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ba53da41d119070e7d8a0a",
+      "step": "Butter a 9x13 pan.&nbsp; Layer the bread on the bottom.&nbsp; Then layer mushrooms, spinach or broccoli, and ham.&nbsp; Top with cheddar and parmesan.&nbsp;&nbsp;"
+    },
+    {
+      "_id": "67ba53e341d119070e7d8a0b",
+      "step": "Mix eggs, milk and hot sauce in a bowl and then pour over the dish.&nbsp; Cover and refrigerate overnight."
+    },
+    {
+      "_id": "67ba53f241d119070e7d8a0c",
+      "step": ""
+    }
+  ],
+  "__v": 15
+}

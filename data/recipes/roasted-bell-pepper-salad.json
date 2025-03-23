@@ -1,0 +1,191 @@
+{
+  "serves": {
+    "amount": 8
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "6799746041d119070e7d8891",
+  "label": "Roasted Bell Pepper Salad",
+  "slug": "roasted-bell-pepper-salad",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6799746241d119070e7d8892",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673f",
+        "label": "red bell pepper(s)",
+        "name": "red bell pepper(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6799746e41d119070e7d8893",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799749641d119070e7d8894",
+        "label": "yellow bell peppers",
+        "slug": "yellow-bell-peppers",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "679974a541d119070e7d8895",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "679974ad41d119070e7d8896",
+      "type": "Ingredient",
+      "item": {
+        "_id": "679974c841d119070e7d8897",
+        "label": "dry sherry vinegar",
+        "slug": "dry-sherry-vinegar",
+        "__v": 0
+      },
+      "notes": "or lemon juice"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "679974d841d119070e7d8898",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "crushed"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "679974f141d119070e7d8899",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76702",
+        "label": "capers",
+        "name": "capers"
+      }
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "679974fa41d119070e7d889a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799751041d119070e7d889b",
+        "label": "black olives",
+        "slug": "black-olives",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6799752641d119070e7d889c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799753641d119070e7d889d",
+        "label": "marjoram",
+        "slug": "marjoram",
+        "__v": 0
+      },
+      "notes": "chopped, plus extra sprigs to garnish"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6799755441d119070e7d889e",
+      "step": "Preheat the broiler. Cut the bell peppers in half, place skin-side up on a cookie sheet, and cook under a hot broiler for 10 minutes, until their skins have blackened and blistered."
+    },
+    {
+      "_id": "6799755f41d119070e7d889f",
+      "step": "Remove the roasted peppers, put them in a bowl, and immediately cover with a damp kitchen towel. Let the peppers stand for about 15 minutes."
+    },
+    {
+      "_id": "6799757241d119070e7d88a0",
+      "step": "Peel the skin off the peppers and cut them into neat thin strips. Arrange the strips attractively on a serving dish. Save any juices that come off the peppers."
+    },
+    {
+      "_id": "6799757e41d119070e7d88a1",
+      "step": "To the pepper juices, add the olive oil, sherry vinegar, garlic, and salt and pepper.&nbsp; Whisk together until combined. Drizzle the dressing over the salad."
+    },
+    {
+      "_id": "6799758841d119070e7d88a2",
+      "step": "Sprinkle the capers, olives and chopped marjoram over the salad, garnish with marjoram sprigs, and serve at room temperature."
+    }
+  ],
+  "__v": 16
+}

@@ -1,0 +1,115 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "source": {
+    "name": "Williams- Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "6799712641d119070e7d8867",
+  "label": "Chorizo in Red Wine",
+  "slug": "chorizo-in-red-wine",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 7,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6799712d41d119070e7d8868",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799714241d119070e7d8869",
+        "label": "chorizo",
+        "slug": "chorizo",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6799715241d119070e7d886a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799716541d119070e7d886b",
+        "label": "red wine",
+        "slug": "red-wine",
+        "__v": 0
+      },
+      "notes": "Spanish"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6799718641d119070e7d886c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799719841d119070e7d886d",
+        "label": "brandy",
+        "slug": "brandy",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790c",
+          "label": "sprig(s)"
+        }
+      },
+      "_id": "679971aa41d119070e7d886e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "for garnish"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "679971c841d119070e7d886f",
+      "step": "This is is best if prepared the day before."
+    },
+    {
+      "_id": "679971d341d119070e7d8870",
+      "step": "Using a fork, prick the chorizo in 3 or 4 places. Put it in a large pan and add the wine. Bring the wine to a boil, then lower the heat, cover, and let simmer gently for 15-20 minutes. Transfer the chorizo and wine to a dish, cover and marinate for 8 hours or overnight."
+    },
+    {
+      "_id": "679971df41d119070e7d8871",
+      "step": "The next day, remove the chorizo from the dish and reserve the wine for later. Remove the outer casing (optional) from the chorizo and cut the sausage into 1/4-inch slices. Place the slices in a large, heavy-bottom skillet or ovenproof serving dish."
+    },
+    {
+      "_id": "679971eb41d119070e7d8872",
+      "step": "If you are adding the brandy, pour it into a small pan and heat gently. Pour the brandy over the chorizo, stand well back, and set alight. When the flames have died down, shake the pan gently, add the reserved wine to the pan, and cook over high heat until almost all of the wine has evaporated."
+    },
+    {
+      "_id": "679971f541d119070e7d8873",
+      "step": "Serve the chorizo piping hot, in the dish in which it was cooked, sprinkled with parsley to garnish."
+    }
+  ],
+  "__v": 10
+}

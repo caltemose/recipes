@@ -24,6 +24,31 @@
       "label": "Amaretti",
       "_id": "5c43b0e60529ebe092bea0b4",
       "slug": "amaretti"
+    },
+    {
+      "label": "Chocolate Chip Cookies",
+      "_id": "6778666e41d119070e7d8612",
+      "slug": "chocolate-chip-cookies"
+    },
+    {
+      "label": "Gingersnaps",
+      "_id": "6778676741d119070e7d861f",
+      "slug": "gingersnaps"
+    },
+    {
+      "label": "Amaranth Wafers",
+      "_id": "677989b141d119070e7d8666",
+      "slug": "amaranth-wafers"
+    },
+    {
+      "label": "Peanut Butter Cookie",
+      "_id": "67798c3e41d119070e7d868e",
+      "slug": "peanut-butter-cookie"
+    },
+    {
+      "label": "Oatmeal Cookies",
+      "_id": "67898d5e41d119070e7d8726",
+      "slug": "oatmeal-cookies"
     }
   ],
   "tag": {

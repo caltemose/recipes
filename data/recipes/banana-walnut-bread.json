@@ -15,11 +15,6 @@
   "core": false,
   "tags": [
     {
-      "_id": "597784abe3f0716170504982",
-      "label": "vegetarian",
-      "slug": "vegetarian"
-    },
-    {
       "_id": "5a3d3f5e0836b893a9a14c8e",
       "label": "bread",
       "slug": "bread",
@@ -33,7 +28,7 @@
     }
   ],
   "_id": "53552cce85da3d10277f567b",
-  "__v": 14,
+  "__v": 15,
   "difficulty": 1,
   "directions": [
     {

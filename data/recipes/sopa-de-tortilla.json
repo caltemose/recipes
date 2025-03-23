@@ -1,0 +1,229 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "Soup cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "678bc45041d119070e7d8785",
+  "label": "Sopa de Tortilla",
+  "slug": "sopa-de-tortilla",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bc45241d119070e7d8786",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc46d41d119070e7d8787",
+        "label": "sunflower oil",
+        "slug": "sunflower-oil",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc47541d119070e7d8788",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "678bc4a141d119070e7d8789",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "678bc4b341d119070e7d878a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76759",
+        "label": "tomato(es)",
+        "name": "tomato(es)"
+      },
+      "notes": "peeled"
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897907",
+          "label": "quart(s)"
+        }
+      },
+      "_id": "678bc4bd41d119070e7d878b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a246ded2c912bb7ffba835c",
+        "label": "chicken broth",
+        "slug": "chicken-broth",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc4c841d119070e7d878c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc4df41d119070e7d878d",
+        "label": "dried poblano chile(s)",
+        "slug": "dried-poblano-chile-s",
+        "__v": 0
+      },
+      "notes": "use 1-2, seeded"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc4f041d119070e7d878e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc50441d119070e7d878f",
+        "label": "corn tortilla(s)",
+        "slug": "corn-tortilla-s",
+        "__v": 0
+      },
+      "notes": "cut into strips"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bc51241d119070e7d8790",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670a",
+        "label": "cilantro",
+        "name": "cilantro"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bc51e41d119070e7d8791",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc53341d119070e7d8792",
+        "label": "lime juice",
+        "slug": "lime-juice",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc53e41d119070e7d8793",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a4977b9277bd9fe34f72bb9",
+        "label": "lime(s)",
+        "slug": "lime-s",
+        "__v": 0
+      },
+      "notes": "cut into wedges"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "678bc55a41d119070e7d8794",
+      "step": "Heat 1 T of oil in a large saucepan over medium heat. Add onion and cook, stirring, for 5 minutes, until softened. Add garlic and stir for 30 seconds. Using a blender, process with the tomatoes until smooth."
+    },
+    {
+      "_id": "678bc56041d119070e7d8795",
+      "step": "Add the tomato-onion puree to the pan and simmer for 8-10 minutes, stirring constantly. Stir in stock and bring to a boil. Reduce heat, partially cover the pan, and simmer for 15 minutes or until thickened."
+    },
+    {
+      "_id": "678bc56041d119070e7d8796",
+      "step": "Place a nonstick frying pan over medium heat. Add the chiles and press them flat against the pan with a spatula until they blister, then repeat on the other side. Remove from pan, cut into small pieces and set aside."
+    },
+    {
+      "_id": "678bc57141d119070e7d8797",
+      "step": "Heat the remaining oil in the frying pan until sizzling hot. Add the tortilla strips in batches and fry until just crisp. Remove with a slotted spoon and drain on paper towels."
+    },
+    {
+      "_id": "678bc57141d119070e7d8798",
+      "step": "When ready to serve, add the chiles to the soup, bring to a boil, and simmer for 3 minutes, until the chiles are soft. Stir in the cilantro and lime juice and season with salt and pepper. Ladle the soup into bowls and top with toasted tortilla strips. Serve with lime wedges."
+    }
+  ],
+  "__v": 18
+}

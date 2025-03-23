@@ -1,0 +1,208 @@
+{
+  "yield": {
+    "amount": 3,
+    "label": "dozen"
+  },
+  "source": {
+    "name": "family recipe"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01eb1cb7881b05b0096",
+      "label": "cookies",
+      "slug": "cookies",
+      "__v": 0
+    }
+  ],
+  "_id": "6778676741d119070e7d861f",
+  "label": "Gingersnaps",
+  "slug": "gingersnaps",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6778677241d119070e7d8620",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707d6241d119070e7d8594",
+        "label": "vegetable shortening",
+        "slug": "vegetable-shortening",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6778677c41d119070e7d8621",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fc",
+        "label": "brown sugar",
+        "name": "brown sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6778678441d119070e7d8622",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778679641d119070e7d8623",
+        "label": "molasses",
+        "slug": "molasses",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "677867a141d119070e7d8624",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 2.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "677867a941d119070e7d8625",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "677867b541d119070e7d8626",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f3",
+        "label": "baking soda",
+        "name": "baking soda"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "677867c041d119070e7d8627",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "677867cd41d119070e7d8628",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a4041d119070e7d856d",
+        "label": "ground ginger",
+        "slug": "ground-ginger",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "677867d441d119070e7d8629",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a1c41d119070e7d856b",
+        "label": "ground cinnamon",
+        "slug": "ground-cinnamon",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "677867dd41d119070e7d862a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677867f641d119070e7d862b",
+        "label": "ground cloves",
+        "slug": "ground-cloves",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6778685541d119070e7d862c",
+      "step": "Preheat oven to 375 degrees. Cream together first 4 ingredients until fluffy. Sift together dry ingredients in a separate bowl; stir into molasses mixture. Form into small balls. Roll in granulated sugar; place 2 inches apart on greased cooking sheet. Bake about 10 minutes."
+    }
+  ],
+  "__v": 18
+}

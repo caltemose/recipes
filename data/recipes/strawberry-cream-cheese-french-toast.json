@@ -1,0 +1,235 @@
+{
+  "serves": {
+    "amount": 12
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d409c0836b893a9a14c93",
+      "label": "breakfast",
+      "slug": "breakfast",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "6777235141d119070e7d85a9",
+  "label": "Strawberry Cream Cheese French Toast",
+  "slug": "strawberry-cream-cheese-french-toast",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 12,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6777235941d119070e7d85aa",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6777239e41d119070e7d85ad",
+        "label": "bread slices",
+        "slug": "bread-slices",
+        "__v": 0
+      },
+      "notes": "cubed"
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "677723b741d119070e7d85ae",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677723d141d119070e7d85af",
+        "label": "cream cheese",
+        "slug": "cream-cheese",
+        "__v": 0
+      },
+      "notes": "cubed"
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "677723e641d119070e7d85b0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6777240341d119070e7d85b1",
+        "label": "strawberries",
+        "slug": "strawberries",
+        "__v": 0
+      },
+      "notes": "sliced"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6777241541d119070e7d85b2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6777242c41d119070e7d85b3",
+        "label": "half and half",
+        "slug": "half-and-half",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 12,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6777243541d119070e7d85b4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6777244341d119070e7d85b5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76728",
+        "label": "maple syrup",
+        "name": "maple syrup"
+      }
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6777245841d119070e7d85b6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6777246941d119070e7d85b7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670e",
+        "label": "cornstarch",
+        "name": "cornstarch"
+      }
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6777247741d119070e7d85b8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6777240341d119070e7d85b1",
+        "label": "strawberries",
+        "slug": "strawberries",
+        "__v": 0
+      },
+      "notes": "sliced"
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6777248841d119070e7d85b9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "677724c541d119070e7d85ba",
+      "step": "Generously grease 9x13 baking dish."
+    },
+    {
+      "_id": "677724d741d119070e7d85bb",
+      "step": "Arrange half the bread cubes in the dish. Evenly distribute cream cheese cubes over bread cube layer; sprinkle 1-1/2 C strawberries atop cream cheese layer. Layer remaining bread cubes over strawberry layer."
+    },
+    {
+      "_id": "677724e441d119070e7d85bc",
+      "step": "Pour half-and-half into blender; pulse for a few seconds. Blend eggs into half-and-half until fully incorporated. Add maple syrup and blend until smooth. (Note: I just mix this in a bowl or Pyrex measuring spout thingy using a fork or whisk; you could also put everything into a mason jar and shake it.) Pour mixture evenly over bread mixture. Cover baking dish with aluminum foil and refrigerate 8 hours or overnight."
+    },
+    {
+      "_id": "677724e441d119070e7d85bd",
+      "step": "Remove baking dish from fridge 30-45 minutes before baking."
+    },
+    {
+      "_id": "6777250141d119070e7d85be",
+      "step": "Preheat oven to 350 degrees F (175 degrees C)."
+    },
+    {
+      "_id": "6777250941d119070e7d85bf",
+      "step": "Bake covered casserole in preheated oven for 30 minutes. Remove foil and continue baking until french toast is puffed and golden brown, about 30 more minutes."
+    },
+    {
+      "_id": "6777251241d119070e7d85c0",
+      "step": "Stir water and cornstarch together in a small saucepan. Cook, stirring occasionally over medium heat until mixture has thickened, about 5 minutes. Mix 1 C strawberries into the sauce mixture; cook and stir until strawberries are softened, about 10 minutes. Add butter and stir sauce until butter is melted."
+    },
+    {
+      "_id": "6777251c41d119070e7d85c1",
+      "step": "To serve, use a spatula to serve casserole out of the dish. Then spoon the strawberry sauce over the top of the casserole on the plate. If you want a savory counterpart, you could serve scrambled eggs or a fried egg on the side. Or if serving for brunch, could go well with a side salad with a mustard-vinaigrette dressing."
+    }
+  ],
+  "__v": 21
+}

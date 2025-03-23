@@ -1,0 +1,244 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "source": {
+    "name": "Williams-Sonoma Vegetarian"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "6770746b41d119070e7d852c",
+  "label": "Couscous Salad",
+  "slug": "couscous-salad",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6770747041d119070e7d852d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6770747b41d119070e7d852e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670f",
+        "label": "couscous",
+        "name": "couscous"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6770748841d119070e7d852f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "677074b241d119070e7d8530",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f9",
+        "label": "bell pepper(s)",
+        "name": "bell pepper(s)"
+      },
+      "notes": "broiled and cut into 1/2-inch squares"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "677074ce41d119070e7d8531",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76707",
+        "label": "cherry tomato(es)",
+        "name": "cherry tomato(es)"
+      },
+      "notes": "halved"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "677074e741d119070e7d8532",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76710",
+        "label": "cucumber(s)",
+        "name": "cucumber(s)"
+      },
+      "notes": "cut into 1/2-inch dice"
+    },
+    {
+      "amount": {
+        "value": 0.3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "677074ff41d119070e7d8533",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670a",
+        "label": "cilantro",
+        "name": "cilantro"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6770751441d119070e7d8534",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6770752041d119070e7d8535",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76725",
+        "label": "lemon juice",
+        "name": "lemon juice"
+      }
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6770752c41d119070e7d8536",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770754a41d119070e7d8537",
+        "label": "ground cumin",
+        "slug": "ground-cumin",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6770755441d119070e7d8538",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76732",
+        "label": "paprika",
+        "name": "paprika"
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "6770756241d119070e7d8539",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6770757241d119070e7d853a",
+      "step": "In a saucepan, bring water to a boil. Remove from heat and add couscous and salt. Stir well, cover and let stand for 10 minutes. Uncover, fluff, and let cool."
+    },
+    {
+      "_id": "6770758441d119070e7d853b",
+      "step": "Transfer couscous to a large bowl. Add veggies."
+    },
+    {
+      "_id": "6770758b41d119070e7d853c",
+      "step": "In a small bowl, whisk together olive oil, lemon juice, and spices. Season to taste with salt and pepper. Add to couscous and toss together well."
+    },
+    {
+      "_id": "6770759341d119070e7d853d",
+      "step": ""
+    }
+  ],
+  "__v": 18
+}

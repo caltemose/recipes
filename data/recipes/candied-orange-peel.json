@@ -1,0 +1,84 @@
+{
+  "yield": {
+    "amount": 1,
+    "label": "cup"
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "67798a7941d119070e7d8673",
+  "label": "Candied Orange Peel",
+  "slug": "candied-orange-peel",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67798a8141d119070e7d8674",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67798a8941d119070e7d8675",
+        "label": "orange(s)",
+        "slug": "orange-s",
+        "__v": 0
+      },
+      "notes": "large"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67798a9c41d119070e7d8676",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67798ab141d119070e7d8677",
+      "step": "Quarter the oranges. Use a think knife to remove the pulp and save for another use. Remove white pith from peel. Slice peel into 1/4-inch strips."
+    },
+    {
+      "_id": "67798ac241d119070e7d8678",
+      "step": "Move strips to a medium pan, cover with water, and boil over medium-high heat fo 15 minutes. Drain and rinse."
+    },
+    {
+      "_id": "67798ac241d119070e7d8679",
+      "step": "Add strips back into pan with sugar and 2 C water and cook for 45 minutes over medium-high heat. Lower heat and cook for another 10-15 minutes until syrup reduces and dry sugar crystals begin to form. Immediately pour out the peels onto a cooling rack set over a piece of parchment. Spread the orange peel pieces into an even layer, allowing any excess sugar to fall away. Cool for 1 hour before storing. Keep any stray sugar for sweetening tea."
+    }
+  ],
+  "__v": 8
+}

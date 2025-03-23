@@ -1,0 +1,211 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "source": {
+    "name": "family recipe"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67bb212841d119070e7d8a0d",
+      "label": "pescatarian",
+      "slug": "pescatarian",
+      "__v": 0
+    }
+  ],
+  "_id": "677863c841d119070e7d85f1",
+  "label": "Tuna Noodle Casserole",
+  "slug": "tuna-noodle-casserole",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "677863ce41d119070e7d85f2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677863e041d119070e7d85f3",
+        "label": "egg noodles",
+        "slug": "egg-noodles",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "677863f441d119070e7d85f4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778640b41d119070e7d85f5",
+        "label": "tuna",
+        "slug": "tuna",
+        "__v": 0
+      },
+      "notes": "canned"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6778641841d119070e7d85f6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778642b41d119070e7d85f7",
+        "label": "mayonnaise",
+        "slug": "mayonnaise",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6778644041d119070e7d85f8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76705",
+        "label": "celery",
+        "name": "celery"
+      },
+      "notes": "sliced"
+    },
+    {
+      "amount": {
+        "value": 0.3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6778644b41d119070e7d85f9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6778648641d119070e7d85fa",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "677727a041d119070e7d85e1",
+          "label": "can(s)",
+          "slug": "can-s",
+          "__v": 0
+        }
+      },
+      "_id": "6778649141d119070e7d85fb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677864a341d119070e7d85fc",
+        "label": "cream of celery soup",
+        "slug": "cream-of-celery-soup",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "677864b041d119070e7d85fd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "677864bc41d119070e7d85fe",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76706",
+        "label": "cheddar",
+        "name": "cheddar"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "677864d041d119070e7d85ff",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a36deffb1cb7881b05b0081",
+        "label": "almonds",
+        "slug": "almonds",
+        "__v": 0
+      },
+      "notes": "slivered and toasted"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "677864ed41d119070e7d8600",
+      "step": "Cook noodles in boiling salted water until tender.&nbsp; Drain. Combine noodles, drained tuna, mayonnaise, vegetables and salt."
+    },
+    {
+      "_id": "677864f641d119070e7d8601",
+      "step": "<div>Blend soup and milk; heat through. Add cheese; heat and stir till cheese melts. Add to noodle mixture. Turn into 1-1/2-quart casserole. Top with almonds. Bake at 425 degrees F for 20 minutes.</div><div><br></div>"
+    }
+  ],
+  "__v": 14
+}

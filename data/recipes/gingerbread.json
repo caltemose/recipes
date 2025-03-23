@@ -1,0 +1,235 @@
+{
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d3f5e0836b893a9a14c8e",
+      "label": "bread",
+      "slug": "bread",
+      "__v": 0
+    }
+  ],
+  "_id": "67898c1341d119070e7d8717",
+  "label": "Gingerbread",
+  "slug": "gingerbread",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898c1841d119070e7d8718",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778679641d119070e7d8623",
+        "label": "molasses",
+        "slug": "molasses",
+        "__v": 0
+      },
+      "notes": "dark"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898c2541d119070e7d8719",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778679641d119070e7d8623",
+        "label": "molasses",
+        "slug": "molasses",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898c3241d119070e7d871a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": "boiling"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67898c3f41d119070e7d871b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": "cut into chunks, at room temperature"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67898c6d41d119070e7d871c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f3",
+        "label": "baking soda",
+        "name": "baking soda"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67898c8541d119070e7d871d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "extra-large"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898c9941d119070e7d871e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673e",
+        "label": "raisins",
+        "name": "raisins"
+      }
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898ca741d119070e7d871f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67898cb341d119070e7d8720",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a1c41d119070e7d856b",
+        "label": "ground cinnamon",
+        "slug": "ground-cinnamon",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67898cbc41d119070e7d8721",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a4041d119070e7d856d",
+        "label": "ground ginger",
+        "slug": "ground-ginger",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67898cc641d119070e7d8722",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677867f641d119070e7d862b",
+        "label": "ground cloves",
+        "slug": "ground-cloves",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67898cd941d119070e7d8723",
+      "step": "Preheat oven to 350 degrees F with the rack in the center position. Butter and dust with flour a 9-inch square baking pan. Blend together the sugar, molasses, boiling water and butter. While the mixture is still hot, add the baking soda, eggs and raisins."
+    },
+    {
+      "_id": "67898ce141d119070e7d8724",
+      "step": "Sift together the flour, cinnamon, ginger and cloves. Add to batter and mix well, taking care not to incorporate too many air bubbles into the batter."
+    },
+    {
+      "_id": "67898ce841d119070e7d8725",
+      "step": "Pour into the prepared pan and bake for 35-40 minutes, or until a cake tester inserted in the middle comes out dry. Cool slightly."
+    }
+  ],
+  "__v": 18
+}

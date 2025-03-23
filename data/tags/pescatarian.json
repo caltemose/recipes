@@ -1,0 +1,55 @@
+{
+  "recipes": [
+    {
+      "label": "Tuna Noodle Casserole",
+      "_id": "677863c841d119070e7d85f1",
+      "slug": "tuna-noodle-casserole"
+    },
+    {
+      "label": "Tuna Salad",
+      "_id": "6782913641d119070e7d86ec",
+      "slug": "tuna-salad"
+    },
+    {
+      "label": "Lime-Drizzled Shrimp",
+      "_id": "6799722941d119070e7d8874",
+      "slug": "lime-drizzled-shrimp"
+    },
+    {
+      "label": "Stuffed Pimientos",
+      "_id": "67ae7cf241d119070e7d88d5",
+      "slug": "stuffed-pimientos"
+    },
+    {
+      "label": "Tuna Mayonnaise Filling",
+      "_id": "67ae7fdd41d119070e7d88eb",
+      "slug": "tuna-mayonnaise-filling"
+    },
+    {
+      "label": "Cheese and Olive Empanadillas",
+      "_id": "67afd75e41d119070e7d8914",
+      "slug": "cheese-and-olive-empanadillas"
+    },
+    {
+      "label": "Sizzling Chili Shrimp",
+      "_id": "67afd8a241d119070e7d8924",
+      "slug": "sizzling-chili-shrimp"
+    },
+    {
+      "label": "Stuffed Cherry Tomatoes",
+      "_id": "67b90d9941d119070e7d893e",
+      "slug": "stuffed-cherry-tomatoes"
+    },
+    {
+      "label": "Anchovy and Olive Filling",
+      "_id": "67b90e6241d119070e7d8948",
+      "slug": "anchovy-and-olive-filling"
+    }
+  ],
+  "tag": {
+    "_id": "67bb212841d119070e7d8a0d",
+    "label": "pescatarian",
+    "slug": "pescatarian",
+    "__v": 0
+  }
+}

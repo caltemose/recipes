@@ -1,0 +1,192 @@
+{
+  "yield": {
+    "amount": 2,
+    "label": "cups"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "67ba521341d119070e7d89f0",
+  "label": "Spiced Walnuts",
+  "slug": "spiced-walnuts",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba521f41d119070e7d89f1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ba522a41d119070e7d89f2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a3fe4e69c5f02065d03f194",
+        "label": "honey",
+        "slug": "honey",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba523841d119070e7d89f3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67ba524341d119070e7d89f4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675e",
+        "label": "walnuts",
+        "name": "walnuts"
+      },
+      "notes": "halves"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67ba525c41d119070e7d89f5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.15,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba526a41d119070e7d89f6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76704",
+        "label": "cayenne pepper",
+        "name": "cayenne pepper"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba528941d119070e7d89f7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba529641d119070e7d89f8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a1c41d119070e7d856b",
+        "label": "ground cinnamon",
+        "slug": "ground-cinnamon",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67ba52a441d119070e7d89f9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a4041d119070e7d856d",
+        "label": "ground ginger",
+        "slug": "ground-ginger",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ba52bd41d119070e7d89fa",
+      "step": "Warm liquids over medium heat."
+    },
+    {
+      "_id": "67ba52c741d119070e7d89fb",
+      "step": "Add nuts and toss well to coat."
+    },
+    {
+      "_id": "67ba52d241d119070e7d89fc",
+      "step": "Add spices and toss to coat."
+    },
+    {
+      "_id": "67ba52db41d119070e7d89fd",
+      "step": "Mix until nuts are toasted, 3-5 minutes."
+    },
+    {
+      "_id": "67ba52e441d119070e7d89fe",
+      "step": "Spread in one layer on a baking sheet and let cool.&nbsp;&nbsp;"
+    }
+  ],
+  "__v": 15
+}

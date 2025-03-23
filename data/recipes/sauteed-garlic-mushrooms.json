@@ -1,0 +1,137 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "67b9112041d119070e7d8954",
+  "label": "Sauteed Garlic Mushrooms",
+  "slug": "sauteed-garlic-mushrooms",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "67b9112241d119070e7d8955",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672c",
+        "label": "mushrooms",
+        "name": "mushrooms"
+      }
+    },
+    {
+      "amount": {
+        "value": 5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67b9112d41d119070e7d8956",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "67b9113b41d119070e7d8957",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67b9114941d119070e7d8958",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76725",
+        "label": "lemon juice",
+        "name": "lemon juice"
+      },
+      "notes": "a squeeze"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67b9115e41d119070e7d8959",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "chopped"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67b9117841d119070e7d895a",
+      "step": "Brush clean the mushrooms, then trim off the stalks close to the caps. Cut any large mushrooms in half or into quarters. Heat the olive oil in a large, heavy-bottom skillet, add the garlic and cook for 30 seconds to one minutes, until lightly browned. Add the mushrooms and saute over high heat, stirring most of the time, until the mushrooms have absorbed all the oil in the skillet."
+    },
+    {
+      "_id": "67b9118041d119070e7d895b",
+      "step": "Reduce the heat to low. When the juices have come out of the mushrooms, increase the heat again, and saute for 4-5 minutes, stirring most of the time, until the juices have almost evaporated. Add a squeeze of lemon juice and season with salt and pepper. Stir in the parsley and cook for an additional minute."
+    },
+    {
+      "_id": "67b9118841d119070e7d895c",
+      "step": "Serve piping hot or warm. Accompany with crusty bread."
+    }
+  ],
+  "__v": 12
+}

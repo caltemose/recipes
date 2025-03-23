@@ -1,0 +1,281 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "67805b9341d119070e7d86ae",
+  "label": "Chicken Piccata",
+  "slug": "chicken-piccata",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67805b9641d119070e7d86af",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76762",
+        "label": "white wine",
+        "name": "white wine"
+      }
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67805ba341d119070e7d86b0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a246ded2c912bb7ffba835c",
+        "label": "chicken broth",
+        "slug": "chicken-broth",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67805bae41d119070e7d86b1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      },
+      "notes": "sliced into 8 wafer-thing slices"
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67805bd041d119070e7d86b2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76725",
+        "label": "lemon juice",
+        "name": "lemon juice"
+      }
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67805bde41d119070e7d86b3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67805bfe41d119070e7d86b4",
+        "label": "chicken thighs",
+        "slug": "chicken-thighs",
+        "__v": 0
+      },
+      "notes": "boneless, skinless"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67805c1141d119070e7d86b5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67805c1b41d119070e7d86b6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67805c3341d119070e7d86b7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67805c3e41d119070e7d86b8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67805c4841d119070e7d86b9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67805c5441d119070e7d86ba",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672c",
+        "label": "mushrooms",
+        "name": "mushrooms"
+      },
+      "notes": "sliced thin"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67805c6741d119070e7d86bb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76702",
+        "label": "capers",
+        "name": "capers"
+      },
+      "notes": "drained but not rinsed"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67805c7741d119070e7d86bc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "flat, chopped"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67805c8c41d119070e7d86bd",
+      "step": "Combine white wine, broth and lemon juice in a measuring cup. Set aside."
+    },
+    {
+      "_id": "67805c9d41d119070e7d86be",
+      "step": "Season the chicken with 1 t salt and the pepper."
+    },
+    {
+      "_id": "67805ca641d119070e7d86bf",
+      "step": "<div>Place flour in a gallon freezer bag and add one piece chicken to the bag. Seal and shake to coat. Then open the bag just enough to allow air out, place chicken in bag on a cutting board and flatten it with a meat pounder, flipping the bag once during the process, until the chicken is about 1/4 inch think. Remove to a plate and repeat with the rest of the chicken.</div>"
+    },
+    {
+      "_id": "67805ca641d119070e7d86c0",
+      "step": "Place a heavy 12-inch straight-sided saute pan with a tight-fitting lid over high heat for 1 minute.&nbsp;&nbsp;"
+    },
+    {
+      "_id": "67805cbe41d119070e7d86c1",
+      "step": "Add 1 T each of butter and oil to the pan. When butter just stops bubbling, carefully add 4 thighs. Cook, gently shaking the pan, for 90 seconds, then flip and repeat for another 90 seconds."
+    },
+    {
+      "_id": "67805cc541d119070e7d86c2",
+      "step": "Remove chicken from pan, add another 1 T each of butter and oil, and when butter is melted, add remaining 4 thighs and cook as before."
+    },
+    {
+      "_id": "67805cce41d119070e7d86c3",
+      "step": "Remove chicken from pan and immediately add mushrooms and remaining 1 t salt. Toss or stir to saute for 2 minutes or until mushrooms start to turn golden on the cooked sides."
+    },
+    {
+      "_id": "67805cda41d119070e7d86c4",
+      "step": "Stir mushrooms out to the circumference of the pan and add the capers right in the middle. Stir, cooking for another 1 minute."
+    },
+    {
+      "_id": "67805ce241d119070e7d86c5",
+      "step": "Add the chicken back to the pan and reduce heat to low. Distribute the lemon slices across the top of the chicken, add the wine mixture and cover pan. Braise for 5-7 minutes until chicken is tender."
+    },
+    {
+      "_id": "67805cea41d119070e7d86c6",
+      "step": "Put thighs on serving platter (discard lemon slices). Increase heat to high and add remaining 1 T butter to sauce. Boil gently, stirring constantly until it reaches sauce consistency, about 30 seconds, then pour it over the chicken. Season with pepper and top with parsley. Serve with rice or noodles."
+    }
+  ],
+  "__v": 24
+}

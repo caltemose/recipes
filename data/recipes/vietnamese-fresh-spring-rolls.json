@@ -1,0 +1,194 @@
+{
+  "source": {
+    "name": "Great Courses"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "67ba498d41d119070e7d89ad",
+  "label": "Vietnamese Fresh Spring Rolls",
+  "slug": "vietnamese-fresh-spring-rolls",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba499a41d119070e7d89ae",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ba49a741d119070e7d89af",
+        "label": "rice vermicelli",
+        "slug": "rice-vermicelli",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba49b641d119070e7d89b0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ba49c241d119070e7d89b1",
+        "label": "rice paper(s)",
+        "slug": "rice-paper-s",
+        "__v": 0
+      },
+      "notes": "soaked in warm water right before use"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba49df41d119070e7d89b2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6777285f41d119070e7d85ed",
+        "label": "lettuce",
+        "slug": "lettuce",
+        "__v": 0
+      },
+      "notes": "julienned"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba49f141d119070e7d89b3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      },
+      "notes": "julienned"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba4a0141d119070e7d89b4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f6",
+        "label": "basil",
+        "name": "basil"
+      },
+      "notes": "julienned"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba4a1741d119070e7d89b5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672a",
+        "label": "mint",
+        "name": "mint"
+      },
+      "notes": "julienned"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba4a2641d119070e7d89b6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670a",
+        "label": "cilantro",
+        "name": "cilantro"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba4a4041d119070e7d89b7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67afd8c741d119070e7d8926",
+        "label": "shrimp",
+        "slug": "shrimp",
+        "__v": 0
+      },
+      "notes": "cut in half lengthwise"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ba4a5441d119070e7d89b8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673f",
+        "label": "red bell pepper(s)",
+        "name": "red bell pepper(s)"
+      },
+      "notes": "thinly julienned"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ba4a6f41d119070e7d89b9",
+      "step": "Soak a rice paper wrap in warm water and then stretch it out on a smooth dish towel."
+    },
+    {
+      "_id": "67ba4a7741d119070e7d89ba",
+      "step": "Place the ingredients on one third of the wrap. Be careful not to put too much as this will overstuff the wrap."
+    },
+    {
+      "_id": "67ba4a8041d119070e7d89bb",
+      "step": "Roll the wrap. Start with the side with the ingredients and then roll towards the other end. Note that the wrap will stick to itself."
+    },
+    {
+      "_id": "67ba4a8b41d119070e7d89bc",
+      "step": "Serve with dipping sauce. You can use plum sauce, nouc cham vietnamese sauce, or other sauce. These can be a good appetizer or be eaten as a light dinner with a side of rice."
+    }
+  ],
+  "__v": 14
+}

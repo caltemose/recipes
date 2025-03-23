@@ -1,0 +1,146 @@
+{
+  "serves": {
+    "amount": 8
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "67bb212841d119070e7d8a0d",
+      "label": "pescatarian",
+      "slug": "pescatarian",
+      "__v": 0
+    }
+  ],
+  "_id": "67afd8a241d119070e7d8924",
+  "label": "Sizzling Chili Shrimp",
+  "slug": "sizzling-chili-shrimp",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "67afd8a541d119070e7d8925",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799724d41d119070e7d8877",
+        "label": "jumbo shrimp",
+        "slug": "jumbo-shrimp",
+        "__v": 0
+      },
+      "notes": "raw, in shells"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67afd8df41d119070e7d8927",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bcb9141d119070e7d87f5",
+        "label": "red chiles",
+        "slug": "red-chiles",
+        "__v": 0
+      },
+      "notes": "small, fresh"
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67afd8f341d119070e7d8928",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "67afd8ff41d119070e7d8929",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "67afd91641d119070e7d892a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76732",
+        "label": "paprika",
+        "name": "paprika"
+      }
+    },
+    {
+      "amount": {
+        "value": 1
+      },
+      "_id": "67afd91d41d119070e7d892b",
+      "type": "Ingredient"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67afd92641d119070e7d892c",
+      "step": "To prepare the shrimp, remove the head and legs, leaving the shells and tails intact. Using a short knife, make a shallow slit along the underside of each shrimp, then pull out the dark being and discard. Rinse the shrimp under cold water and dry well on paper towels."
+    },
+    {
+      "_id": "67afd92f41d119070e7d892d",
+      "step": "Cut the chili in half lengthwise, remove the seed, and finely chop the flesh.&nbsp;&nbsp;"
+    },
+    {
+      "_id": "67afd94541d119070e7d892e",
+      "step": "Heat the olive oil in a large, heavy-bottom skillet until quite hot, then add the garlic and cook for 30 seconds. Add the shrimp, chili, paprika and a pinch of salt and cook for 2-3 minutes, stirring all the time, until the shrimp turn pink and start to color."
+    },
+    {
+      "_id": "67afd94d41d119070e7d892f",
+      "step": "Serve in the cooking dish, still sizzling. Accompany with crusty bread to mop up the cooking oil."
+    }
+  ],
+  "__v": 13
+}

@@ -1,0 +1,265 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    }
+  ],
+  "_id": "678bcb4041d119070e7d87ee",
+  "label": "Meat Chili",
+  "slug": "meat-chili",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bcb4341d119070e7d87ef",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bcb4b41d119070e7d87f0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "678bcb5241d119070e7d87f1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bca7941d119070e7d87df",
+        "label": "ground turkey",
+        "slug": "ground-turkey",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "678bcb6541d119070e7d87f2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bcb7d41d119070e7d87f3",
+        "label": "dried chiles",
+        "slug": "dried-chiles",
+        "__v": 0
+      },
+      "notes": "crushed"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bcb8641d119070e7d87f4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bcb9141d119070e7d87f5",
+        "label": "red chiles",
+        "slug": "red-chiles",
+        "__v": 0
+      },
+      "notes": "1-2 chiles, seeded and chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "678bcba941d119070e7d87f6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770754a41d119070e7d8537",
+        "label": "ground cumin",
+        "slug": "ground-cumin",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "678bcbb041d119070e7d87f7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76731",
+        "label": "oregano",
+        "name": "oregano"
+      },
+      "notes": "dried"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678bcbb841d119070e7d87f8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bcbc941d119070e7d87f9",
+        "label": "passata",
+        "slug": "passata",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "678bcbd541d119070e7d87fa",
+      "type": "Ingredient",
+      "item": {
+        "_id": "63e010b26ec18c0944a6ab56",
+        "label": "vegetable stock",
+        "slug": "vegetable-stock",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "677727a041d119070e7d85e1",
+          "label": "can(s)",
+          "slug": "can-s",
+          "__v": 0
+        }
+      },
+      "_id": "678bcbdc41d119070e7d87fb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b26f041b2f68404000002",
+        "label": "kidney beans",
+        "name": "kidney beans",
+        "__v": 0
+      },
+      "notes": "drained and rinsed"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bcbea41d119070e7d87fc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc71f41d119070e7d87b1",
+        "label": "tomato puree",
+        "slug": "tomato-puree",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bcbf041d119070e7d87fd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670a",
+        "label": "cilantro",
+        "name": "cilantro"
+      },
+      "notes": "chopped, to serve"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bcbf941d119070e7d87fe",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76706",
+        "label": "cheddar",
+        "name": "cheddar"
+      },
+      "notes": "grated, to serve"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "678bcc0d41d119070e7d87ff",
+      "step": "Heat olive oil in a large saucepan, add onion and cook for 4-5 minutes or until softened but not colored. Add beef/turkey and cook, stirring, until the grains of meat are separated and no longer pink."
+    },
+    {
+      "_id": "678bcc1541d119070e7d8800",
+      "step": "Stir in the dried and fresh chiles and cumin and cook for 30 seconds, stirring. Add the oregano, pasta, stock, kidney beans, tomato puree, and salt and pepper. Bring to a boil, stirring. Reduce the heat, partially cover, and simmer gently for 30 minutes, stirring occasionally. Taste and adjust seasoning if necessary."
+    },
+    {
+      "_id": "678bcc1c41d119070e7d8801",
+      "step": "Ladle into bowls and top with cilantro or parsley and grated cheese."
+    }
+  ],
+  "__v": 18
+}

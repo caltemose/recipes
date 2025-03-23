@@ -1,0 +1,129 @@
+{
+  "yield": {
+    "amount": 1.5,
+    "label": "cups"
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "67996f2b41d119070e7d8851",
+  "label": "Salted Almonds",
+  "slug": "salted-almonds",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67996f3141d119070e7d8852",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a36deffb1cb7881b05b0081",
+        "label": "almonds",
+        "slug": "almonds",
+        "__v": 0
+      },
+      "notes": "blanched"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67996f4041d119070e7d8853",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67996f4c41d119070e7d8854",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67996f5341d119070e7d8855",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76732",
+        "label": "paprika",
+        "name": "paprika"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67996f6941d119070e7d8856",
+      "step": "Preheat oven to 350 degrees F / 180 degrees C.&nbsp;&nbsp;"
+    },
+    {
+      "_id": "67996f7441d119070e7d8857",
+      "step": "Blanche the almonds by putting them in a bowl, cover with boiling water for 3-4 minutes, then plunge them in cold water for 1 minute. Drain well in a strainer, then slide off the skins. Dry the almonds well on a towel."
+    },
+    {
+      "_id": "67996f7441d119070e7d8858",
+      "step": "Put the olive oil in a roasting pan and swirl it around so that it covers the bottom. Add the almonds and toss them in the pan so that they are evenly coated in the oil, then spread them out in a single layer."
+    },
+    {
+      "_id": "67996f8b41d119070e7d8859",
+      "step": "Roast the almonds in the oven for 20-25 minutes, or until they are light golden brown, tossing several times during the cooking. Transfer almonds to a bowl."
+    },
+    {
+      "_id": "67996f9541d119070e7d885a",
+      "step": "While the almonds are still warm, sprinkle with salt and paprika or cumin, and toss well together to coat. Serve the almonds warm or cold. Store in an airtight container for up to 3 days."
+    }
+  ],
+  "__v": 13
+}

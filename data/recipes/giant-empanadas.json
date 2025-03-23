@@ -1,0 +1,219 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "family recipe"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "6777277d41d119070e7d85df",
+  "label": "Giant Empanadas",
+  "slug": "giant-empanadas",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "677727a041d119070e7d85e1",
+          "label": "can(s)",
+          "slug": "can-s",
+          "__v": 0
+        }
+      },
+      "_id": "6777277f41d119070e7d85e0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b26f041b2f68404000002",
+        "label": "kidney beans",
+        "name": "kidney beans",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "677727af41d119070e7d85e2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "677727b941d119070e7d85e3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673f",
+        "label": "red bell pepper(s)",
+        "name": "red bell pepper(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "677727a041d119070e7d85e1",
+          "label": "can(s)",
+          "slug": "can-s",
+          "__v": 0
+        }
+      },
+      "_id": "677727c641d119070e7d85e4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538871832bd7f0c2cd000002",
+        "label": "canned tomatoes",
+        "name": "canned tomatoes",
+        "__v": 0
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "677727df41d119070e7d85e5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677727fb41d119070e7d85e6",
+        "label": "chili powder",
+        "slug": "chili-powder",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6777280541d119070e7d85e7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770754a41d119070e7d8537",
+        "label": "ground cumin",
+        "slug": "ground-cumin",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6777280f41d119070e7d85e8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6777282341d119070e7d85e9",
+        "label": "pie crust",
+        "slug": "pie-crust",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6777282f41d119070e7d85ea",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707cc541d119070e7d858c",
+        "label": "egg yolks",
+        "slug": "egg-yolks",
+        "__v": 0
+      },
+      "notes": "mixed w/ 1 T water"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6777284241d119070e7d85eb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674d",
+        "label": "sour cream",
+        "name": "sour cream"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6777285141d119070e7d85ec",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6777285f41d119070e7d85ed",
+        "label": "lettuce",
+        "slug": "lettuce",
+        "__v": 0
+      },
+      "notes": "shredded"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6777287541d119070e7d85ee",
+      "step": "Cook onion and bell pepper in skillet, 5 minutes.&nbsp; Stir in beans, tomatoes, chili powder, cumin, salt and pepper. Simmer uncovered, stirring occasionally, 15 minutes."
+    },
+    {
+      "_id": "6777287e41d119070e7d85ef",
+      "step": "Place 1 unfolded pie crust at one end of greased cookie sheet. Place half of filling on half of pastry round, leaving 1-inch border. Fold other half of pastry over filling. Press edges to seal. Brush pastry with yolk mixture. Repeat with other pie crust."
+    },
+    {
+      "_id": "6777288541d119070e7d85f0",
+      "step": "Bake in pre-heated 400 degree F oven for 20 minutes until pastry is golden and filling hot. Cut into halves and garnish with sour cream and shredded lettuce."
+    }
+  ],
+  "__v": 15
+}

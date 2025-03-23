@@ -1,0 +1,267 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "Soup cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "678bc68241d119070e7d87a7",
+  "label": "Spicy Turnip Soup with Noodles",
+  "slug": "spicy-turnip-soup-with-noodles",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc68541d119070e7d87a8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      },
+      "notes": "julienned"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc68e41d119070e7d87a9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673f",
+        "label": "red bell pepper(s)",
+        "name": "red bell pepper(s)"
+      },
+      "notes": "seeded, julienned"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc69d41d119070e7d87aa",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674a",
+        "label": "scallions",
+        "name": "scallions"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc6a941d119070e7d87ab",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc6b941d119070e7d87ac",
+        "label": "turnip(s)",
+        "slug": "turnip-s",
+        "__v": 0
+      },
+      "notes": "julienned"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "678bc6c941d119070e7d87ad",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67798bc241d119070e7d8686",
+        "label": "red pepper flakes",
+        "slug": "red-pepper-flakes",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc6db41d119070e7d87ae",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76723",
+        "label": "jalapeño pepper(s)",
+        "name": "jalapeño pepper(s)"
+      },
+      "notes": "seeded and cut into thin rings (or try 1 dried chile, cut in half and seeded)"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc6fe41d119070e7d87af",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76751",
+        "label": "star anise",
+        "name": "star anise"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "678bc70a41d119070e7d87b0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc71f41d119070e7d87b1",
+        "label": "tomato puree",
+        "slug": "tomato-puree",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897907",
+          "label": "quart(s)"
+        }
+      },
+      "_id": "678bc72d41d119070e7d87b2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "63e010b26ec18c0944a6ab56",
+        "label": "vegetable stock",
+        "slug": "vegetable-stock",
+        "__v": 0
+      },
+      "notes": "hot"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790e",
+          "label": "packet(s)"
+        }
+      },
+      "_id": "678bc73c41d119070e7d87b3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677863e041d119070e7d85f3",
+        "label": "egg noodles",
+        "slug": "egg-noodles",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "678bc75341d119070e7d87b4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674e",
+        "label": "soy sauce",
+        "name": "soy sauce"
+      },
+      "notes": "1-2 teaspoons"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc76141d119070e7d87b5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670a",
+        "label": "cilantro",
+        "name": "cilantro"
+      },
+      "notes": "small handful, chopped, for garnish"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc77a41d119070e7d87b6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a4977b9277bd9fe34f72bb9",
+        "label": "lime(s)",
+        "slug": "lime-s",
+        "__v": 0
+      },
+      "notes": "cut into wedges"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "678bc78c41d119070e7d87b7",
+      "step": "Saute the carrots in olive oil for a few minutes in a large saucepan. Add scallions, turnips, bell pepper, pepper flakes, jalapeño, star anise, tomato puree and stock and bring to a boil.&nbsp; Lower the heat, partially cover with a lid and simmer gently for 15 or 20 minutes until turnips are tender. Discard the star anise (and dried chile if using)."
+    },
+    {
+      "_id": "678bc79441d119070e7d87b8",
+      "step": "Meanwhile, put the noodles in a bowl, cover with boiling water, and let stand for 5 minutes, stirring to loosen, then drain. Stir noodles into the soup. Season to taste with soy sauce and pepper. Ladle into soup bowls, top with cilantro and a squeeze of lime juice."
+    }
+  ],
+  "__v": 18
+}

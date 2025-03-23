@@ -1,0 +1,175 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "67798b9541d119070e7d8682",
+  "label": "Black Beans",
+  "slug": "black-beans",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67798b9741d119070e7d8683",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "67798ba341d119070e7d8684",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "smashed"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67798bad41d119070e7d8685",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67798bc241d119070e7d8686",
+        "label": "red pepper flakes",
+        "slug": "red-pepper-flakes",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67798bcf41d119070e7d8687",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67798bd741d119070e7d8688",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "677727a041d119070e7d85e1",
+          "label": "can(s)",
+          "slug": "can-s",
+          "__v": 0
+        }
+      },
+      "_id": "67798be541d119070e7d8689",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a402b2a9c5f02065d03f1ad",
+        "label": "black beans",
+        "slug": "black-beans",
+        "__v": 0
+      },
+      "notes": "drained and rinsed"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67798bf341d119070e7d868a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76731",
+        "label": "oregano",
+        "name": "oregano"
+      },
+      "notes": "dried"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67798bff41d119070e7d868b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67798c0941d119070e7d868c",
+      "step": "Place 12-inch saute pan over medium heat. Add olive oil, garlic and red pepper flakes. Cook, stirring frequently, until garlic is golden brown, 3-5 minutes."
+    },
+    {
+      "_id": "67798c1641d119070e7d868d",
+      "step": "Add onion and salt and cook for 1-2 minutes, stirring often, until onion starts to color. Add black beans, oregano and black pepper. Cook, stirring frequently, for 6-8 minutes."
+    }
+  ],
+  "__v": 12
+}

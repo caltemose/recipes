@@ -1,0 +1,205 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "Soup cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "678bc59c41d119070e7d8799",
+  "label": "Sunchoke Soup with Saffron and Thyme",
+  "slug": "sunchoke-soup-with-saffron-and-thyme",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bc59f41d119070e7d879a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc5a941d119070e7d879b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "678bc5b441d119070e7d879c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 12,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "678bc5c641d119070e7d879d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc5d541d119070e7d879e",
+        "label": "sunchokes",
+        "slug": "sunchokes",
+        "__v": 0
+      },
+      "notes": "scrubbed and coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 12,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "678bc5e341d119070e7d879f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      },
+      "notes": "scrubbed and coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 1.2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897907",
+          "label": "quart(s)"
+        }
+      },
+      "_id": "678bc60841d119070e7d87a0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "63e010b26ec18c0944a6ab56",
+        "label": "vegetable stock",
+        "slug": "vegetable-stock",
+        "__v": 0
+      },
+      "notes": "hot"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "678bc61541d119070e7d87a1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27be41b2f68404000003",
+        "label": "thyme",
+        "name": "thyme",
+        "__v": 0
+      },
+      "notes": "fresh, chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "678bc62141d119070e7d87a2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc63141d119070e7d87a3",
+        "label": "saffron",
+        "slug": "saffron",
+        "__v": 0
+      },
+      "notes": "3-4 strands"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "678bc64541d119070e7d87a4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      },
+      "notes": "juice of half a lemon"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "678bc66041d119070e7d87a5",
+      "step": "Heat oil in a large pan over medium heat, add the onions and cook for 5-10 minutes or until soft and translucent. Add the garlic and cook for another 30 seconds or until fragrant. Stir in the artichokes, carrots, and a little salt, then cover with a lid and sweat, stirring frequently, for 10-15 minutes or until vegetables are softened."
+    },
+    {
+      "_id": "678bc66741d119070e7d87a6",
+      "step": "Add the stock, thyme, and saffron, bring to a boil, then lower the heat to a simmer and cook for 20 minutes or until vegetables are thoroughly soft. Cool briefly, then process until smooth in a blender. Stir in lemon juice and season to taste with salt and pepper. Serve with a drizzle of olive oil on top."
+    }
+  ],
+  "__v": 15
+}

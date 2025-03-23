@@ -1,0 +1,241 @@
+{
+  "serves": {
+    "amount": 8
+  },
+  "source": {
+    "name": "Culinary Institute of America"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "677079d241d119070e7d8566",
+  "label": "Sauteed Chicken with Moroccan Hot and Sweet Tomato Sauce",
+  "slug": "sauteed-chicken-with-moroccan-hot-and-sweet-tomato-sauce",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "677079d641d119070e7d8567",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "677079e141d119070e7d8568",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "finely minced"
+    },
+    {
+      "amount": {
+        "value": 2
+      },
+      "_id": "677079eb41d119070e7d8569",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67707a0341d119070e7d856a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a1c41d119070e7d856b",
+        "label": "ground cinnamon",
+        "slug": "ground-cinnamon",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67707a2b41d119070e7d856c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a4041d119070e7d856d",
+        "label": "ground ginger",
+        "slug": "ground-ginger",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67707a4841d119070e7d856e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76704",
+        "label": "cayenne pepper",
+        "name": "cayenne pepper"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67707a5641d119070e7d856f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a6741d119070e7d8570",
+        "label": "tomato sauce",
+        "slug": "tomato-sauce",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67707a6f41d119070e7d8571",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a3fe4e69c5f02065d03f194",
+        "label": "honey",
+        "slug": "honey",
+        "__v": 0
+      },
+      "notes": "dark"
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67707a8141d119070e7d8572",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a9a41d119070e7d8573",
+        "label": "chicken breasts",
+        "slug": "chicken-breasts",
+        "__v": 0
+      },
+      "notes": "boneless, skinless"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67707aab41d119070e7d8574",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67707ac941d119070e7d8575",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a3fe2f544229bfe637b73ce",
+        "label": "sesame seeds",
+        "slug": "sesame-seeds",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67707ad641d119070e7d8576",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670a",
+        "label": "cilantro",
+        "name": "cilantro"
+      },
+      "notes": "chopped"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67707ae841d119070e7d8577",
+      "step": "In a food processor, process onion and garlic into a coarse paste. In a saucepan, heat the butter over medium heat. Add the onion puree and saute for about 10 minutes until tender.&nbsp; Stir in spices and saute for 2-3 minutes. Add tomato sauce and honey and simmer for 5 minutes. Season with salt and pepper to taste."
+    },
+    {
+      "_id": "67707af141d119070e7d8578",
+      "step": "Preheat oven to 350 degrees F. Blot chicken dry with paper towels and season with salt and pepper. In a skillet, heat olive oil over medium-high heat. Add chicken pieces to pan and saute on one side for 2-3 minutes until browned. Turn chicken over and saute on second side for 3 minutes until browned. Reduce heat if necessary to avoid scorching chicken. Transfer chicken to baking dish."
+    },
+    {
+      "_id": "67707af141d119070e7d8579",
+      "step": "Spoon sauce over chicken and bake for 15 minutes or until chicken is cooked through (internal temp should be at least 180 degrees F)."
+    },
+    {
+      "_id": "67707b0841d119070e7d857a",
+      "step": "Divide chicken among serving plates and garnish with sesame seeds and cilantro."
+    }
+  ],
+  "__v": 17
+}

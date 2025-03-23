@@ -1,0 +1,172 @@
+{
+  "source": {
+    "name": "The Kitchen Survival Guide"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "67828f1a41d119070e7d86d3",
+  "label": "Coleslaw",
+  "slug": "coleslaw",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67828f2841d119070e7d86d4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a246fb92c912bb7ffba8372",
+        "label": "cabbage",
+        "slug": "cabbage",
+        "__v": 0
+      },
+      "notes": "medium head, shredded"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67828f3541d119070e7d86d5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673f",
+        "label": "red bell pepper(s)",
+        "name": "red bell pepper(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67828f4041d119070e7d86d6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67828f5741d119070e7d86d7",
+        "label": "orange bell pepper(s)",
+        "slug": "orange-bell-pepper-s",
+        "__v": 0
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67828f6241d119070e7d86d8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67828f6d41d119070e7d86d9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76741",
+        "label": "red wine vinegar",
+        "name": "red wine vinegar"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67828f8541d119070e7d86da",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67828fa741d119070e7d86dc",
+        "label": "caraway seeds",
+        "slug": "caraway-seeds",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67828f8741d119070e7d86db",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674e",
+        "label": "soy sauce",
+        "name": "soy sauce"
+      }
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67828fb641d119070e7d86dd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778642b41d119070e7d85f7",
+        "label": "mayonnaise",
+        "slug": "mayonnaise",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67828fca41d119070e7d86de",
+      "step": "Place all ingredients in a large salad bowl and toss well. Serve chilled. (Suggest to make 1/2 recipe of dressing.)"
+    }
+  ],
+  "__v": 12
+}

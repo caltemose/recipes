@@ -1,0 +1,183 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "yield": {
+    "amount": null,
+    "label": ""
+  },
+  "source": {
+    "name": "Williams-Sonoma Vegetarian"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "6754cf48a572f7fd9ca06504",
+  "label": "Corn, Bell Pepper and Potato Chowder",
+  "slug": "corn-bell-pepper-and-potato-chowder",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6754cf90a572f7fd9ca06505",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6754cfcda572f7fd9ca06506",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76768",
+        "label": "yellow onion(s)",
+        "name": "yellow onion(s)"
+      },
+      "notes": "coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6754cff5a572f7fd9ca06507",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      },
+      "notes": "coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6754d000a572f7fd9ca06508",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7673f",
+        "label": "red bell pepper(s)",
+        "name": "red bell pepper(s)"
+      },
+      "notes": "coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6754d020a572f7fd9ca06509",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27be41b2f68404000003",
+        "label": "thyme",
+        "name": "thyme",
+        "__v": 0
+      },
+      "notes": "fresh"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6754d037a572f7fd9ca0650a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f7",
+        "label": "bay leaf",
+        "name": "bay leaf"
+      }
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "675581c4a572f7fd9ca06512",
+      "type": "Ingredient",
+      "item": {
+        "_id": "63e010b26ec18c0944a6ab56",
+        "label": "vegetable stock",
+        "slug": "vegetable-stock",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6754d05ca572f7fd9ca0650b",
+      "step": "In a 4-qt pot over medium-low heat, melt butter. Add onions, carrot, half the bell peppers, thyme and saute, stirring occasionally, until vegetables are soft, about 15 minutes."
+    },
+    {
+      "_id": "6754d06fa572f7fd9ca0650c",
+      "step": "Add the stock and half of the corn and bring to a boil over medium-high heat. Reduce heat to low and simmer, uncovered, until vegetables are very soft, about 20 minutes.&amp;nbsp; Remove from heat and let cool slightly."
+    },
+    {
+      "_id": "675581e3a572f7fd9ca06513",
+      "step": "Working with 2C of soup at a time, blend until very smooth."
+    },
+    {
+      "_id": "675581eea572f7fd9ca06514",
+      "step": "Place soup over medium heat and bring to a simmer.&nbsp; Add potatoes and remaining corn and bell peppers and simmer, uncovered, until potatoes are soft when pierced with a fork, about 15 minutes.&nbsp; Pour in milk, stir well and return to a simmer.&nbsp; Season to taste with salt and pepper."
+    },
+    {
+      "_id": "675581f6a572f7fd9ca06515",
+      "step": "Ladle into bowls and garnish."
+    }
+  ],
+  "__v": 17
+}

@@ -1,0 +1,54 @@
+{
+  "yield": {
+    "amount": 4,
+    "label": "cups"
+  },
+  "source": {
+    "name": "Culinary Institute of America"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "67707b4841d119070e7d857b",
+  "label": "Yogurt Cheese",
+  "slug": "yogurt-cheese",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897907",
+          "label": "quart(s)"
+        }
+      },
+      "_id": "67707b4a41d119070e7d857c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707b6641d119070e7d857d",
+        "label": "yogurt",
+        "slug": "yogurt",
+        "__v": 0
+      },
+      "notes": "plain"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67707b7a41d119070e7d857e",
+      "step": "Place 1 quart plain yogurt in a cheesecloth-lined sieve in a bowl deep enough to allow 1 inch between bottom of sieve and bottom of bowl. Fold cheesecloth over the top and place a small weight on the yogurt. Refrigerate and let drain overnight."
+    }
+  ],
+  "__v": 4
+}

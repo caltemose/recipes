@@ -1,0 +1,95 @@
+{
+  "yield": {
+    "amount": 1,
+    "label": "unit"
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "67ae806441d119070e7d88f2",
+  "label": "Goat Cheese and Olive Filling",
+  "slug": "goat-cheese-and-olive-filling",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67ae806841d119070e7d88f3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799751041d119070e7d889b",
+        "label": "black olives",
+        "slug": "black-olives",
+        "__v": 0
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 7,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67ae807841d119070e7d88f4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae808941d119070e7d88f5",
+        "label": "goat cheese",
+        "slug": "goat-cheese",
+        "__v": 0
+      },
+      "notes": "soft"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "67ae809441d119070e7d88f6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "crushed"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ae80a841d119070e7d88f7",
+      "step": "Mix and stuff into pimientos."
+    }
+  ],
+  "__v": 7
+}

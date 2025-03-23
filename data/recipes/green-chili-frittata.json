@@ -1,0 +1,185 @@
+{
+  "serves": {
+    "amount": 8
+  },
+  "source": {
+    "name": "Cael's mom"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d409c0836b893a9a14c93",
+      "label": "breakfast",
+      "slug": "breakfast",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "6778652141d119070e7d8602",
+  "label": "Green Chili Frittata",
+  "slug": "green-chili-frittata",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6778652741d119070e7d8603",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6778653341d119070e7d8604",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f2",
+        "label": "baking powder",
+        "name": "baking powder"
+      }
+    },
+    {
+      "amount": {
+        "value": 10,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6778654141d119070e7d8605",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "lightly beaten"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6778655041d119070e7d8606",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": "melted"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6778656041d119070e7d8607",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6778657341d119070e7d8608",
+        "label": "cottage cheese",
+        "slug": "cottage-cheese",
+        "__v": 0
+      },
+      "notes": "small curd"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6778658041d119070e7d8609",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677865cf41d119070e7d860b",
+        "label": "monterey jack cheese",
+        "slug": "monterey-jack-cheese",
+        "__v": 0
+      },
+      "notes": "grated"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "677727a041d119070e7d85e1",
+          "label": "can(s)",
+          "slug": "can-s",
+          "__v": 0
+        }
+      },
+      "_id": "677865de41d119070e7d860c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677865f841d119070e7d860d",
+        "label": "green chilies",
+        "slug": "green-chilies",
+        "__v": 0
+      },
+      "notes": "diced, 12-ounce can"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "6778662441d119070e7d860f",
+          "label": "dash",
+          "slug": "dash",
+          "__v": 0
+        }
+      },
+      "_id": "6778661841d119070e7d860e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6778663041d119070e7d8610",
+      "step": "Preheat oven to 350 degrees. Butter a 13-x baking dish. Mix flour and baking powder. Add eggs and butter; blend well. Mix in remaining ingredients and add salt to taste. Put mixture in dish and bake 35-45 minutes or until set (requires 1 hour plus to firm up). Serve hot or cold."
+    },
+    {
+      "_id": "6778663f41d119070e7d8611",
+      "step": "The green chilies are really good but you can put any mixture of goodies in the frittata."
+    }
+  ],
+  "__v": 13
+}

@@ -1,115 +1,132 @@
 {
+  "yield": {
+    "amount": 2,
+    "label": "cups"
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
   "active": true,
   "core": false,
-  "tags": [],
-  "_id": "5a497241277bd9fe34f72b9d",
-  "__v": 10,
-  "directions": [
+  "tags": [
     {
-      "_id": "5a497284277bd9fe34f72ba3",
-      "step": "Rinse the chickpeas under cold water. Dry well (salad spinner + paper towels, etc)."
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
     },
     {
-      "_id": "5a4972ab277bd9fe34f72ba4",
-      "step": "Toss the chickpeas with oil and salt. Place on a sheet pan."
-    },
-    {
-      "_id": "5a4972c2277bd9fe34f72ba5",
-      "step": "Put the pan in a cold oven and turn the oven to 350F."
-    },
-    {
-      "_id": "5a4972da277bd9fe34f72ba6",
-      "step": "Turn the oven off after 30 minutes and leave the chickpeas in the oven for another hour."
-    },
-    {
-      "_id": "5a497305277bd9fe34f72ba7",
-      "step": "Toss the chickpeas with sumac and cayenne. Cool completely before storing."
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
     }
   ],
+  "_id": "678059e641d119070e7d86a4",
+  "label": "Crispy Chickpeas",
+  "slug": "crispy-chickpeas",
   "ingredients": [
     {
       "amount": {
+        "value": 2,
         "unit": {
-          "_id": "596e4ec3b9f4af86168978f7",
-          "label": "ounce(s)"
-        },
-        "value": 30
+          "_id": "677727a041d119070e7d85e1",
+          "label": "can(s)",
+          "slug": "can-s",
+          "__v": 0
+        }
       },
-      "_id": "5a497244277bd9fe34f72b9e",
+      "_id": "678059eb41d119070e7d86a5",
+      "type": "Ingredient",
       "item": {
         "_id": "5375ec34471e3f9e45e76708",
         "label": "chickpeas",
         "name": "chickpeas"
       },
-      "notes": "two 15-ounce cans (cooked)",
-      "type": "Ingredient"
+      "notes": "30 oz total"
     },
     {
       "amount": {
+        "value": 1,
         "unit": {
           "_id": "596e4ec3b9f4af86168978fb",
           "label": "tablespoon(s)"
-        },
-        "value": 2
+        }
       },
-      "_id": "5a49725d277bd9fe34f72b9f",
+      "_id": "67805a0041d119070e7d86a6",
+      "type": "Ingredient",
       "item": {
         "_id": "5375ec34471e3f9e45e7672e",
         "label": "olive oil",
         "name": "olive oil"
-      },
-      "type": "Ingredient"
+      }
     },
     {
       "amount": {
+        "value": 1,
         "unit": {
           "_id": "596e4ec3b9f4af86168978fa",
           "label": "teaspoon(s)"
-        },
-        "value": 1
+        }
       },
-      "_id": "5a497265277bd9fe34f72ba0",
+      "_id": "67805a0e41d119070e7d86a7",
+      "type": "Ingredient",
       "item": {
         "_id": "5375ec34471e3f9e45e76748",
         "label": "salt",
         "name": "salt"
-      },
-      "type": "Ingredient"
+      }
     },
     {
       "amount": {
+        "value": 1,
         "unit": {
           "_id": "596e4ec3b9f4af86168978fa",
           "label": "teaspoon(s)"
-        },
-        "value": 1
+        }
       },
-      "_id": "5a497273277bd9fe34f72ba1",
+      "_id": "67805a5141d119070e7d86a8",
+      "type": "Ingredient",
       "item": {
         "_id": "5a497237277bd9fe34f72b9c",
         "label": "sumac",
         "slug": "sumac",
         "__v": 0
-      },
-      "type": "Ingredient"
+      }
     },
     {
       "amount": {
+        "value": 0.5,
         "unit": {
           "_id": "596e4ec3b9f4af86168978fa",
           "label": "teaspoon(s)"
-        },
-        "value": 0.25
+        }
       },
-      "_id": "5a49727b277bd9fe34f72ba2",
+      "_id": "67805a5941d119070e7d86a9",
+      "type": "Ingredient",
       "item": {
         "_id": "5375ec34471e3f9e45e76704",
         "label": "cayenne pepper",
         "name": "cayenne pepper"
-      },
-      "type": "Ingredient"
+      }
     }
   ],
-  "label": "Crispy Chickpeas",
-  "slug": "crispy-chickpeas"
+  "directions": [
+    {
+      "_id": "67805b5941d119070e7d86aa",
+      "step": "Rinse the chickpeas under cold water in a salad spinner. Drain, then spin to dry even more. Move to a paper-towel-lined half sheet pan. Top with another layer of paper towels, roll up and pat to dry even more."
+    },
+    {
+      "_id": "67805b6241d119070e7d86ab",
+      "step": "Remove paper towels from sheet pan and toss the chickpeas with olive oil and salt. Put the pan with chickpeas in a cold over, set a timer for 30 minutes, and crank the oven to 350 degrees F."
+    },
+    {
+      "_id": "67805b6a41d119070e7d86ac",
+      "step": "Turn the oven off and leave the chickpeas inside to dry and become crispy, about 1 hour."
+    },
+    {
+      "_id": "67805b7241d119070e7d86ad",
+      "step": "Toss the still-warm chickpeas with the sumac and cayenne pepper. Cool completely before storing."
+    }
+  ],
+  "__v": 11
 }

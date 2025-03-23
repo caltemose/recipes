@@ -9,6 +9,11 @@
       "label": "Jerk Seasoning",
       "_id": "53552cce85da3d10277f568c",
       "slug": "jerk-seasoning"
+    },
+    {
+      "label": "Taco Seasoning",
+      "_id": "67ba4f8e41d119070e7d89d0",
+      "slug": "taco-seasoning"
     }
   ],
   "tag": {

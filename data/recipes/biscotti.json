@@ -16,10 +16,16 @@
       "label": "cookies",
       "slug": "cookies",
       "__v": 0
+    },
+    {
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
+      "__v": 0
     }
   ],
   "_id": "5a36df0cb1cb7881b05b0082",
-  "__v": 20,
+  "__v": 21,
   "directions": [
     {
       "_id": "5a36df77b1cb7881b05b008c",

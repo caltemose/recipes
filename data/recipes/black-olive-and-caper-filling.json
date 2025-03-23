@@ -1,0 +1,99 @@
+{
+  "yield": {
+    "amount": 1,
+    "label": "unit for 24 cherry tomatoes"
+  },
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "67b9106941d119070e7d894f",
+  "label": "Black Olive and Caper Filling",
+  "slug": "black-olive-and-caper-filling",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 12,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67b9106b41d119070e7d8950",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799751041d119070e7d889b",
+        "label": "black olives",
+        "slug": "black-olives",
+        "__v": 0
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67b9107e41d119070e7d8951",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76702",
+        "label": "capers",
+        "name": "capers"
+      },
+      "notes": "finely chopped"
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67b9109541d119070e7d8952",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae7c8441d119070e7d88d0",
+        "label": "aioli",
+        "slug": "aioli",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67b910bd41d119070e7d8953",
+      "step": "mix ingredients together as a filling for stuffed cherry tomatoes"
+    }
+  ],
+  "__v": 8
+}

@@ -1,0 +1,117 @@
+{
+  "yield": {
+    "amount": 40,
+    "label": "crackers"
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "67805d1141d119070e7d86c7",
+  "label": "Hot Saltine Hack",
+  "slug": "hot-saltine-hack",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67805d1441d119070e7d86c8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": "clarified"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67805d2041d119070e7d86c9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67805d3041d119070e7d86ca",
+        "label": "hot sauce",
+        "slug": "hot-sauce",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "67805d3941d119070e7d86cb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67805d4c41d119070e7d86cc",
+        "label": "mustard powder",
+        "slug": "mustard-powder",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "67805d6241d119070e7d86ce",
+          "label": "sleeve",
+          "slug": "sleeve",
+          "__v": 0
+        }
+      },
+      "_id": "67805d5541d119070e7d86cd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76749",
+        "label": "Saltine crackers",
+        "name": "saltine crackers"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67805e4941d119070e7d86cf",
+      "step": "Heat oven to 350 degrees F."
+    },
+    {
+      "_id": "67805e5241d119070e7d86d0",
+      "step": "Whisk butter, hot sauce and dry mustard together in a large mixing bowl Add the saltines and toss to coat."
+    },
+    {
+      "_id": "67805e5c41d119070e7d86d1",
+      "step": "Spread the crackers on a half sheet pan."
+    },
+    {
+      "_id": "67805e6041d119070e7d86d2",
+      "step": "Bake for 8-10 minutes, until saltines just start to brown."
+    }
+  ],
+  "__v": 10
+}

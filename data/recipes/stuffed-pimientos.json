@@ -1,0 +1,139 @@
+{
+  "source": {
+    "name": "Williams-Sonoma Tapas cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "67bb212841d119070e7d8a0d",
+      "label": "pescatarian",
+      "slug": "pescatarian",
+      "__v": 0
+    }
+  ],
+  "_id": "67ae7cf241d119070e7d88d5",
+  "label": "Stuffed Pimientos",
+  "slug": "stuffed-pimientos",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 6.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "67ae7d5141d119070e7d88d6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae7d7241d119070e7d88d7",
+        "label": "pimientos del piquillo",
+        "slug": "pimientos-del-piquillo",
+        "__v": 0
+      },
+      "notes": "canned, whole, or substitute pappadew"
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790c",
+          "label": "sprig(s)"
+        }
+      },
+      "_id": "67ae7db541d119070e7d88d8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707f1a41d119070e7d85a7",
+        "label": "fresh herbs",
+        "slug": "fresh-herbs",
+        "__v": 0
+      },
+      "notes": "to garnish"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ae7e1b41d119070e7d88dc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae7dfd41d119070e7d88d9",
+        "label": "curd cheese and herb filling",
+        "slug": "curd-cheese-and-herb-filling",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ae7e2641d119070e7d88dd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae7e0841d119070e7d88da",
+        "label": "tuna mayonnaise filling",
+        "slug": "tuna-mayonnaise-filling",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "67ae7e2f41d119070e7d88de",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae7e1341d119070e7d88db",
+        "label": "goat cheese and olive filling",
+        "slug": "goat-cheese-and-olive-filling",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67ae7eb541d119070e7d88df",
+      "step": "Prepare preferred filling by mixing all ingredients well."
+    },
+    {
+      "_id": "67ae7eb541d119070e7d88e0",
+      "step": "Using a teaspoon, heap the filling of your choice into each pimiento. Put in the refrigerator and let chill for at least 2 hours until firm."
+    },
+    {
+      "_id": "67ae7ec541d119070e7d88e1",
+      "step": "To serve, arrange peppers on a serving plate and garnish with herb sprigs."
+    }
+  ],
+  "__v": 12
+}

@@ -1,0 +1,81 @@
+{
+  "serves": {
+    "amount": 6
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "67898b8341d119070e7d8712",
+  "label": "Couscous - Stovetop",
+  "slug": "couscous-stovetop",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "67898b8541d119070e7d8713",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898b8f41d119070e7d8714",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677726b141d119070e7d85d7",
+        "label": "broth",
+        "slug": "broth",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "67898b9641d119070e7d8715",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670f",
+        "label": "couscous",
+        "name": "couscous"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "67898ba041d119070e7d8716",
+      "step": "Melt butter in a medium saucepan. Stir in couscous, cover pan and remove from heat. Let stand for 5 minutes and check to see if all liquid has been absorbed. If not, cover and let stand a few more minutes."
+    }
+  ],
+  "__v": 6
+}

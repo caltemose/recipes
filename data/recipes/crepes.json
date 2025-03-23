@@ -1,0 +1,137 @@
+{
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "677868b541d119070e7d862e",
+  "label": "Crepes",
+  "slug": "crepes",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "677868be41d119070e7d862f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      },
+      "notes": "cold"
+    },
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "677868c941d119070e7d8630",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": "cold"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "677868d641d119070e7d8631",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707cc541d119070e7d858c",
+        "label": "egg yolks",
+        "slug": "egg-yolks",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "677868e041d119070e7d8632",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "677868e841d119070e7d8633",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      }
+    },
+    {
+      "amount": {
+        "value": 5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "677868f141d119070e7d8634",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": "melted"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6778690841d119070e7d8635",
+      "step": "Put liquids, eggs and salt into blender jar. Add flour then butter. Cover and blend at top speed for 1 minute. If bits of flour adhere to side of jar, dislodge with a scraper and blend for 2-3 seconds more. Cover and refrigerate for at least 2 hours."
+    },
+    {
+      "_id": "6778691041d119070e7d8636",
+      "step": "The batter should be a very light cream, just thick enough to coat a wooden spoon. If, after making your first crepe, it seems too heavy, beat in a bit of water, a spoonful at a time. Your cooked crepe should be about 1/16 inch thick."
+    },
+    {
+      "_id": "6778691a41d119070e7d8637",
+      "step": "Place cooked crepe on serving dish. Cover with wax paper and a top lid to keep crepes from drying out."
+    }
+  ],
+  "__v": 11
+}

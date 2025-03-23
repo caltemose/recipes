@@ -4,7 +4,13 @@
   },
   "active": true,
   "core": false,
-  "tags": [],
+  "tags": [
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
   "_id": "53552cce85da3d10277f5690",
   "slug": "mushroom-risotto",
   "label": "Mushroom Risotto",
@@ -267,5 +273,5 @@
       "notes": ""
     }
   ],
-  "__v": 0
+  "__v": 1
 }

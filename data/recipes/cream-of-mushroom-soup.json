@@ -1,0 +1,184 @@
+{
+  "source": {
+    "name": "family recipe"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "6777253f41d119070e7d85c2",
+  "label": "Cream of Mushroom Soup",
+  "slug": "cream-of-mushroom-soup",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6777254341d119070e7d85c3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672c",
+        "label": "mushrooms",
+        "name": "mushrooms"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6777255c41d119070e7d85c4",
+      "type": "Ingredient",
+      "notes": "chopped",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76730",
+        "label": "onion(s)",
+        "name": "onion(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6777257541d119070e7d85c5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6777258141d119070e7d85c6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6777258f41d119070e7d85c7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677726b141d119070e7d85d7",
+        "label": "broth",
+        "slug": "broth",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "677725a741d119070e7d85c8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6777242c41d119070e7d85b3",
+        "label": "half and half",
+        "slug": "half-and-half",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "677725ba41d119070e7d85c9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "677725c641d119070e7d85ca",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76737",
+        "label": "pepper",
+        "name": "pepper"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "677725d741d119070e7d85cb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672d",
+        "label": "nutmeg",
+        "name": "nutmeg"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "677725eb41d119070e7d85cc",
+      "step": "Slice mushrooms through cap and stem; cook with onion in butter 5 minutes. Add flour and blend; add stock. Cook and stir till slightly thickened. Cool slightly; add cream and seasonings. Heat through; serve at once."
+    }
+  ],
+  "__v": 13
+}
