@@ -1,0 +1,177 @@
+{
+  "source": {
+    "name": "The Glorious Pasta of Italy"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "6851ebfa32ecade4c7b8ae0d",
+  "label": "Lasagna Verde alla Bolognese",
+  "slug": "lasagna-verde-alla-bolognese",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "6850a80532ecade4c7b8ad9f",
+          "label": "batch",
+          "slug": "batch",
+          "__v": 0
+        }
+      },
+      "_id": "6851ebff32ecade4c7b8ae0e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6851ec1832ecade4c7b8ae0f",
+        "label": "spinach pasta dough",
+        "slug": "spinach-pasta-dough",
+        "__v": 0
+      },
+      "notes": "cut into lasagna noodles"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6851ec2b32ecade4c7b8ae10",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6851ec4b32ecade4c7b8ae11",
+        "label": "ragu alla bolognese",
+        "slug": "ragu-alla-bolognese",
+        "__v": 0
+      },
+      "notes": "4-6 cups, heated to a simmer"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "6850a80532ecade4c7b8ad9f",
+          "label": "batch",
+          "slug": "batch",
+          "__v": 0
+        }
+      },
+      "_id": "6851ec6032ecade4c7b8ae12",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6851ec6f32ecade4c7b8ae14",
+        "label": "bechamel sauce",
+        "slug": "bechamel-sauce",
+        "__v": 0
+      },
+      "notes": "heated to a simmer"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6851ec6032ecade4c7b8ae13",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672b",
+        "label": "mozzarella",
+        "name": "mozzarella"
+      },
+      "notes": "2-3 balls, 8 oz each, thinly sliced"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6851ec9832ecade4c7b8ae16",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76733",
+        "label": "parmeggiano",
+        "name": "parmeggiano"
+      },
+      "notes": "grated"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6851eca732ecade4c7b8ae17",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6851ecf632ecade4c7b8ae18",
+      "step": "Spread a clean tablecloth or several clean tea towels on a clean flat surface near the stove.&nbsp; Have ready the uncooked pasta, ragu, béchamel, and mozzarella and parmesan cheeses. Place a large bowl filled with ice water near the stove for briefly immersing the cooked lasagne noodles to remove excess starch."
+    },
+    {
+      "_id": "6851ecf632ecade4c7b8ae19",
+      "step": "Heat the oven to 375 degrees F. Lightly coat a 9x13 baking dish with the butter."
+    },
+    {
+      "_id": "6851ed1032ecade4c7b8ae1a",
+      "step": "Bring a large pot of water to a rolling boil and salt generously. Carefully drop in 4 or 5 noodles, taking care not to crowd the pot. Boil the pasta for about 1 minute; fresh pasta cooks quickly and the noodles should be slightly underdone."
+    },
+    {
+      "_id": "6851ed1032ecade4c7b8ae1b",
+      "step": "Use a large skimmer to remove the noodles from the pot and gently immerse them in the bowl of ice water. Use the skimmer to remove the noodles; let them drip and the spread them on the clean towels. Continue to cook, cool and spread out the noodles until you have cooked all of them."
+    },
+    {
+      "_id": "6851ed2932ecade4c7b8ae1c",
+      "step": "Spread a ladleful of ragu and a little of the béchamel sauce in the bottom of the prepared baking dish. Arrange a single layer of noodles over the sauce. Spread just enough ragu over the pasta to cover it, and spread a little of the béchamel on top of the sauce. Lay slices of mozzarella in a single layer over the top and sprinkler with a little parmesan."
+    },
+    {
+      "_id": "6851ed2932ecade4c7b8ae1d",
+      "step": "Continue to layer the pasta, sauces, and cheeses until you have at least five layers of each ingredient, ending with a layer of pasta and reserving a little ragu and parmesan for the top."
+    },
+    {
+      "_id": "6851ed4132ecade4c7b8ae1e",
+      "step": "Spread a thin layer of sauce over the pasta and sprinkle the parmesan on top.&nbsp; Cover the dish with aluminum foil."
+    },
+    {
+      "_id": "6851ed4132ecade4c7b8ae1f",
+      "step": "Bake for 15-20 minutes. Uncover and bake for an additional 10-15 minutes or until it is bubbling and the top is golden. Let stand for 5-10 minutes before serving."
+    },
+    {
+      "_id": "6851ed5832ecade4c7b8ae20",
+      "step": "The lasagne may be assembled and stored, unbaked, in the fridge for up to 2 days or in the freezer for up to 1 month. If frozen, let it thaw overnight in the fridge. Bring to room temperature before baking."
+    },
+    {
+      "_id": "6851ed6732ecade4c7b8ae21",
+      "step": "If you do not want to make homemade spinach pasta dough and stretch it into sheet, you can substitute store-bough pasta sheets, available at gourmet food shops, Italian food stores, and well-stocked supermarkets, and cut them into lasagne noodles."
+    }
+  ],
+  "__v": 18
+}

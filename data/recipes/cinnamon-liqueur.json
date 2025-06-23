@@ -1,0 +1,130 @@
+{
+  "yield": {
+    "label": "750 ml bottles"
+  },
+  "source": {
+    "name": "Vincent Schiavelli"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "68569e6b32ecade4c7b8afda",
+  "label": "Cinnamon Liqueur",
+  "slug": "cinnamon-liqueur",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 9,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "68569e6d32ecade4c7b8afdb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68572f7832ecade4c7b8b010",
+        "label": "cinnamon stick(s)",
+        "slug": "cinnamon-stick-s",
+        "__v": 0
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 4.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569e7732ecade4c7b8afdc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68569da632ecade4c7b8afd0",
+        "label": "190-proof alcohol",
+        "slug": "190-proof-alcohol",
+        "__v": 0
+      },
+      "notes": "everclear"
+    },
+    {
+      "amount": {
+        "value": 4.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569e8532ecade4c7b8afdd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569e9032ecade4c7b8afde",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "68569e9832ecade4c7b8afdf",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a1c41d119070e7d856b",
+        "label": "ground cinnamon",
+        "slug": "ground-cinnamon",
+        "__v": 0
+      },
+      "notes": "for each bottle"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "68569eab32ecade4c7b8afe0",
+      "step": "Place the alcohol in a mason jar. Break the cinnamon sticks, cover with alcohol and macerate for 30 days under a tight lid."
+    },
+    {
+      "_id": "68569eb132ecade4c7b8afe1",
+      "step": "Sterilize the bottles. Strain the alcohol and add to the sugar water. Put a pinch of ground cinnamon in each bottle."
+    },
+    {
+      "_id": "68569eb832ecade4c7b8afe2",
+      "step": "Turn the bottle upside down a couple of times to distribute the ground cinnamon before serving. This liqueur is about 100 proof."
+    }
+  ],
+  "__v": 10
+}

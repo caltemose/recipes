@@ -20,6 +20,12 @@
       "label": "cookies",
       "slug": "cookies",
       "__v": 0
+    },
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
     }
   ],
   "_id": "67898d5e41d119070e7d8726",
@@ -190,7 +196,7 @@
     },
     {
       "amount": {
-        "value": 0.3,
+        "value": 0.33,
         "unit": {
           "_id": "596e4ec3b9f4af86168978f9",
           "label": "cup(s)"
@@ -219,5 +225,5 @@
       "step": "Drop the batter in rounded tablespoons onto the cooking sheets. Bake for 15-20 minutes, reversing the cookies sheets once halfway through the cooking time. Remove cookies to a rack to cool."
     }
   ],
-  "__v": 16
+  "__v": 17
 }

@@ -7,6 +7,12 @@
       "__v": 0
     },
     {
+      "_id": "68575b9632ecade4c7b8b01a",
+      "label": "brazilian",
+      "slug": "brazilian",
+      "__v": 0
+    },
+    {
       "_id": "5a3d3f5e0836b893a9a14c8e",
       "label": "bread",
       "slug": "bread",
@@ -37,15 +43,45 @@
       "__v": 0
     },
     {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
       "_id": "5a3d3eb20836b893a9a14c8b",
       "label": "ethiopian",
       "slug": "ethiopian",
       "__v": 0
     },
     {
+      "_id": "6857431432ecade4c7b8b015",
+      "label": "french",
+      "slug": "french",
+      "__v": 0
+    },
+    {
+      "_id": "685746bc32ecade4c7b8b018",
+      "label": "frenchf",
+      "slug": "frenchf",
+      "__v": 0
+    },
+    {
+      "_id": "685748e232ecade4c7b8b019",
+      "label": "indian",
+      "slug": "indian",
+      "__v": 0
+    },
+    {
       "_id": "5a47b43b277bd9fe34f72b7d",
       "label": "italian",
       "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "68575d4b32ecade4c7b8b01b",
+      "label": "jamaican",
+      "slug": "jamaican",
       "__v": 0
     },
     {
@@ -61,15 +97,39 @@
       "__v": 0
     },
     {
+      "_id": "6857422532ecade4c7b8b014",
+      "label": "mediterranean",
+      "slug": "mediterranean",
+      "__v": 0
+    },
+    {
+      "_id": "6857419832ecade4c7b8b012",
+      "label": "mexican",
+      "slug": "mexican",
+      "__v": 0
+    },
+    {
       "_id": "67bb212841d119070e7d8a0d",
       "label": "pescatarian",
       "slug": "pescatarian",
       "__v": 0
     },
     {
+      "_id": "685743fc32ecade4c7b8b016",
+      "label": "portuguese",
+      "slug": "portuguese",
+      "__v": 0
+    },
+    {
       "_id": "5a3d3f160836b893a9a14c8c",
       "label": "salad",
       "slug": "salad",
+      "__v": 0
+    },
+    {
+      "_id": "6857447f32ecade4c7b8b017",
+      "label": "sauce",
+      "slug": "sauce",
       "__v": 0
     },
     {
@@ -82,6 +142,12 @@
       "_id": "597784d0e3f0716170504990",
       "label": "soup",
       "slug": "soup"
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
     },
     {
       "_id": "5a47b2d7277bd9fe34f72b6d",
@@ -111,6 +177,12 @@
       "_id": "597784abe3f0716170504982",
       "label": "vegetarian",
       "slug": "vegetarian"
+    },
+    {
+      "_id": "685760bc32ecade4c7b8b01c",
+      "label": "vietnamese",
+      "slug": "vietnamese",
+      "__v": 0
     },
     {
       "_id": "5977849de3f0716170504979",

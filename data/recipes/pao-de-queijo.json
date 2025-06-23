@@ -16,6 +16,18 @@
       "_id": "597784abe3f0716170504982",
       "label": "vegetarian",
       "slug": "vegetarian"
+    },
+    {
+      "_id": "68575b9632ecade4c7b8b01a",
+      "label": "brazilian",
+      "slug": "brazilian",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d3f5e0836b893a9a14c8e",
+      "label": "bread",
+      "slug": "bread",
+      "__v": 0
     }
   ],
   "_id": "67ba50d641d119070e7d89dc",
@@ -119,7 +131,7 @@
         "label": "mozzarella",
         "name": "mozzarella"
       },
-      "notes": "shredded"
+      "notes": "shredded, can substitute sharp cheddar"
     },
     {
       "amount": {
@@ -167,7 +179,7 @@
     },
     {
       "_id": "67ba51a141d119070e7d89e8",
-      "step": "Add the tapioca flour to the bowl of a stand mixer and, once the milk mixture boils, pour it over the flour. Turn the mixer on and mix well. The texture will be fondant-like, really white and sticky."
+      "step": "Add the tapioca flour to the bowl of a stand mixer and, once the milk mixture boils, pour it over the flour. Turn the mixer on and mix well. The texture will be fondant-like, really white and sticky. Let the mixture cool."
     },
     {
       "_id": "67ba51b241d119070e7d89e9",
@@ -179,7 +191,7 @@
     },
     {
       "_id": "67ba51c441d119070e7d89eb",
-      "step": "The dough is supposed to be soft and sticky. However, if you’re worried it’s too liquid, add some more tapioca flour. Just don’t overdo it or your cheese bread will be tough and not too gooey."
+      "step": "The dough is supposed to be soft and sticky. However, if you’re worried it’s too liquid, add some more tapioca flour. Just don’t overdo it or your cheese bread will be tough and not too gooey. If there is leftover flour, don't force it to incorporate or the bread will taste floury."
     },
     {
       "_id": "67ba51d041d119070e7d89ec",
@@ -187,16 +199,16 @@
     },
     {
       "_id": "67ba51dc41d119070e7d89ed",
-      "step": "Place the balls on a baking sheet covered with parchment paper and bring it to the preheated oven."
+      "step": "Place the balls on a baking sheet covered with parchment paper and bring it to the preheated oven. (My other recipe didn't use parchment paper and it was fine.)"
     },
     {
       "_id": "67ba51e641d119070e7d89ee",
-      "step": "Bake for 15-20 minutes or until they are golden and puffed."
+      "step": "Bake for 15-20 minutes or until they are golden and puffed. (My other recipe bakes for 30-35 minutes.)"
     },
     {
       "_id": "67ba51ef41d119070e7d89ef",
       "step": "Serve warm."
     }
   ],
-  "__v": 20
+  "__v": 22
 }

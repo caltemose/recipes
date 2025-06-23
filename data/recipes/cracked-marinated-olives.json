@@ -24,6 +24,17 @@
       "_id": "597784abe3f0716170504982",
       "label": "vegetarian",
       "slug": "vegetarian"
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
     }
   ],
   "_id": "67b911b841d119070e7d895d",
@@ -185,5 +196,5 @@
       "step": "Let the olives stand at room temperature for 24 hours, then marinate in the fridge for at least 1 week but preferably 2 weeks before serving. From time to time, gently give the jar a shake to remix the ingredients. Return the olives to room temperature and remove from the oil to serve."
     }
   ],
-  "__v": 14
+  "__v": 16
 }

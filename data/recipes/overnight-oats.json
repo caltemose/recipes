@@ -19,6 +19,11 @@
       "label": "breakfast",
       "slug": "breakfast",
       "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
     }
   ],
   "_id": "67786b5941d119070e7d8638",
@@ -180,8 +185,10 @@
       "amount": {
         "value": 1,
         "unit": {
-          "_id": "596e4ec3b9f4af8616897901",
-          "label": "unit(s)"
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
         }
       },
       "_id": "67786c3341d119070e7d8647",
@@ -198,8 +205,10 @@
       "amount": {
         "value": 1,
         "unit": {
-          "_id": "596e4ec3b9f4af8616897901",
-          "label": "unit(s)"
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
         }
       },
       "_id": "67786c5641d119070e7d8649",
@@ -227,5 +236,5 @@
       "step": "Serve in the jar, topped with coconut and/or almonds."
     }
   ],
-  "__v": 16
+  "__v": 17
 }

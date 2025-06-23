@@ -23,6 +23,12 @@
       "_id": "5977849de3f0716170504979",
       "label": "whole 30",
       "slug": "whole-30"
+    },
+    {
+      "_id": "5a3d3f160836b893a9a14c8c",
+      "label": "salad",
+      "slug": "salad",
+      "__v": 0
     }
   ],
   "_id": "6799746041d119070e7d8891",
@@ -187,5 +193,5 @@
       "step": "Sprinkle the capers, olives and chopped marjoram over the salad, garnish with marjoram sprigs, and serve at room temperature."
     }
   ],
-  "__v": 16
+  "__v": 17
 }

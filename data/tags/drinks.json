@@ -1,0 +1,125 @@
+{
+  "recipes": [
+    {
+      "label": "Orange-Ginger Sherbet",
+      "_id": "6855d72932ecade4c7b8af15",
+      "slug": "orange-ginger-sherbet"
+    },
+    {
+      "label": "Mango Ginger Mocktail",
+      "_id": "6855d81232ecade4c7b8af20",
+      "slug": "mango-ginger-mocktail"
+    },
+    {
+      "label": "Mango Lemonade",
+      "_id": "6855d8e432ecade4c7b8af2b",
+      "slug": "mango-lemonade"
+    },
+    {
+      "label": "Basil-Ginger Herbal Tea",
+      "_id": "6855d94f32ecade4c7b8af33",
+      "slug": "basil-ginger-herbal-tea"
+    },
+    {
+      "label": "Pomegranate Tea",
+      "_id": "6855d9aa32ecade4c7b8af3a",
+      "slug": "pomegranate-tea"
+    },
+    {
+      "label": "Spicy-Sour Drink",
+      "_id": "6855da6532ecade4c7b8af45",
+      "slug": "spicy-sour-drink"
+    },
+    {
+      "label": "Pomegranate and Black Tea (Sweet Adeline)",
+      "_id": "6855db6332ecade4c7b8af54",
+      "slug": "pomegranate-and-black-tea-sweet-adeline"
+    },
+    {
+      "label": "Cinnamon Simple Syrup",
+      "_id": "6855dbf232ecade4c7b8af5a",
+      "slug": "cinnamon-simple-syrup"
+    },
+    {
+      "label": "Agua Fresca",
+      "_id": "6856961732ecade4c7b8af5f",
+      "slug": "agua-fresca"
+    },
+    {
+      "label": "Cafe de Olla",
+      "_id": "685696e232ecade4c7b8af67",
+      "slug": "cafe-de-olla"
+    },
+    {
+      "label": "Sangria",
+      "_id": "6856978c32ecade4c7b8af6f",
+      "slug": "sangria"
+    },
+    {
+      "label": "Fiery Ginger Ale Concentrate",
+      "_id": "6856980c32ecade4c7b8af7a",
+      "slug": "fiery-ginger-ale-concentrate"
+    },
+    {
+      "label": "Bad Day Bitter Martini",
+      "_id": "685698c632ecade4c7b8af84",
+      "slug": "bad-day-bitter-martini"
+    },
+    {
+      "label": "Smoky Tequila Sour",
+      "_id": "685699db32ecade4c7b8af8f",
+      "slug": "smoky-tequila-sour"
+    },
+    {
+      "label": "Preserved Lemons-Ade",
+      "_id": "68569a8b32ecade4c7b8af9c",
+      "slug": "preserved-lemons-ade"
+    },
+    {
+      "label": "Barley Water",
+      "_id": "68569b9e32ecade4c7b8afb1",
+      "slug": "barley-water"
+    },
+    {
+      "label": "Thai Iced Tea",
+      "_id": "68569c0f32ecade4c7b8afbb",
+      "slug": "thai-iced-tea"
+    },
+    {
+      "label": "Coffee Liqueur",
+      "_id": "68569d7532ecade4c7b8afcd",
+      "slug": "coffee-liqueur"
+    },
+    {
+      "label": "Cinnamon Liqueur",
+      "_id": "68569e6b32ecade4c7b8afda",
+      "slug": "cinnamon-liqueur"
+    },
+    {
+      "label": "Walnut Liqueur",
+      "_id": "68569eef32ecade4c7b8afe3",
+      "slug": "walnut-liqueur"
+    },
+    {
+      "label": "Strawberry-Thyme Prosecco",
+      "_id": "68569f7e32ecade4c7b8afed",
+      "slug": "strawberry-thyme-prosecco"
+    },
+    {
+      "label": "Ginger-Mint Masala Chai",
+      "_id": "68569ff832ecade4c7b8aff4",
+      "slug": "ginger-mint-masala-chai"
+    },
+    {
+      "label": "Indian Chai Latte",
+      "_id": "6856a0a932ecade4c7b8b001",
+      "slug": "indian-chai-latte"
+    }
+  ],
+  "tag": {
+    "_id": "6855d79f32ecade4c7b8af1f",
+    "label": "drinks",
+    "slug": "drinks",
+    "__v": 0
+  }
+}

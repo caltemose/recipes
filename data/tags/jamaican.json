@@ -1,0 +1,15 @@
+{
+  "recipes": [
+    {
+      "label": "Red Pea Soup",
+      "_id": "53887f232bd7f0c2cd000005",
+      "slug": "red-pea-soup"
+    }
+  ],
+  "tag": {
+    "_id": "68575d4b32ecade4c7b8b01b",
+    "label": "jamaican",
+    "slug": "jamaican",
+    "__v": 0
+  }
+}

@@ -16,10 +16,15 @@
       "label": "thai",
       "slug": "thai",
       "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
     }
   ],
   "_id": "5a4977c4277bd9fe34f72bba",
-  "__v": 15,
+  "__v": 16,
   "directions": [
     {
       "_id": "5a49784f277bd9fe34f72bc4",

@@ -1,0 +1,129 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "The Indian Vegan Kitchen"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "685748e232ecade4c7b8b019",
+      "label": "indian",
+      "slug": "indian",
+      "__v": 0
+    }
+  ],
+  "_id": "6855d8e432ecade4c7b8af2b",
+  "label": "Mango Lemonade",
+  "slug": "mango-lemonade",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855d8e732ecade4c7b8af2c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.33,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855d8ee32ecade4c7b8af2d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc53341d119070e7d8792",
+        "label": "lime juice",
+        "slug": "lime-juice",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.33,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855d8fa32ecade4c7b8af2e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855d90432ecade4c7b8af2f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6855d82832ecade4c7b8af22",
+        "label": "mango nectar",
+        "slug": "mango-nectar",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790c",
+          "label": "sprig(s)"
+        }
+      },
+      "_id": "6855d90c32ecade4c7b8af30",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672a",
+        "label": "mint",
+        "name": "mint"
+      },
+      "notes": "for garnish"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6855d91d32ecade4c7b8af31",
+      "step": "Combine water, lemon juice, and sugar. Add mango nectar."
+    },
+    {
+      "_id": "6855d92332ecade4c7b8af32",
+      "step": "Serve over crushed ice. Garnish with mint leaves."
+    }
+  ],
+  "__v": 10
+}

@@ -3,20 +3,26 @@
   "core": false,
   "tags": [
     {
+      "_id": "5a36e01eb1cb7881b05b0096",
+      "label": "cookies",
+      "slug": "cookies",
+      "__v": 0
+    },
+    {
       "_id": "5a36e01ab1cb7881b05b0095",
       "label": "dessert",
       "slug": "dessert",
       "__v": 0
     },
     {
-      "_id": "5a36e01eb1cb7881b05b0096",
-      "label": "cookies",
-      "slug": "cookies",
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
       "__v": 0
     }
   ],
   "_id": "5c43b0e60529ebe092bea0b4",
-  "__v": 23,
+  "__v": 26,
   "directions": [
     {
       "_id": "5c43b13a0529ebe092bea0bb",

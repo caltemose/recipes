@@ -31,6 +31,12 @@
       "label": "pescatarian",
       "slug": "pescatarian",
       "__v": 0
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
     }
   ],
   "_id": "67b90e6241d119070e7d8948",
@@ -117,5 +123,5 @@
       "step": "Mix all ingredients together as a filling for stuffed cherry tomatoes."
     }
   ],
-  "__v": 9
+  "__v": 10
 }

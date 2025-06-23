@@ -13,6 +13,11 @@
       "label": "juli",
       "slug": "juli",
       "__v": 0
+    },
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
     }
   ],
   "_id": "6789918441d119070e7d8757",
@@ -318,5 +323,5 @@
       "step": "Next, add rice, chicken, salt, curry powder, mustard powder, parsley, black pepper, almonds and sherry. Allow to heat through, then pour in half-and-half. Let simmer for 1-2 hours. (Note: do not boil or your roux will break.)"
     }
   ],
-  "__v": 20
+  "__v": 21
 }

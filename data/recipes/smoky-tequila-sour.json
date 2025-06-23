@@ -1,0 +1,152 @@
+{
+  "serves": {
+    "amount": 1
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "685699db32ecade4c7b8af8f",
+  "label": "Smoky Tequila Sour",
+  "slug": "smoky-tequila-sour",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "685699dd32ecade4c7b8af90",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a4977b9277bd9fe34f72bb9",
+        "label": "lime(s)",
+        "slug": "lime-s",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "685699e632ecade4c7b8af91",
+      "type": "Ingredient",
+      "item": {
+        "_id": "685699f432ecade4c7b8af92",
+        "label": "tequila",
+        "slug": "tequila",
+        "__v": 0
+      },
+      "notes": "agave silver or blanco"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "68569a0232ecade4c7b8af93",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6856998632ecade4c7b8af8a",
+        "label": "montenegro",
+        "slug": "montenegro",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "68569a0932ecade4c7b8af94",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67798a8941d119070e7d8675",
+        "label": "orange(s)",
+        "slug": "orange-s",
+        "__v": 0
+      },
+      "notes": "small, 1-1/2 ounce juice"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "68569a1c32ecade4c7b8af95",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68569a2832ecade4c7b8af96",
+        "label": "agave nectar",
+        "slug": "agave-nectar",
+        "__v": 0
+      },
+      "notes": "light nectar"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "6778662441d119070e7d860f",
+          "label": "dash",
+          "slug": "dash",
+          "__v": 0
+        }
+      },
+      "_id": "68569a3932ecade4c7b8af97",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68569a4532ecade4c7b8af98",
+        "label": "liquid smoke",
+        "slug": "liquid-smoke",
+        "__v": 0
+      },
+      "notes": "or use smoky mezcal instead of tequila"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "68569a5d32ecade4c7b8af99",
+      "step": "Fill an old-fashioned with ice and set aside."
+    },
+    {
+      "_id": "68569a6332ecade4c7b8af9a",
+      "step": "Cut a wedge from one of the limes and reserve, then juice both limes into a cocktail shaker. Add tequila, Montenegro, orange juice, agave nectar and half a dozen or so ice cubes. Cover and shake for 30 seconds."
+    },
+    {
+      "_id": "68569a6a32ecade4c7b8af9b",
+      "step": "Strain the mixture through the cocktail strainer into the glass. Add liquid smoke, garnish with lime wedge."
+    }
+  ],
+  "__v": 11
+}

@@ -17,10 +17,16 @@
       "label": "bread",
       "slug": "bread",
       "__v": 0
+    },
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
     }
   ],
   "_id": "5a47b6e0277bd9fe34f72b8e",
-  "__v": 14,
+  "__v": 15,
   "directions": [
     {
       "_id": "5a47b728277bd9fe34f72b93",

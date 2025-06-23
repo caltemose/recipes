@@ -1,0 +1,30 @@
+{
+  "recipes": [
+    {
+      "label": "French Cheese Soufflé",
+      "_id": "53552cce85da3d10277f5686",
+      "slug": "french-cheese-souffle"
+    },
+    {
+      "label": "Crepes",
+      "_id": "677868b541d119070e7d862e",
+      "slug": "crepes"
+    },
+    {
+      "label": "Perfect French Omelette",
+      "_id": "67ba478041d119070e7d898e",
+      "slug": "perfect-french-omelette"
+    },
+    {
+      "label": "Bechamel Sauce",
+      "_id": "6851e8fe32ecade4c7b8ade5",
+      "slug": "bechamel-sauce"
+    }
+  ],
+  "tag": {
+    "_id": "6857431432ecade4c7b8b015",
+    "label": "french",
+    "slug": "french",
+    "__v": 0
+  }
+}

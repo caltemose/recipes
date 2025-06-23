@@ -136,9 +136,10 @@
       "_id": "5973350564b52eeae5d1ead2",
       "type": "Ingredient",
       "item": {
-        "_id": "5375ec34471e3f9e45e7670b",
-        "label": "cinnamon",
-        "name": "cinnamon"
+        "_id": "67707a1c41d119070e7d856b",
+        "label": "ground cinnamon",
+        "slug": "ground-cinnamon",
+        "__v": 0
       },
       "notes": ""
     }

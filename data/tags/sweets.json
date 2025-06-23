@@ -6,9 +6,29 @@
       "slug": "peanut-butter-cookies"
     },
     {
+      "label": "Pizzelles",
+      "_id": "53552cce85da3d10277f5698",
+      "slug": "pizzelles"
+    },
+    {
+      "label": "Pot Cheese Cookies",
+      "_id": "53552cce85da3d10277f5699",
+      "slug": "pot-cheese-cookies"
+    },
+    {
+      "label": "Rum-Raisin Rice Pudding",
+      "_id": "53552cce85da3d10277f569e",
+      "slug": "rum-raisin-rice-pudding"
+    },
+    {
       "label": "Biscotti",
       "_id": "5a36df0cb1cb7881b05b0082",
       "slug": "biscotti"
+    },
+    {
+      "label": "Amaretti",
+      "_id": "5c43b0e60529ebe092bea0b4",
+      "slug": "amaretti"
     },
     {
       "label": "Chocolate Chip Cookies",
@@ -59,6 +79,16 @@
       "label": "Stewed Fruit",
       "_id": "678990ae41d119070e7d874c",
       "slug": "stewed-fruit"
+    },
+    {
+      "label": "Ricotto Ice Cream with Citrus Marmalade, Olive Oil and Sea Salt",
+      "_id": "68533f2f32ecade4c7b8ae7b",
+      "slug": "ricotto-ice-cream-with-citrus-marmalade-olive-oil-and-sea-salt"
+    },
+    {
+      "label": "Fig Loaf (Pan de Higos)",
+      "_id": "6855574032ecade4c7b8aeef",
+      "slug": "fig-loaf-pan-de-higos"
     }
   ],
   "tag": {

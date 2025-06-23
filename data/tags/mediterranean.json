@@ -1,0 +1,65 @@
+{
+  "recipes": [
+    {
+      "label": "Baba Ghanouj",
+      "_id": "53552cce85da3d10277f567a",
+      "slug": "baba-ghanouj"
+    },
+    {
+      "label": "Couscous Tomato Basil Salad",
+      "_id": "53552cce85da3d10277f5681",
+      "slug": "couscous-tomato-basil-salad"
+    },
+    {
+      "label": "Hummus",
+      "_id": "53552cce85da3d10277f568a",
+      "slug": "hummus"
+    },
+    {
+      "label": "Pita Bread",
+      "_id": "53552cce85da3d10277f5697",
+      "slug": "pita-bread"
+    },
+    {
+      "label": "Couscous Salad",
+      "_id": "6770746b41d119070e7d852c",
+      "slug": "couscous-salad"
+    },
+    {
+      "label": "Couscous",
+      "_id": "6770764541d119070e7d853e",
+      "slug": "couscous"
+    },
+    {
+      "label": "Sauteed Chicken with Moroccan Hot and Sweet Tomato Sauce",
+      "_id": "677079d241d119070e7d8566",
+      "slug": "sauteed-chicken-with-moroccan-hot-and-sweet-tomato-sauce"
+    },
+    {
+      "label": "Tzaziki Sauce",
+      "_id": "67707bc241d119070e7d857f",
+      "slug": "tzaziki-sauce"
+    },
+    {
+      "label": "Savory Greek Yogurt Dip",
+      "_id": "678058ec41d119070e7d8699",
+      "slug": "savory-greek-yogurt-dip"
+    },
+    {
+      "label": "Couscous - Stovetop",
+      "_id": "67898b8341d119070e7d8712",
+      "slug": "couscous-stovetop"
+    },
+    {
+      "label": "Moroccan Roasted Sweet Potato Soup",
+      "_id": "678bc7be41d119070e7d87b9",
+      "slug": "moroccan-roasted-sweet-potato-soup"
+    }
+  ],
+  "tag": {
+    "_id": "6857422532ecade4c7b8b014",
+    "label": "mediterranean",
+    "slug": "mediterranean",
+    "__v": 0
+  }
+}

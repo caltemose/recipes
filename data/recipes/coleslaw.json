@@ -20,6 +20,12 @@
       "_id": "5977849de3f0716170504979",
       "label": "whole 30",
       "slug": "whole-30"
+    },
+    {
+      "_id": "5a3d3f160836b893a9a14c8c",
+      "label": "salad",
+      "slug": "salad",
+      "__v": 0
     }
   ],
   "_id": "67828f1a41d119070e7d86d3",
@@ -168,5 +174,5 @@
       "step": "Place all ingredients in a large salad bowl and toss well. Serve chilled. (Suggest to make 1/2 recipe of dressing.)"
     }
   ],
-  "__v": 12
+  "__v": 13
 }

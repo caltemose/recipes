@@ -1,0 +1,198 @@
+{
+  "yield": {
+    "amount": 24,
+    "label": "crepes"
+  },
+  "source": {
+    "name": "The Glorious Pasta of Italy"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "685097ea32ecade4c7b8ad5b",
+  "label": "Crespelle",
+  "slug": "crespelle",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "685097ed32ecade4c7b8ad5c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": "sifted"
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "685097fd32ecade4c7b8ad5d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "large"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6850980732ecade4c7b8ad5e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      },
+      "notes": "goat or whole cow"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6850981c32ecade4c7b8ad5f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6850984432ecade4c7b8ad60",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "6850984d32ecade4c7b8ad61",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "6850985b32ecade4c7b8ad62",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672d",
+        "label": "nutmeg",
+        "name": "nutmeg"
+      },
+      "notes": "freshly grated"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6850986832ecade4c7b8ad63",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6850987832ecade4c7b8ad64",
+      "step": "Put the flour in a large bowl."
+    },
+    {
+      "_id": "6850988032ecade4c7b8ad65",
+      "step": "In a separate large bowl, whisk together the eggs, milk, parsley, salt, pepper, and nutmeg."
+    },
+    {
+      "_id": "6850988832ecade4c7b8ad66",
+      "step": "Gradually pour the egg mixture into the flour, whisking all the while to prevent lumps from forming. When the batter is smooth, cover the bowl with plastic wrap and let the batter rest at room temperature for 30 minutes."
+    },
+    {
+      "_id": "6850989232ecade4c7b8ad67",
+      "step": "Melt a little of the butter in a 9-in nonstick frying pan (or cast iron pan) placed over medium heat, tilting the pan to cover the bottom with a thin film.&nbsp;"
+    },
+    {
+      "_id": "6850989a32ecade4c7b8ad68",
+      "step": "When the pan is hot, pour in a small ladleful of batter (about 1/4 cup) and gently but quickly swirl it around so that it completely coats the bottom of the pan, forming a thin pancake. Cook for 30-45 seconds, or until just set. Flip the pancake and cook for 20-30 seconds longer, then transfer it to a plate.&nbsp;"
+    },
+    {
+      "_id": "685098a332ecade4c7b8ad69",
+      "step": "Continue making crepes until you have used all the batter, making sure to grease the pan lighting from time to time with a thin film of butter."
+    },
+    {
+      "_id": "685098b532ecade4c7b8ad6a",
+      "step": "If you are not using the crespelle immediately, wrap them tightly in plastic wrap and refrigerate for up to 3 days or freeze for up to 1 month."
+    }
+  ],
+  "__v": 18
+}

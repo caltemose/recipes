@@ -15,10 +15,21 @@
       "label": "italian",
       "slug": "italian",
       "__v": 0
+    },
+    {
+      "_id": "5a3d3f160836b893a9a14c8c",
+      "label": "salad",
+      "slug": "salad",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
     }
   ],
   "_id": "5a47b50a277bd9fe34f72b80",
-  "__v": 14,
+  "__v": 16,
   "directions": [
     {
       "_id": "5a47b5a0277bd9fe34f72b89",

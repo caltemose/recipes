@@ -1,0 +1,121 @@
+{
+  "serves": {
+    "amount": 8
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "68569b9e32ecade4c7b8afb1",
+  "label": "Barley Water",
+  "slug": "barley-water",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897907",
+          "label": "quart(s)"
+        }
+      },
+      "_id": "68569ba032ecade4c7b8afb2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569bb232ecade4c7b8afb4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68569baf32ecade4c7b8afb3",
+        "label": "barley",
+        "slug": "barley",
+        "__v": 0
+      },
+      "notes": "hulled"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "68569bbe32ecade4c7b8afb5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569bc732ecade4c7b8afb6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a3fe4e69c5f02065d03f194",
+        "label": "honey",
+        "slug": "honey",
+        "__v": 0
+      },
+      "notes": "orange blossom"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "68569bda32ecade4c7b8afb7",
+      "step": "Combine water and barley in a medium saucepan, cover and bring to a boil over high heat. Reduce heat to low and simmer for 30 minutes."
+    },
+    {
+      "_id": "68569be132ecade4c7b8afb8",
+      "step": "Peel lemons with a vegetable peeler, being careful to avoid the bitter white pith. Juice the lemons into a 3-quart pitcher and add the lemon peel."
+    },
+    {
+      "_id": "68569be732ecade4c7b8afb9",
+      "step": "Strain the barley water through a fine-mesh strainer into the pitcher. Add the honey and stir to combine. Refrigerate until chilled."
+    },
+    {
+      "_id": "68569be732ecade4c7b8afba",
+      "step": ""
+    }
+  ],
+  "__v": 11
+}

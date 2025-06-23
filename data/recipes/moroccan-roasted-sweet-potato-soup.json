@@ -28,6 +28,12 @@
       "_id": "5977849de3f0716170504979",
       "label": "whole 30",
       "slug": "whole-30"
+    },
+    {
+      "_id": "6857422532ecade4c7b8b014",
+      "label": "mediterranean",
+      "slug": "mediterranean",
+      "__v": 0
     }
   ],
   "_id": "678bc7be41d119070e7d87b9",
@@ -184,10 +190,11 @@
       "_id": "678bc83e41d119070e7d87c4",
       "type": "Ingredient",
       "item": {
-        "_id": "5375ec34471e3f9e45e76725",
-        "label": "lemon juice",
-        "name": "lemon juice"
-      }
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      },
+      "notes": "juiced"
     },
     {
       "amount": {
@@ -222,5 +229,5 @@
       "step": "Add a good squeeze of lemon juice and season to taste with salt and pepper. Swirl the yogurt or sour cream with a little harissa and top each bowl with a spoonful."
     }
   ],
-  "__v": 17
+  "__v": 18
 }

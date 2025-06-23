@@ -25,6 +25,12 @@
       "_id": "597784abe3f0716170504982",
       "label": "vegetarian",
       "slug": "vegetarian"
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
     }
   ],
   "_id": "67ae7f1b41d119070e7d88e2",
@@ -139,5 +145,5 @@
       "step": "Mix and use as a filling for stuffed pimientos."
     }
   ],
-  "__v": 10
+  "__v": 11
 }

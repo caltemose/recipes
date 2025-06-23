@@ -20,10 +20,16 @@
       "label": "breakfast",
       "slug": "breakfast",
       "__v": 0
+    },
+    {
+      "_id": "5a3d3f5e0836b893a9a14c8e",
+      "label": "bread",
+      "slug": "bread",
+      "__v": 0
     }
   ],
   "_id": "53552cce85da3d10277f567d",
-  "__v": 9,
+  "__v": 10,
   "difficulty": 1,
   "directions": [
     {

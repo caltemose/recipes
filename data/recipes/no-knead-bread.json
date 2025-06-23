@@ -1,14 +1,4 @@
 {
-  "yield": {
-    "amount": 1,
-    "label": "loaf"
-  },
-  "time": {
-    "prep": 5,
-    "cook": 45,
-    "rest": 1440,
-    "total": 1490
-  },
   "active": true,
   "core": false,
   "tags": [
@@ -24,27 +14,25 @@
       "slug": "vegetarian"
     }
   ],
-  "_id": "53552cce85da3d10277f5691",
-  "__v": 2,
-  "difficulty": 1,
-  "directions": [],
+  "_id": "67b9147241d119070e7d8983",
+  "label": "No-Knead Bread",
+  "slug": "no-knead-bread",
   "ingredients": [
     {
       "amount": {
-        "value": 1.625,
+        "value": 1.5,
         "unit": {
           "_id": "596e4ec3b9f4af86168978f9",
           "label": "cup(s)"
         }
       },
-      "_id": "5973350564b52eeae5d1ea53",
+      "_id": "67b9147841d119070e7d8984",
       "type": "Ingredient",
       "item": {
         "_id": "5375ec34471e3f9e45e76760",
         "label": "water",
         "name": "water"
-      },
-      "notes": "1 1/2 to 1 5/8 roughly"
+      }
     },
     {
       "amount": {
@@ -54,31 +42,29 @@
           "label": "teaspoon(s)"
         }
       },
-      "_id": "5973350564b52eeae5d1ea54",
+      "_id": "67b9148541d119070e7d8985",
       "type": "Ingredient",
       "item": {
         "_id": "5375ec34471e3f9e45e76748",
         "label": "salt",
         "name": "salt"
-      },
-      "notes": ""
+      }
     },
     {
       "amount": {
-        "value": 0.25,
+        "value": 1,
         "unit": {
           "_id": "596e4ec3b9f4af86168978fa",
           "label": "teaspoon(s)"
         }
       },
-      "_id": "5973350564b52eeae5d1ea55",
+      "_id": "67b9149241d119070e7d8986",
       "type": "Ingredient",
       "item": {
         "_id": "5375ec34471e3f9e45e76767",
         "label": "yeast",
         "name": "yeast"
-      },
-      "notes": ""
+      }
     },
     {
       "amount": {
@@ -88,17 +74,42 @@
           "label": "cup(s)"
         }
       },
-      "_id": "5973350564b52eeae5d1ea56",
+      "_id": "67b914b341d119070e7d8987",
       "type": "Ingredient",
       "item": {
-        "_id": "5375ec34471e3f9e45e766ec",
-        "label": "all-purpose flour",
-        "name": "all-purpose flour"
+        "_id": "678bd16b41d119070e7d8835",
+        "label": "bread flour",
+        "slug": "bread-flour",
+        "__v": 0
       },
-      "notes": ""
+      "notes": "or all-purpose flour"
     }
   ],
-  "label": "No-Knead Bread",
-  "notes": "In a large bowl combine flour, yeast and salt. Add water, and stir until blended; dough will be shaggy and sticky. Cover bowl with plastic wrap. \n\nLet dough rest at least 12 hours, preferably about 18, at warm room temperature, about 70 degrees. Dough is ready when its surface is dotted with bubbles. \n\nLightly flour a work surface and place dough on it; sprinkle it with a little more flour and fold it over on itself once or twice. Cover loosely with plastic wrap and let rest about 15 minutes. \n\nUsing just enough flour to keep dough from sticking to work surface or to your fingers, gently and quickly shape dough into a ball. Generously coat a cotton towel (not terry cloth, one that's easy to clean sticky dough off of) with flour, wheat bran or cornmeal; put dough seam side down on towel and dust with more flour, bran or cornmeal. Cover with another cotton towel and let rise for about 2 hours. When it is ready, dough will be more than double in size and will not readily spring back when poked with a finger. \n\nAt least a half-hour before dough is ready, heat oven to 450°F. Put a 6- to 8-quart heavy covered pot (cast iron, enamel, Pyrex or ceramic) in the oven as it heats. When dough is ready, carefully remove pot from oven. Slide your hand under towel and turn dough over into pot, seam side up. Shake pan once or twice if dough is unevenly distributed; it will straighten out as it bakes. Cover with lid and bake 30 minutes, then remove lid and bake another 15 to 30 minutes, until loaf is beautifully browned. Cool on a rack.",
-  "slug": "no-knead-bread"
+  "directions": [
+    {
+      "_id": "67b914d241d119070e7d8988",
+      "step": "Combine flour, yeast, salt. Add water and stir until blended. Dough will be shaggy, but don’t worry. Cover bowl with plastic wrap and let sit at room temperature for at least 12 hours."
+    },
+    {
+      "_id": "67b914da41d119070e7d8989",
+      "step": "The next day, flour a work surface and roll dough a few times to work out the bubbles. Add flour as needed to the dough if it is sticky."
+    },
+    {
+      "_id": "67b914e641d119070e7d898a",
+      "step": "Coat a smooth towel in flour or cornmeal (be generous with the flour which will save you from laundry headaches). Place dough on towel. Cover with another cotton towel and let rise about 2 hours. When it is ready, dough will be more than double in size and will not readily spring back when poked with a finger."
+    },
+    {
+      "_id": "67b914f241d119070e7d898b",
+      "step": "Preheat oven to 450 degrees with a 6-8 quart heavy pot inside. (Suggesting a dutch oven pot https://www.foodnetwork.com/how-to/packages/food-network-essentials/what-is-a-dutch-oven)"
+    },
+    {
+      "_id": "67b914fc41d119070e7d898c",
+      "step": "When oven is hot, remove pot. Gently add dough, cover with lid. Bake in oven for 30 minutes."
+    },
+    {
+      "_id": "67b9150841d119070e7d898d",
+      "step": "Remove cover and bake another 20-25 minutes. Remove from oven and let cool before slicing."
+    }
+  ],
+  "__v": 12
 }

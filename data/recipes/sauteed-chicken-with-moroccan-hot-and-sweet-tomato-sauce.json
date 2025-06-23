@@ -13,6 +13,12 @@
       "label": "juli",
       "slug": "juli",
       "__v": 0
+    },
+    {
+      "_id": "6857422532ecade4c7b8b014",
+      "label": "mediterranean",
+      "slug": "mediterranean",
+      "__v": 0
     }
   ],
   "_id": "677079d241d119070e7d8566",
@@ -55,7 +61,11 @@
     },
     {
       "amount": {
-        "value": 2
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
       },
       "_id": "677079eb41d119070e7d8569",
       "type": "Ingredient",
@@ -237,5 +247,5 @@
       "step": "Divide chicken among serving plates and garnish with sesame seeds and cilantro."
     }
   ],
-  "__v": 17
+  "__v": 18
 }

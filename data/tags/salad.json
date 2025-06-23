@@ -1,6 +1,16 @@
 {
   "recipes": [
     {
+      "label": "Couscous Tomato Basil Salad",
+      "_id": "53552cce85da3d10277f5681",
+      "slug": "couscous-tomato-basil-salad"
+    },
+    {
+      "label": "Cucumber and Onion Salad",
+      "_id": "53552cce85da3d10277f5683",
+      "slug": "cucumber-and-onion-salad"
+    },
+    {
       "label": "Gorgonzola Salad",
       "_id": "53552cce85da3d10277f5689",
       "slug": "gorgonzola-salad"
@@ -11,9 +21,69 @@
       "slug": "seared-ahi-tuna-salad"
     },
     {
+      "label": "Simple Rice Salad",
+      "_id": "5a47b50a277bd9fe34f72b80",
+      "slug": "simple-rice-salad"
+    },
+    {
       "label": "Not Just Another Kale Salad",
       "_id": "5a49739b277bd9fe34f72bab",
       "slug": "not-just-another-kale-salad"
+    },
+    {
+      "label": "Couscous Salad",
+      "_id": "6770746b41d119070e7d852c",
+      "slug": "couscous-salad"
+    },
+    {
+      "label": "Lentil Salad",
+      "_id": "677076cd41d119070e7d8547",
+      "slug": "lentil-salad"
+    },
+    {
+      "label": "Coleslaw",
+      "_id": "67828f1a41d119070e7d86d3",
+      "slug": "coleslaw"
+    },
+    {
+      "label": "Potato Salad",
+      "_id": "6782901341d119070e7d86df",
+      "slug": "potato-salad"
+    },
+    {
+      "label": "Tuna Salad",
+      "_id": "6782913641d119070e7d86ec",
+      "slug": "tuna-salad"
+    },
+    {
+      "label": "Egg Salad",
+      "_id": "6782919a41d119070e7d86f2",
+      "slug": "egg-salad"
+    },
+    {
+      "label": "Curried Chicken Salad",
+      "_id": "678292bf41d119070e7d86fb",
+      "slug": "curried-chicken-salad"
+    },
+    {
+      "label": "Roasted Bell Pepper Salad",
+      "_id": "6799746041d119070e7d8891",
+      "slug": "roasted-bell-pepper-salad"
+    },
+    {
+      "label": "Russian Salad",
+      "_id": "67ae796f41d119070e7d88a3",
+      "slug": "russian-salad"
+    },
+    {
+      "label": "Asparagus Flan with Wild Herb Salad",
+      "_id": "685340ed32ecade4c7b8ae96",
+      "slug": "asparagus-flan-with-wild-herb-salad"
+    },
+    {
+      "label": "Lentil Salad with Hazelnuts, Honey, Arugula and Poached Egg",
+      "_id": "685341f532ecade4c7b8aeaa",
+      "slug": "lentil-salad-with-hazelnuts-honey-arugula-and-poached-egg"
     }
   ],
   "tag": {

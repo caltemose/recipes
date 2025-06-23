@@ -1,0 +1,171 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "Fran's Olive Oil Cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    }
+  ],
+  "_id": "68533e6f32ecade4c7b8ae6f",
+  "label": "Orange Salad with Pistachio-Mascarpone Cream",
+  "slug": "orange-salad-with-pistachio-mascarpone-cream",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "68533e7132ecade4c7b8ae70",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67798a8941d119070e7d8675",
+        "label": "orange(s)",
+        "slug": "orange-s",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 14,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "68533e8032ecade4c7b8ae71",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68533e9032ecade4c7b8ae72",
+        "label": "mascarpone",
+        "slug": "mascarpone",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "68533e9832ecade4c7b8ae73",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68533e5e32ecade4c7b8ae6e",
+        "label": "pistachio cream",
+        "slug": "pistachio-cream",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 12,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897908",
+          "label": "leave(s)"
+        }
+      },
+      "_id": "68533eaa32ecade4c7b8ae74",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f6",
+        "label": "basil",
+        "name": "basil"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "68533eb832ecade4c7b8ae75",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "68533ec132ecade4c7b8ae76",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      }
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "68533ec932ecade4c7b8ae77",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68533e0832ecade4c7b8ae6a",
+        "label": "pistachios",
+        "slug": "pistachios",
+        "__v": 0
+      },
+      "notes": "chopped"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "68533edb32ecade4c7b8ae78",
+      "step": "<div>Stir the mascarpone and the pistachio cream until smooth and keep it cool in the fridge for about 30 minutes.</div>"
+    },
+    {
+      "_id": "68533ee832ecade4c7b8ae79",
+      "step": "Peel and fillet the oranges."
+    },
+    {
+      "_id": "68533ef132ecade4c7b8ae7a",
+      "step": "Arrange the orange pieces on 4 plates. Dollop the pistachio cream on top, sprinkle with chopped pistachios and several sea salt flakes and a little ground black pepper. Garnish with several basil leaves and drizzle with a splash of olive oil."
+    }
+  ],
+  "__v": 13
+}

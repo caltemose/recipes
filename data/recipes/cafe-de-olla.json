@@ -1,0 +1,112 @@
+{
+  "serves": {
+    "amount": 8
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6857419832ecade4c7b8b012",
+      "label": "mexican",
+      "slug": "mexican",
+      "__v": 0
+    }
+  ],
+  "_id": "685696e232ecade4c7b8af67",
+  "label": "Cafe de Olla",
+  "slug": "cafe-de-olla",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897907",
+          "label": "quart(s)"
+        }
+      },
+      "_id": "685696e432ecade4c7b8af68",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "685696ed32ecade4c7b8af69",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fc",
+        "label": "brown sugar",
+        "name": "brown sugar"
+      },
+      "notes": "or 3 oz piloncillo"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6856970432ecade4c7b8af6a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68572f7832ecade4c7b8b010",
+        "label": "cinnamon stick(s)",
+        "slug": "cinnamon-stick-s",
+        "__v": 0
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6856971032ecade4c7b8af6b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6856972132ecade4c7b8af6c",
+        "label": "ground coffee",
+        "slug": "ground-coffee",
+        "__v": 0
+      },
+      "notes": "dark roast"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6856973632ecade4c7b8af6d",
+      "step": "In a saucepan over medium-high heat, heat the water, sugar and cinnamon and stir until sugar has dissolved. Increase heat and bring to a boil, then add ground coffee, stir and lower heat to a simmer. Cook for 2-3 minutes."
+    },
+    {
+      "_id": "6856973d32ecade4c7b8af6e",
+      "step": "Remove from heat, let sit for 2 minutes. Then strain coffee into warmed cups."
+    }
+  ],
+  "__v": 9
+}

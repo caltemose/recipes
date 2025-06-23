@@ -1,0 +1,212 @@
+{
+  "source": {
+    "name": "Savoring Spain and Portugal"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    },
+    {
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
+      "__v": 0
+    }
+  ],
+  "_id": "6855574032ecade4c7b8aeef",
+  "label": "Fig Loaf (Pan de Higos)",
+  "slug": "fig-loaf-pan-de-higos",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6855574232ecade4c7b8aef0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6855575c32ecade4c7b8aef1",
+        "label": "dried figs",
+        "slug": "dried-figs",
+        "__v": 0
+      },
+      "notes": "Mission figs, stems removed and finely chopped"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855576f32ecade4c7b8aef2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a36deffb1cb7881b05b0081",
+        "label": "almonds",
+        "slug": "almonds",
+        "__v": 0
+      },
+      "notes": "toasted and finely chopped"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855578632ecade4c7b8aef3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6853428c32ecade4c7b8aeb2",
+        "label": "hazelnuts",
+        "slug": "hazelnuts",
+        "__v": 0
+      },
+      "notes": "toasted and finely chopped"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855579432ecade4c7b8aef4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67898fdf41d119070e7d8749",
+        "label": "powdered sugar",
+        "slug": "powdered-sugar",
+        "__v": 0
+      },
+      "notes": "plus more for sprinkling foil"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "685557a632ecade4c7b8aef5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a1c41d119070e7d856b",
+        "label": "ground cinnamon",
+        "slug": "ground-cinnamon",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "685557b032ecade4c7b8aef6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "677867f641d119070e7d862b",
+        "label": "ground cloves",
+        "slug": "ground-cloves",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "685557bb32ecade4c7b8aef7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6780597d41d119070e7d86a0",
+        "label": "lemon zest",
+        "slug": "lemon-zest",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "685557c332ecade4c7b8aef8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799719841d119070e7d886d",
+        "label": "brandy",
+        "slug": "brandy",
+        "__v": 0
+      },
+      "notes": "or anise liqueur"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "685557d132ecade4c7b8aef9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "685557e632ecade4c7b8aefa",
+        "label": "semi-sweet chocolate",
+        "slug": "semi-sweet-chocolate",
+        "__v": 0
+      },
+      "notes": "melted"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6855580b32ecade4c7b8aefb",
+      "step": "In a food processor, combine the figs, almonds, hazelnuts, 1/2 C powered sugar, cinnamon, cloves and lemon zest. Pulse until well combined. Stir in the liqueur or brandy and chocolate to moisten the mixture, which will be very stiff."
+    },
+    {
+      "_id": "6855581232ecade4c7b8aefc",
+      "step": "Sprinkle a large square of heavy-duty aluminum foil with powdered sugar. Shape the fig mixture into a large loaf and wrap it in the foil. Refrigerate for at least 2 days or as long as 3 months."
+    },
+    {
+      "_id": "6855581e32ecade4c7b8aefd",
+      "step": "To serve, dip a very sharp knife in hot water and cut the loaf into slices."
+    }
+  ],
+  "__v": 16
+}

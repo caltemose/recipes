@@ -1,0 +1,173 @@
+{
+  "serves": {
+    "amount": 2
+  },
+  "source": {
+    "name": "Mihir Patel"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "685748e232ecade4c7b8b019",
+      "label": "indian",
+      "slug": "indian",
+      "__v": 0
+    }
+  ],
+  "_id": "68569ff832ecade4c7b8aff4",
+  "label": "Ginger-Mint Masala Chai",
+  "slug": "ginger-mint-masala-chai",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "68569ffe32ecade4c7b8aff5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6855d9e132ecade4c7b8af3f",
+        "label": "black tea",
+        "slug": "black-tea",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6856a01532ecade4c7b8aff6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6856a02732ecade4c7b8aff7",
+        "label": "tea masala",
+        "slug": "tea-masala",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6856a03232ecade4c7b8aff8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671d",
+        "label": "ginger",
+        "name": "ginger"
+      },
+      "notes": "grated"
+    },
+    {
+      "amount": {
+        "value": 5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897908",
+          "label": "leave(s)"
+        }
+      },
+      "_id": "6856a03a32ecade4c7b8aff9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672a",
+        "label": "mint",
+        "name": "mint"
+      },
+      "notes": "5-8 leaves"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6856a04e32ecade4c7b8affa",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6856a05632ecade4c7b8affb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      },
+      "notes": "2% or oat milk"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "6856a06332ecade4c7b8affc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6856a07632ecade4c7b8affd",
+      "step": "Take 2” of ginger root and peel it with a peeler or metal dinnerware spoon. Grate the ginger."
+    },
+    {
+      "_id": "6856a07c32ecade4c7b8affe",
+      "step": "Add water, black tea, tea masala, ginger and mint leaves to a stove pot. Turn on medium-high until water is boiling. Stir if needed to break up any clumps of tea masala."
+    },
+    {
+      "_id": "6856a08332ecade4c7b8afff",
+      "step": "Pour in milk and stir once. Keep heating until milk is about to boil over. Keep watch at this stage as milk can quickly boil over the pot. Once the milk starts to rise up as if about to boil over, turn off the stove."
+    },
+    {
+      "_id": "6856a08932ecade4c7b8b000",
+      "step": "Strain the tea as you pour into mugs. Add sugar to taste."
+    }
+  ],
+  "__v": 14
+}

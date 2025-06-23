@@ -28,6 +28,11 @@
       "label": "dessert",
       "slug": "dessert",
       "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
     }
   ],
   "_id": "678990ae41d119070e7d874c",
@@ -80,7 +85,13 @@
       },
       "_id": "678990ef41d119070e7d8750",
       "type": "Ingredient",
-      "notes": "additional dried fruit"
+      "notes": "additional dried fruit",
+      "item": {
+        "_id": "67786bda41d119070e7d8640",
+        "label": "dried fruit",
+        "slug": "dried-fruit",
+        "__v": 0
+      }
     },
     {
       "amount": {
@@ -145,5 +156,5 @@
       "step": "Store in a sealed container in the refrigerator for up to 2 months."
     }
   ],
-  "__v": 12
+  "__v": 13
 }

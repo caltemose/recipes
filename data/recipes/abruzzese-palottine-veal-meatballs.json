@@ -1,0 +1,154 @@
+{
+  "serves": {
+    "amount": 8
+  },
+  "source": {
+    "name": "The Glorious Pasta of Italy"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "685098f532ecade4c7b8ad6b",
+  "label": "Abruzzese Palottine (Veal Meatballs)",
+  "slug": "abruzzese-palottine-veal-meatballs",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 12,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "685098f932ecade4c7b8ad6c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6850991f32ecade4c7b8ad6d",
+        "label": "veal",
+        "slug": "veal",
+        "__v": 0
+      },
+      "notes": "minced"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6850992a32ecade4c7b8ad6e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "6850993832ecade4c7b8ad6f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672d",
+        "label": "nutmeg",
+        "name": "nutmeg"
+      },
+      "notes": "freshly ground"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6850994a32ecade4c7b8ad70",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "large, lightly beaten"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6850995632ecade4c7b8ad71",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675d",
+        "label": "vegetable oil",
+        "name": "vegetable oil"
+      },
+      "notes": "for frying"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6850996f32ecade4c7b8ad72",
+      "step": "Put the veal, salt, nutmeg and egg in a bowl and mix together thoroughly with your hands."
+    },
+    {
+      "_id": "6850998032ecade4c7b8ad73",
+      "step": "With your fingers, pinch off a very small piece of the mixture and roll it into a tiny ball - not much larger than a chickpea. Place the meatball on a clean tray or platter. Repeat until you have rolled all of the veal mixture into meatballs."
+    },
+    {
+      "_id": "6850998832ecade4c7b8ad74",
+      "step": "Pour the vegetable oil to a depth of 1/4 inch in a frying pan, place over medium-high heat, and heat to 375 degrees F on a deep-frying thermometer. If you don't have a thermometer, carefully drop a meatball into the hot oil; if it sizzles on contact, the oil is ready."
+    },
+    {
+      "_id": "6850999032ecade4c7b8ad75",
+      "step": "Place a platter lined with a double layer of paper towels near the stove."
+    },
+    {
+      "_id": "6850999832ecade4c7b8ad76",
+      "step": "Carefully add the meatballs to the hot oil, working in batches to avoid crowding the pan. Fry them, turning them from time to time with a spatula, slotted spoon, or fork, for about 4 minutes, or until they are lightly browned."
+    },
+    {
+      "_id": "685099a132ecade4c7b8ad77",
+      "step": "Remove the meatballs to a prepared platter. Repeat until all the meatballs are fried."
+    },
+    {
+      "_id": "685099b032ecade4c7b8ad78",
+      "step": "Transfer the meatballs to a pot with Abruzzese ragu. Serve over pasta alla chittara."
+    },
+    {
+      "_id": "685099b632ecade4c7b8ad79",
+      "step": "Meatballs can also be stored in a tight container in the fridge for up to 3 days or in the freezer for up to 1 month."
+    }
+  ],
+  "__v": 16
+}

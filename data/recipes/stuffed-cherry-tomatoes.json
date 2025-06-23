@@ -21,15 +21,21 @@
       "__v": 0
     },
     {
-      "_id": "597784abe3f0716170504982",
-      "label": "vegetarian",
-      "slug": "vegetarian"
-    },
-    {
       "_id": "67bb212841d119070e7d8a0d",
       "label": "pescatarian",
       "slug": "pescatarian",
       "__v": 0
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
     }
   ],
   "_id": "67b90d9941d119070e7d893e",
@@ -102,5 +108,5 @@
       "step": "Fill a pastry bag with a 3/4-inch plain tip with the filling and use to pack the filling into hollow tomato shells. Store the tomatoes in the fridge until ready to serve."
     }
   ],
-  "__v": 10
+  "__v": 13
 }

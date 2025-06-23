@@ -1,6 +1,11 @@
 {
   "recipes": [
     {
+      "label": "Not Just Another Kale Salad",
+      "_id": "5a49739b277bd9fe34f72bab",
+      "slug": "not-just-another-kale-salad"
+    },
+    {
       "label": "Tuna Noodle Casserole",
       "_id": "677863c841d119070e7d85f1",
       "slug": "tuna-noodle-casserole"
@@ -14,6 +19,11 @@
       "label": "Lime-Drizzled Shrimp",
       "_id": "6799722941d119070e7d8874",
       "slug": "lime-drizzled-shrimp"
+    },
+    {
+      "label": "Russian Salad",
+      "_id": "67ae796f41d119070e7d88a3",
+      "slug": "russian-salad"
     },
     {
       "label": "Stuffed Pimientos",
@@ -44,6 +54,16 @@
       "label": "Anchovy and Olive Filling",
       "_id": "67b90e6241d119070e7d8948",
       "slug": "anchovy-and-olive-filling"
+    },
+    {
+      "label": "Vietnamese Fresh Spring Rolls",
+      "_id": "67ba498d41d119070e7d89ad",
+      "slug": "vietnamese-fresh-spring-rolls"
+    },
+    {
+      "label": "King Prawns in a Citrus Sauce",
+      "_id": "6853401832ecade4c7b8ae88",
+      "slug": "king-prawns-in-a-citrus-sauce"
     }
   ],
   "tag": {

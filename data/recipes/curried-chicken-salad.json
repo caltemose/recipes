@@ -13,6 +13,17 @@
       "label": "juli",
       "slug": "juli",
       "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    },
+    {
+      "_id": "5a3d3f160836b893a9a14c8c",
+      "label": "salad",
+      "slug": "salad",
+      "__v": 0
     }
   ],
   "_id": "678292bf41d119070e7d86fb",
@@ -21,7 +32,7 @@
   "ingredients": [
     {
       "amount": {
-        "value": 0.6,
+        "value": 0.67,
         "unit": {
           "_id": "596e4ec3b9f4af86168978f9",
           "label": "cup(s)"
@@ -146,5 +157,5 @@
       "step": "ingredients and toss gently. Refrigerate until ready to serve."
     }
   ],
-  "__v": 9
+  "__v": 11
 }

@@ -1,0 +1,144 @@
+{
+  "serves": {
+    "amount": 12
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "6856978c32ecade4c7b8af6f",
+  "label": "Sangria",
+  "slug": "sangria",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6856978e32ecade4c7b8af70",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6856963032ecade4c7b8af61",
+        "label": "fresh fruit",
+        "slug": "fresh-fruit",
+        "__v": 0
+      },
+      "notes": "chopped, plus more for garnish"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "685697a232ecade4c7b8af71",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "685697aa32ecade4c7b8af72",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799719841d119070e7d886d",
+        "label": "brandy",
+        "slug": "brandy",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "685697bd32ecade4c7b8af74",
+          "label": "bottle(s)",
+          "slug": "bottle-s",
+          "__v": 0
+        }
+      },
+      "_id": "685697b032ecade4c7b8af73",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799716541d119070e7d886b",
+        "label": "red wine",
+        "slug": "red-wine",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "685697cb32ecade4c7b8af75",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6789913741d119070e7d8754",
+        "label": "orange juice",
+        "slug": "orange-juice",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "685697d732ecade4c7b8af76",
+      "type": "Ingredient",
+      "item": {
+        "_id": "685697e432ecade4c7b8af77",
+        "label": "lemon-lime soda",
+        "slug": "lemon-lime-soda",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "685697f332ecade4c7b8af78",
+      "step": "Combine fruit, sugar and brandy is a 3-quart pitcher and stir until sugar dissolves. Refrigerate 6-8 hours."
+    },
+    {
+      "_id": "685697fc32ecade4c7b8af79",
+      "step": "When you’re ready to serve, add wine, orange juice and soda to pitcher and stir to combine. Pour over ice and garnish with fruit."
+    }
+  ],
+  "__v": 10
+}

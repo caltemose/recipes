@@ -1,0 +1,109 @@
+{
+  "serves": {
+    "amount": 1
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "685698c632ecade4c7b8af84",
+  "label": "Bad Day Bitter Martini",
+  "slug": "bad-day-bitter-martini",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "685698c832ecade4c7b8af85",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6856995032ecade4c7b8af86",
+        "label": "ice cubes",
+        "slug": "ice-cubes",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6856995b32ecade4c7b8af87",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6856996d32ecade4c7b8af88",
+        "label": "gin",
+        "slug": "gin",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6856997932ecade4c7b8af89",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6856998632ecade4c7b8af8a",
+        "label": "montenegro",
+        "slug": "montenegro",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6856998f32ecade4c7b8af8b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "685699a432ecade4c7b8af8c",
+        "label": "grapefruit",
+        "slug": "grapefruit",
+        "__v": 0
+      },
+      "notes": "peel"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "685699b232ecade4c7b8af8d",
+      "step": "Wrap ice cubes in a clean towel and smack it against the counter a few times to crush. Fill a martini glass with 1 C of crushed ice. Add the remaining ice to a cocktail shaker."
+    },
+    {
+      "_id": "685699b832ecade4c7b8af8e",
+      "step": "Add gin and Montenegro and stir until chilled, about 15 seconds. Discard the ice from the martini glass and strain the gin mixture into the glass. Garnish with grapefruit peel."
+    }
+  ],
+  "__v": 8
+}

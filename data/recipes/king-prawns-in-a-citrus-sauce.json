@@ -1,0 +1,172 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "Fran's Olive Oil Cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "67bb212841d119070e7d8a0d",
+      "label": "pescatarian",
+      "slug": "pescatarian",
+      "__v": 0
+    }
+  ],
+  "_id": "6853401832ecade4c7b8ae88",
+  "label": "King Prawns in a Citrus Sauce",
+  "slug": "king-prawns-in-a-citrus-sauce",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6853401c32ecade4c7b8ae89",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6853402c32ecade4c7b8ae8a",
+        "label": "prawns",
+        "slug": "prawns",
+        "__v": 0
+      },
+      "notes": "with shell, without head"
+    },
+    {
+      "amount": {
+        "value": 1.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6853404332ecade4c7b8ae8b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6853405632ecade4c7b8ae8c",
+        "label": "citrus juice",
+        "slug": "citrus-juice",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "6853406732ecade4c7b8ae8d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "peeled and crushed"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "6853407f32ecade4c7b8ae8f",
+          "label": "handful(s)",
+          "slug": "handful-s",
+          "__v": 0
+        }
+      },
+      "_id": "6853407332ecade4c7b8ae8e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f6",
+        "label": "basil",
+        "name": "basil"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6853408e32ecade4c7b8ae90",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fc",
+        "label": "brown sugar",
+        "name": "brown sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "6853409632ecade4c7b8ae91",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "685340a132ecade4c7b8ae92",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "685340b432ecade4c7b8ae93",
+      "step": "Peel and de-vein the prawns, then rinse. Put the citrus fruit juice, garlic, several basil leaves and the prawns in a container. Close the container firmly or cover with plastic wrap and marinate in the fridge for at least 3 hours."
+    },
+    {
+      "_id": "685340bd32ecade4c7b8ae94",
+      "step": "In a large, high-sided pan, heat up some olive oil. Add the prawns with the marinade and bring them to a simmer on a medium heat for about 2-3 minutes each side. Remove the prawns from the pan, keep warm. Bring the sauce to a boil with the sugar. Season with salt and pepper. Turn off the heat and return the shrimps to the sauce for about 1 minute and let them steep."
+    },
+    {
+      "_id": "685340c632ecade4c7b8ae95",
+      "step": "Arrange the prawns on plates with the sauce, sprinkle with the remaining basil leaves, drizzle with a good splash of olive oil and serve immediately."
+    }
+  ],
+  "__v": 15
+}

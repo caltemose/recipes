@@ -1,0 +1,212 @@
+{
+  "yield": {
+    "amount": 6,
+    "label": "cups"
+  },
+  "source": {
+    "name": "The Glorious Pasta of Italy"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "6850a58032ecade4c7b8ad7a",
+  "label": "Ragu all'Abruzzese",
+  "slug": "ragu-allabruzzese",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6850a58432ecade4c7b8ad7b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      },
+      "notes": "not EVOO"
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6850a59432ecade4c7b8ad7c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6850a5ed32ecade4c7b8ad7f",
+        "label": "beef chuck roast",
+        "slug": "beef-chuck-roast",
+        "__v": 0
+      },
+      "notes": "cut into 4 equal pieces"
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6850a5bc32ecade4c7b8ad7d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6850a5da32ecade4c7b8ad7e",
+        "label": "pork shoulder",
+        "slug": "pork-shoulder",
+        "__v": 0
+      },
+      "notes": "cut into 3 equal pieces"
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6850a60c32ecade4c7b8ad80",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6850a61a32ecade4c7b8ad81",
+        "label": "lamb shoulder",
+        "slug": "lamb-shoulder",
+        "__v": 0
+      },
+      "notes": "cut into 3 equal pieces"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "6850a62632ecade4c7b8ad82",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "6850a62c32ecade4c7b8ad83",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6850a63732ecade4c7b8ad84",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538871832bd7f0c2cd000002",
+        "label": "canned tomatoes",
+        "name": "canned tomatoes",
+        "__v": 0
+      },
+      "notes": "whole or diced, with their juice"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6850a65332ecade4c7b8ad85",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76768",
+        "label": "yellow onion(s)",
+        "name": "yellow onion(s)"
+      },
+      "notes": "finely chopped"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6850a66632ecade4c7b8ad86",
+      "step": "<div>Warm the vegetable oil in a large Dutch oven or other heavy-bottomed pot placed over medium heat. Season the pieces of meat with salt and pepper and add them to the pot. Brown for 3-4 minutes, then turn the pieces to brown the other side, another 3-4 minutes. Remove the pieces to a deep plate or bowl. Set the pot aside.</div>"
+    },
+    {
+      "_id": "6850a67532ecade4c7b8ad87",
+      "step": "Pass the tomatoes through a food mill fitted with the disk with the smallest holes. Discard the solids. Set the milled tomatoes aside."
+    },
+    {
+      "_id": "6850a67d32ecade4c7b8ad88",
+      "step": "Return the pot to medium heat and add the extra-virgin olive oil.&nbsp; Stir in the onion, reduce the heat to medium-low, and sautéed for about 5 minutes, or until the onion is shiny and beginning to soften.&nbsp;"
+    },
+    {
+      "_id": "6850a68532ecade4c7b8ad89",
+      "step": "Pour in the tomatoes, raise the heat to medium-high, and bring to a simmer."
+    },
+    {
+      "_id": "6850a68e32ecade4c7b8ad8a",
+      "step": "Return the meat to the pot and reduce the heat to medium-low or low to maintain a gentle simmer.&nbsp; Cover partially and let the sauce simmer, stirring it from time to time, for about 3 hours, or until the meat is very tender and the sauce is thickened.&nbsp;"
+    },
+    {
+      "_id": "6850a69632ecade4c7b8ad8b",
+      "step": "Add a splash or two of water if the sauce thickens too much before the meat is done. Taste and adjust the seasoning with salt and pepper, if you like."
+    },
+    {
+      "_id": "6850a69632ecade4c7b8ad8c",
+      "step": "Turn off the heat. Remove the meat from the pot before using the sauce. Serve the sauce over pasta alla chittara. Serve the meat as a second course, or save it as a stuffing for cannelloni or ravioli."
+    },
+    {
+      "_id": "6850a6a732ecade4c7b8ad8d",
+      "step": "The sauce can be stored in the fridge for 3 days or in the freezer for 3 months."
+    }
+  ],
+  "__v": 19
+}

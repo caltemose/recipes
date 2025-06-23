@@ -18,6 +18,12 @@
       "_id": "597784abe3f0716170504982",
       "label": "vegetarian",
       "slug": "vegetarian"
+    },
+    {
+      "_id": "5a3d3f160836b893a9a14c8c",
+      "label": "salad",
+      "slug": "salad",
+      "__v": 0
     }
   ],
   "_id": "677076cd41d119070e7d8547",
@@ -194,5 +200,5 @@
       "step": ""
     }
   ],
-  "__v": 15
+  "__v": 16
 }

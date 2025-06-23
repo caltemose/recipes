@@ -19,6 +19,18 @@
       "_id": "597784abe3f0716170504982",
       "label": "vegetarian",
       "slug": "vegetarian"
+    },
+    {
+      "_id": "6857447f32ecade4c7b8b017",
+      "label": "sauce",
+      "slug": "sauce",
+      "__v": 0
+    },
+    {
+      "_id": "6857422532ecade4c7b8b014",
+      "label": "mediterranean",
+      "slug": "mediterranean",
+      "__v": 0
     }
   ],
   "_id": "678058ec41d119070e7d8699",
@@ -151,5 +163,5 @@
       "step": "Combine all ingredients. Transfer to an airtight container, cover and refrigerate for up to 10 days."
     }
   ],
-  "__v": 10
+  "__v": 12
 }

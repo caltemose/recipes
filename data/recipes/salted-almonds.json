@@ -30,6 +30,12 @@
       "_id": "5977849de3f0716170504979",
       "label": "whole 30",
       "slug": "whole-30"
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
     }
   ],
   "_id": "67996f2b41d119070e7d8851",
@@ -74,8 +80,10 @@
       "amount": {
         "value": 1,
         "unit": {
-          "_id": "596e4ec3b9f4af8616897901",
-          "label": "unit(s)"
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
         }
       },
       "_id": "67996f4c41d119070e7d8854",
@@ -125,5 +133,5 @@
       "step": "While the almonds are still warm, sprinkle with salt and paprika or cumin, and toss well together to coat. Serve the almonds warm or cold. Store in an airtight container for up to 3 days."
     }
   ],
-  "__v": 13
+  "__v": 14
 }

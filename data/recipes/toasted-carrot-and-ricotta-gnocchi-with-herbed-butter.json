@@ -1,0 +1,289 @@
+{
+  "yield": {
+    "label": "gnocchi"
+  },
+  "source": {
+    "name": "The Glorious Pasta of Italy"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "6851ee7732ecade4c7b8ae30",
+  "label": "Toasted Carrot and Ricotta Gnocchi with Herbed Butter",
+  "slug": "toasted-carrot-and-ricotta-gnocchi-with-herbed-butter",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6851ee7a32ecade4c7b8ae31",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      },
+      "notes": "peeled and cut into chunks"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6851ee8a32ecade4c7b8ae32",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6851ee9132ecade4c7b8ae33",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6851eea832ecade4c7b8ae34",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a49735c277bd9fe34f72baa",
+        "label": "shallot(s)",
+        "slug": "shallot-s",
+        "__v": 0
+      },
+      "notes": "minced"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6851eeb332ecade4c7b8ae35",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76743",
+        "label": "ricotta",
+        "name": "ricotta"
+      },
+      "notes": "sheep's milk or drained cow's milk"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6851eecb32ecade4c7b8ae36",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707cc541d119070e7d858c",
+        "label": "egg yolks",
+        "slug": "egg-yolks",
+        "__v": 0
+      },
+      "notes": "large, lightly beaten"
+    },
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6851eee132ecade4c7b8ae37",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76733",
+        "label": "parmeggiano",
+        "name": "parmeggiano"
+      },
+      "notes": "grated"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "6851eeef32ecade4c7b8ae38",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672d",
+        "label": "nutmeg",
+        "name": "nutmeg"
+      },
+      "notes": "freshly grated"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6851eeff32ecade4c7b8ae39",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": "plus more for rolling the gnocchi"
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6851ef1932ecade4c7b8ae3a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6851ef1932ecade4c7b8ae3b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707f1a41d119070e7d85a7",
+        "label": "fresh herbs",
+        "slug": "fresh-herbs",
+        "__v": 0
+      },
+      "notes": "minced (parsley, sage, rosemary, oregano)"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6851ef5932ecade4c7b8ae3c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76733",
+        "label": "parmeggiano",
+        "name": "parmeggiano"
+      },
+      "notes": "grated"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6851ef7532ecade4c7b8ae3d",
+      "step": "Melt the butter in a small frying pan placed over medium-low heat. When the butter is melted and begins to sizzle, stir in the herbs and cook, stirring occasionally, for just a couple of minutes or until the butter has taken on the flavor of the herbs."
+    },
+    {
+      "_id": "6851ef7f32ecade4c7b8ae3e",
+      "step": "Remove from the heat. Spoon some of the herbed butter into a baking dish large enough to hold all the gnocchi in one snug layer. Set the dish near the stove."
+    },
+    {
+      "_id": "6851ef8932ecade4c7b8ae3f",
+      "step": "Heat the oven to 400 degrees F. Place the carrots in a single layer in a shallow roasting pan and drizzle 1 T olive oil. Sprinkle with a little salt and toss with a spatula."
+    },
+    {
+      "_id": "6851ef9432ecade4c7b8ae40",
+      "step": "Roast the carrots for 30-40 minutes or until they are completely tender and browned in spots. remove from the oven and reduce the over temperature to 375 degrees."
+    },
+    {
+      "_id": "6851efa032ecade4c7b8ae41",
+      "step": "Heat the butter in a frying pan placed over medium heat. When the butter is melted and begins to sizzle, stir in the shallots and sauce, stirring frequently, 4-5 minutes, or until they begin to soften."
+    },
+    {
+      "_id": "6851efaa32ecade4c7b8ae42",
+      "step": "Add the roasted carrots and toss to combine them with the shallots. Remove from the heat and let cool to room temperature."
+    },
+    {
+      "_id": "6851efb732ecade4c7b8ae43",
+      "step": "Place a scoop of the flour in a shallow bowl. Have two standard tablespoons at hand. With one spoon, scoop up about 1 T of the carrot mixture and then transfer it to the other spoon. Transfer the mixture back and forth a few times to help shape it into a ball."
+    },
+    {
+      "_id": "6851efb732ecade4c7b8ae44",
+      "step": "Transfer the carrots to a food processor and process until fairly smooth (a few little bits are good for texture). Scoop out the carrot puree into a bowl. Add the ricotta, egg yolks, parmesan, 1/2 t salt, nutmeg and black pepper. Gently stir in the flour, taking care to combine everything thoroughly."
+    },
+    {
+      "_id": "6851efcf32ecade4c7b8ae45",
+      "step": "Gently drop the ball into the bowl of flour and coat it lightly. Then roll the ball between your palms to produce a chestnut-size nugget. Transfer to a lightly floured rimmed baking sheet. Repeat until to have used up all the mixture."
+    },
+    {
+      "_id": "6851efdb32ecade4c7b8ae46",
+      "step": "Bring a large pot of water to a rolling boil and salt it generously. When the water is boiling, carefully drop half the gnocchi into the pot. Cover the pot until the water returns to a boil, then uncover and cook the gnocchi for about 5 minutes. They will float to the top when they are nearly done."
+    },
+    {
+      "_id": "6851efe932ecade4c7b8ae47",
+      "step": "Using a large slotted spoon, remove the gnocchi to the prepared baking dish. Cook the remaining gnocchi in the same way and add them to the baking dish. Drizzle the remaining herbed butter over the gnocchi."
+    },
+    {
+      "_id": "6851efe932ecade4c7b8ae48",
+      "step": "Sprinkle the parmesan over the gnocchi and place in the oven.&nbsp; Bake for about 15 minutes or until they are hot through and the cheese is melted. Serve immediately. Pass additional cheese at the table."
+    }
+  ],
+  "__v": 27
+}

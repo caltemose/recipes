@@ -1,0 +1,124 @@
+{
+  "yield": {
+    "amount": 2,
+    "label": "cups"
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "68569a8b32ecade4c7b8af9c",
+  "label": "Preserved Lemons-Ade",
+  "slug": "preserved-lemons-ade",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569a8d32ecade4c7b8af9d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68569b3832ecade4c7b8afa8",
+        "label": "quick preserved lemons",
+        "slug": "quick-preserved-lemons",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569b4232ecade4c7b8afa9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569b4b32ecade4c7b8afaa",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569b5532ecade4c7b8afab",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76725",
+        "label": "lemon juice",
+        "name": "lemon juice"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "68569b5d32ecade4c7b8afac",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6855d85f32ecade4c7b8af26",
+        "label": "sparkling water",
+        "slug": "sparkling-water",
+        "__v": 0
+      },
+      "notes": "for serving"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "68569b7632ecade4c7b8afaf",
+      "step": "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Helvetica; color: rgb(0, 0, 0);\">Combined preserved lemons, sugar and water in small saucepan.<span class=\"Apple-converted-space\">&nbsp; </span>Bring to a simmer over medium heat and cook until the sugar dissolves, about 1 minute.<span class=\"Apple-converted-space\">&nbsp; </span>Cool syrup off the heat for 1 hour.<span class=\"Apple-converted-space\">&nbsp; </span>Add lemon juice and stir to combine.</p>"
+    },
+    {
+      "_id": "68569b7e32ecade4c7b8afb0",
+      "step": "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Helvetica; color: rgb(0, 0, 0);\">To serve, pour 2 oz of lemon syrup over ice and top with 4 oz sparking water.</p>"
+    }
+  ],
+  "__v": 11
+}

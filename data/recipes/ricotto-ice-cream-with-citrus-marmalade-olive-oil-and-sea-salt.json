@@ -1,0 +1,179 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "Fran's Olive Oil Cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    },
+    {
+      "_id": "6778686c41d119070e7d862d",
+      "label": "sweets",
+      "slug": "sweets",
+      "__v": 0
+    }
+  ],
+  "_id": "68533f2f32ecade4c7b8ae7b",
+  "label": "Ricotto Ice Cream with Citrus Marmalade, Olive Oil and Sea Salt",
+  "slug": "ricotto-ice-cream-with-citrus-marmalade-olive-oil-and-sea-salt",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 14,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "68533f3132ecade4c7b8ae7c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76743",
+        "label": "ricotta",
+        "name": "ricotta"
+      },
+      "notes": "fresh, cow's milk"
+    },
+    {
+      "amount": {
+        "value": 14,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "68533f7e32ecade4c7b8ae7d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76722",
+        "label": "heavy cream",
+        "name": "heavy cream"
+      }
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "68533f8732ecade4c7b8ae7e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707cc541d119070e7d858c",
+        "label": "egg yolks",
+        "slug": "egg-yolks",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.33,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68533f8f32ecade4c7b8ae7f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "68533f9832ecade4c7b8ae80",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675c",
+        "label": "vanilla extract",
+        "name": "vanilla extract"
+      }
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "68533fa632ecade4c7b8ae81",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68533fb832ecade4c7b8ae82",
+        "label": "citrus marmalade",
+        "slug": "citrus-marmalade",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "68533fc032ecade4c7b8ae83",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "68533fd032ecade4c7b8ae84",
+      "step": "Strain the ricotta through a sieve, stir well with the cream in a pot and heat (do not boil). Beat the egg yolks, sugar, vanilla and a pinch of salt to a light cream."
+    },
+    {
+      "_id": "68533fd932ecade4c7b8ae85",
+      "step": "Prepare a bowl of water with ice cubes. Gradually stir the warm ricotta cream into the creamy egg mixture. Whisk the cream in a metal bowl on top of a double boiler until creamy, taking care that the mixture does not get too hot and bubbles form. After about 20 minutes, place the bowl in the icy water and stir the cream until it has completely cooled."
+    },
+    {
+      "_id": "68533fe332ecade4c7b8ae86",
+      "step": "Pour the cream into a pre-cooled, metal bowl with a tight lid. Freeze the ice cream for at least 5 hours. After 1-1/2 hours, and then every 30 minutes, stir well with a fork."
+    },
+    {
+      "_id": "68533fec32ecade4c7b8ae87",
+      "step": "Place the marmalade in four serving bowls, add a scoop of ricotta ice cream on top, sprinkle with a few flakes of sea salt, drizzle with a dash of olive oil and serve immediately."
+    }
+  ],
+  "__v": 15
+}

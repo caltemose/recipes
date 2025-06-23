@@ -1,0 +1,138 @@
+{
+  "serves": {
+    "amount": 12
+  },
+  "source": {
+    "name": "The Indian Vegan Kitchen"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "685748e232ecade4c7b8b019",
+      "label": "indian",
+      "slug": "indian",
+      "__v": 0
+    }
+  ],
+  "_id": "6855d72932ecade4c7b8af15",
+  "label": "Orange-Ginger Sherbet",
+  "slug": "orange-ginger-sherbet",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855d72b32ecade4c7b8af16",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6855d73532ecade4c7b8af17",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671d",
+        "label": "ginger",
+        "name": "ginger"
+      },
+      "notes": "grated"
+    },
+    {
+      "amount": {
+        "value": 3.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855d74132ecade4c7b8af18",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6855d74c32ecade4c7b8af19",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67798a8941d119070e7d8675",
+        "label": "orange(s)",
+        "slug": "orange-s",
+        "__v": 0
+      },
+      "notes": "or 3 C juice"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6855d75932ecade4c7b8af1a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a4977b9277bd9fe34f72bb9",
+        "label": "lime(s)",
+        "slug": "lime-s",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6855d76832ecade4c7b8af1b",
+      "step": "In a small skillet, combine sugar, ginger and 1 C water. Bring to boil, reduce heat and simmer 10 min. Cool completely. Strain."
+    },
+    {
+      "_id": "6855d76f32ecade4c7b8af1c",
+      "step": "Squeeze orange and lime juice. Strain.&nbsp;&nbsp;"
+    },
+    {
+      "_id": "6855d77532ecade4c7b8af1d",
+      "step": "Combine ginger water, juice, and 2-1/2 C water. Chill."
+    },
+    {
+      "_id": "6855d77b32ecade4c7b8af1e",
+      "step": "Garnish with orange and lime rinds."
+    }
+  ],
+  "__v": 12
+}

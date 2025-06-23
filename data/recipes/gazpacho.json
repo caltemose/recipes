@@ -6,10 +6,16 @@
       "_id": "597784abe3f0716170504982",
       "label": "vegetarian",
       "slug": "vegetarian"
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
     }
   ],
   "_id": "53552cce85da3d10277f5688",
-  "__v": 1,
+  "__v": 2,
   "difficulty": 1,
   "directions": [],
   "ingredients": [

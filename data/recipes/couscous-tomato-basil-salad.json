@@ -15,10 +15,22 @@
       "_id": "597784abe3f0716170504982",
       "label": "vegetarian",
       "slug": "vegetarian"
+    },
+    {
+      "_id": "6857422532ecade4c7b8b014",
+      "label": "mediterranean",
+      "slug": "mediterranean",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d3f160836b893a9a14c8c",
+      "label": "salad",
+      "slug": "salad",
+      "__v": 0
     }
   ],
   "_id": "53552cce85da3d10277f5681",
-  "__v": 6,
+  "__v": 8,
   "difficulty": 2,
   "directions": [
     {
@@ -298,7 +310,7 @@
       "notes": "halved"
     }
   ],
-  "label": "Coucous Tomato Basil Salad",
+  "label": "Couscous Tomato Basil Salad",
   "notes": "If you have a preferred method for making couscous that differs from the instructions here, use it. No worries.",
-  "slug": "coucous-tomato-basil-salad"
+  "slug": "couscous-tomato-basil-salad"
 }

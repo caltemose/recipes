@@ -16,6 +16,11 @@
       "slug": "cucumber-and-onion-salad"
     },
     {
+      "label": "Spiced Olives",
+      "_id": "53552cce85da3d10277f56a0",
+      "slug": "spiced-olives"
+    },
+    {
       "label": "Frittata Muffins",
       "_id": "5a246987bb101c58d6968085",
       "slug": "frittata-muffins"
@@ -34,6 +39,11 @@
       "label": "Spinach Egg Ham Pancakes",
       "_id": "5a425642d254dd0a6a6930d8",
       "slug": "spinach-egg-ham-pancakes"
+    },
+    {
+      "label": "Thai Ginger Chicken Soup",
+      "_id": "5a4977c4277bd9fe34f72bba",
+      "slug": "thai-ginger-chicken-soup"
     },
     {
       "label": "Not Just Another Kale Salad",
@@ -71,14 +81,29 @@
       "slug": "potato-salad"
     },
     {
+      "label": "Tuna Salad",
+      "_id": "6782913641d119070e7d86ec",
+      "slug": "tuna-salad"
+    },
+    {
       "label": "Egg Salad",
       "_id": "6782919a41d119070e7d86f2",
       "slug": "egg-salad"
     },
     {
+      "label": "Curried Chicken Salad",
+      "_id": "678292bf41d119070e7d86fb",
+      "slug": "curried-chicken-salad"
+    },
+    {
       "label": "Poached Eggs",
       "_id": "6782935c41d119070e7d8705",
       "slug": "poached-eggs"
+    },
+    {
+      "label": "Stewed Fruit",
+      "_id": "678990ae41d119070e7d874c",
+      "slug": "stewed-fruit"
     },
     {
       "label": "Gazpacho - Juli",
@@ -101,6 +126,11 @@
       "slug": "salted-almonds"
     },
     {
+      "label": "Lime-Drizzled Shrimp",
+      "_id": "6799722941d119070e7d8874",
+      "slug": "lime-drizzled-shrimp"
+    },
+    {
       "label": "Green Beans with Pine Nuts",
       "_id": "6799736c41d119070e7d8883",
       "slug": "green-beans-with-pine-nuts"
@@ -121,9 +151,34 @@
       "slug": "baby-potatoes-with-aioli"
     },
     {
+      "label": "Pan-Fried Potatoes with Paprika",
+      "_id": "67ae7bcd41d119070e7d88c7",
+      "slug": "pan-fried-potatoes-with-paprika"
+    },
+    {
+      "label": "Stuffed Pimientos",
+      "_id": "67ae7cf241d119070e7d88d5",
+      "slug": "stuffed-pimientos"
+    },
+    {
+      "label": "Tuna Mayonnaise Filling",
+      "_id": "67ae7fdd41d119070e7d88eb",
+      "slug": "tuna-mayonnaise-filling"
+    },
+    {
+      "label": "Sizzling Chili Shrimp",
+      "_id": "67afd8a241d119070e7d8924",
+      "slug": "sizzling-chili-shrimp"
+    },
+    {
       "label": "Eggplant and Bell Pepper Dip",
       "_id": "67afd9ad41d119070e7d8930",
       "slug": "eggplant-and-bell-pepper-dip"
+    },
+    {
+      "label": "Stuffed Cherry Tomatoes",
+      "_id": "67b90d9941d119070e7d893e",
+      "slug": "stuffed-cherry-tomatoes"
     },
     {
       "label": "Anchovy and Olive Filling",
@@ -141,6 +196,11 @@
       "slug": "sauteed-garlic-mushrooms"
     },
     {
+      "label": "Cracked Marinated Olives",
+      "_id": "67b911b841d119070e7d895d",
+      "slug": "cracked-marinated-olives"
+    },
+    {
       "label": "Perfect French Omelette",
       "_id": "67ba478041d119070e7d898e",
       "slug": "perfect-french-omelette"
@@ -149,6 +209,36 @@
       "label": "Beet and Tomato Soup",
       "_id": "67ba4ae941d119070e7d89bd",
       "slug": "beet-and-tomato-soup"
+    },
+    {
+      "label": "Abruzzese Palottine (Veal Meatballs)",
+      "_id": "685098f532ecade4c7b8ad6b",
+      "slug": "abruzzese-palottine-veal-meatballs"
+    },
+    {
+      "label": "Ragu all'Abruzzese",
+      "_id": "6850a58032ecade4c7b8ad7a",
+      "slug": "ragu-allabruzzese"
+    },
+    {
+      "label": "Fresh Tomato Sauce",
+      "_id": "6850ab0832ecade4c7b8adca",
+      "slug": "fresh-tomato-sauce"
+    },
+    {
+      "label": "Mango Ginger Mocktail",
+      "_id": "6855d81232ecade4c7b8af20",
+      "slug": "mango-ginger-mocktail"
+    },
+    {
+      "label": "Basil-Ginger Herbal Tea",
+      "_id": "6855d94f32ecade4c7b8af33",
+      "slug": "basil-ginger-herbal-tea"
+    },
+    {
+      "label": "Barley Water",
+      "_id": "68569b9e32ecade4c7b8afb1",
+      "slug": "barley-water"
     }
   ],
   "tag": {

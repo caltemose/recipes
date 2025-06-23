@@ -1,0 +1,124 @@
+{
+  "yield": {
+    "amount": 1,
+    "label": "quart"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6857419832ecade4c7b8b012",
+      "label": "mexican",
+      "slug": "mexican",
+      "__v": 0
+    }
+  ],
+  "_id": "6856961732ecade4c7b8af5f",
+  "label": "Agua Fresca",
+  "slug": "agua-fresca",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6856961932ecade4c7b8af60",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6856963032ecade4c7b8af61",
+        "label": "fresh fruit",
+        "slug": "fresh-fruit",
+        "__v": 0
+      },
+      "notes": "cut into chunks"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6856964232ecade4c7b8af62",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a4977b9277bd9fe34f72bb9",
+        "label": "lime(s)",
+        "slug": "lime-s",
+        "__v": 0
+      },
+      "notes": "juiced"
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6856964f32ecade4c7b8af63",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6856965532ecade4c7b8af64",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "6856965e32ecade4c7b8af65",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6856966a32ecade4c7b8af66",
+      "step": "Place ingredients in blender and puree until very smooth. Chill. Serve over ice."
+    }
+  ],
+  "__v": 9
+}

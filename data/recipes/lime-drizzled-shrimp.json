@@ -25,6 +25,17 @@
       "label": "tapas",
       "slug": "tapas",
       "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
     }
   ],
   "_id": "6799722941d119070e7d8874",
@@ -154,5 +165,5 @@
       "step": "Transfer the cooked shrimp to a serving dish, season with salt and pepper, and sprinkle on the parsley. Serve piping hot, accompanied by the reserved lime wedges for squeezing over the shrimp."
     }
   ],
-  "__v": 15
+  "__v": 19
 }

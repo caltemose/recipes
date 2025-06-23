@@ -1,0 +1,137 @@
+{
+  "serves": {
+    "amount": 1
+  },
+  "source": {
+    "name": "The Indian Vegan Kitchen"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "685748e232ecade4c7b8b019",
+      "label": "indian",
+      "slug": "indian",
+      "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "6855d81232ecade4c7b8af20",
+  "label": "Mango Ginger Mocktail",
+  "slug": "mango-ginger-mocktail",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6855d81532ecade4c7b8af21",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6855d82832ecade4c7b8af22",
+        "label": "mango nectar",
+        "slug": "mango-nectar",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6855d83032ecade4c7b8af23",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6855d84332ecade4c7b8af24",
+        "label": "ginger tea",
+        "slug": "ginger-tea",
+        "__v": 0
+      },
+      "notes": "made with fresh ginger"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6855d84f32ecade4c7b8af25",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6855d85f32ecade4c7b8af26",
+        "label": "sparkling water",
+        "slug": "sparkling-water",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6855d86932ecade4c7b8af27",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a4977b9277bd9fe34f72bb9",
+        "label": "lime(s)",
+        "slug": "lime-s",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790c",
+          "label": "sprig(s)"
+        }
+      },
+      "_id": "6855d87232ecade4c7b8af28",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672a",
+        "label": "mint",
+        "name": "mint"
+      },
+      "notes": "for ganish"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6855d89432ecade4c7b8af29",
+      "step": "To make ginger tea, slice ginger into thin rounds. (No need to peel the ginger.) Add ginger to a small saucepan of water and bring to a boil. Remove from heat and let steep for 8-10 minutes. Suggest to make the tea extra-strong, since you can always dilute it with water later."
+    },
+    {
+      "_id": "6855d89c32ecade4c7b8af2a",
+      "step": "Mix mango nectar, ginger tea, and sparkling water in a high ball. Add squeeze of lime. Garnish and serve."
+    }
+  ],
+  "__v": 11
+}

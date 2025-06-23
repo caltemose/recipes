@@ -1,0 +1,113 @@
+{
+  "serves": {
+    "amount": 2
+  },
+  "source": {
+    "name": "The Indian Vegan Kitchen"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    }
+  ],
+  "_id": "6855d94f32ecade4c7b8af33",
+  "label": "Basil-Ginger Herbal Tea",
+  "slug": "basil-ginger-herbal-tea",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855d95132ecade4c7b8af34",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6855d95a32ecade4c7b8af35",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671d",
+        "label": "ginger",
+        "name": "ginger"
+      },
+      "notes": "grated"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855d96332ecade4c7b8af36",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f6",
+        "label": "basil",
+        "name": "basil"
+      },
+      "notes": "small leaves"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "6855d97032ecade4c7b8af37",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6855d97d32ecade4c7b8af38",
+      "step": "Boil water with ginger and basil. Remove from heat and steep 3-5 minutes."
+    },
+    {
+      "_id": "6855d98732ecade4c7b8af39",
+      "step": "Strain tea. Serve hot. Add sugar if desired."
+    }
+  ],
+  "__v": 11
+}

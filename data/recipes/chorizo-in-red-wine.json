@@ -13,6 +13,18 @@
       "label": "juli",
       "slug": "juli",
       "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
     }
   ],
   "_id": "6799712641d119070e7d8867",
@@ -111,5 +123,5 @@
       "step": "Serve the chorizo piping hot, in the dish in which it was cooked, sprinkled with parsley to garnish."
     }
   ],
-  "__v": 10
+  "__v": 12
 }

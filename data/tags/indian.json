@@ -1,0 +1,45 @@
+{
+  "recipes": [
+    {
+      "label": "Orange-Ginger Sherbet",
+      "_id": "6855d72932ecade4c7b8af15",
+      "slug": "orange-ginger-sherbet"
+    },
+    {
+      "label": "Mango Ginger Mocktail",
+      "_id": "6855d81232ecade4c7b8af20",
+      "slug": "mango-ginger-mocktail"
+    },
+    {
+      "label": "Mango Lemonade",
+      "_id": "6855d8e432ecade4c7b8af2b",
+      "slug": "mango-lemonade"
+    },
+    {
+      "label": "Spicy-Sour Drink",
+      "_id": "6855da6532ecade4c7b8af45",
+      "slug": "spicy-sour-drink"
+    },
+    {
+      "label": "Pomegranate and Black Tea (Sweet Adeline)",
+      "_id": "6855db6332ecade4c7b8af54",
+      "slug": "pomegranate-and-black-tea-sweet-adeline"
+    },
+    {
+      "label": "Ginger-Mint Masala Chai",
+      "_id": "68569ff832ecade4c7b8aff4",
+      "slug": "ginger-mint-masala-chai"
+    },
+    {
+      "label": "Indian Chai Latte",
+      "_id": "6856a0a932ecade4c7b8b001",
+      "slug": "indian-chai-latte"
+    }
+  ],
+  "tag": {
+    "_id": "685748e232ecade4c7b8b019",
+    "label": "indian",
+    "slug": "indian",
+    "__v": 0
+  }
+}

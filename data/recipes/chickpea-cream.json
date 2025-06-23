@@ -1,0 +1,191 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "Fran's Olive Oil Cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6857447f32ecade4c7b8b017",
+      "label": "sauce",
+      "slug": "sauce",
+      "__v": 0
+    }
+  ],
+  "_id": "6853441732ecade4c7b8aecd",
+  "label": "Chickpea Cream",
+  "slug": "chickpea-cream",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 10.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6853441b32ecade4c7b8aece",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76708",
+        "label": "chickpeas",
+        "name": "chickpeas"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6853442532ecade4c7b8aecf",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a49735c277bd9fe34f72baa",
+        "label": "shallot(s)",
+        "slug": "shallot-s",
+        "__v": 0
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6853442d32ecade4c7b8aed0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f7",
+        "label": "bay leaf",
+        "name": "bay leaf"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "6853443532ecade4c7b8aed1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f3",
+        "label": "baking soda",
+        "name": "baking soda"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897906",
+          "label": "stalk(s)"
+        }
+      },
+      "_id": "6853443d32ecade4c7b8aed2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76705",
+        "label": "celery",
+        "name": "celery"
+      },
+      "notes": "sliced"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "6853445a32ecade4c7b8aed4",
+          "label": "squeeze",
+          "slug": "squeeze",
+          "__v": 0
+        }
+      },
+      "_id": "6853444c32ecade4c7b8aed3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76725",
+        "label": "lemon juice",
+        "name": "lemon juice"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "6853446c32ecade4c7b8aed5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "6853447232ecade4c7b8aed6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6853448032ecade4c7b8aed7",
+      "step": "Soak the chickpeas overnight in plenty of water.&nbsp;"
+    },
+    {
+      "_id": "6853448932ecade4c7b8aed8",
+      "step": "Drain the water from the chickpeas, rinse them and put them in about 1.3 l (5-1/2 C) of water with the shallot, bay leaf, baking soda and celery and cook over a medium heat for about 1-2 hours. Add more water if necessary."
+    },
+    {
+      "_id": "6853449132ecade4c7b8aed9",
+      "step": "Drain the chickpeas, retain the liquid. Put the chickpeas into a mixer, season with a little salt and lemon juice, and blend. Add some cooking liquid until the desired consistency is achived. Season the creamy mixture again with pepper, salt and lemon juice and keep warm."
+    },
+    {
+      "_id": "6853449932ecade4c7b8aeda",
+      "step": "Serve as a bed for beef or other protein or veggies."
+    }
+  ],
+  "__v": 15
+}

@@ -19,6 +19,18 @@
       "_id": "597784abe3f0716170504982",
       "label": "vegetarian",
       "slug": "vegetarian"
+    },
+    {
+      "_id": "6857422532ecade4c7b8b014",
+      "label": "mediterranean",
+      "slug": "mediterranean",
+      "__v": 0
+    },
+    {
+      "_id": "6857447f32ecade4c7b8b017",
+      "label": "sauce",
+      "slug": "sauce",
+      "__v": 0
     }
   ],
   "_id": "67707bc241d119070e7d857f",
@@ -151,5 +163,5 @@
       "step": "Combine cucumber and salt in a colander and let it drain for 15 minutes. Squeeze out the excess moisture. Put cucumber in a medium bowl and combine with yogurt, yogurt cheese, garlic, mint and lemon juice. Adjust the seasoning with salt if necessary."
     }
   ],
-  "__v": 10
+  "__v": 12
 }

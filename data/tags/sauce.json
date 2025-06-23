@@ -1,0 +1,70 @@
+{
+  "recipes": [
+    {
+      "label": "Pesto Genovese",
+      "_id": "53552cce85da3d10277f5696",
+      "slug": "pesto-genovese"
+    },
+    {
+      "label": "Tzaziki Sauce",
+      "_id": "67707bc241d119070e7d857f",
+      "slug": "tzaziki-sauce"
+    },
+    {
+      "label": "Chicken Veloute",
+      "_id": "67707e2841d119070e7d859b",
+      "slug": "chicken-veloute"
+    },
+    {
+      "label": "Herbed Cream Sauce",
+      "_id": "67707e8f41d119070e7d859f",
+      "slug": "herbed-cream-sauce"
+    },
+    {
+      "label": "Savory Greek Yogurt Dip",
+      "_id": "678058ec41d119070e7d8699",
+      "slug": "savory-greek-yogurt-dip"
+    },
+    {
+      "label": "Rosemary Tomato Sauce with Pancetta",
+      "_id": "6850aa5432ecade4c7b8adc0",
+      "slug": "rosemary-tomato-sauce-with-pancetta"
+    },
+    {
+      "label": "Fresh Tomato Sauce",
+      "_id": "6850ab0832ecade4c7b8adca",
+      "slug": "fresh-tomato-sauce"
+    },
+    {
+      "label": "Tomato-Cream Sauce",
+      "_id": "6850abcb32ecade4c7b8add8",
+      "slug": "tomato-cream-sauce"
+    },
+    {
+      "label": "Bechamel Sauce",
+      "_id": "6851e8fe32ecade4c7b8ade5",
+      "slug": "bechamel-sauce"
+    },
+    {
+      "label": "Matching Pasta Shapes with Sauces",
+      "_id": "6851f17232ecade4c7b8ae53",
+      "slug": "matching-pasta-shapes-with-sauces"
+    },
+    {
+      "label": "Pistachio Cream",
+      "_id": "68533de832ecade4c7b8ae68",
+      "slug": "pistachio-cream"
+    },
+    {
+      "label": "Chickpea Cream",
+      "_id": "6853441732ecade4c7b8aecd",
+      "slug": "chickpea-cream"
+    }
+  ],
+  "tag": {
+    "_id": "6857447f32ecade4c7b8b017",
+    "label": "sauce",
+    "slug": "sauce",
+    "__v": 0
+  }
+}

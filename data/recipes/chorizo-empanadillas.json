@@ -99,8 +99,10 @@
       "amount": {
         "value": 1,
         "unit": {
-          "_id": "596e4ec3b9f4af8616897901",
-          "label": "unit(s)"
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
         }
       },
       "_id": "67afd6ea41d119070e7d8910",

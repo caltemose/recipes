@@ -19,10 +19,16 @@
       "_id": "5977849de3f0716170504979",
       "label": "whole 30",
       "slug": "whole-30"
+    },
+    {
+      "_id": "5a3d3f160836b893a9a14c8c",
+      "label": "salad",
+      "slug": "salad",
+      "__v": 0
     }
   ],
   "_id": "53552cce85da3d10277f5683",
-  "__v": 7,
+  "__v": 8,
   "difficulty": 2,
   "directions": [
     {

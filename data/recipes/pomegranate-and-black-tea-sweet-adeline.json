@@ -1,0 +1,108 @@
+{
+  "serves": {
+    "amount": 1
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "685748e232ecade4c7b8b019",
+      "label": "indian",
+      "slug": "indian",
+      "__v": 0
+    }
+  ],
+  "_id": "6855db6332ecade4c7b8af54",
+  "label": "Pomegranate and Black Tea (Sweet Adeline)",
+  "slug": "pomegranate-and-black-tea-sweet-adeline",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855db6632ecade4c7b8af55",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6855d9fd32ecade4c7b8af41",
+        "label": "pomegranate juice",
+        "slug": "pomegranate-juice",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6855db6f32ecade4c7b8af56",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68572f7832ecade4c7b8b010",
+        "label": "cinnamon stick(s)",
+        "slug": "cinnamon-stick-s",
+        "__v": 0
+      },
+      "notes": "or 1 T cinnamon simple syrup"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6855dba732ecade4c7b8af57",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6855d9e132ecade4c7b8af3f",
+        "label": "black tea",
+        "slug": "black-tea",
+        "__v": 0
+      },
+      "notes": "Earl Gray"
+    },
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855dbb832ecade4c7b8af58",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6855dbd332ecade4c7b8af59",
+      "step": "For tea, add pomegranate juice and cinnamon syrup to mug. Add hot water and teabag. Steep for 3-5 minutes."
+    }
+  ],
+  "__v": 8
+}

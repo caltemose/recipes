@@ -10,6 +10,18 @@
       "label": "juli",
       "slug": "juli",
       "__v": 0
+    },
+    {
+      "_id": "67bb212841d119070e7d8a0d",
+      "label": "pescatarian",
+      "slug": "pescatarian",
+      "__v": 0
+    },
+    {
+      "_id": "685760bc32ecade4c7b8b01c",
+      "label": "vietnamese",
+      "slug": "vietnamese",
+      "__v": 0
     }
   ],
   "_id": "67ba498d41d119070e7d89ad",
@@ -190,5 +202,5 @@
       "step": "Serve with dipping sauce. You can use plum sauce, nouc cham vietnamese sauce, or other sauce. These can be a good appetizer or be eaten as a light dinner with a side of rice."
     }
   ],
-  "__v": 14
+  "__v": 16
 }

@@ -24,6 +24,17 @@
       "_id": "597784abe3f0716170504982",
       "label": "vegetarian",
       "slug": "vegetarian"
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
     }
   ],
   "_id": "67ae7bcd41d119070e7d88c7",
@@ -153,8 +164,10 @@
       "amount": {
         "value": 1,
         "unit": {
-          "_id": "596e4ec3b9f4af8616897901",
-          "label": "unit(s)"
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
         }
       },
       "_id": "67ae7c6c41d119070e7d88cf",
@@ -185,5 +198,5 @@
       "step": "Serve hot, garnished with parsley sprigs."
     }
   ],
-  "__v": 15
+  "__v": 17
 }

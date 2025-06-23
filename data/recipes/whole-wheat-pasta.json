@@ -1,0 +1,138 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "yield": {
+    "amount": 1,
+    "label": "pound"
+  },
+  "source": {
+    "name": "The Glorious Pasta of Italy"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "685096a832ecade4c7b8ad4f",
+  "label": "Whole Wheat Pasta",
+  "slug": "whole-wheat-pasta",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "685096aa32ecade4c7b8ad50",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76765",
+        "label": "whole wheat flour",
+        "name": "whole wheat flour"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "685096c532ecade4c7b8ad51",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "685096e532ecade4c7b8ad52",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "685096f332ecade4c7b8ad53",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.67,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6850973532ecade4c7b8ad55",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": "tepid"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6850976132ecade4c7b8ad57",
+      "step": "Put the flours and salt in a food processor. Pulse briefly to combine. Drizzle in the olive oil and turn on the machine. Begin slowly pouring the water through the feed tube, adding only as much as you need for the dough to form crumbs that look like small curds."
+    },
+    {
+      "_id": "6850976c32ecade4c7b8ad58",
+      "step": "Pinch together a bit off the mixture and roll it around. It should form a soft ball. If the mixture seems dry, add a few more drops of oil and pulse briefly. It it seems too wet and sticky, add additional \"00\" flour, 1 T at a time, and pulse briefly."
+    },
+    {
+      "_id": "6850976c32ecade4c7b8ad59",
+      "step": "Turn the mixture out onto a clean work surface sprinkled lightly with \"00\" flour and press it together with your hands to form a rough ball."
+    },
+    {
+      "_id": "6850978132ecade4c7b8ad5a",
+      "step": "Knead the dough: Using the palm of your hand, push the dough gently but firmly away from you, and then fold it over toward you. Rotate the dough a quarter turn, and repeat the pushing and folding motion. Continue kneading for several minutes until the dough is smooth. Form it into a ball and wrap it tightly in plastic wrap. Let the dough rest at room temperature for 30 minutes before using."
+    }
+  ],
+  "__v": 14
+}

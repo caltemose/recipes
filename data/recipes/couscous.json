@@ -15,6 +15,12 @@
       "_id": "597784abe3f0716170504982",
       "label": "vegetarian",
       "slug": "vegetarian"
+    },
+    {
+      "_id": "6857422532ecade4c7b8b014",
+      "label": "mediterranean",
+      "slug": "mediterranean",
+      "__v": 0
     }
   ],
   "_id": "6770764541d119070e7d853e",
@@ -80,7 +86,12 @@
         }
       },
       "_id": "6770767241d119070e7d8542",
-      "type": "Ingredient"
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
     }
   ],
   "directions": [
@@ -101,5 +112,5 @@
       "step": "Cover tightly with aluminum foil and place in oven for 10 minutes."
     }
   ],
-  "__v": 10
+  "__v": 13
 }

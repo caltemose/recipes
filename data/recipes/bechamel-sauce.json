@@ -1,0 +1,160 @@
+{
+  "yield": {
+    "amount": 3,
+    "label": "cups"
+  },
+  "source": {
+    "name": "The Glorious Pasta of Italy"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "6857431432ecade4c7b8b015",
+      "label": "french",
+      "slug": "french",
+      "__v": 0
+    },
+    {
+      "_id": "6857447f32ecade4c7b8b017",
+      "label": "sauce",
+      "slug": "sauce",
+      "__v": 0
+    }
+  ],
+  "_id": "6851e8fe32ecade4c7b8ade5",
+  "label": "Bechamel Sauce",
+  "slug": "bechamel-sauce",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6851e90232ecade4c7b8ade6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      },
+      "notes": "whole or 2%"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6851e91432ecade4c7b8ade7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6851e92132ecade4c7b8ade8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6851e93032ecade4c7b8ade9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "6851e93a32ecade4c7b8adea",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "6851e94232ecade4c7b8adeb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672d",
+        "label": "nutmeg",
+        "name": "nutmeg"
+      },
+      "notes": "freshly grated"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6851e96232ecade4c7b8adec",
+      "step": "Pour the milk into a saucepan and bring just to a boil over medium heat. Do not let it boil over. Remove the pan from the heat."
+    },
+    {
+      "_id": "6851e97032ecade4c7b8aded",
+      "step": "Melt the butter in a heavy-bottomed saucepan over medium heat. Whisk in the flour and cook, stirring constantly, for 2 minutes. Add the hot milk in driblets, whisking constantly and taking care to avoid lumps and scorching."
+    },
+    {
+      "_id": "6851e97a32ecade4c7b8adee",
+      "step": "When all of the milk has been added, cook the sauce, stirring frequently with a wooden spoon or silicone spatula, for 10-13 minutes or until it is thick enough to coat the back of the spoon. Season with salt, pepper and nutmeg and remove from the heat."
+    },
+    {
+      "_id": "6851e98732ecade4c7b8adef",
+      "step": "The sauce may be stored in a tightly lidded container in the fridge for up to 3 days. Reheat it in a scalepan over low heat, adding a splash or two of milk if necessary to loosen it."
+    }
+  ],
+  "__v": 14
+}

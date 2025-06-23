@@ -46,6 +46,11 @@
       "slug": "linsensuppe"
     },
     {
+      "label": "Chicken Wild Rice Soup",
+      "_id": "6789918441d119070e7d8757",
+      "slug": "chicken-wild-rice-soup"
+    },
+    {
       "label": "Sopa de Tortilla",
       "_id": "678bc45041d119070e7d8785",
       "slug": "sopa-de-tortilla"
@@ -104,6 +109,11 @@
       "label": "Beet and Tomato Soup",
       "_id": "67ba4ae941d119070e7d89bd",
       "slug": "beet-and-tomato-soup"
+    },
+    {
+      "label": "Caldo Verde",
+      "_id": "6851f25d32ecade4c7b8ae5a",
+      "slug": "caldo-verde"
     }
   ],
   "tag": {

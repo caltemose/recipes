@@ -6,10 +6,16 @@
       "_id": "597784d0e3f0716170504990",
       "label": "soup",
       "slug": "soup"
+    },
+    {
+      "_id": "68575d4b32ecade4c7b8b01b",
+      "label": "jamaican",
+      "slug": "jamaican",
+      "__v": 0
     }
   ],
   "_id": "53887f232bd7f0c2cd000005",
-  "__v": 1,
+  "__v": 2,
   "difficulty": 1,
   "directions": [],
   "ingredients": [

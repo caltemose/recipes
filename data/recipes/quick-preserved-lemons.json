@@ -1,0 +1,102 @@
+{
+  "yield": {
+    "amount": 1,
+    "label": "pint"
+  },
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "68569a9c32ecade4c7b8af9e",
+  "label": "Quick Preserved Lemons",
+  "slug": "quick-preserved-lemons",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "68569a9d32ecade4c7b8af9f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      },
+      "notes": "medium, scrubbed and dried"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569aaf32ecade4c7b8afa0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      },
+      "notes": "coarse sea salt"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "68569abe32ecade4c7b8afa1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      },
+      "notes": "juiced"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "68569ad032ecade4c7b8afa2",
+      "step": "Remove top and tail from each lemon."
+    },
+    {
+      "_id": "68569ad932ecade4c7b8afa3",
+      "step": "Slice each lemon into 8 wedges, removing any seeds."
+    },
+    {
+      "_id": "68569ae932ecade4c7b8afa4",
+      "step": "Layer sliced lemons in a wide-mouthed jar - sprinkling with salt at each layer."
+    },
+    {
+      "_id": "68569af132ecade4c7b8afa5",
+      "step": "Top the jar with any remaining lemon juice, leaving about 1/2 inch of head space in the jar."
+    },
+    {
+      "_id": "68569af832ecade4c7b8afa6",
+      "step": "Stash in the refrigerator for 4 days, then flip the bottle over and age another 4 days before sampling.&nbsp; The peel should be nice and soft."
+    },
+    {
+      "_id": "68569b0032ecade4c7b8afa7",
+      "step": "This can be used immediately or kept in the fridge for up to 3 months."
+    }
+  ],
+  "__v": 12
+}

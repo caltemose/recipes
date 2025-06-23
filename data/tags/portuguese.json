@@ -1,0 +1,20 @@
+{
+  "recipes": [
+    {
+      "label": "Caldo Verde",
+      "_id": "6851f25d32ecade4c7b8ae5a",
+      "slug": "caldo-verde"
+    },
+    {
+      "label": "Porco com Ameijoas a Alentejana",
+      "_id": "685555f932ecade4c7b8aedb",
+      "slug": "porco-com-ameijoas-a-alentejana"
+    }
+  ],
+  "tag": {
+    "_id": "685743fc32ecade4c7b8b016",
+    "label": "portuguese",
+    "slug": "portuguese",
+    "__v": 0
+  }
+}

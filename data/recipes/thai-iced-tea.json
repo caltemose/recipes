@@ -1,0 +1,243 @@
+{
+  "yield": {
+    "amount": 1,
+    "label": "quart"
+  },
+  "source": {
+    "name": "Alton Brown + Juli"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5a49792e277bd9fe34f72bc7",
+      "label": "thai",
+      "slug": "thai",
+      "__v": 0
+    }
+  ],
+  "_id": "68569c0f32ecade4c7b8afbb",
+  "label": "Thai Iced Tea",
+  "slug": "thai-iced-tea",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569c1132ecade4c7b8afbc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "68569c2a32ecade4c7b8afbe",
+          "label": "bag(s)",
+          "slug": "bag-s",
+          "__v": 0
+        }
+      },
+      "_id": "68569c1932ecade4c7b8afbd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6855d9e132ecade4c7b8af3f",
+        "label": "black tea",
+        "slug": "black-tea",
+        "__v": 0
+      },
+      "notes": "earl gray"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "68569c3732ecade4c7b8afbf",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68569c4932ecade4c7b8afc0",
+        "label": "tamarind pulp",
+        "slug": "tamarind-pulp",
+        "__v": 0
+      },
+      "notes": "smashed"
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "68569c5732ecade4c7b8afc1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a246dbf2c912bb7ffba8359",
+        "label": "cardamom",
+        "slug": "cardamom",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 8,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "68569c6232ecade4c7b8afc2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670c",
+        "label": "cloves",
+        "name": "cloves"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "68569c6c32ecade4c7b8afc3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76751",
+        "label": "star anise",
+        "name": "star anise"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "68569c7532ecade4c7b8afc4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670b",
+        "label": "cinnamon",
+        "name": "cinnamon"
+      },
+      "notes": "stick"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "68569c7e32ecade4c7b8afc5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7675c",
+        "label": "vanilla extract",
+        "name": "vanilla extract"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "68569c8532ecade4c7b8afc6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.12,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569c8e32ecade4c7b8afc7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      },
+      "notes": "1/8 cup"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "68569c9932ecade4c7b8afc8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6777242c41d119070e7d85b3",
+        "label": "half and half",
+        "slug": "half-and-half",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "68569cab32ecade4c7b8afc9",
+      "step": "Bring water to boil in a 2-quart saucepan. Remove from the boil and add tea bags, tamarind, cardamom, cloves, star anise, cinnamon, vanilla and salt."
+    },
+    {
+      "_id": "68569cb132ecade4c7b8afca",
+      "step": "Cover pan with a lid and steep for 20 minutes."
+    },
+    {
+      "_id": "68569cb732ecade4c7b8afcb",
+      "step": "Remove tea bags and strain out spices. Add sugar and stir to dissolve."
+    },
+    {
+      "_id": "68569cbd32ecade4c7b8afcc",
+      "step": "Chill for at least 8 hours. Serve over ice with a splash of half-and-half."
+    }
+  ],
+  "__v": 18
+}

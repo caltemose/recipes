@@ -20,11 +20,6 @@
       "label": "sweets",
       "slug": "sweets",
       "__v": 0
-    },
-    {
-      "_id": "597784abe3f0716170504982",
-      "label": "vegetarian",
-      "slug": "vegetarian"
     }
   ],
   "_id": "67798a7941d119070e7d8673",
@@ -80,5 +75,5 @@
       "step": "Add strips back into pan with sugar and 2 C water and cook for 45 minutes over medium-high heat. Lower heat and cook for another 10-15 minutes until syrup reduces and dry sugar crystals begin to form. Immediately pour out the peels onto a cooling rack set over a piece of parchment. Spread the orange peel pieces into an even layer, allowing any excess sugar to fall away. Cool for 1 hour before storing. Keep any stray sugar for sweetening tea."
     }
   ],
-  "__v": 8
+  "__v": 9
 }

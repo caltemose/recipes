@@ -1,0 +1,94 @@
+{
+  "source": {
+    "name": "Fran's Olive Oil Cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "6857447f32ecade4c7b8b017",
+      "label": "sauce",
+      "slug": "sauce",
+      "__v": 0
+    },
+    {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    }
+  ],
+  "_id": "68533de832ecade4c7b8ae68",
+  "label": "Pistachio Cream",
+  "slug": "pistachio-cream",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "68533def32ecade4c7b8ae69",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68533e0832ecade4c7b8ae6a",
+        "label": "pistachios",
+        "slug": "pistachios",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "68533e1632ecade4c7b8ae6b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67898fdf41d119070e7d8749",
+        "label": "powdered sugar",
+        "slug": "powdered-sugar",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68533e2532ecade4c7b8ae6c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "68533e3232ecade4c7b8ae6d",
+      "step": "Put the ingredients in a mixer and blend to a smooth cream. Squeeze the cream through a fine sieve."
+    }
+  ],
+  "__v": 8
+}

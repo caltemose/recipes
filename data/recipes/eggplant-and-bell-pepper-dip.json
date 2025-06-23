@@ -26,6 +26,12 @@
       "_id": "5977849de3f0716170504979",
       "label": "whole 30",
       "slug": "whole-30"
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
     }
   ],
   "_id": "67afd9ad41d119070e7d8930",
@@ -175,5 +181,5 @@
       "step": "Serve warm, at room temperature, or late cool for 30 minutes, then let chill in the fridge for at least 1 hour and serve cold. Garnish with cilantro sprigs and accompany with crusty bread."
     }
   ],
-  "__v": 17
+  "__v": 18
 }

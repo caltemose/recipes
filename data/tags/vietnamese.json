@@ -1,0 +1,15 @@
+{
+  "recipes": [
+    {
+      "label": "Vietnamese Fresh Spring Rolls",
+      "_id": "67ba498d41d119070e7d89ad",
+      "slug": "vietnamese-fresh-spring-rolls"
+    }
+  ],
+  "tag": {
+    "_id": "685760bc32ecade4c7b8b01c",
+    "label": "vietnamese",
+    "slug": "vietnamese",
+    "__v": 0
+  }
+}

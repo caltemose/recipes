@@ -7,10 +7,16 @@
       "label": "bread",
       "slug": "bread",
       "__v": 0
+    },
+    {
+      "_id": "6857422532ecade4c7b8b014",
+      "label": "mediterranean",
+      "slug": "mediterranean",
+      "__v": 0
     }
   ],
   "_id": "53552cce85da3d10277f5697",
-  "__v": 1,
+  "__v": 2,
   "difficulty": 2,
   "directions": [],
   "ingredients": [

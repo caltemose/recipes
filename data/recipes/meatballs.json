@@ -36,8 +36,13 @@
       },
       "_id": "5973350564b52eeae5d1ea46",
       "type": "Ingredient",
-      "item": null,
-      "notes": "this has wrong _id"
+      "item": {
+        "_id": "6857358632ecade4c7b8b011",
+        "label": "bread crumbs",
+        "slug": "bread-crumbs",
+        "__v": 0
+      },
+      "notes": ""
     },
     {
       "amount": {

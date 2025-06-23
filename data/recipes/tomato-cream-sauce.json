@@ -1,0 +1,183 @@
+{
+  "yield": {
+    "amount": 3,
+    "label": "cups"
+  },
+  "source": {
+    "name": "The Glorious Pasta of Italy"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6857447f32ecade4c7b8b017",
+      "label": "sauce",
+      "slug": "sauce",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "6850abcb32ecade4c7b8add8",
+  "label": "Tomato-Cream Sauce",
+  "slug": "tomato-cream-sauce",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6850abcf32ecade4c7b8add9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6850abd732ecade4c7b8adda",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6850abde32ecade4c7b8addb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76768",
+        "label": "yellow onion(s)",
+        "name": "yellow onion(s)"
+      },
+      "notes": "small, chopped"
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6850abe832ecade4c7b8addc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      },
+      "notes": "peeled and chopped"
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6850ac0132ecade4c7b8addd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76705",
+        "label": "celery",
+        "name": "celery"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "677727a041d119070e7d85e1",
+          "label": "can(s)",
+          "slug": "can-s",
+          "__v": 0
+        }
+      },
+      "_id": "6850ac0d32ecade4c7b8adde",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538871832bd7f0c2cd000002",
+        "label": "canned tomatoes",
+        "name": "canned tomatoes",
+        "__v": 0
+      },
+      "notes": "28 oz, with their juices"
+    },
+    {
+      "amount": {
+        "value": 0.375,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6850ac2032ecade4c7b8addf",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76722",
+        "label": "heavy cream",
+        "name": "heavy cream"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6850ac7632ecade4c7b8ade0",
+      "step": "Warm the oil and butter in a heavy-bottomed pot placed over medium heat. When the butter is melted and begins to sizzle, add the onion, carrots and celery and sauce, stirring often, for about 15 minutes or until the vegetables are softened. If necessary, reduce the heat to medium-low to prevent the vegetables from browning."
+    },
+    {
+      "_id": "6850ac8032ecade4c7b8ade1",
+      "step": "While the vegetables are cooking, pass the tomatoes through a food mill fitted with the disk with the smallest holes. Discard the solids."
+    },
+    {
+      "_id": "6850ac8932ecade4c7b8ade2",
+      "step": "Add the milled tomatoes to the vegetables and stir in 1 teaspoon salt and several grids of black pepper. Cover partially and cook at a gentle simmer for 45 minutes, or until the vegetables are completely tender. Remove from the heat and let the sauce cool for 10 minutes."
+    },
+    {
+      "_id": "6850ac9132ecade4c7b8ade3",
+      "step": "Pure the sauce using an immersion blender. Add the cream, place over medium heat, and bring the sauce just to a simmer. Taste and add salt and pepper if needed."
+    },
+    {
+      "_id": "6850ac9932ecade4c7b8ade4",
+      "step": "The sauce may be stored in a tightly lidded contained in the fridge for up to 3 days or in the freezer for up to 3 months. If freezing, omit the cream and add it when you reheat the sauce."
+    }
+  ],
+  "__v": 16
+}

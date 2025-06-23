@@ -1,0 +1,143 @@
+{
+  "yield": {
+    "label": "750 ml bottles"
+  },
+  "source": {
+    "name": "Vincent Schiavelli"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "68569d7532ecade4c7b8afcd",
+  "label": "Coffee Liqueur",
+  "slug": "coffee-liqueur",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569d7732ecade4c7b8afce",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6856972132ecade4c7b8af6c",
+        "label": "ground coffee",
+        "slug": "ground-coffee",
+        "__v": 0
+      },
+      "notes": "espresso beans"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569d8732ecade4c7b8afcf",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68569da632ecade4c7b8afd0",
+        "label": "190-proof alcohol",
+        "slug": "190-proof-alcohol",
+        "__v": 0
+      },
+      "notes": "everclear, plus 2 T"
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569db332ecade4c7b8afd1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569dc532ecade4c7b8afd2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "68569dcc32ecade4c7b8afd3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76722",
+        "label": "heavy cream",
+        "name": "heavy cream"
+      },
+      "notes": "to float on top"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "68569dee32ecade4c7b8afd4",
+      "step": "Place all the ingredients except the cream in an appropriate-sized canning jar. Secure the lid and macerate for 6 days."
+    },
+    {
+      "_id": "68569df532ecade4c7b8afd5",
+      "step": "The day the maceration is completed, sterilize the bottles. Place them in a sink and fill with boiling water. After a few minutes, drain them and let them cool."
+    },
+    {
+      "_id": "68569dfb32ecade4c7b8afd6",
+      "step": "Filter the alcohol through a clean “gold” type filter into a clean jar. When filtering be sure to use a filter normally used for brewing coffee, so as not to taint the one used for other liqueur flavors."
+    },
+    {
+      "_id": "68569e0132ecade4c7b8afd7",
+      "step": "Boil water. Remove from stove and add sugar to dissolve, stirring slowly."
+    },
+    {
+      "_id": "68569e0a32ecade4c7b8afd8",
+      "step": "Bottle the liqueur when ingredients have cooled. Let the air bubbles escape before corking."
+    },
+    {
+      "_id": "68569e1132ecade4c7b8afd9",
+      "step": "Serve in cordial glasses, with a small layer of heavy cream floated on top. This liqueur is approx 42 proof."
+    }
+  ],
+  "__v": 13
+}

@@ -1,0 +1,94 @@
+{
+  "source": {
+    "name": "Alton Brown"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "6856980c32ecade4c7b8af7a",
+  "label": "Fiery Ginger Ale Concentrate",
+  "slug": "fiery-ginger-ale-concentrate",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 125,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        }
+      },
+      "_id": "6856983432ecade4c7b8af7b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6856985032ecade4c7b8af7d",
+        "label": "candied ginger",
+        "slug": "candied-ginger",
+        "__v": 0
+      },
+      "notes": "coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6856983732ecade4c7b8af7c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68572f7832ecade4c7b8b010",
+        "label": "cinnamon stick(s)",
+        "slug": "cinnamon-stick-s",
+        "__v": 0
+      },
+      "notes": "lightly crushed"
+    },
+    {
+      "amount": {
+        "value": 575,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fd",
+          "label": "gram(s)"
+        }
+      },
+      "_id": "6856986c32ecade4c7b8af7e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": "20 oz"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6856988f32ecade4c7b8af81",
+      "step": "Bring all ingredients to a boil over high heat and keep it there for 2 minutes. Then kill the heat and allow to steep for 1 hour."
+    },
+    {
+      "_id": "6856989632ecade4c7b8af82",
+      "step": "Strain, cool completely and refrigerate in a sealed container for up to 1 month."
+    },
+    {
+      "_id": "6856989c32ecade4c7b8af83",
+      "step": "When you desire a glass, simply mix 2 oz syrup with 6-8 oz of cold sparking water."
+    }
+  ],
+  "__v": 10
+}

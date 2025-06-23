@@ -1,0 +1,107 @@
+{
+  "yield": {
+    "amount": 1,
+    "label": "bottle"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "68569f7e32ecade4c7b8afed",
+  "label": "Strawberry-Thyme Prosecco",
+  "slug": "strawberry-thyme-prosecco",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "68569f7f32ecade4c7b8afee",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6777240341d119070e7d85b1",
+        "label": "strawberries",
+        "slug": "strawberries",
+        "__v": 0
+      },
+      "notes": "fresh or frozen, muddled (or strawberry nectar)"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "68569f9532ecade4c7b8afef",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27be41b2f68404000003",
+        "label": "thyme",
+        "name": "thyme",
+        "__v": 0
+      },
+      "notes": "minced"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "68569fa232ecade4c7b8aff0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc53341d119070e7d8792",
+        "label": "lime juice",
+        "slug": "lime-juice",
+        "__v": 0
+      },
+      "notes": "or lemon juice"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "685697bd32ecade4c7b8af74",
+          "label": "bottle(s)",
+          "slug": "bottle-s",
+          "__v": 0
+        }
+      },
+      "_id": "68569fbb32ecade4c7b8aff1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68569fc832ecade4c7b8aff2",
+        "label": "prosecco",
+        "slug": "prosecco",
+        "__v": 0
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "68569fd232ecade4c7b8aff3",
+      "step": "Mix and serve chilled or over ice."
+    }
+  ],
+  "__v": 7
+}

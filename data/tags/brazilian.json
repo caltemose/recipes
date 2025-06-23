@@ -1,0 +1,15 @@
+{
+  "recipes": [
+    {
+      "label": "Pao de Queijo",
+      "_id": "67ba50d641d119070e7d89dc",
+      "slug": "pao-de-queijo"
+    }
+  ],
+  "tag": {
+    "_id": "68575b9632ecade4c7b8b01a",
+    "label": "brazilian",
+    "slug": "brazilian",
+    "__v": 0
+  }
+}

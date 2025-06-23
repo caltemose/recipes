@@ -1,0 +1,167 @@
+{
+  "yield": {
+    "amount": 1,
+    "label": "pound"
+  },
+  "source": {
+    "name": "The Glorious Pasta of Italy"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "6851ed9532ecade4c7b8ae22",
+  "label": "Spinach Pasta Dough",
+  "slug": "spinach-pasta-dough",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 9,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6851ed9832ecade4c7b8ae23",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674f",
+        "label": "spinach",
+        "name": "spinach"
+      },
+      "notes": "fresh baby leaves"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6851ed9832ecade4c7b8ae24",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76714",
+        "label": "egg(s)",
+        "name": "egg(s)"
+      },
+      "notes": "extra large"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6851edb532ecade4c7b8ae25",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766ec",
+        "label": "all-purpose flour",
+        "name": "all-purpose flour"
+      },
+      "notes": "2-2.25 cups"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6851edb532ecade4c7b8ae26",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674c",
+        "label": "semolina",
+        "name": "semolina"
+      },
+      "notes": "plus more for dusting"
+    },
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6851edd532ecade4c7b8ae27",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "6851ede432ecade4c7b8ae28",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672d",
+        "label": "nutmeg",
+        "name": "nutmeg"
+      },
+      "notes": "freshly ground"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6851edf732ecade4c7b8ae29",
+      "step": "Pour 1-2 T of water into a pot over medium-high heat. Add the spinach, cover, and cook for 3-5 minutes or until wilted and tender. Drain the spinach in a colander. when it is cool enough to handle, use your hands to squeeze out as much liquid as possible."
+    },
+    {
+      "_id": "6851ee0332ecade4c7b8ae2a",
+      "step": "Put the spinach and 1 egg in a food processor. Process to a smooth puree. Scoop the spinach mixture into a bowl. was and dry the work bowl and bald of the food processor and reassemble the processor."
+    },
+    {
+      "_id": "6851ee0332ecade4c7b8ae2b",
+      "step": "Put 2 C \"00\" flour, 2 T semolina flour, salt and nutmeg in the food processor and pulse briefly to combine. Add the spinach mixture and the remaining egg and pulse until the mixture forms crumbs that look like small curds."
+    },
+    {
+      "_id": "6851ee1e32ecade4c7b8ae2c",
+      "step": "Pinch together a bit of the mixture and roll it around. It should form a soft ball. If the mixture seems dry, drizzle in a few droplets of water and pulse briefly. If the mixture seems too wet and sticky, add additional flour, 1 T at a time, and pulse briefly."
+    },
+    {
+      "_id": "6851ee2c32ecade4c7b8ae2d",
+      "step": "Turn the mixture out onto a clean work surface sprinkled lightly with semolina flour and press it together with your hands to form a rough ball."
+    },
+    {
+      "_id": "6851ee2c32ecade4c7b8ae2e",
+      "step": "Knead the dough: Using the palm of your hand, push the dough gently but firmly away from you and the fold it over toward you. Rotate the dough a quarter turn, and repeat the pushing and folding. Continue kneading for several minutes until the dough is smooth and silky."
+    },
+    {
+      "_id": "6851ee4132ecade4c7b8ae2f",
+      "step": "Form it into a ball and warp it tightly in plastic wrap. Let the dough rest at room temperature for 30 minutes before using."
+    }
+  ],
+  "__v": 16
+}

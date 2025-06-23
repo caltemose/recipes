@@ -1,0 +1,84 @@
+{
+  "yield": {
+    "amount": 1,
+    "label": "cup"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    }
+  ],
+  "_id": "6855dbf232ecade4c7b8af5a",
+  "label": "Cinnamon Simple Syrup",
+  "slug": "cinnamon-simple-syrup",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855dbf432ecade4c7b8af5b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855dc0032ecade4c7b8af5c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6855dc0832ecade4c7b8af5d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68572f7832ecade4c7b8b010",
+        "label": "cinnamon stick(s)",
+        "slug": "cinnamon-stick-s",
+        "__v": 0
+      },
+      "notes": ""
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6855dc1832ecade4c7b8af5e",
+      "step": "Bring water to a boil. Add sugar and stir until dissolved. Add cinnamon sticks and cover and simmer for 5 minutes. Remove from heat and let steep for 1-6 hours.&lt;"
+    }
+  ],
+  "__v": 6
+}

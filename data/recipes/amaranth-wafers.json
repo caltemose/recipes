@@ -22,6 +22,12 @@
       "__v": 0
     },
     {
+      "_id": "5a36e01ab1cb7881b05b0095",
+      "label": "dessert",
+      "slug": "dessert",
+      "__v": 0
+    },
+    {
       "_id": "6778686c41d119070e7d862d",
       "label": "sweets",
       "slug": "sweets",
@@ -226,5 +232,5 @@
       "step": "Drop the batter by the tablespoonful onto parchment paper-lined half sheet pans, 12 to a pan.&nbsp; Bake for 10-12 minutes.&nbsp; Cool for 1 minute on the pans before moving to racks to cool completely.&nbsp; Store in airtight container for up to 2 weeks.&nbsp; Can also freeze."
     }
   ],
-  "__v": 23
+  "__v": 26
 }

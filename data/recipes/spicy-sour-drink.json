@@ -1,0 +1,216 @@
+{
+  "serves": {
+    "amount": 10
+  },
+  "source": {
+    "name": "The Indian Vegan Kitchen"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "685748e232ecade4c7b8b019",
+      "label": "indian",
+      "slug": "indian",
+      "__v": 0
+    }
+  ],
+  "_id": "6855da6532ecade4c7b8af45",
+  "label": "Spicy-Sour Drink",
+  "slug": "spicy-sour-drink",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855da6732ecade4c7b8af46",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672a",
+        "label": "mint",
+        "name": "mint"
+      },
+      "notes": "leaves, loosely packed"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6855da7932ecade4c7b8af47",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6855da8d32ecade4c7b8af48",
+        "label": "tamarind paste",
+        "slug": "tamarind-paste",
+        "__v": 0
+      },
+      "notes": "or 1/2 C tamarind sauce"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6855da9e32ecade4c7b8af49",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770754a41d119070e7d8537",
+        "label": "ground cumin",
+        "slug": "ground-cumin",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6855daa932ecade4c7b8af4a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6855dab132ecade4c7b8af4b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6855dab832ecade4c7b8af4c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76704",
+        "label": "cayenne pepper",
+        "name": "cayenne pepper"
+      }
+    },
+    {
+      "amount": {
+        "value": 6,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855dabf32ecade4c7b8af4d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6855dac932ecade4c7b8af4e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6855dad932ecade4c7b8af4f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc53341d119070e7d8792",
+        "label": "lime juice",
+        "slug": "lime-juice",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6855dae432ecade4c7b8af50",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      },
+      "notes": "carrot or celery sticks for garnish"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6855dafc32ecade4c7b8af51",
+      "step": "Blend mint leaves, tamarind sauce, cumin powder, black salt, salt, and cayenne pepper in Cuisinart until a paste-like consistency forms."
+    },
+    {
+      "_id": "6855db0332ecade4c7b8af52",
+      "step": "Combine mint paste and water. Mix well."
+    },
+    {
+      "_id": "6855db0b32ecade4c7b8af53",
+      "step": "Refrigerate for 4 hours or more. Stir before serving. Serve in small glasses with a carrot stick for stirring."
+    }
+  ],
+  "__v": 16
+}

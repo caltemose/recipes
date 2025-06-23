@@ -1,0 +1,347 @@
+{
+  "yield": {
+    "amount": 8,
+    "label": "cups (or you can halve the recipe)"
+  },
+  "source": {
+    "name": "The Glorious Pasta of Italy"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "6851e9c232ecade4c7b8adf1",
+  "label": "Ragu alla Bolognese",
+  "slug": "ragu-alla-bolognese",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6851e9c632ecade4c7b8adf2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6851e9d332ecade4c7b8adf3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "6851e9d332ecade4c7b8adf4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "minced"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6851ea1332ecade4c7b8adf5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76703",
+        "label": "carrot(s)",
+        "name": "carrot(s)"
+      },
+      "notes": "large, finely chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897906",
+          "label": "stalk(s)"
+        }
+      },
+      "_id": "6851ea2032ecade4c7b8adf6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76705",
+        "label": "celery",
+        "name": "celery"
+      },
+      "notes": "large, finely chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6851ea3232ecade4c7b8adf7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76768",
+        "label": "yellow onion(s)",
+        "name": "yellow onion(s)"
+      },
+      "notes": "large, finely chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6851ea3232ecade4c7b8adf8",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "minced"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6851ea4c32ecade4c7b8adf9",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6851ea6732ecade4c7b8adfa",
+        "label": "ground beef",
+        "slug": "ground-beef",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6851ea7632ecade4c7b8adfc",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76721",
+        "label": "ground pork",
+        "name": "ground pork"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6851ea8e32ecade4c7b8adfe",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6851ea8632ecade4c7b8adfd",
+        "label": "ground veal",
+        "slug": "ground-veal",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6851ea9a32ecade4c7b8adff",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae817541d119070e7d8902",
+        "label": "dry white wine",
+        "slug": "dry-white-wine",
+        "__v": 0
+      },
+      "notes": "or dry sherry"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "6851eaa832ecade4c7b8ae00",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672d",
+        "label": "nutmeg",
+        "name": "nutmeg"
+      },
+      "notes": "freshly grated"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6851eaa832ecade4c7b8ae01",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      },
+      "notes": "whole"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "677727a041d119070e7d85e1",
+          "label": "can(s)",
+          "slug": "can-s",
+          "__v": 0
+        }
+      },
+      "_id": "6851eaec32ecade4c7b8ae02",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc71f41d119070e7d87b1",
+        "label": "tomato puree",
+        "slug": "tomato-puree",
+        "__v": 0
+      },
+      "notes": "or paste, 7-oz can"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6851eaec32ecade4c7b8ae03",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6851eb1b32ecade4c7b8ae04",
+        "label": "meat broth",
+        "slug": "meat-broth",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6851eb2632ecade4c7b8ae05",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76722",
+        "label": "heavy cream",
+        "name": "heavy cream"
+      }
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6851eb3032ecade4c7b8ae06",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a47b334277bd9fe34f72b74",
+        "label": "mortadella",
+        "slug": "mortadella",
+        "__v": 0
+      },
+      "notes": "thinly sliced, cut into julienne"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6851eb7932ecade4c7b8ae07",
+      "step": "Warm the olive oil and butter in a large heavy-bottomed pot over medium heat. When the butter is melted and begins to sizzle, stir in the garlic, carrots, celery, Onion and parsley. Reduce the heat to medium-low and sauce the vegetables for about 10 minutes or until they are softened and golden."
+    },
+    {
+      "_id": "6851eb8332ecade4c7b8ae08",
+      "step": "Add the beef, veal, and pork and mix well, using a wooden spoon to break up the meats. Cook over medium-low to low heat, stirring frequently, until the meat turns a deep brown and is crumbly but still tender and not at all hard. This will take about an hour or slightly longer."
+    },
+    {
+      "_id": "6851eb8332ecade4c7b8ae09",
+      "step": "When the meat is ready, raise the heat to medium, stir in the wine, and mix for a few minutes until the wine evaporates. Season with a little salt and pepper, add the nutmeg, and stir in the milk. Cook, stirring, for 3-4 minutes or until most of the milk has been absorbed."
+    },
+    {
+      "_id": "6851eba132ecade4c7b8ae0a",
+      "step": "In a small bowl, dilute the tomato paste with a splash or two of the been broth and add to the sauce. Mix well and add the remaining broth."
+    },
+    {
+      "_id": "6851eba132ecade4c7b8ae0b",
+      "step": "Cover partially, reduce the heat to low, and let the sauce simmer slowly for 2 hours or more, or until it is very thick and all of the vegetables have more or less melted into the sauce. Stir in the cream and mortadella and cook at a gentle simmer until heated through."
+    },
+    {
+      "_id": "6851ebba32ecade4c7b8ae0c",
+      "step": "The ragu may be store in a tightly lidded container in the fridge for up to 3 days or in the freezer for up to 3 months. If you are freezing the sauce, omit the cream and mortadella and add them when you reheat the sauce."
+    }
+  ],
+  "__v": 25
+}

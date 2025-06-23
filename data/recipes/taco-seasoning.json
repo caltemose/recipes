@@ -13,6 +13,12 @@
       "label": "seasoning",
       "slug": "seasoning",
       "__v": 0
+    },
+    {
+      "_id": "6857419832ecade4c7b8b012",
+      "label": "mexican",
+      "slug": "mexican",
+      "__v": 0
     }
   ],
   "_id": "67ba4f8e41d119070e7d89d0",
@@ -176,5 +182,5 @@
       "step": "Mix ingredients; Makes enough for 1 pound ground meat; 5 teaspoons, 2 tablespoons."
     }
   ],
-  "__v": 12
+  "__v": 13
 }

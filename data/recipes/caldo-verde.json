@@ -1,0 +1,190 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "Savoring Spain & Portugal"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "597784d0e3f0716170504990",
+      "label": "soup",
+      "slug": "soup"
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "685743fc32ecade4c7b8b016",
+      "label": "portuguese",
+      "slug": "portuguese",
+      "__v": 0
+    }
+  ],
+  "_id": "6851f25d32ecade4c7b8ae5a",
+  "label": "Caldo Verde",
+  "slug": "caldo-verde",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6851f26032ecade4c7b8ae5b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799714241d119070e7d8869",
+        "label": "chorizo",
+        "slug": "chorizo",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6851f26d32ecade4c7b8ae5c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6851f27832ecade4c7b8ae5d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76768",
+        "label": "yellow onion(s)",
+        "name": "yellow onion(s)"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 1.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6851f28132ecade4c7b8ae5e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27c341b2f68404000004",
+        "label": "potato",
+        "name": "potato",
+        "__v": 0
+      },
+      "notes": "cut into 1/4 inch slices"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "6851f29232ecade4c7b8ae5f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "finely minced"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6851f29e32ecade4c7b8ae60",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.75,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6851f2a732ecade4c7b8ae61",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6851f2c132ecade4c7b8ae62",
+        "label": "collard greens",
+        "slug": "collard-greens",
+        "__v": 0
+      },
+      "notes": "finely shredded"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "6851f2ce32ecade4c7b8ae63",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6851f2e232ecade4c7b8ae64",
+      "step": "If using fresh sausages, preheat an oven to 375 degrees F. Prick with a fork and place on a baking sheet. Bake until firm, about 25 minutes. Remove from the oven, let cool slightly, then slice 1/4 inch thick. Set aside."
+    },
+    {
+      "_id": "6851f2ec32ecade4c7b8ae65",
+      "step": "In a large saucepan over medium heat, warm the olive oil. Add the onion and sauce until tender, about 8 minutes. Add the potatoes and garlic and sauce for a few minutes, stirring often. Add the water and 2 t salt, cover, reduce the heat to low, and simmer until the potatoes are very soft, about 20 minutes."
+    },
+    {
+      "_id": "6851f2ec32ecade4c7b8ae66",
+      "step": "Ladle the soup into bowls, drizzle each serving with 1 t olive oil, and serve at once."
+    },
+    {
+      "_id": "6851f2ec32ecade4c7b8ae67",
+      "step": "Mash the potatoes to a puree with a wooden spoon or potato masher. Add the sausage and cook over low heat for 5 minutes longer to warm through. Add the greens, stir well, and simmer, uncovered, for 3-5 minutes. Do not overcook. The greens should stay bright green and slightly crunchy. Season with salt and pepper."
+    }
+  ],
+  "__v": 15
+}

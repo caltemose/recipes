@@ -21,14 +21,27 @@
       "__v": 0
     },
     {
-      "_id": "597784abe3f0716170504982",
-      "label": "vegetarian",
-      "slug": "vegetarian"
-    },
-    {
       "_id": "5977849de3f0716170504979",
       "label": "whole 30",
       "slug": "whole-30"
+    },
+    {
+      "_id": "67bb212841d119070e7d8a0d",
+      "label": "pescatarian",
+      "slug": "pescatarian",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d3f160836b893a9a14c8c",
+      "label": "salad",
+      "slug": "salad",
+      "__v": 0
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
     }
   ],
   "_id": "67ae796f41d119070e7d88a3",
@@ -294,5 +307,5 @@
       "step": "Sprinkle the gherkins, olives and capers into the salad and finally sprinkle over the parsley and dill. Just before serving, peel the eggs and slice them into wedges. Add them to the salad and garnish with dill sprigs."
     }
   ],
-  "__v": 22
+  "__v": 26
 }

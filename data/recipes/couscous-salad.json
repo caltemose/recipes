@@ -18,6 +18,18 @@
       "_id": "597784abe3f0716170504982",
       "label": "vegetarian",
       "slug": "vegetarian"
+    },
+    {
+      "_id": "6857422532ecade4c7b8b014",
+      "label": "mediterranean",
+      "slug": "mediterranean",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d3f160836b893a9a14c8c",
+      "label": "salad",
+      "slug": "salad",
+      "__v": 0
     }
   ],
   "_id": "6770746b41d119070e7d852c",
@@ -125,7 +137,7 @@
     },
     {
       "amount": {
-        "value": 0.3,
+        "value": 0.33,
         "unit": {
           "_id": "596e4ec3b9f4af86168978f9",
           "label": "cup(s)"
@@ -240,5 +252,5 @@
       "step": ""
     }
   ],
-  "__v": 18
+  "__v": 22
 }

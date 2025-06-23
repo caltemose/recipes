@@ -1,0 +1,317 @@
+{
+  "source": {
+    "name": "The Glorious Pasta of Italy"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    }
+  ],
+  "_id": "6850a6ef32ecade4c7b8ad8e",
+  "label": "Lasagne di Crespelle with Truffled Mushrooms",
+  "slug": "lasagne-di-crespelle-with-truffled-mushrooms",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6850a6fe32ecade4c7b8ad8f",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6850a71432ecade4c7b8ad90",
+        "label": "dried porcini",
+        "slug": "dried-porcini",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6850a71f32ecade4c7b8ad91",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      },
+      "notes": "boiling"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6850a72b32ecade4c7b8ad92",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6850a73532ecade4c7b8ad93",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fd",
+        "label": "butter",
+        "name": "butter"
+      },
+      "notes": "plus more for greasing the dish"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "6850a74732ecade4c7b8ad94",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "sliced paper thin"
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6850a76c32ecade4c7b8ad95",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672c",
+        "label": "mushrooms",
+        "name": "mushrooms"
+      },
+      "notes": "fresh, mixed variety, coarsely chopped"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "6850a78932ecade4c7b8ad96",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "6850a79032ecade4c7b8ad97",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766fa",
+        "label": "black pepper",
+        "name": "black pepper"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6850a79932ecade4c7b8ad98",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae817541d119070e7d8902",
+        "label": "dry white wine",
+        "slug": "dry-white-wine",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6850a7a732ecade4c7b8ad99",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "minced"
+    },
+    {
+      "amount": {
+        "value": 24,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6850a7af32ecade4c7b8ad9a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6850a7c532ecade4c7b8ad9b",
+        "label": "crespelle",
+        "slug": "crespelle",
+        "__v": 0
+      },
+      "notes": "at room temperature"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6850a7d432ecade4c7b8ad9c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672b",
+        "label": "mozzarella",
+        "name": "mozzarella"
+      },
+      "notes": "fresh, cut into small cubes"
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6850a7e432ecade4c7b8ad9d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76733",
+        "label": "parmeggiano",
+        "name": "parmeggiano"
+      },
+      "notes": "grated"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "6850a80532ecade4c7b8ad9f",
+          "label": "batch",
+          "slug": "batch",
+          "__v": 0
+        }
+      },
+      "_id": "6850a7f132ecade4c7b8ad9e",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707a6741d119070e7d8570",
+        "label": "tomato sauce",
+        "slug": "tomato-sauce",
+        "__v": 0
+      },
+      "notes": "heated to a simmer"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6850a81f32ecade4c7b8ada0",
+      "step": "Put the porcini in a small heatproof bowl and pour the boiling water over them. Let stand for 20-30 minutes, or until softened.&nbsp;"
+    },
+    {
+      "_id": "6850a82732ecade4c7b8ada1",
+      "step": "Drain the porcini in a fine-mesh sieve lined with damp paper towels or cheesecloth, reserving the liquid. Chop the mushrooms coarsely and set the mushrooms and liquid aside separately."
+    },
+    {
+      "_id": "6850a83132ecade4c7b8ada2",
+      "step": "Put the olive oil, 1 T butter, and garlic in a large frying pan on medium heat. When the butter is melted, reduce the heat to medium-low and sautéed the garlic for about 5 minutes, or until softened but not browned."
+    },
+    {
+      "_id": "6850a83832ecade4c7b8ada3",
+      "step": "Add the porcini and the fresh mushrooms and sprinkler with 1 t salt and some pepper. Stir the mushrooms with a wooden spoon or spatular to coat them with the oil and butter. Sauce for about 20 minutes, or until the mushrooms are tender and the liquid they release has evaporated.&nbsp;"
+    },
+    {
+      "_id": "6850a84032ecade4c7b8ada4",
+      "step": "Raise the heat to high and pour in the wine and porcini liquid. Stir, and then let the liquid bubble for a minute or so. Reduce the heat to medium-low and continue to cook for about 5 minutes, or until most of the liquid has evaporated. Taste and adjust the seasoning with salt or pepper if needed. Remove from the heat and stir in the parsley."
+    },
+    {
+      "_id": "6850a84c32ecade4c7b8ada5",
+      "step": "Heat the oven to 375 degrees F. Lightly coat a 12-inch round or 9x13 baking pan with butter."
+    },
+    {
+      "_id": "6850a84c32ecade4c7b8ada6",
+      "step": "Arrange 4 or 5 crespelle in the prepared dish, overlapping them where necessary to form a thin layer that covers as much of the bottom of the dish as possible. Spoon one-fourth of the mushrooms over the crespelle and spread them out gently in an even layer. Sprinkler one-fourth of the mozzarella and a little of the parmiggiano over the mushrooms, and spoon a thin layer of the sauce over all.&nbsp;"
+    },
+    {
+      "_id": "6850a87032ecade4c7b8ada7",
+      "step": "Make 3 more layers this way. Top with a fifth layer of crespelle and spoon a final layer of sauce over them. Sprinkler with the remaining parmiggiano."
+    },
+    {
+      "_id": "6850a87832ecade4c7b8ada8",
+      "step": "Bake the lasagne for 25-30 minutes, or until it is hot and bubbly and then cheese on top is melted and lightly browned. Let stand for 5 minutes before serving. Serve immediately."
+    },
+    {
+      "_id": "6850a88132ecade4c7b8ada9",
+      "step": "The lasagne may be assembled and stored, unbaked, in the fridge for up to 2 days or in the freezer for up to 1 month. If frozen, remove from the freezer and let thaw overnight in the fridge. Bring the dish to room temperate before baking."
+    }
+  ],
+  "__v": 27
+}

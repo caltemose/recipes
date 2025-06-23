@@ -16,6 +16,12 @@
       "label": "tapas",
       "slug": "tapas",
       "__v": 0
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
     }
   ],
   "_id": "67ae80e841d119070e7d88f8",
@@ -181,5 +187,5 @@
       "step": "Serve hot, garnished with chopped mint or dill."
     }
   ],
-  "__v": 14
+  "__v": 15
 }

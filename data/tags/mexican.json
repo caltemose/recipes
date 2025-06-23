@@ -1,0 +1,25 @@
+{
+  "recipes": [
+    {
+      "label": "Taco Seasoning",
+      "_id": "67ba4f8e41d119070e7d89d0",
+      "slug": "taco-seasoning"
+    },
+    {
+      "label": "Agua Fresca",
+      "_id": "6856961732ecade4c7b8af5f",
+      "slug": "agua-fresca"
+    },
+    {
+      "label": "Cafe de Olla",
+      "_id": "685696e232ecade4c7b8af67",
+      "slug": "cafe-de-olla"
+    }
+  ],
+  "tag": {
+    "_id": "6857419832ecade4c7b8b012",
+    "label": "mexican",
+    "slug": "mexican",
+    "__v": 0
+  }
+}

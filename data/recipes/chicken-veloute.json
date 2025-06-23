@@ -14,6 +14,12 @@
       "label": "juli",
       "slug": "juli",
       "__v": 0
+    },
+    {
+      "_id": "6857447f32ecade4c7b8b017",
+      "label": "sauce",
+      "slug": "sauce",
+      "__v": 0
     }
   ],
   "_id": "67707e2841d119070e7d859b",
@@ -61,5 +67,5 @@
       "step": "Put flour in a small dry saute pan. Toast, stirring over low heat, until it is light brown. Transfer flour to a food processor/blender. With the machine running, pour in the broth. Pour the broth mixture into a small saucepan. Bring to a simmer over low heat, stirring frequently. Simmer the velour for 10 minutes or until thickened and smooth. Season with salt. To store, let cool, cover and refrigerate for up to 4 days."
     }
   ],
-  "__v": 4
+  "__v": 5
 }

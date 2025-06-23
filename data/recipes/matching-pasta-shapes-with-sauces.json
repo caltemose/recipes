@@ -1,0 +1,58 @@
+{
+  "source": {
+    "name": "The Glorious Pasta of Italy"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "6857447f32ecade4c7b8b017",
+      "label": "sauce",
+      "slug": "sauce",
+      "__v": 0
+    }
+  ],
+  "_id": "6851f17232ecade4c7b8ae53",
+  "label": "Matching Pasta Shapes with Sauces",
+  "slug": "matching-pasta-shapes-with-sauces",
+  "ingredients": [],
+  "directions": [
+    {
+      "_id": "6851f18c32ecade4c7b8ae54",
+      "step": "Tiny pasta shapes, such as stalline (little stars) or acini di pepe (peppercorns), are eaten with a spoon and are best in broth soup."
+    },
+    {
+      "_id": "6851f1a132ecade4c7b8ae55",
+      "step": "Medium-size shapes, such as medium shells or ditalini, go well in hearty soups such as pasta and bean soup."
+    },
+    {
+      "_id": "6851f1ac32ecade4c7b8ae56",
+      "step": "Short, story shapes, such as rigatoni, penne, and tortiglioni or cavatappi, have hollows and ridge that capture sauce and with well with robust, chunky sauces and rich cream sauces."
+    },
+    {
+      "_id": "6851f1bc32ecade4c7b8ae57",
+      "step": "Thin, long noodles, such as capellini and fedelini, are delicate and therefore pair best with lighter, smooth sauces, such as a light tomato sauce or a butter- or olive oil-based sauce."
+    },
+    {
+      "_id": "6851f1c632ecade4c7b8ae58",
+      "step": "Flat noodles, such as fettuccine, marry well with slinky butter and cream sauces."
+    },
+    {
+      "_id": "6851f1d032ecade4c7b8ae59",
+      "step": "Long, heftier noodles, such as spaghetti and bucatini, stand up well to rustic sauces, such as pesto and carbonara."
+    }
+  ],
+  "__v": 9
+}

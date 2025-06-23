@@ -15,6 +15,12 @@
       "_id": "597784abe3f0716170504982",
       "label": "vegetarian",
       "slug": "vegetarian"
+    },
+    {
+      "_id": "6857422532ecade4c7b8b014",
+      "label": "mediterranean",
+      "slug": "mediterranean",
+      "__v": 0
     }
   ],
   "_id": "67898b8341d119070e7d8712",
@@ -77,5 +83,5 @@
       "step": "Melt butter in a medium saucepan. Stir in couscous, cover pan and remove from heat. Let stand for 5 minutes and check to see if all liquid has been absorbed. If not, cover and let stand a few more minutes."
     }
   ],
-  "__v": 6
+  "__v": 9
 }

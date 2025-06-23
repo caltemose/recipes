@@ -11,9 +11,24 @@
       "slug": "salted-almonds"
     },
     {
+      "label": "Tortilla Espanola",
+      "_id": "67996fb241d119070e7d885b",
+      "slug": "tortilla-espanola"
+    },
+    {
+      "label": "Chorizo in Red Wine",
+      "_id": "6799712641d119070e7d8867",
+      "slug": "chorizo-in-red-wine"
+    },
+    {
       "label": "Lime-Drizzled Shrimp",
       "_id": "6799722941d119070e7d8874",
       "slug": "lime-drizzled-shrimp"
+    },
+    {
+      "label": "Green Beans with Pine Nuts",
+      "_id": "6799736c41d119070e7d8883",
+      "slug": "green-beans-with-pine-nuts"
     },
     {
       "label": "Russian Salad",
@@ -99,6 +114,11 @@
       "label": "Cracked Marinated Olives",
       "_id": "67b911b841d119070e7d895d",
       "slug": "cracked-marinated-olives"
+    },
+    {
+      "label": "Favas with Artichokes (Habas a la Granadina)",
+      "_id": "6855584b32ecade4c7b8aefe",
+      "slug": "favas-with-artichokes-habas-a-la-granadina"
     }
   ],
   "tag": {

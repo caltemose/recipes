@@ -33,7 +33,7 @@
   "ingredients": [
     {
       "amount": {
-        "value": 0.6,
+        "value": 0.67,
         "unit": {
           "_id": "596e4ec3b9f4af86168978f9",
           "label": "cup(s)"
@@ -68,7 +68,7 @@
     },
     {
       "amount": {
-        "value": 0.6,
+        "value": 0.67,
         "unit": {
           "_id": "596e4ec3b9f4af86168978f9",
           "label": "cup(s)"
@@ -231,5 +231,5 @@
       "step": "Pour into the prepared pan and bake for 35-40 minutes, or until a cake tester inserted in the middle comes out dry. Cool slightly."
     }
   ],
-  "__v": 18
+  "__v": 20
 }

@@ -6,10 +6,16 @@
       "_id": "597784d0e3f0716170504990",
       "label": "soup",
       "slug": "soup"
+    },
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
     }
   ],
   "_id": "53552cce85da3d10277f568b",
-  "__v": 1,
+  "__v": 2,
   "difficulty": 1,
   "directions": [],
   "ingredients": [
@@ -271,8 +277,8 @@
             },
             "_id": "5973350564b52eeae5d1ea46",
             "type": "Ingredient",
-            "item": null,
-            "notes": "this has wrong _id"
+            "item": "6857358632ecade4c7b8b011",
+            "notes": ""
           },
           {
             "amount": {

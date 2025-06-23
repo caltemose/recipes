@@ -1,0 +1,218 @@
+{
+  "serves": {
+    "amount": 2
+  },
+  "source": {
+    "name": "Rumya Khumar"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "6855d79f32ecade4c7b8af1f",
+      "label": "drinks",
+      "slug": "drinks",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "685748e232ecade4c7b8b019",
+      "label": "indian",
+      "slug": "indian",
+      "__v": 0
+    }
+  ],
+  "_id": "6856a0a932ecade4c7b8b001",
+  "label": "Indian Chai Latte",
+  "slug": "indian-chai-latte",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6856a0ab32ecade4c7b8b002",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6855d9e132ecade4c7b8af3f",
+        "label": "black tea",
+        "slug": "black-tea",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6856a0b432ecade4c7b8b003",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671d",
+        "label": "ginger",
+        "name": "ginger"
+      },
+      "notes": "grated"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6856a0c232ecade4c7b8b004",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5a246dbf2c912bb7ffba8359",
+        "label": "cardamom",
+        "slug": "cardamom",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6856a0ce32ecade4c7b8b005",
+      "type": "Ingredient",
+      "item": {
+        "_id": "68572f7832ecade4c7b8b010",
+        "label": "cinnamon stick(s)",
+        "slug": "cinnamon-stick-s",
+        "__v": 0
+      },
+      "notes": ""
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6856a0d832ecade4c7b8b006",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7670c",
+        "label": "cloves",
+        "name": "cloves"
+      }
+    },
+    {
+      "amount": {
+        "value": 3,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6856a0ec32ecade4c7b8b007",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6856a0fb32ecade4c7b8b008",
+        "label": "peppercorns",
+        "slug": "peppercorns",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6856a10532ecade4c7b8b009",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76751",
+        "label": "star anise",
+        "name": "star anise"
+      }
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6856a10f32ecade4c7b8b00a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76729",
+        "label": "milk",
+        "name": "milk"
+      }
+    },
+    {
+      "amount": {
+        "value": 1.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6856a11832ecade4c7b8b00b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76760",
+        "label": "water",
+        "name": "water"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "6856a11f32ecade4c7b8b00c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6856a12a32ecade4c7b8b00d",
+      "step": "Lightly crush the whole spices and add to one cup of water with the loose tea. Bring the water just to a boil, then turn off the heat and let steep for 10 minutes. (Boiling the tea will make it bitter, so just bring it to a boil.)&nbsp;"
+    },
+    {
+      "_id": "6856a12f32ecade4c7b8b00e",
+      "step": "Add milk and bring to a boil again."
+    },
+    {
+      "_id": "6856a13532ecade4c7b8b00f",
+      "step": "&nbsp;Strain using a tea strainer. Add sugar to taste."
+    }
+  ],
+  "__v": 16
+}

@@ -12,6 +12,12 @@
       "_id": "597784abe3f0716170504982",
       "label": "vegetarian",
       "slug": "vegetarian"
+    },
+    {
+      "_id": "6857431432ecade4c7b8b015",
+      "label": "french",
+      "slug": "french",
+      "__v": 0
     }
   ],
   "_id": "677868b541d119070e7d862e",
@@ -133,5 +139,5 @@
       "step": "Place cooked crepe on serving dish. Cover with wax paper and a top lid to keep crepes from drying out."
     }
   ],
-  "__v": 11
+  "__v": 14
 }

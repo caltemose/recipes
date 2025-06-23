@@ -13,6 +13,23 @@
       "label": "juli",
       "slug": "juli",
       "__v": 0
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
     }
   ],
   "_id": "67996fb241d119070e7d885b",
@@ -130,5 +147,5 @@
       "step": "Slide the tortilla onto a serving plate and let stand for 15 minutes. Serve it warm or cold, and garnish with parsley sprigs."
     }
   ],
-  "__v": 12
+  "__v": 15
 }

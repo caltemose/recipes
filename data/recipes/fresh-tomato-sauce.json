@@ -1,0 +1,162 @@
+{
+  "yield": {
+    "amount": 3,
+    "label": "cups"
+  },
+  "source": {
+    "name": "The Glorious Pasta of Italy"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
+    },
+    {
+      "_id": "6857447f32ecade4c7b8b017",
+      "label": "sauce",
+      "slug": "sauce",
+      "__v": 0
+    }
+  ],
+  "_id": "6850ab0832ecade4c7b8adca",
+  "label": "Fresh Tomato Sauce",
+  "slug": "fresh-tomato-sauce",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 2.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6850ab0c32ecade4c7b8adcb",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6850ab2532ecade4c7b8adcc",
+        "label": "roma tomato(es)",
+        "slug": "roma-tomato-es",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "6850ab2e32ecade4c7b8adcd",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "large, lightly crushed"
+    },
+    {
+      "amount": {
+        "value": 0.25,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6850ab3c32ecade4c7b8adce",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 5,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897908",
+          "label": "leave(s)"
+        }
+      },
+      "_id": "6850ab4832ecade4c7b8adcf",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f6",
+        "label": "basil",
+        "name": "basil"
+      },
+      "notes": "large, shredded or torn"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "6850ab5732ecade4c7b8add0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6850ab6532ecade4c7b8add1",
+      "step": "Cut the tomatoes in half lengthwise and scoop out the seeds with your fingers. Place a box grater on a cutting board with a moat to catch the juice as you grate. Hold the cut side of a tomato flat against the large holes of the grate and grate the tomato, pressing it gently, until only the skin is left in your palm. Continue until you have grated all the tomato halves. As you work, transfer the pulp to a bowl to prevent too much from accumulating on the cutting board."
+    },
+    {
+      "_id": "6850ab6e32ecade4c7b8add2",
+      "step": "Warm the garlic in the olive oil in a large saucepan placed over medium heat. Use a wooden spoon to press down on the garlic to release its flavor and then swirl the pan to infuse the oil.&nbsp;"
+    },
+    {
+      "_id": "6850ab7632ecade4c7b8add3",
+      "step": "After about 2 minutes, when the garlic begins to sizzle and release its fragrance but before it starts to brown, carefully pour in the tomatoes (the oil will spatter) and stir to coat them with the oil. Season with 1 teaspoon salt, raise the heat to medium-high, and bring the tomatoes to a simmer.&nbsp;"
+    },
+    {
+      "_id": "6850ab7f32ecade4c7b8add4",
+      "step": "When the juices start bubbling, reduce the heat to medium-low and let the tomatoes simmer uncovered, stirring from time to time, for 25-30 minutes, or until thickened to a nice sauce consistency."
+    },
+    {
+      "_id": "6850ab8732ecade4c7b8add5",
+      "step": "Remove from the heat and stir in the basil. Taste and adjust the seasoning with salt."
+    },
+    {
+      "_id": "6850ab8f32ecade4c7b8add6",
+      "step": "The sauce may be stored in a tightly lidded container in the fridge for up to 3 days or in the freezer for up to 3 months."
+    },
+    {
+      "_id": "6850ab9b32ecade4c7b8add7",
+      "step": "Variation: instead of garlic and 1/4 olive oil, sauce 1 minced small yellow onion in 2 T olive oil and 1 T butter for 8-10 minutes or until softened. Stir in the tomatoes and proceed as direct. Finish with the basil and an additional 1 T butter."
+    }
+  ],
+  "__v": 17
+}

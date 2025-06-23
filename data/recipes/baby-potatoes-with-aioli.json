@@ -26,6 +26,12 @@
       "_id": "597784abe3f0716170504982",
       "label": "vegetarian",
       "slug": "vegetarian"
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
     }
   ],
   "_id": "67ae7ae541d119070e7d88b9",
@@ -103,7 +109,11 @@
     },
     {
       "amount": {
-        "value": 2
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
       },
       "_id": "67ae7b2441d119070e7d88be",
       "type": "Ingredient",
@@ -170,5 +180,5 @@
       "step": "Transfer the potatoes to a warmed serving dish, sprinkle on the parsley and salt to taste, and serve warm. Alternatively, the aioli can be served separately, allowing diners to dip the potatoes themselves."
     }
   ],
-  "__v": 16
+  "__v": 17
 }

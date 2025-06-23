@@ -16,10 +16,22 @@
       "label": "support",
       "slug": "support",
       "__v": 0
+    },
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "6857447f32ecade4c7b8b017",
+      "label": "sauce",
+      "slug": "sauce",
+      "__v": 0
     }
   ],
   "_id": "53552cce85da3d10277f5696",
-  "__v": 2,
+  "__v": 4,
   "difficulty": 2,
   "directions": [],
   "ingredients": [

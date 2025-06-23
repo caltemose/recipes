@@ -1,0 +1,313 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "Savoring Spain and Portugal"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "597784abe3f0716170504982",
+      "label": "vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "_id": "67ae7aca41d119070e7d88b8",
+      "label": "tapas",
+      "slug": "tapas",
+      "__v": 0
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
+    }
+  ],
+  "_id": "6855584b32ecade4c7b8aefe",
+  "label": "Favas with Artichokes (Habas a la Granadina)",
+  "slug": "favas-with-artichokes-habas-a-la-granadina",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6855584d32ecade4c7b8aeff",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76726",
+        "label": "lemon(s)",
+        "name": "lemon(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6855585532ecade4c7b8af00",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f0",
+        "label": "artichoke(s)",
+        "name": "artichoke(s)"
+      }
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f8",
+          "label": "pound(s)"
+        }
+      },
+      "_id": "6855585d32ecade4c7b8af01",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67ae81a041d119070e7d8904",
+        "label": "fava beans",
+        "slug": "fava-beans",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6855586732ecade4c7b8af02",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672e",
+        "label": "olive oil",
+        "name": "olive oil"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6855587d32ecade4c7b8af03",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76768",
+        "label": "yellow onion(s)",
+        "name": "yellow onion(s)"
+      },
+      "notes": "small, chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897905",
+          "label": "clove(s)"
+        }
+      },
+      "_id": "6855589d32ecade4c7b8af04",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7671a",
+        "label": "garlic",
+        "name": "garlic"
+      },
+      "notes": "minced"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "685558ac32ecade4c7b8af05",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6770754a41d119070e7d8537",
+        "label": "ground cumin",
+        "slug": "ground-cumin",
+        "__v": 0
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "685558b532ecade4c7b8af06",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76732",
+        "label": "paprika",
+        "name": "paprika"
+      },
+      "notes": "sweet"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "685558c032ecade4c7b8af07",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76759",
+        "label": "tomato(es)",
+        "name": "tomato(es)"
+      },
+      "notes": "peeled, seeded, and diced"
+    },
+    {
+      "amount": {
+        "value": 0.5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "685558cf32ecade4c7b8af08",
+      "type": "Ingredient",
+      "item": {
+        "_id": "678bc63141d119070e7d87a3",
+        "label": "saffron",
+        "slug": "saffron",
+        "__v": 0
+      },
+      "notes": "steeped in 2 T boiling water"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "685558f732ecade4c7b8af09",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e766f7",
+        "label": "bay leaf",
+        "name": "bay leaf"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790c",
+          "label": "sprig(s)"
+        }
+      },
+      "_id": "6855590332ecade4c7b8af0a",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672a",
+        "label": "mint",
+        "name": "mint"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6855591032ecade4c7b8af0b",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7672a",
+        "label": "mint",
+        "name": "mint"
+      },
+      "notes": "chopped"
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af861689790c",
+          "label": "sprig(s)"
+        }
+      },
+      "_id": "6855591a32ecade4c7b8af0c",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fb",
+          "label": "tablespoon(s)"
+        }
+      },
+      "_id": "6855592932ecade4c7b8af0d",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76734",
+        "label": "parsley",
+        "name": "parsley"
+      },
+      "notes": "chopped"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "6855596232ecade4c7b8af10",
+      "step": "Fill a large bowl with cold water. Cut the lemon in half and squeeze the juice into the water. Working with 1 artichoke, remove all the leaves until you reach the heart. Pare away the dark green area from the base. Cut the artichoke into quarters lengthwise and cut away and discard the choke from each piece. Drop the quarters into the lemon water to prevent discoloration. Repeat with the remaining artichokes. Set aside."
+    },
+    {
+      "_id": "6855596c32ecade4c7b8af11",
+      "step": "Shell the lava beans. Bring a saucepan three-fourths full of water to a boil, add the favor, and boil for 30 seconds. Drain, rinse under cold water, and slip the beans from their tough skins. Set aside."
+    },
+    {
+      "_id": "6855597332ecade4c7b8af12",
+      "step": "In a large frying pan over medium heat, warm the olive oil. Add the onion and sauce until tender, about 8 minutes. Add the garlic, cumin, and paprika and cook for 2 minutes longer to release their fragrance. Add the tomato and cook for 1 minute."
+    },
+    {
+      "_id": "6855597b32ecade4c7b8af13",
+      "step": "Drain the artichokes and add to the pan along with the faves, the saffron and boiling water, and enough additional water just to cover the vegetables. Add the bay leaf and the mint and parsley sprigs and simmer, uncovered, until the vegetables are tender, about 15 minutes. If there seems to be too much liquid, raise the heat to high to reduce it. Discard the bay leaf and any large herb sprigs."
+    },
+    {
+      "_id": "6855598232ecade4c7b8af14",
+      "step": "Stir in the chopped mint and parsley and season with salt and pepper. Transfer to a dish and serve."
+    }
+  ],
+  "__v": 26
+}

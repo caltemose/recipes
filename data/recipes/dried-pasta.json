@@ -1,0 +1,60 @@
+{
+  "source": {
+    "name": "The Glorious Pasta of Italy"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    }
+  ],
+  "_id": "6851f0e632ecade4c7b8ae4a",
+  "label": "Dried Pasta",
+  "slug": "dried-pasta",
+  "ingredients": [],
+  "directions": [
+    {
+      "_id": "6851f0ff32ecade4c7b8ae4b",
+      "step": "use 4 quarts of water for each 1 pound of pasta."
+    },
+    {
+      "_id": "6851f10932ecade4c7b8ae4c",
+      "step": "Use 1-2 T kosher salt for 4 qt water."
+    },
+    {
+      "_id": "6851f11332ecade4c7b8ae4d",
+      "step": "Be sure the water is at a rolling boil when you add the pasta, and allow the water to return to a boil before you start timing the cooking.&nbsp; Whole-wheat pasta can go from underdone to overcooked quickly, so be vigilant."
+    },
+    {
+      "_id": "6851f11f32ecade4c7b8ae4e",
+      "step": "Do not add oil to the water, as it may prevent the sauce from clinging to the pasta."
+    },
+    {
+      "_id": "6851f12932ecade4c7b8ae4f",
+      "step": "When you drain the pasta in a colander, always reserve some of the cooking water. A splash of cooking water can help bring the noodles and sauce together and prevent them from clumping."
+    },
+    {
+      "_id": "6851f13332ecade4c7b8ae50",
+      "step": "When dressing pasta with sauce, transfer the drained noodles to the pan holding the sauce and toss them together in the pan."
+    },
+    {
+      "_id": "6851f13e32ecade4c7b8ae51",
+      "step": "Don't overdress your noodles or it will be overwhelmed by too much sauce.&nbsp; Dress the noodles lightly and spoon a little additional sauce on top."
+    },
+    {
+      "_id": "6851f14932ecade4c7b8ae52",
+      "step": "Warm your serving bowl or individual pasta bowls. Pasta turns cold quickly and a warmed bowl will keep the noodles warm. Pop the bowls into a low-temperature oven for 5 minutes or so to warm them up. It's one small step that can make a big difference."
+    }
+  ],
+  "__v": 10
+}

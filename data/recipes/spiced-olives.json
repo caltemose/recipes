@@ -18,10 +18,21 @@
       "label": "tapas",
       "slug": "tapas",
       "__v": 0
+    },
+    {
+      "_id": "685741e632ecade4c7b8b013",
+      "label": "spanish",
+      "slug": "spanish",
+      "__v": 0
+    },
+    {
+      "_id": "5977849de3f0716170504979",
+      "label": "whole 30",
+      "slug": "whole-30"
     }
   ],
   "_id": "53552cce85da3d10277f56a0",
-  "__v": 2,
+  "__v": 4,
   "difficulty": 2,
   "directions": [],
   "ingredients": [

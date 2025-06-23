@@ -1,0 +1,213 @@
+{
+  "serves": {
+    "amount": 4
+  },
+  "source": {
+    "name": "Fran's Olive Oil Cookbook"
+  },
+  "active": true,
+  "core": false,
+  "tags": [
+    {
+      "_id": "5a47b43b277bd9fe34f72b7d",
+      "label": "italian",
+      "slug": "italian",
+      "__v": 0
+    },
+    {
+      "_id": "63e010856ec18c0944a6ab54",
+      "label": "juli",
+      "slug": "juli",
+      "__v": 0
+    },
+    {
+      "_id": "5a3d3f5e0836b893a9a14c8e",
+      "label": "bread",
+      "slug": "bread",
+      "__v": 0
+    }
+  ],
+  "_id": "6853432232ecade4c7b8aebe",
+  "label": "Focaccia",
+  "slug": "focaccia",
+  "ingredients": [
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fa",
+          "label": "teaspoon(s)"
+        }
+      },
+      "_id": "6853432632ecade4c7b8aebf",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76767",
+        "label": "yeast",
+        "name": "yeast"
+      }
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978fc",
+          "label": "pinch"
+        }
+      },
+      "_id": "6853432d32ecade4c7b8aec0",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76753",
+        "label": "sugar",
+        "name": "sugar"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f9",
+          "label": "cup(s)"
+        }
+      },
+      "_id": "6853433432ecade4c7b8aec1",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76765",
+        "label": "whole wheat flour",
+        "name": "whole wheat flour"
+      }
+    },
+    {
+      "amount": {
+        "value": 5,
+        "unit": {
+          "_id": "596e4ec3b9f4af86168978f7",
+          "label": "ounce(s)"
+        }
+      },
+      "_id": "6853434032ecade4c7b8aec2",
+      "type": "Ingredient",
+      "item": {
+        "_id": "538b27c341b2f68404000004",
+        "label": "potato",
+        "name": "potato",
+        "__v": 0
+      },
+      "notes": "floury potato, cooked and mashed"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "5a3fe4989c5f02065d03f18b",
+          "label": "to taste",
+          "slug": "to-taste",
+          "__v": 0
+        }
+      },
+      "_id": "6853435232ecade4c7b8aec3",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e76748",
+        "label": "salt",
+        "name": "salt"
+      }
+    },
+    {
+      "amount": {
+        "value": 2,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6853435a32ecade4c7b8aec4",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67b90dac41d119070e7d8940",
+        "label": "cherry tomatoes",
+        "slug": "cherry-tomatoes",
+        "__v": 0
+      },
+      "notes": "or more if desired"
+    },
+    {
+      "amount": {
+        "value": 4,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6853436a32ecade4c7b8aec5",
+      "type": "Ingredient",
+      "item": {
+        "_id": "6799751041d119070e7d889b",
+        "label": "black olives",
+        "slug": "black-olives",
+        "__v": 0
+      },
+      "notes": "or more if desired"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6853437532ecade4c7b8aec6",
+      "type": "Ingredient",
+      "item": {
+        "_id": "67707f1a41d119070e7d85a7",
+        "label": "fresh herbs",
+        "slug": "fresh-herbs",
+        "__v": 0
+      },
+      "notes": "sage leaves, sprigs of rosemary, dried oregano, red peppercorns"
+    },
+    {
+      "amount": {
+        "value": 1,
+        "unit": {
+          "_id": "596e4ec3b9f4af8616897901",
+          "label": "unit(s)"
+        }
+      },
+      "_id": "6853439432ecade4c7b8aec7",
+      "type": "Ingredient",
+      "item": {
+        "_id": "5375ec34471e3f9e45e7674c",
+        "label": "semolina",
+        "name": "semolina"
+      },
+      "notes": "for working the dough"
+    }
+  ],
+  "directions": [
+    {
+      "_id": "685343cb32ecade4c7b8aec8",
+      "step": "Cook the floury potatoes in salted water until tender, allow to steam slightly in a closet pot. Peel and mash."
+    },
+    {
+      "_id": "685343d932ecade4c7b8aec9",
+      "step": "Dissolve the yeast with sugar in 200 ml (1 C) lukewarm water. Mix the flour with 10 g (2 g) of sea salt. Add the potatoes, 20 ml (4 t) of olive oil and the dissolved yeast and knead with the hands only until everything is mixed together and a dough forms. Form the dough into a ball and place in a bowl. Cover and leave to rise for 5 hours in a warm draft-free place."
+    },
+    {
+      "_id": "685343e232ecade4c7b8aeca",
+      "step": "Sprinkle some semolina on baking paper. Carefully drop the dough onto the paper, drizzle with a little olive oil and spread with the fingers into a rectangular shape. Lighting ly press the olives and tomatoes into the dough. Sprinkler over some sea salt flakes and let the dough rest for 30 minutes away from any drafts."
+    },
+    {
+      "_id": "685343e932ecade4c7b8aecb",
+      "step": "Preheat the oven and the oven tray to 220 C (425 F)."
+    },
+    {
+      "_id": "685343f232ecade4c7b8aecc",
+      "step": "Place the focaccia with the baking paper on the hot oven tray and bake for about 40 minutes in the middle of the oven until golden brown. Remove from the oven, drizzle immediately with a little olive oil and serve."
+    }
+  ],
+  "__v": 17
+}
